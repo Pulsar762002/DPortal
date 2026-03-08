@@ -1,0 +1,33 @@
+<div class="profile-wrapper">
+
+  <div class="profile-card">
+
+    <div class="avatar-section">
+      <img [src]="getAvatarUrl()" class="avatar-large">
+      <input type="file" (change)="onFileSelected($event)">
+    </div>
+
+    <div class="info-section">
+
+      <h2>Profilo Utente</h2>
+
+      <label>Email</label>
+      <input type="text" [value]="user.email" disabled>
+
+      <label>Nickname</label>
+      <input type="text" [(ngModel)]="nickname">
+
+      <label>Ruolo</label>
+      <input type="text" [value]="user.role" disabled>
+
+      <button (click)="saveChanges()" [disabled]="isSaving">
+        {{ isSaving ? 'Salvataggio...' : 'Salva modifiche' }}
+      </button>
+
+      <p class="message">{{ message }}</p>
+
+    </div>
+
+  </div>
+
+</div>

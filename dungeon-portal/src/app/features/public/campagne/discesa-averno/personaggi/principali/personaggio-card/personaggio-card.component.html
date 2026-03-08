@@ -1,0 +1,32 @@
+<div class="personaggio-wrapper">
+
+  <div class="personaggio-image">
+    <img [src]="immagine" [alt]="nome">
+  </div>
+
+  <div class="personaggio-content">
+
+    <h3 class="personaggio-nome">
+      {{ nome }}
+    </h3>
+
+    <ul class="personaggio-info">
+      <li>
+        <strong>Specie/Classe:</strong>
+        {{ specieClasse }}
+      </li>
+
+      <li>
+        <strong>Descrizione:</strong>
+        {{ descrizione }}
+      </li>
+
+      <li>
+        <strong>Ruolo nel gruppo:</strong>
+        {{ ruolo }}
+      </li>
+    </ul>
+
+  </div>
+
+</div>

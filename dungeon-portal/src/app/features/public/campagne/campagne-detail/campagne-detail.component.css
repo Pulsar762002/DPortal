@@ -1,0 +1,191 @@
+/* =========================================
+   CONTAINER PRINCIPALE
+========================================= */
+
+.campaign-detail-container {
+  max-width: 1200px;
+  margin: 40px auto;
+  padding: 40px 50px;
+  border-radius: 28px;
+
+  background: linear-gradient(
+    rgba(15,20,35,0.85),
+    rgba(10,12,22,0.92)
+  );
+
+  backdrop-filter: blur(14px);
+
+  border: 1px solid rgba(230,195,111,0.15);
+
+  box-shadow:
+    0 40px 100px rgba(0,0,0,0.8),
+    inset 0 0 60px rgba(230,195,111,0.04);
+
+  color: #d0d4e0;
+}
+.campaign-detail-container h1 {
+  font-size: 1.9rem;
+  color: #e6c36f;
+  margin-bottom: 20px;   /* prima 30 */
+}
+
+
+/* =========================================
+   HEADER CAMPAGNA
+========================================= */
+
+.campaign-header {
+  margin-bottom: 20px;
+}
+
+.campaign-title {
+  font-size: 2rem;
+  color: #e6c36f;
+  margin-bottom: 15px;
+  letter-spacing: 1px;
+}
+
+.campaign-description {
+  font-size: 1rem;
+  line-height: 1.7;
+  margin-bottom: 20px;
+  color: #cfd3e6;
+  max-width: 800px;
+}
+
+
+/* =========================================
+   INDICE CAMPAGNA
+========================================= */
+
+.campaign-index {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+
+
+/* Sezione indice (Sessioni / Personaggi / Luoghi) */
+.index-section {
+  padding-bottom: 20px;
+  margin-bottom: 10px;
+  border-bottom: 1px solid rgba(230,195,111,0.12);
+}
+
+.index-section:last-child {
+  border-bottom: none;
+}
+
+
+/* Titolo sezione */
+.index-title {
+  font-size: 1.15rem;
+  color: #e6c36f;
+  margin-bottom: 15px;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+}
+
+
+/* Lista capitoli */
+.index-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.index-list li {
+  margin-bottom: 8px;
+}
+
+
+/* Link capitoli */
+.index-list a {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+
+  text-decoration: none;
+  color: #d0d4e0;
+  padding: 4px 0;
+
+  transition: all 0.25s ease;
+}
+
+
+/* Numero capitolo */
+.index-number {
+  width: 24px;
+  height: 24px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  border-radius: 50%;
+  font-size: 0.75rem;
+  font-weight: 600;
+
+  background: rgba(230,195,111,0.15);
+  color: #e6c36f;
+
+  transition: all 0.25s ease;
+}
+
+
+/* Testo capitolo */
+.index-text {
+  font-size: 1rem;
+}
+
+
+/* Hover elegante */
+.index-list a:hover {
+  color: #ffffff;
+  transform: translateX(6px);
+}
+
+.index-list a:hover .index-number {
+  background: #e6c36f;
+  color: #0f1424;
+  box-shadow: 0 0 12px rgba(230,195,111,0.6);
+}
+
+
+/* =========================================
+   CONTENUTO SESSIONI (Libro)
+========================================= */
+
+.session-content {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 80px 60px;
+
+  line-height: 2.05;
+  font-size: 1.08rem;
+  color: #e4e7f2;
+}
+
+.session-content h2 {
+  margin-top: 70px;
+  margin-bottom: 25px;
+  color: #e6c36f;
+  font-weight: 600;
+}
+
+.session-content p {
+  margin-bottom: 22px;
+}
+
+.session-content blockquote {
+  margin: 35px 0;
+  padding: 20px 30px;
+
+  border-left: 3px solid #c9a23f;
+
+  background: rgba(230,195,111,0.05);
+  border-radius: 8px;
+
+  font-style: italic;
+  color: #f0d27a;
+}

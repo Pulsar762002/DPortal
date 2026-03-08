@@ -1,0 +1,154 @@
+.topbar-auth {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.topbar-nav {
+  display: flex;
+  align-items: center;
+  gap: 36px;              /* 👈 più spazio tra i link */
+}
+.topbar-nav a.active {
+  color: #ffffff;
+}
+
+.topbar-nav a.active::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: -12px;
+  width: 100%;
+  height: 2px;
+  background: var(--accent);
+  border-radius: 2px;
+}
+
+/* Login discreto */
+.login-link {
+  color: var(--text-muted);
+  text-decoration: none;
+  font-size: 0.95rem;
+  transition: color 0.2s ease;
+}
+
+.login-link:hover {
+  color: var(--text-main);
+}
+
+/* Registrati CTA */
+.register-btn {
+  padding: 8px 18px;
+  border-radius: 999px;
+
+  background: linear-gradient(
+    to right,
+    var(--accent),
+    var(--accent-hover)
+  );
+
+  color: #0f1115;
+  font-weight: 600;
+  font-size: 0.9rem;
+  text-decoration: none;
+
+  box-shadow: 0 6px 18px rgba(199, 156, 59, 0.35);
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.register-btn:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 10px 26px rgba(199, 156, 59, 0.45);
+}
+
+/* Logout */
+.logout-btn {
+  padding: 6px 14px;
+  border-radius: 999px;
+  border: 1px solid var(--border-soft);
+  background: transparent;
+  color: var(--text-muted);
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.logout-btn:hover {
+  color: var(--text-main);
+  border-color: var(--accent);
+}
+
+
+.nav-right {
+  display: flex;
+  align-items: center;
+  position: relative;
+}
+
+.user-menu {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  gap: 10px;
+}
+
+.avatar {
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 2px solid var(--accent);
+}
+
+.nickname {
+  color: var(--text-main);
+  font-weight: 500;
+}
+
+.dropdown {
+  position: absolute;
+  top: 50px;
+  right: 0;
+  background: var(--bg-panel);
+  border: 1px solid var(--border-soft);
+  border-radius: 8px;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  min-width: 150px;
+}
+
+.dropdown a {
+  padding: 8px;
+  color: var(--text-main);
+  text-decoration: none;
+}
+
+.dropdown a:hover {
+  background: var(--bg-card);
+}
+
+.role-badge {
+  margin-left: 8px;
+  padding: 2px 6px;
+  font-size: 11px;
+  border-radius: 6px;
+  font-weight: 500;
+}
+
+.role-badge.user {
+  background: #555;
+}
+
+.role-badge.master {
+  background: #1976d2;
+}
+
+.role-badge.admin {
+  background: #c62828;
+}
+
+.caret {
+  margin-left: 6px;
+  font-size: 10px;
+  opacity: 0.6;
+}

@@ -1,0 +1,152 @@
+<div class="campaign-detail-container">
+
+  <div class="campaign-card">
+
+    <!-- TITOLO -->
+    <header class="campaign-header">
+      <h1 class="campaign-title">
+       Le Cronache dell'Averno
+      </h1>
+      <p class="campaign-description">
+        Baldur’s Gate è sull’orlo del caos, logorata da vizi e ambizione.
+        Le ombre si allungano, e il destino dei protagonisti si intreccia
+        sotto un cielo che presto si tingerà di rosso.
+      </p>
+    </header>
+
+    <!-- INDICE -->
+    <nav class="campaign-index">
+
+      <!-- SESSIONI -->
+      <section class="index-section">
+        <h2 class="index-title">I. Sessioni</h2>
+
+        <ul class="index-list">
+          <li>
+            <a [routerLink]="['/campagne', slug, 'sessione', 1]">
+              <span class="index-number">1</span>
+              <span class="index-text">Sessione 1</span>
+            </a>
+          </li>
+
+          <li>
+            <a [routerLink]="['/campagne', slug, 'sessione', 2]">
+              <span class="index-number">2</span>
+              <span class="index-text">Sessione 2</span>
+            </a>
+          </li>
+
+          <li>
+            <a [routerLink]="['/campagne', slug, 'sessione', 3]">
+              <span class="index-number">3</span>
+              <span class="index-text">Sessione 3</span>
+            </a>
+          </li>
+
+          <li>
+            <a [routerLink]="['/campagne', slug, 'sessione', 4]">
+              <span class="index-number">4</span>
+              <span class="index-text">Sessione 4</span>
+            </a>
+          </li>
+
+          <li>
+            <a [routerLink]="['/campagne', slug, 'sessione', 5]">
+              <span class="index-number">5</span>
+              <span class="index-text">Sessione 5</span>
+            </a>
+          </li>
+
+          <li>
+            <a [routerLink]="['/campagne', slug, 'sessione', 6]">
+              <span class="index-number">6</span>
+              <span class="index-text">Sessione 6</span>
+            </a>
+          </li>
+
+          <li>
+            <a [routerLink]="['/campagne', slug, 'sessione', 7]">
+              <span class="index-number">6</span>
+              <span class="index-text">Sessione 7</span>
+            </a>
+          </li>
+        </ul>
+      </section>
+
+      <!-- PERSONAGGI -->
+      <section class="index-section">
+
+        <h2 class="index-title">II. Personaggi</h2>
+
+        <ul class="index-list secondary">
+
+          <li>
+            <a [routerLink]="['/campagne', slug, 'personaggi']"
+               fragment="principali">
+              Personaggi Principali
+            </a>
+          </li>
+
+          <li>
+            <a [routerLink]="['/campagne', slug, 'personaggi']"
+               fragment="alleati">
+              Alleati e PNG
+            </a>
+          </li>
+
+          <li>
+            <a [routerLink]="['/campagne', slug, 'personaggi']"
+               fragment="secondari">
+              Secondari
+            </a>
+          </li>
+
+          <li>
+            <a [routerLink]="['/campagne', slug, 'personaggi']"
+               fragment="minori">
+              NPC Minori
+            </a>
+          </li>
+
+<!--          <li>-->
+<!--            <a [routerLink]="['/campagne', slug, 'personaggi']"-->
+<!--               fragment="ruoli">-->
+<!--              Ruoli Narrativi-->
+<!--            </a>-->
+<!--          </li>-->
+
+        </ul>
+
+      </section>
+
+
+      <!-- LUOGHI -->
+      <section class="index-section">
+        <h2 class="index-title">III. Luoghi</h2>
+
+        <li>
+          <a [routerLink]="['/campagne', slug, 'luoghi']"
+             fragment="sessione-1">
+            Sessione 1
+          </a>
+        </li>
+        <li>
+          <a [routerLink]="['/campagne', slug, 'luoghi']"
+             fragment="sessione-2">
+            Sessione 2
+          </a>
+        </li>
+        <li>
+          <a [routerLink]="['/campagne', slug, 'luoghi']"
+             fragment="sessione-3">
+            Sessione 3
+          </a>
+        </li>
+
+      </section>
+
+    </nav>
+
+  </div>
+
+</div>

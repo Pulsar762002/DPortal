@@ -1,0 +1,55 @@
+<div class="admin-wrapper">
+  <div class="admin-card">
+
+    <h2 class="admin-title">Gestione Utenti</h2>
+
+    <table class="users-table">
+      <thead>
+      <tr>
+        <th>Email</th>
+        <th>Nickname</th>
+        <th>Ruolo</th>
+        <th>Azioni</th>
+      </tr>
+      </thead>
+
+      <tbody>
+      <tr *ngFor="let user of users">
+
+        <td>{{ user.email }}</td>
+        <td>{{ user.nickname || '-' }}</td>
+
+        <td>
+            <span class="role-badge" [ngClass]="user.role.toLowerCase()">
+              {{ user.role }}
+            </span>
+        </td>
+
+        <td>
+          <div class="action-buttons">
+            <button class="user" (click)="requestRoleChange(user, 'USER')">User</button>
+            <button class="master" (click)="requestRoleChange(user, 'MASTER')">Master</button>
+            <button class="admin" (click)="requestRoleChange(user, 'ADMIN')">Admin</button>
+            <button (click)="openEdit(user)">Modifica</button>
+          </div>
+        </td>
+
+      </tr>
+      </tbody>
+    </table>
+
+  </div>
+</div>
+<app-confirm-dialog
+  *ngIf="showConfirm"
+  [title]="'Cambio Ruolo'"
+  [message]="'Sei sicuro di voler assegnare il ruolo ' + pendingRole + ' a ' + pendingUser?.email + '?'"
+  (confirmed)="confirmChange()"
+  (closed)="showConfirm = false">
+</app-confirm-dialog>
+<app-edit-user-dialog
+  *ngIf="showEditDialog"
+  [user]="selectedUser"
+  (saved)="handleSave($event)"
+  (closed)="showEditDialog = false">
+</app-edit-user-dialog>

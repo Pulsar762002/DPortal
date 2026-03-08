@@ -1,0 +1,31 @@
+.luoghi-page-container {
+  position: relative;
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 3rem 2rem;
+  color: #f1e6c8;
+}
+
+/* Overlay scuro elegante sopra la mappa */
+.luoghi-page-container::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.65);
+  backdrop-filter: blur(2px);
+  z-index: 0;
+}
+
+.luoghi-page-container > * {
+  position: relative;
+  z-index: 1;
+}
+
+.page-title {
+  font-size: 2.3rem;
+  text-align: center;
+  margin-bottom: 3rem;
+  color: #d4af37;
+  letter-spacing: 1px;
+  text-shadow: 0 0 10px rgba(212, 175, 55, 0.5);
+}

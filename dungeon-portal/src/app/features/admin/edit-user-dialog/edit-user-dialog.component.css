@@ -1,0 +1,94 @@
+.overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,0.75);
+  backdrop-filter: blur(6px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 3000;
+}
+
+.dialog {
+  width: 480px;
+  background: var(--bg-panel);
+  border-radius: 14px;
+  padding: 30px;
+  border: 1px solid var(--border-soft);
+  color: var(--text-main);
+  box-shadow: 0 10px 40px rgba(0,0,0,0.6);
+}
+
+.dialog label {
+  display: block;
+  margin-top: 12px;
+  margin-bottom: 4px;
+  font-size: 13px;
+  color: var(--text-muted);
+}
+
+.dialog input,
+.dialog select {
+  width: 100%;
+  padding: 8px;
+  border-radius: 6px;
+  border: 1px solid var(--border-soft);
+  background: var(--bg-card);
+  color: var(--text-main);
+}
+
+.actions {
+  display: flex;
+  justify-content: flex-end;
+  gap: 12px;
+  margin-top: 25px;
+}
+
+.cancel {
+  background: #555;
+  color: white;
+  padding: 8px 14px;
+  border-radius: 8px;
+  border: none;
+}
+
+.confirm {
+  background: var(--accent);
+  color: black;
+  padding: 8px 14px;
+  border-radius: 8px;
+  border: none;
+}
+.error {
+  color: #ff5c5c;
+  font-size: 13px;
+  margin-top: 6px;
+}
+
+/* ===== Angular Material Datepicker Dark Fix ===== */
+
+.mat-datepicker-content {
+  background-color: #1a1f2b !important;
+  color: #ffffff !important;
+}
+
+.mat-calendar-body-cell-content {
+  color: #ffffff !important;
+}
+
+.mat-calendar-table-header {
+  color: #cccccc !important;
+}
+
+.mat-calendar-body-selected {
+  background-color: #c9a23f !important;
+  color: #000 !important;
+}
+
+.mat-calendar-body-today:not(.mat-calendar-body-selected) {
+  border-color: #c9a23f !important;
+}
+
+.mat-datepicker-toggle {
+  color: #c9a23f !important;
+}

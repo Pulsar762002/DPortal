@@ -1,0 +1,54 @@
+.personaggi-section {
+  margin-top: 2rem;
+}
+
+.section-title {
+  font-size: 1.6rem;
+  margin-bottom: 2rem;
+  color: var(--accent);
+}
+
+.npc-minori-section {
+  margin-top: 60px;
+}
+
+.section-title {
+  color: #e6c36f;
+  margin-bottom: 10px;
+}
+
+.section-intro {
+  margin-bottom: 25px;
+  color: #d0d4e0;
+}
+
+.table-wrapper {
+  overflow-x: auto;
+}
+
+.npc-table {
+  width: 100%;
+  border-collapse: collapse;
+  background: rgba(15, 20, 35, 0.85);
+  border-radius: 12px;
+  overflow: hidden;
+}
+
+.npc-table thead {
+  background: #3f5fa8; /* blu header come nello screenshot */
+  color: white;
+}
+
+.npc-table th,
+.npc-table td {
+  padding: 14px 18px;
+  text-align: left;
+}
+
+.npc-table tbody tr:nth-child(even) {
+  background: rgba(255, 255, 255, 0.04);
+}
+
+.npc-table tbody tr:hover {
+  background: rgba(230,195,111,0.08);
+}
