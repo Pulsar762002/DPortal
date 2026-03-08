@@ -1,0 +1,21 @@
+# This is a generated file. Not intended for manual editing.
+services:
+  dungon-portal-api:
+    build:
+      context: "/home/andrea/DPortal/DungeonPortalSolution"
+      dockerfile: "DungonPortalApi/Dockerfile"
+      target: "base"
+    command: []
+    entrypoint:
+    - "dotnet"
+    - "/app/bin/Debug/net8.0/DungonPortalApi.dll"
+    environment:
+      ASPNETCORE_STATICWEBASSETS: "/app/bin/Debug/net8.0/DungonPortalApi.staticwebassets.runtime.CT.json"
+      DOTNET_USE_POLLING_FILE_WATCHER: "true"
+    image: "dungonportalapi:dev"
+    ports: []
+    volumes:
+    - "/home/andrea/DPortal/DungeonPortalSolution/DungonPortalApi:/app:rw"
+    - "/home/andrea/DPortal/DungeonPortalSolution:/src:rw"
+    - "/home/andrea/.nuget/packages:/root/.nuget/packages"
+    working_dir: "/app"

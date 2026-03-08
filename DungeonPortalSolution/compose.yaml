@@ -1,0 +1,34 @@
+﻿services:
+
+  postgres:
+    image: postgres:16
+    container_name: dungeonportal-db
+    restart: always
+    environment:
+      POSTGRES_USER: dungeon
+      POSTGRES_PASSWORD: dungeonpass
+      POSTGRES_DB: dungeonportal
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
+  dungon-portal-api:
+    build:
+      context: .
+      dockerfile: DungonPortalApi/Dockerfile
+    container_name: dungon-portal-api
+    depends_on:
+      - postgres
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ConnectionStrings__DefaultConnection: Host=postgres;Port=5432;Database=dungeonportal;Username=dungeon;Password=dungeonpass
+      Jwt__Key: SUPER_SECRET_DUNGEONPORTAL_KEY_123456789
+    ports:
+      - "5000:8080"
+    volumes:
+      - ./uploads:/app/uploads
+
+volumes:
+  postgres_data:
+    

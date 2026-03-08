@@ -1,0 +1,158 @@
+version: "3.9"
+
+services:
+
+  # =====================================================
+  # DATABASE
+  # =====================================================
+  postgres:
+    image: postgres:16
+    container_name: dungeonportal-db
+    restart: always
+    environment:
+      POSTGRES_USER: dungeon
+      POSTGRES_PASSWORD: dungeonpass
+      POSTGRES_DB: dungeonportal
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
+
+  # =====================================================
+  # API .NET
+  # =====================================================
+  dungeon-portal-api:
+    build:
+      context: /home/thalanir/portals/DungeonPortalSolution
+      dockerfile: DungonPortalApi/Dockerfile
+    container_name: dungeon-portal-api
+    depends_on:
+      - postgres
+    environment:
+      ASPNETCORE_ENVIRONMENT: Production
+      ConnectionStrings__DefaultConnection: Host=postgres;Port=5432;Database=dungeonportal;Username=dungeon;Password=dungeonpass
+      Jwt__Key: SUPER_SECRET_DUNGEONPORTAL_KEY_123456789
+    ports:
+      - "5000:8080"
+    volumes:
+      - /home/thalanir/portals/DungeonPortalSolution/uploads:/app/uploads
+    restart: always
+
+
+  # =====================================================
+  # ANGULAR PORTAL
+  # =====================================================
+  dungeonportal-frontend:
+    build:
+      context: /home/thalanir/portals/dungeon-portal
+      dockerfile: Dockerfile
+    container_name: dungeonportal-frontend
+    ports:
+      - "4200:80"
+    restart: always
+
+
+  # =====================================================
+  # FOUNDRY 1–10 (INVARIATI)
+  # =====================================================
+
+  foundry1:
+    image: felddy/foundryvtt:release
+    container_name: foundry1
+    environment:
+      - FOUNDRY_VERSION=13.351
+      - CONTAINER_CACHE=/data/container_cache
+      - FOUNDRY_ADMIN_KEY=admin_tavolo1
+      - FOUNDRY_HOSTNAME=dungeonmasters.duckdns.org   # 👈 non più 0.0.0.0
+      - FOUNDRY_PORT=30000                            # porta interna
+      - FOUNDRY_PROXY_PORT=443
+      - FOUNDRY_PROXY_SSL=true
+      - FOUNDRY_ROUTE_PREFIX=t1                       # 👈 rimettiamo il prefix
+    volumes:
+      - ./tavolo1/data:/data
+      - ./container-cache:/data/container_cache
+    ports:
+      - "30001:30000"                                 # host:container
+    restart: unless-stopped
+
+  foundry2:
+    image: felddy/foundryvtt:release
+    container_name: foundry2
+    environment:
+      - FOUNDRY_VERSION=13.351
+      - CONTAINER_CACHE=/data/container_cache
+      - FOUNDRY_ADMIN_KEY=admin_tavolo2
+      - FOUNDRY_HOSTNAME=dungeonmasters.duckdns.org   # 👈 non più 0.0.0.0
+      - FOUNDRY_PORT=30000                            # porta interna
+      - FOUNDRY_PROXY_PORT=443
+      - FOUNDRY_PROXY_SSL=true
+      - FOUNDRY_ROUTE_PREFIX=t2                       # 👈 rimettiamo il prefix
+    volumes:
+      - ./tavolo2/data:/data
+      - ./container-cache:/data/container_cache
+    ports:
+      - "30002:30000"                                 # host:container
+    restart: unless-stopped
+
+  foundry3:
+    image: felddy/foundryvtt:release
+    container_name: foundry3
+    environment:
+      - FOUNDRY_VERSION=13.351
+      - CONTAINER_CACHE=/data/container_cache
+      - FOUNDRY_ADMIN_KEY=admin_tavolo3
+      - FOUNDRY_HOSTNAME=dungeonmasters.duckdns.org   # 👈 non più 0.0.0.0
+      - FOUNDRY_PORT=30000                            # porta interna
+      - FOUNDRY_PROXY_PORT=443
+      - FOUNDRY_PROXY_SSL=true
+      - FOUNDRY_ROUTE_PREFIX=t3                       # 👈 rimettiamo il prefix
+    volumes:
+      - ./tavolo3/data:/data
+      - ./container-cache:/data/container_cache
+    ports:
+      - "30003:30000"                                 # host:container
+    restart: unless-stopped
+
+  foundry4:
+    image: felddy/foundryvtt:release
+    container_name: foundry4
+    environment:
+      - FOUNDRY_VERSION=13.351
+      - CONTAINER_CACHE=/data/container_cache
+      - FOUNDRY_ADMIN_KEY=admin_tavolo4
+      - FOUNDRY_HOSTNAME=dungeonmasters.duckdns.org   # 👈 non più 0.0.0.0
+      - FOUNDRY_PORT=30000                            # porta interna
+      - FOUNDRY_PROXY_PORT=443
+      - FOUNDRY_PROXY_SSL=true
+      - FOUNDRY_ROUTE_PREFIX=t4                       # 👈 rimettiamo il prefix
+    volumes:
+      - ./tavolo4/data:/data
+      - ./container-cache:/data/container_cache
+    ports:
+      - "30004:30000"                                 # host:container
+    restart: unless-stopped
+
+
+  foundry5:
+    image: felddy/foundryvtt:release
+    container_name: foundry5
+    environment:
+      - FOUNDRY_VERSION=13.351
+      - CONTAINER_CACHE=/data/container_cache
+      - FOUNDRY_ADMIN_KEY=admin_tavolo5
+      - FOUNDRY_HOSTNAME=dungeonmasters.duckdns.org   # 👈 non più 0.0.0.0
+      - FOUNDRY_PORT=30000                            # porta interna
+      - FOUNDRY_PROXY_PORT=443
+      - FOUNDRY_PROXY_SSL=true
+      - FOUNDRY_ROUTE_PREFIX=t5                       # 👈 rimettiamo il prefix
+    volumes:
+      - ./tavolo5/data:/data
+      - ./container-cache:/data/container_cache
+    ports:
+      - "30005:30000"                                 # host:container
+    restart: unless-stopped
+
+
+volumes:
+  postgres_data:
