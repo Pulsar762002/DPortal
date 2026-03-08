@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "5FsawssR0zoiYnxhqX9YuDUU+j8GOcEYKK76JOtQBYE=",
+  "Source": "DungonPortalApi",
+  "BasePath": "_content/DungonPortalApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "DungonPortalApi/wwwroot",
+      "Source": "DungonPortalApi",
+      "ContentRoot": "/home/andrea/DPortal/DungeonPortalSolution/DungonPortalApi/wwwroot/",
+      "BasePath": "_content/DungonPortalApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
