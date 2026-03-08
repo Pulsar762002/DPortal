@@ -1,0 +1,46 @@
+/* ======================================================
+   ROOT VARIABLES
+====================================================== */
+:root {
+  --bg-main: #0f1115;
+  --bg-panel: #161a22;
+  --bg-card: #1e2330;
+
+  --text-main: #e6e8ee;
+  --text-muted: #a9afc3;
+
+  --accent: #c79c3b;
+  --accent-hover: #e0b84c;
+
+  --border-soft: #2a3042;
+}
+
+/* RESET */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html, body {
+  margin: 0;
+  height: 100%;
+}
+
+/* GLOBAL BACKGROUND */
+body {
+  font-family: Inter, system-ui, sans-serif;
+  color: var(--text-main);
+
+  background:
+    linear-gradient(
+      rgba(10, 12, 15, 0.45),
+      rgba(10, 12, 15, 0.65)
+    ),
+    url("/assets/backgrounds/lotr-bg.png");
+
+  background-size: cover;
+  background-position: center top;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}

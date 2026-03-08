@@ -1,0 +1,83 @@
+<header class="topbar">
+
+  <!-- ========================= -->
+  <!-- NAV SINISTRA              -->
+  <!-- ========================= -->
+  <nav class="topbar-nav">
+    <a routerLink="/" routerLinkActive="active" [routerLinkActiveOptions]="{ exact: true }">
+      Home
+    </a>
+
+    <a routerLink="/campagne" routerLinkActive="active">
+      Campagne
+    </a>
+
+    <a routerLink="/land" routerLinkActive="active">
+      Land
+    </a>
+
+    <a routerLink="/masters" routerLinkActive="active">
+      Masters
+    </a>
+
+    <!-- Solo Master/Admin -->
+    <a *ngIf="isMaster()" routerLink="/dashboard" routerLinkActive="active">
+      Dashboard
+    </a>
+
+    <a *ngIf="isAdmin()" routerLink="/admin/users" (click)="menuOpen = false">
+      Users
+    </a>
+  </nav>
+
+  <!-- ========================= -->
+  <!-- NON AUTENTICATO           -->
+  <!-- ========================= -->
+  <div class="topbar-auth" *ngIf="!(isAuthenticated$ | async)">
+    <a routerLink="/login" class="login-link">Login</a>
+    <a routerLink="/register" class="register-btn">Registrati</a>
+  </div>
+
+  <!-- ========================= -->
+  <!-- AUTENTICATO               -->
+  <!-- ========================= -->
+  <div class="nav-right" *ngIf="(isAuthenticated$ | async) && user">
+
+    <div class="user-menu" (click)="toggleMenu()">
+
+      <img [src]="getAvatarUrl()" class="avatar" />
+
+      <span class="nickname">
+        {{ user.nickname }}
+      </span>
+
+      <!-- Badge ruolo -->
+      <span class="role-badge" [ngClass]="user.role?.toLowerCase()">
+        {{ user.role }}
+      </span>
+
+      <span class="caret">▼</span>
+
+    </div>
+
+    <!-- Dropdown -->
+    <div class="dropdown" *ngIf="menuOpen">
+
+      <a routerLink="/profile" (click)="menuOpen = false">
+        Profilo
+      </a>
+
+      <!-- Solo Admin -->
+      <a *ngIf="isAdmin()" routerLink="/admin" (click)="menuOpen = false">
+        Admin Panel
+      </a>
+
+      <a (click)="logout()">
+        Logout
+      </a>
+
+    </div>
+
+  </div>
+
+</header>

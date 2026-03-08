@@ -1,0 +1,141 @@
+/* ====== Sezione con sfondo full width ====== */
+.campaign-section {
+  width: 100%;
+  padding: 80px 20px;
+
+  background-image: url('/assets/avernus-hero.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+  display: flex;
+  justify-content: center;
+}
+
+/* Overlay scuro solo dietro la card */
+.campaign-section::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+
+  background: linear-gradient(
+    rgba(35, 25, 18, 0.75),
+    rgba(20, 20, 10, 0.90)
+  );
+
+  z-index: 0;
+  pointer-events: none; /* 🔥 importantissimo */
+}
+
+
+.campaign-section {
+  position: relative;
+}
+
+/* ====== CARD ====== */
+.campaign-card {
+  position: relative;
+  z-index: 1;
+
+  width: 100%;
+  max-width: 1100px;
+
+  background: linear-gradient(
+    rgba(10, 12, 22, 0.75),
+    rgba(10, 12, 22, 0.85)
+  );
+  backdrop-filter: blur(6px);        /* 👈 effetto vetro */
+  -webkit-backdrop-filter: blur(6px);
+
+  border: 1px solid rgba(255,255,255,0.05);
+  border-radius: 18px;
+  overflow: hidden;
+
+  box-shadow: 0 25px 60px rgba(0,0,0,0.7);
+}
+.campaign-card:hover {
+  transform: translateY(-4px);
+  transition: 0.4s ease;
+}
+
+/* HEADER */
+.campaign-header {
+  text-align: center;
+  padding: 30px;
+  font-size: 2rem;
+  color: #e6c36f;
+  border-bottom: 1px solid rgba(255,255,255,0.05);
+}
+
+/* CONTENT LAYOUT */
+.campaign-content {
+  display: flex;
+  gap: 40px;
+  padding: 40px;
+  align-items: center;
+}
+
+/* TEXT */
+.campaign-text {
+  flex: 1;
+  color: #d0d4e0;
+  line-height: 1.8;
+  font-size: 0.95rem;
+}
+
+.campaign-text .intro {
+  font-style: italic;
+  color: #c9a23f;
+  margin-bottom: 20px;
+}
+
+.campaign-text .final {
+  margin-top: 25px;
+  font-weight: 600;
+  color: #f0d27a;
+}
+
+/* PARTY IMAGE */
+.campaign-party {
+  flex: 1;
+}
+
+.campaign-party img {
+  width: 100%;
+  border-radius: 12px;
+}
+
+/* FOOTER */
+.campaign-footer {
+  padding: 20px 30px;
+  background: rgba(13, 17, 26, 0.65);
+  border-top: 1px solid rgba(255,255,255,0.05);
+  text-align: right;
+}
+
+.campaign-footer a {
+  color: #c9a23f;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.campaign-footer a:hover {
+  text-decoration: underline;
+}
+
+.chronicles-button {
+  margin-top: 25px;
+  display: inline-block;
+  padding: 10px 18px;
+  background: linear-gradient(45deg, #c9a23f, #e6c36f);
+  color: #111;
+  border-radius: 8px;
+  font-weight: 600;
+  text-decoration: none;
+  transition: all 0.3s ease;
+}
+
+.chronicles-button:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 20px rgba(201,162,63,0.4);
+}
