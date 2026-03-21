@@ -136,6 +136,18 @@ export const routes: Routes = [
                     .then(m => m.Sessione7Component)
               },
               {
+                path: 'sessione/8',
+                loadComponent: () =>
+                    import('./features/public/campagne/discesa-averno/sessione-8/sessione-8.component')
+                        .then(m => m.Sessione8Component)
+              },
+              {
+                path: 'sessione/9',
+                loadComponent: () =>
+                    import('./features/public/campagne/discesa-averno/sessione-9/sessione-9.component')
+                        .then(m => m.Sessione9Component)
+              },
+              {
                 path: 'personaggi',
                 loadComponent: () =>
                   import('./features/public/campagne/discesa-averno/personaggi/personaggi-page/personaggi-page.component')
