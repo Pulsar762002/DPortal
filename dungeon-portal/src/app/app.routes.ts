@@ -148,6 +148,12 @@ export const routes: Routes = [
                         .then(m => m.Sessione9Component)
               },
               {
+                path: 'sessione/10',
+                loadComponent: () =>
+                    import('./features/public/campagne/discesa-averno/sessione-10/sessione-10.component')
+                        .then(m => m.Sessione10Component)
+              },
+              {
                 path: 'personaggi',
                 loadComponent: () =>
                   import('./features/public/campagne/discesa-averno/personaggi/personaggi-page/personaggi-page.component')
