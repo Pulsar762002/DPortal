@@ -1,3 +1,5 @@
+import {StoryBlock} from "../../core/models/story-block.model";
+
 export interface CampaignSession {
     id: number;
     title: string;
@@ -11,13 +13,6 @@ export interface CampaignChapter {
     title: string;
     videoId?: string;
 
-    blocks: CampaignBlock[];
+    blocks: StoryBlock[];
 }
 
-export interface CampaignBlock {
-    type: string;
-    variant?: string;
-    text?: string;
-    src?: string;
-    alt?: string;
-}

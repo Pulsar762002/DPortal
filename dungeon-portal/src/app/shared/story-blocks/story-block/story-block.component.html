@@ -1,0 +1,31 @@
+<div class="story-block"
+     [attr.data-block-id]="block.id"
+     [attr.data-block-type]="block.type">
+
+    @switch (block.type) {
+
+        @case ('paragraph') {
+
+            <app-paragraph-block
+                    [block]="block">
+            </app-paragraph-block>
+
+        }
+        @case ('quote') {
+
+            <app-quote-block
+                    [block]="block">
+            </app-quote-block>
+
+        }
+        @case ('image') {
+
+            <app-image-block
+                    [block]="block">
+            </app-image-block>
+
+        }
+
+    }
+
+</div>
