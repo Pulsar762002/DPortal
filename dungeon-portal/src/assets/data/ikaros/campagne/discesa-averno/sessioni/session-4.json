@@ -1,0 +1,3375 @@
+{
+  "id": 4,
+  "title": "Sessione 4",
+  "videoId": "jCcxOTQsT_g",
+  "chapters": [
+    {
+      "id": "resti",
+      "title": "I resti della battaglia",
+      "videoId": "_D3qhT1pFRY",
+      "blocks": [
+        {
+          "type": "image-left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/eventi/I_resti.png",
+          "alt": "I resti della battaglia"
+        },
+        {
+          "type": "paragraph",
+          "text": "La battaglia è finita."
+        },
+        {
+          "type": "paragraph",
+          "text": "L’odore del sangue sovrasta quello della birra versata. Il pavimento è cosparso di corpi. Pirati. E il loro capo, disteso a pochi passi dalle scale."
+        },
+        {
+          "type": "paragraph",
+          "text": "Alan è ancora lì."
+        },
+        {
+          "type": "paragraph",
+          "text": "È caduto durante lo scontro. I vestiti sono sporchi. Macchie scure gli rigano la camicia. Uno schizzo di sangue gli ha segnato il volto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Si rialza lentamente."
+        },
+        {
+          "type": "paragraph",
+          "text": "Si sistema i capelli con un gesto nervoso."
+        },
+        {
+          "type": "paragraph",
+          "text": "Alan si guarda intorno. Un misto tra terrore e scoramento."
+        },
+        {
+          "type": "paragraph",
+          "text": "Si sistema i capelli nervosamente."
+        },
+        {
+          "type": "quote",
+          "text": "«Sapete cosa avete fatto?»"
+        },
+        {
+          "type": "paragraph",
+          "text": "La voce trema."
+        },
+        {
+          "type": "quote",
+          "text": "«Avete ammazzato delle persone. Vi avevo chiesto di non creare problemi. Adesso ho dei cadaveri nella mia locanda.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "I clienti si sono schiacciati contro le pareti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nessuno si avvicina."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nessuno interviene."
+        },
+        {
+          "type": "paragraph",
+          "text": "Solo occhi spalancati."
+        },
+        {
+          "type": "paragraph",
+          "text": "È Aelar a prendere la parola, stizzito dall'ottusità del locandiere."
+        },
+        {
+          "type": "quote",
+          "text": "«Dovresti ringraziarci.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "La risposta è secca."
+        },
+        {
+          "type": "quote",
+          "text": "«Erano loro ad attaccare. Nessuno di noi ha sguainato per primo. È stata legittima difesa.»"
+        },
+        {
+          "type": "quote",
+          "text": "«Ringraziarvi?»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Alan alza la voce."
+        },
+        {
+          "type": "quote",
+          "text": "«Avete quasi distrutto la mia locanda! Se ne sarebbero andati prima o poi! E invece adesso…»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Si interrompe."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non guarda i cadaveri."
+        },
+        {
+          "type": "paragraph",
+          "text": "Guarda le macchie sul pavimento."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le sedie rovesciate."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il bancone incrinato."
+        },
+        {
+          "type": "paragraph",
+          "text": "La reputazione."
+        },
+        {
+          "type": "paragraph",
+          "text": "Anche Nathan prende parola per cercare di far rinsavire Alan."
+        },
+        {
+          "type": "quote",
+          "text": "«Hai visto benissimo come sono andate le cose. Quella feccia è entrata, ti ha minacciato e ti ha preso per il colletto reclamando una tua ospite. Ti abbiamo aiutato e ci siamo difesi. Non siamo stati noi a tirare fuori le spade o a cercare lo scontro!»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Aelar, sempre più stizzito e sconvolto dalla viltà dell'oste, prende nuovamente parola."
+        },
+        {
+          "type": "quote",
+          "text": "«E i tuoi uomini? I tuoi buttafuori... La tua amica ogre e l’altro? Non dovevano fermarli all’ingresso? Come mai non sono intervenuti?»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Il volto di Alan cambia."
+        },
+        {
+          "type": "paragraph",
+          "text": "Gli occhi si spalancano."
+        },
+        {
+          "type": "quote",
+          "text": "«Scona… o caspita»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Non finisce la frase."
+        },
+        {
+          "type": "paragraph",
+          "text": "Corre."
+        },
+        {
+          "type": "paragraph",
+          "text": "Attraversa la sala senza guardare nessuno."
+        },
+        {
+          "type": "paragraph",
+          "text": "Spinge la porta."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dall’esterno giunge un urlo."
+        },
+        {
+          "type": "quote",
+          "text": "«No!»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Si inginocchia davanti al corpo dell’ogre."
+        },
+        {
+          "type": "paragraph",
+          "text": "Immobile."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aelar, al suo fianco ma con un tono più pacato notando il dolore dell'uomo:"
+        },
+        {
+          "type": "quote",
+          "text": "«Come vedi le loro intenzioni erano ben chiare... il problema non è nel modo in cui siamo intervenuti. Quei maledetti si sono fatti strada con la forza, uccidendo senza remore; un problema l'avresti avuto se non fossimo intervenuti.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma nella mente del locandiere, il sangue è colpa di chi è rimasto vivo."
+        }
+      ]
+    },
+    {
+      "id": "milizia",
+      "title": "L'arrivo della milizia",
+      "videoId": "IBc2WMmzW4M",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Alan non fa in tempo a gridare il nome dell’ogre che il rumore degli stivali interrompe ogni altra voce."
+        },
+        {
+          "type": "paragraph",
+          "text": "Una piccola fanteria in armatura rossa avanza rapida lungo la strada. Il simbolo del pugno avvolto dalle fiamme brilla sulle corazze."
+        },
+        {
+          "type": "paragraph",
+          "text": "I <em>Pugni Fiammanti</em>."
+        },
+        {
+          "type": "paragraph",
+          "text": "Si fermano davanti alla locanda."
+        },
+        {
+          "type": "paragraph",
+          "text": "Uno di loro, l’unico con mantello più rifinito e piastra pettorale decorata, fa un passo avanti."
+        },
+        {
+          "type": "quote",
+          "text": "«Cosa è successo qui?»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Lo sguardo si abbassa sui corpi."
+        },
+        {
+          "type": "quote",
+          "text": "«Ci è stata segnalata una rissa. Ma io vedo dei morti.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan esce."
+        },
+        {
+          "type": "paragraph",
+          "text": "Prima guarda i compagni. Poi si avvicina."
+        },
+        {
+          "type": "paragraph",
+          "text": "La postura cambia: spalle dritte, talloni uniti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non è un soldato dei Pugni, ma riconosce l’autorità."
+        },
+        {
+          "type": "quote",
+          "text": "«Signore. Sono disposto a collaborare e a riferire quanto accaduto.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Mostra il foglio ricevuto dal Capitano."
+        },
+        {
+          "type": "paragraph",
+          "text": "L’ufficiale lo prende. Lo legge rapidamente."
+        },
+        {
+          "type": "paragraph",
+          "text": "Gli occhi si sollevano, sospettosi."
+        },
+        {
+          "type": "quote",
+          "text": "«Capisco. Autorizzati. E dunque? Cos’è successo? Chi sono questi morti?»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Dietro di lui, due miliziani si avvicinano al corpo dell’ogre."
+        },
+        {
+          "type": "paragraph",
+          "text": "Uno si china per esaminarlo."
+        },
+        {
+          "type": "paragraph",
+          "text": "L’altro controlla l’ingresso della locanda."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aelar inspira lentamente prima di rispondere."
+        },
+        {
+          "type": "quote",
+          "text": "«Un passante è corso da noi dopo aver visto l’ogre qui fuori. Ci ha riferito di aver udito delle urla provenire dall’interno della locanda. Ci siamo quindi precipitati sul posto per verificare.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Indica i corpi."
+        },
+        {
+          "type": "quote",
+          "text": "«Sì, signore. Ci sono state delle vittime. Purtroppo anche innocenti, come potete vedere.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Lo sguardo si posa un istante sull’ogre e sull’altro caduto."
+        },
+        {
+          "type": "quote",
+          "text": "«Un gruppo di malintenzionati è entrato nella taverna. Riteniamo che abbiano ucciso questi due per farsi strada. Il loro intento era rapire una giovane donna che si era rifugiata qui.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Una pausa, poi la voce si fa più ferma."
+        },
+        {
+          "type": "quote",
+          "text": "«Il taverniere ha tentato di opporsi. Quando il capo dei pirati ha cercato di aggredirlo, sono intervenuto per frappormi tra loro e fermarlo.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "La parola <em>pirati</em> resta sospesa nell’aria."
+        },
+        {
+          "type": "paragraph",
+          "text": "L’ufficiale stringe la mascella."
+        },
+        {
+          "type": "quote",
+          "text": "«Pirati. In città.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Non è sorpresa."
+        },
+        {
+          "type": "paragraph",
+          "text": "È fastidio."
+        },
+        {
+          "type": "quote",
+          "text": "«E questi banditi dove sono?»"
+        },
+        {
+          "type": "quote",
+          "text": "«Li abbiamo uccisi per legittima difesa. Hanno attaccato per primi, e noi ci siamo difesi.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Le due guardie entrano nella locanda e iniziano a controllare i cadaveri dei pirati."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nel frattempo, il capitano — il capo del gruppo che vi sta parlando fuori — resta a scrutare la scena, come se stesse già ricomponendo i pezzi di quella notte."
+        },
+        {
+          "type": "quote",
+          "text": "«Chi ha colpito per primo?»"
+        },
+        {
+          "type": "paragraph",
+          "text": "La domanda non è casuale."
+        },
+        {
+          "type": "paragraph",
+          "text": "È una linea sottile."
+        },
+        {
+          "type": "paragraph",
+          "text": "Tra legittima difesa e esecuzione."
+        },
+        {
+          "type": "paragraph",
+          "text": "I soldati attendono."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le mani sugli elsi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il sangue non si è ancora asciugato."
+        }
+      ]
+    },
+    {
+      "id": "ragioni",
+      "title": "Abbiamo le nostre ragioni",
+      "videoId": "XzQik9oervw",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Il capitano dei Pugni Fiammanti osserva i cadaveri. Poi alza lo sguardo su di loro."
+        },
+        {
+          "type": "quote",
+          "text": "«Mi state dicendo che avete ucciso delle persone per difendere qualcuno.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Aelar fa un passo avanti."
+        },
+        {
+          "type": "quote",
+          "text": "«Certamente. Sono entrati uccidendo le guardie all’esterno. Hanno minacciato il taverniere. Cercavano di rapire una ragazza che si era rifugiata qui. Siamo intervenuti per proteggerla. È stata legittima difesa.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Il capitano si volta verso i suoi uomini."
+        },
+        {
+          "type": "quote",
+          "text": "«Voi due, dentro. Gli altri, presidiate la zona. Nessuno curioso si avvicini.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Due miliziani entrano nella locanda. Gli altri si dispongono lungo la strada, allontanando gli sguardi."
+        },
+        {
+          "type": "quote",
+          "text": "«Capisco che la situazione fosse complessa. Ma avete comunque ucciso delle persone.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Il tono non è rabbioso."
+        },
+        {
+          "type": "paragraph",
+          "text": "È legale."
+        },
+        {
+          "type": "quote",
+          "text": "«Dal foglio che mi avete mostrato, siete autorizzati a indagare sul culto dei Tre Morti. A meno che questi banditi non ne facessero parte, il loro omicidio non è giustificato.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan non riesce a trattenersi."
+        },
+        {
+          "type": "quote",
+          "text": "«Non abbiamo cercato lo scontro. Hanno estratto le armi. Se non ci fossimo difesi, saremmo morti.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma l'ufficiale sembra non voler o non poter accettare la causa che ha portato all'effetto: degli uomini sono morti e ciò, in Baldur's Gate, non è permesso."
+        },
+        {
+          "type": "quote",
+          "text": "«Legittima difesa o no, la legge è uguale per tutti a Baldur’s Gate. Avreste potuto immobilizzarli. Disarmarli. Chiamare la milizia. Avete scelto la violenza.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "L’aria si fa più fredda."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan, addestrato alla disciplina, riesce a mandare giù il rospo ma per Aelar non è possibile accettare di essere accusato di aver infranto la legge per aver sventato un massacro."
+        },
+        {
+          "type": "quote",
+          "text": "«Hanno abbattuto due uomini all’esterno. Mi hanno ridotto in fin di vita ed hanno quasi ucciso due dei miei compagni, per gli dèi! Posso solo ringraziare la mia pozione per essere ancora qui a raccontarle i fatti. Avrebbero ucciso altri civili. Non avevamo scelta.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Anche Alaster interviene per cercare di portare un po' di logica nei ragionamenti dell'ufficiale dei Pugni Fiammanti."
+        },
+        {
+          "type": "quote",
+          "text": "«Se non fossimo intervenuti avrebbero di sicuro causato molti più danni. Avrebbero potuto uccidere dei civili e non potevamo permetterlo.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Il capitano resta in silenzio per un lungo istante."
+        },
+        {
+          "type": "quote",
+          "text": "«Sono incline a credere che abbiate agito in buona fede. Ma resta il fatto: avete ucciso delle persone. E questo è un crimine.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Il capitano si volta verso Alan."
+        },
+        {
+          "type": "quote",
+          "text": "«Siete il proprietario della locanda?»"
+        },
+        {
+          "type": "quote",
+          "text": "«Sì… sì, sono io.»"
+        },
+        {
+          "type": "quote",
+          "text": "«Confermate la loro versione?»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Alan esita. Guarda i corpi. Guarda i presenti."
+        },
+        {
+          "type": "quote",
+          "text": "«Hanno agito per difendermi. Non sono stati loro i primi a tirare fuori le armi.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Il capitano annuisce."
+        },
+        {
+          "type": "quote",
+          "text": "«Spostatevi. Devo vedere con i miei occhi.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Entra nella locanda."
+        },
+        {
+          "type": "paragraph",
+          "text": "I clienti vengono invitati a uscire. La sala si svuota lentamente."
+        },
+        {
+          "type": "paragraph",
+          "text": "I corpi dei pirati giacciono nelle pozze di sangue."
+        },
+        {
+          "type": "quote",
+          "text": "«Trovato qualcosa?»"
+        },
+        {
+          "type": "quote",
+          "text": "«Nulla di rilevante, capitano. Armi. Monete. Effetti personali. Gente allo sbando.»"
+        },
+        {
+          "type": "quote",
+          "text": "«Morti inutili.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi il suo sguardo torna su di loro."
+        },
+        {
+          "type": "quote",
+          "text": "«Avevate parlato di una ragazza. Dov’è?»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Alan indica il piano superiore."
+        },
+        {
+          "type": "quote",
+          "text": "«È chiusa nella sua stanza.»"
+        },
+        {
+          "type": "quote",
+          "text": "«Mi serve la chiave.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Salgono le scale."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dall’alto si sentono rumori. Un mobile che cade. Un oggetto che si frantuma. Una breve colluttazione."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi silenzio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il capitano ricompare sulle scale."
+        },
+        {
+          "type": "paragraph",
+          "text": "Accanto a lui, una ragazza."
+        }
+      ]
+    },
+    {
+      "id": "tarina",
+      "title": "Vediamo Tarina",
+      "videoId": "_pTeWS7Rp2U",
+      "blocks": [
+        {
+          "type": "image-left",
+          "src": "assets/personaggi/Secondari/Tarina.jpg",
+          "alt": "Tarina"
+        },
+        {
+          "type": "paragraph",
+          "text": "La porta al piano superiore si apre con uno schianto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il capitano dei Pugni Fiammanti scende le scale tenendo una ragazza saldamente per il braccio."
+        },
+        {
+          "type": "quote",
+          "text": "«Adesso stai ferma. Mi hai già fatto sudare abbastanza per aprire quella porta.»"
+        },
+        {
+          "type": "quote",
+          "text": "«Lasciami! Non voglio! Lasciami!»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma non c’è violenza nel gesto del capitano."
+        },
+        {
+          "type": "paragraph",
+          "text": "Solo fermezza."
+        },
+        {
+          "type": "paragraph",
+          "text": "Quando raggiungono la base delle scale, lo sguardo della ragazza cade sul corpo del capo pirata."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il sangue ha formato una pozza scura sotto di lui."
+        },
+        {
+          "type": "paragraph",
+          "text": "Lei impallidisce."
+        },
+        {
+          "type": "quote",
+          "text": "«È… morto?»"
+        },
+        {
+          "type": "quote",
+          "text": "«Con tutto quel sangue? Puoi contarci.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Il capitano la conduce davanti al gruppo."
+        },
+        {
+          "type": "paragraph",
+          "text": "È la prima volta che la vedete."
+        },
+        {
+          "type": "paragraph",
+          "text": "Carnagione chiara."
+        },
+        {
+          "type": "paragraph",
+          "text": "Capelli rossi, corti e leggermente mossi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le braccia e parte del collo sono segnate da tatuaggi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Linee e simboli che parlano di mare, di porti, di un passato tutt’altro che tranquillo."
+        },
+        {
+          "type": "paragraph",
+          "text": "La voce…"
+        },
+        {
+          "type": "paragraph",
+          "text": "Sì."
+        },
+        {
+          "type": "paragraph",
+          "text": "È quella che avevate sentito dietro la porta."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ora più nitida."
+        },
+        {
+          "type": "paragraph",
+          "text": "Più reale."
+        },
+        {
+          "type": "paragraph",
+          "text": "Alan si fa avanti."
+        },
+        {
+          "type": "quote",
+          "text": "«Si chiama Tarina. È una mia amica. Ha chiesto rifugio qui qualche settimana fa. Mi aveva raccontato che quei pirati la stavano braccando.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Il capitano ascolta."
+        },
+        {
+          "type": "quote",
+          "text": "«Braccando?»"
+        },
+        {
+          "type": "quote",
+          "text": "«Sì. La volevano per loro. Il loro primo tentativo è stato fermato da una pattuglia dei Pugni Fiammanti. Ma avevano promesso che non l’avrebbero lasciata in pace. E oggi l’hanno trovata.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Lo sguardo del capitano si posa nuovamente sui cadaveri."
+        },
+        {
+          "type": "paragraph",
+          "text": "Espira lentamente."
+        },
+        {
+          "type": "quote",
+          "text": "«Fantastico.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Si passa una mano sulla fronte."
+        },
+        {
+          "type": "quote",
+          "text": "«Ci saranno montagne di scartoffie da compilare.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi si volta verso i suoi uomini."
+        },
+        {
+          "type": "quote",
+          "text": "«Andate a chiamare gli altri.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "I miliziani annuiscono ed escono dalla locanda."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nella sala resta solo il crepitio del fuoco."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il sangue sul pavimento."
+        },
+        {
+          "type": "paragraph",
+          "text": "E Tarina, che osserva i suoi inseguitori finalmente immobili."
+        }
+      ]
+    },
+    {
+      "id": "giustizia",
+      "title": "Ottusa giustizia!",
+      "videoId": "QoUFbhavOKY",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Darmian non alza la voce."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non minaccia."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non provoca."
+        },
+        {
+          "type": "paragraph",
+          "text": "Semplicemente espone i fatti."
+        },
+        {
+          "type": "quote",
+          "text": "«Per quanto riguarda voi… avete sicuramente la riconoscenza di questa ragazza.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Tarina annuisce, esitante."
+        },
+        {
+          "type": "quote",
+          "text": "«Sì… grazie.»"
+        },
+        {
+          "type": "quote",
+          "text": "«Ma io sono obbligato, per legge, a scortarvi in prigione. In attesa di processo. Finché un giudice non stabilirà se le vostre azioni fossero giustificate.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "La parola <em>prigione</em> cade pesante."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan fa un passo avanti."
+        },
+        {
+          "type": "quote",
+          "text": "«Possiamo parlare un momento in privato?»"
+        },
+        {
+          "type": "quote",
+          "text": "«Non avete nulla di nuovo da aggiungere. E vi avverto: non provate a corrompermi.»"
+        },
+        {
+          "type": "quote",
+          "text": "«Non voglio corromperla. Voglio farle capire la situazione. Siamo stati incaricati direttamente dal Capitano. Più tempo perdiamo, più aumentano i rischi.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Darmian incrocia le braccia."
+        },
+        {
+          "type": "quote",
+          "text": "«Il vostro punto di vista è chiaro. Ma avete ucciso delle persone. E per questo dovrete risponderne.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan scopre il simbolo sacro sul guanto."
+        },
+        {
+          "type": "quote",
+          "text": "«Non mi sottraggo alla giustizia. È contro il mio credo. Ma esistono urgenze più grandi. Se veniamo incarcerati ora, perderemo tempo prezioso. Tempo che potrebbe evitare conseguenze irreparabili.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Darmian resta immobile."
+        },
+        {
+          "type": "quote",
+          "text": "«I tempi della legge sono quelli della legge.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "È allora che viene fatto il nome di un nobile."
+        },
+        {
+          "type": "quote",
+          "text": "«Potete contare sulla parola di un nobile di Baldur’s Gate.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Darmian solleva lo sguardo."
+        },
+        {
+          "type": "quote",
+          "text": "«Un nobile?»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Gli occhi cercano."
+        },
+        {
+          "type": "paragraph",
+          "text": "Si posano su Alaster."
+        },
+        {
+          "type": "quote",
+          "text": "«Alaster Nodorovo. Della mia famiglia.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Il capitano lo squadra."
+        },
+        {
+          "type": "quote",
+          "text": "«È inusuale trovarvi nella Città Bassa. E ancor più al servizio dei Pugni Fiammanti.»"
+        },
+        {
+          "type": "quote",
+          "text": "«Tempi instabili richiedono scelte insolite.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Darmian ascolta."
+        },
+        {
+          "type": "quote",
+          "text": "«La presenza di un nobile rende la situazione più complessa. Non più semplice. Neanche i patriarchi sono al di sopra della legge.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Si prova a citare articoli."
+        },
+        {
+          "type": "paragraph",
+          "text": "Regolamenti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Interpretazioni."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma Darmian non si lascia trascinare."
+        },
+        {
+          "type": "quote",
+          "text": "«La legittima difesa esiste. Ma deve essere provata. E non sarete voi a decidere se lo era.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Alaster prova la via politica."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan quella morale."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nessuna scalfisce l’armatura dell’uomo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dalla porta entrano altre guardie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Una decina."
+        },
+        {
+          "type": "paragraph",
+          "text": "L’atmosfera cambia."
+        },
+        {
+          "type": "quote",
+          "text": "«Portateli via. E non fate sciocchezze mentre vi scortiamo. Ve lo chiedo da colleghi.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Le mani si avvicinano agli elsi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non c’è odio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non c’è vendetta."
+        },
+        {
+          "type": "paragraph",
+          "text": "Solo applicazione della legge."
+        },
+        {
+          "type": "paragraph",
+          "text": "E, forse, un uomo che non è disposto a piegarla."
+        }
+      ]
+    },
+    {
+      "id": "prigioni",
+      "title": "Le prigioni",
+      "videoId": "5fecfpwZ77s",
+      "blocks": [
+        {
+          "type": "image-left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-4/Prigioni.png",
+          "alt": "Prigioni"
+        },
+        {
+          "type": "paragraph",
+          "text": "Non oppongono resistenza."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le lame restano nei foderi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le mani non cercano gli elsi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Vengono scortati attraverso la Città Bassa tra sguardi curiosi e porte che si chiudono."
+        },
+        {
+          "type": "paragraph",
+          "text": "A bassa voce, mentre camminano, Nathan si avvicina ad Alaster."
+        },
+        {
+          "type": "quote",
+          "text": "«Sto iniziando a odiare questa città.»"
+        },
+        {
+          "type": "quote",
+          "text": "«Non ero mai stato nella Città Bassa. E devo dire che… ho fatto bene.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Prima che la distanza si allarghi troppo, una voce si leva accanto a Tarina."
+        },
+        {
+          "type": "paragraph",
+          "text": "È Elis a parlare."
+        },
+        {
+          "type": "quote",
+          "text": "«Per favore. Aspettaci qui un paio di giorni. Pago io la camera.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "È un sussurro."
+        },
+        {
+          "type": "paragraph",
+          "text": "Naturale."
+        },
+        {
+          "type": "paragraph",
+          "text": "Quasi reale."
+        },
+        {
+          "type": "paragraph",
+          "text": "Tarina spalanca gli occhi, ma non fa in tempo a rispondere."
+        },
+        {
+          "type": "paragraph",
+          "text": "I Pugni Fiammanti accelerano il passo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non vengono condotti alla prigione centrale."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma a un avamposto della milizia, una struttura austera con un livello interrato adibito a celle."
+        },
+        {
+          "type": "paragraph",
+          "text": "Scendono una rampa di pietra."
+        },
+        {
+          "type": "paragraph",
+          "text": "L’aria si fa umida."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pesante."
+        },
+        {
+          "type": "paragraph",
+          "text": "Una porta si apre con uno stridio metallico."
+        },
+        {
+          "type": "paragraph",
+          "text": "Vengono spinti in una grande cella comune."
+        },
+        {
+          "type": "paragraph",
+          "text": "Cinque uomini."
+        },
+        {
+          "type": "paragraph",
+          "text": "Una sola stanza."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le sbarre si chiudono."
+        },
+        {
+          "type": "quote",
+          "text": "«Torneremo tra poco con del cibo. Attenderete qui. Il processo si svolgerà a breve.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Alaster si avvicina alle sbarre."
+        },
+        {
+          "type": "quote",
+          "text": "«Non abbiamo modo di parlare con il comandante prima che tutto questo proceda?»"
+        },
+        {
+          "type": "quote",
+          "text": "«Se non avete nulla da nascondere, la permanenza sarà più breve di quanto pensiate.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "L’uomo si volta per andarsene."
+        },
+        {
+          "type": "quote",
+          "text": "«Il comandante deve sapere che abbiamo informazioni. Informazioni importanti.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "La guardia si ferma."
+        },
+        {
+          "type": "quote",
+          "text": "«Che tipo di informazioni?»"
+        },
+        {
+          "type": "quote",
+          "text": "«Non posso dirle a voi. Lavoriamo per il comandante. Come voi.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "La risposta è un silenzio scettico."
+        },
+        {
+          "type": "quote",
+          "text": "«Forse non si fida di voi. Forse vi ritiene incapaci.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi se ne va."
+        },
+        {
+          "type": "paragraph",
+          "text": "L’atmosfera è greve."
+        },
+        {
+          "type": "paragraph",
+          "text": "Una tubatura difettosa gocciola senza sosta."
+        },
+        {
+          "type": "paragraph",
+          "text": "<em>Tic.</em>"
+        },
+        {
+          "type": "paragraph",
+          "text": "<em>Tic.</em>"
+        },
+        {
+          "type": "paragraph",
+          "text": "<em>Tic.</em>"
+        },
+        {
+          "type": "paragraph",
+          "text": "Il suono si imprime nella mente."
+        },
+        {
+          "type": "paragraph",
+          "text": "A terra, un sottile strato di paglia."
+        },
+        {
+          "type": "paragraph",
+          "text": "In un angolo, un secchio di metallo."
+        },
+        {
+          "type": "paragraph",
+          "text": "L’unica concessione alla dignità."
+        },
+        {
+          "type": "paragraph",
+          "text": "In alto, una piccola feritoia con tre sbarre lascia filtrare un filo di luce dalla strada."
+        },
+        {
+          "type": "paragraph",
+          "text": "Per il resto, solo mura spesse di pietra."
+        },
+        {
+          "type": "paragraph",
+          "text": "E grate d’acciaio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il processo verrà."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma per ora, resta solo il gocciolio."
+        }
+      ]
+    },
+    {
+      "id": "analisi",
+      "title": "Analizziamo la situazione",
+      "videoId": "y84QnUhWZ0M",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Il gocciolio della tubatura continua."
+        },
+        {
+          "type": "paragraph",
+          "text": "<em>Tic.</em>"
+        },
+        {
+          "type": "paragraph",
+          "text": "<em>Tic.</em>"
+        },
+        {
+          "type": "paragraph",
+          "text": "Non sono soli."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nella cella accanto, una creatura minuta e scagliosa armeggia con pezzi di ferro e frammenti di legno."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un coboldo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ha smontato parti della branda, staccato bulloni, recuperato segmenti di catena."
+        },
+        {
+          "type": "paragraph",
+          "text": "Lavora con concentrazione assoluta."
+        },
+        {
+          "type": "quote",
+          "text": "«No… così no… Ci sono quasi… Accidenti!»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Una vite schizza via."
+        },
+        {
+          "type": "paragraph",
+          "text": "Lui la rincorre carponi, borbottando tra sé."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non presta loro attenzione."
+        },
+        {
+          "type": "paragraph",
+          "text": "O finge di non farlo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aelar si avvicina ad Elis, parlando a bassa voce."
+        },
+        {
+          "type": "quote",
+          "text": "«Che città è questa? Veniamo per conto del Capitano, difendiamo una locanda da dei pirati, e finiamo in prigione.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Elis inspira lentamente."
+        },
+        {
+          "type": "quote",
+          "text": "«Neanche io sono di qui... ed ovviamente non piace neanche a me.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "È Alaster a intervenire."
+        },
+        {
+          "type": "quote",
+          "text": "«Baldur’s Gate è così. La legge viene applicata con precisione chirurgica... quando conviene.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi il tono cambia."
+        },
+        {
+          "type": "quote",
+          "text": "«Per questo vi avevo detto di metterli fuori combattimento. Non ucciderli.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan stringe i pugni."
+        },
+        {
+          "type": "quote",
+          "text": "«Abbiamo già rischiato di morire. Non avevamo il lusso di essere delicati.»"
+        },
+        {
+          "type": "quote",
+          "text": "«Lo so. Lo so.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Una pausa."
+        },
+        {
+          "type": "quote",
+          "text": "«Potrei farci uscire di qui. Ma sarebbe rischioso.»"
+        },
+        {
+          "type": "quote",
+          "text": "«Rischioso quanto?»"
+        },
+        {
+          "type": "quote",
+          "text": "«Guardie. Corridoi che non conosco. E una fuga che trasformerebbe un’accusa in una condanna.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "La tensione si concentra su Nathan."
+        },
+        {
+          "type": "quote",
+          "text": "«È la seconda volta che ci rallenti. Ti pregherei in futuro di agire in maniera maggiormente accorta se non ti spiace. Abbiamo una missione da compiere e non possiamo agire impulsivamente.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan è affranto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ovviamente non ha piacere nel sentirsi al centro dell’attenzione; specialmente in questi frangenti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma la sua fede è così..."
+        },
+        {
+          "type": "paragraph",
+          "text": "È nato con una missione che va oltre le proprie volontà."
+        },
+        {
+          "type": "quote",
+          "text": "«La mia fede mi impone di intervenire quando qualcuno non può difendersi. Posso cercare di smussare il mio comportamento ma non posso rinnegare me stesso.»"
+        },
+        {
+          "type": "quote",
+          "text": "«La tua fede ti acceca.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "La risposta è fredda."
+        },
+        {
+          "type": "quote",
+          "text": "«Non tutti possono essere salvati. E ogni volta che scegli di intervenire, ci trascini più a fondo.»"
+        },
+        {
+          "type": "quote",
+          "text": "«Io non voglio salvare tutti. Voglio salvare chi non può difendersi.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Il silenzio che segue è pesante."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aelar vede la situazione scaldarsi e cerca di intervenire per far capire a Nathan di essere compreso... ma non per questo nel giusto."
+        },
+        {
+          "type": "quote",
+          "text": "«Il nostro obiettivo è Elturel. Non una rissa in una locanda.»"
+        },
+        {
+          "type": "quote",
+          "text": "«Il mio obiettivo è salvare i miei fratelli. Elturel viene prima di tutto. Ma questo non cambia ciò che sono.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Alaster inclina il capo."
+        },
+        {
+          "type": "quote",
+          "text": "«Forse non è solo una questione di legge.»"
+        },
+        {
+          "type": "quote",
+          "text": "«Che intendi?»"
+        },
+        {
+          "type": "quote",
+          "text": "«Forse qualcuno ci voleva qui dentro. In prigione.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Le parole restano sospese tra le mura umide."
+        },
+        {
+          "type": "quote",
+          "text": "«Stiamo indagando su qualcosa di scomodo. E guarda caso, veniamo rallentati.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Il gocciolio continua."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il coboldo nella cella accanto alza lo sguardo, solo per un istante."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi torna ai suoi arnesi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Forse non sono soli nemmeno nelle loro supposizioni."
+        }
+      ]
+    },
+    {
+      "id": "Cleiton",
+      "title": "Cleiton il coboldo",
+      "videoId": "CTCfj1uMgk8",
+      "blocks": [
+        {
+          "type": "image-left",
+          "src": "assets/personaggi/Alleati/Cleiton.jpg",
+          "alt": "Cleiton"
+        },
+        {
+          "type": "paragraph",
+          "text": "Il gocciolio continua."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi una voce sottile."
+        },
+        {
+          "type": "quote",
+          "text": "«Ehi. Ehi. Voi.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "È il coboldo della cella accanto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Si è avvicinato alle sbarre."
+        },
+        {
+          "type": "paragraph",
+          "text": "Gli occhi brillano di un’intelligenza irrequieta."
+        },
+        {
+          "type": "quote",
+          "text": "«Mi servirebbero i bulloni della vostra branda. Se non vi servono. Me li passate?»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Ad Elis evidentemente l’altro prigioniero è simpatico, al contrario di Alaster che non ha intenzione di attaccare bottone con un coboldo."
+        },
+        {
+          "type": "quote",
+          "text": "«Che ci devi fare?»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Lui solleva un ammasso di legno e metallo incompleto."
+        },
+        {
+          "type": "quote",
+          "text": "«Una mia invenzione. Una fionda automatizzata. Tu metti dentro i sassolini… e lei li spara tutti insieme. Tecnologia cobolda.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Si presenta allungando la mano tra le sbarre."
+        },
+        {
+          "type": "quote",
+          "text": "«Io sono Cleiton. Inventore. Incompreso.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "È alto poco più di mezzo metro."
+        },
+        {
+          "type": "paragraph",
+          "text": "Mani piccole, artigliate."
+        },
+        {
+          "type": "paragraph",
+          "text": "Scaglie opache."
+        },
+        {
+          "type": "quote",
+          "text": "«Il mio vero sogno però sono le ali. Ali di metallo. Come i grandi draghi. Ma migliori. Ali che non ti fanno stancare. Ali che ti portano sopra le nuvole.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Aelar scuote il capo."
+        },
+        {
+          "type": "quote",
+          "text": "«In questa città ci sono solo fanatici e pazzi?»"
+        },
+        {
+          "type": "quote",
+          "text": "«Di tutto, credimi.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "È Alaster a rispondere."
+        },
+        {
+          "type": "quote",
+          "text": "«Come mai sei qui dentro, Cleiton?»"
+        },
+        {
+          "type": "quote",
+          "text": "«Mi servivano dei componenti. Non è rubare. È… recuperare. Però mi hanno beccato.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Scrolla le spalle."
+        },
+        {
+          "type": "quote",
+          "text": "«Sono nove giorni che sto qui. Più o meno.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Le guardie? Cosa fanno?"
+        },
+        {
+          "type": "quote",
+          "text": "«Giocano a carte. Mi insultano. A volte parlano di una certa Veronica che fa cose con le mani fantastiche. Non so cosa significhi.»"
+        },
+        {
+          "type": "quote",
+          "text": "«Con la fionda, quando torna la guardia, gli sparo le mie feci in faccia.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Lo dice serio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi ride."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nessuno ride con lui."
+        },
+        {
+          "type": "quote",
+          "text": "«Preferirei qualcosa di meno… creativo. Comunque non ti daremo nulla. Ci manca solo che, per le tue cretinate, la nostra situazione si aggravi o che possano pensare che abbiamo potuto aiutarti a costruire... un tira feci!»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Ad Alaster la cosa fa ribrezzo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non avrebbe mai immaginato di avere a che fare con esseri o persone di rango così infimo e che, oltretutto, si esprimano in modo tanto rozzo."
+        },
+        {
+          "type": "quote",
+          "text": "«Io sono solo un piccolo coboldo.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Cleiton inizia a lamentarsi."
+        },
+        {
+          "type": "paragraph",
+          "text": "A urlare."
+        },
+        {
+          "type": "paragraph",
+          "text": "A scuotere le sbarre."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il rumore richiama una guardia che, infastidita, si avvicina alla cella per vedere cosa stia succedendo."
+        },
+        {
+          "type": "quote",
+          "text": "«Cleiton! Stai zitto!»"
+        },
+        {
+          "type": "paragraph",
+          "text": "L’uomo nota l’oggetto incompleto tra le mani del coboldo."
+        },
+        {
+          "type": "quote",
+          "text": "«Che cos’è quella roba? Dove l’hai presa?»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Cleiton la stringe al petto."
+        },
+        {
+          "type": "quote",
+          "text": "«È mia!»"
+        },
+        {
+          "type": "paragraph",
+          "text": "La guardia sospira."
+        },
+        {
+          "type": "quote",
+          "text": "«Odio questo lavoro.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "È in quell’istante che una voce si insinua."
+        },
+        {
+          "type": "paragraph",
+          "text": "Bassa. Calcolata."
+        },
+        {
+          "type": "paragraph",
+          "text": "È quella di Elis."
+        },
+        {
+          "type": "quote",
+          "text": "«Ehi tu... vuoi una promozione?»"
+        },
+        {
+          "type": "paragraph",
+          "text": "La guardia si irrigidisce."
+        },
+        {
+          "type": "quote",
+          "text": "«Come?»"
+        },
+        {
+          "type": "quote",
+          "text": "«Contatta il Capitano Zodge. Digli che Elis è in prigione. Deve parlare con lui. Non è uno scherzo.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "La guardia esita."
+        },
+        {
+          "type": "quote",
+          "text": "«E perché dovrei?»"
+        },
+        {
+          "type": "quote",
+          "text": "«Tra gli oggetti sequestrati c’è una collana. Se Zodge conferma, puoi tenertela. Se non lo fai, quando usciremo lo saprà.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Silenzio."
+        },
+        {
+          "type": "paragraph",
+          "text": "La guardia rovista tra i beni di Elis e trova tutto..."
+        },
+        {
+          "type": "paragraph",
+          "text": "Collana, soldi..."
+        },
+        {
+          "type": "paragraph",
+          "text": "Se li infila in tasca e se ne va facendo un gesto di scherno verso Elis."
+        },
+        {
+          "type": "quote",
+          "text": "«Il comandante non sarà contento.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Elis è furioso."
+        },
+        {
+          "type": "paragraph",
+          "text": "Incompetente idiota."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il gruppo torna a discutere."
+        },
+        {
+          "type": "paragraph",
+          "text": "Si confronta ed Elis chiede informazioni a sua volta su ciò che ha sentito di Elturel."
+        },
+        {
+          "type": "paragraph",
+          "text": "Da quanto si dice in giro avrebbe subito un attacco e sarebbe caduta in mani nemiche."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aelar ripensa ai suoi confratelli."
+        },
+        {
+          "type": "quote",
+          "text": "«Elturel è scomparsa. Non occupata o sconfitta. È semplicemente ed incredibilmente scomparsa.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Il silenzio cala."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi si torna ad avanzare ipotesi o a cercare di tirare dei fili che possano legare insieme gli eventi degli ultimi istanti della bella città."
+        },
+        {
+          "type": "quote",
+          "text": "«Un potere capace di trascinare una città nel nulla non appartiene a un culto minore.»"
+        },
+        {
+          "type": "quote",
+          "text": "«E se sapessero? Se stessero preparando qualcosa anche qui?»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Le mura sembrano stringersi."
+        },
+        {
+          "type": "quote",
+          "text": "«Finché restiamo qui dentro, non possiamo fare nulla.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Cleiton, nella cella accanto, continua a smontare."
+        },
+        {
+          "type": "paragraph",
+          "text": "Forse sta costruendo una fionda."
+        },
+        {
+          "type": "paragraph",
+          "text": "Forse qualcosa di più."
+        }
+      ]
+    },
+    {
+      "id": "soccorsi",
+      "title": "Arrivano i soccorsi",
+      "videoId": "Ir3QPHHEZC8",
+      "blocks": [
+        {
+          "type": "image-left",
+          "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Secondari/Dorian%20Nodorovo.png",
+          "alt": "Dorian Nodorovo"
+        },
+        {
+          "type": "paragraph",
+          "text": "Le ore scorrono lente."
+        },
+        {
+          "type": "paragraph",
+          "text": "Parlano."
+        },
+        {
+          "type": "paragraph",
+          "text": "Riposano."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ascoltano Cleiton ridacchiare mentre perfeziona la sua “invenzione”."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi —"
+        },
+        {
+          "type": "paragraph",
+          "text": "La porta di ferro stride."
+        },
+        {
+          "type": "paragraph",
+          "text": "Si apre."
+        },
+        {
+          "type": "paragraph",
+          "text": "Due figure entrano nell’area delle celle."
+        },
+        {
+          "type": "paragraph",
+          "text": "Una è una guardia dei Pugni Fiammanti."
+        },
+        {
+          "type": "paragraph",
+          "text": "L’altra…"
+        },
+        {
+          "type": "paragraph",
+          "text": "Lineamenti snelli."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sguardo penetrante."
+        },
+        {
+          "type": "paragraph",
+          "text": "Capelli neri, leggermente mossi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Portamento militare."
+        },
+        {
+          "type": "paragraph",
+          "text": "Armatura impeccabile."
+        },
+        {
+          "type": "paragraph",
+          "text": "Spada al fianco."
+        },
+        {
+          "type": "paragraph",
+          "text": "Si ferma davanti alle sbarre."
+        },
+        {
+          "type": "quote",
+          "text": "«Pensavo di rivederti in circostanze diverse, fratello.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Alaster sorride appena."
+        },
+        {
+          "type": "quote",
+          "text": "«Sono successe molte cose inaspettate dalla mia partenza. Come puoi vedere.»"
+        },
+        {
+          "type": "quote",
+          "text": "«Nostra madre mi aveva informato che eri diretto a Elturel.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Una pausa."
+        },
+        {
+          "type": "quote",
+          "text": "«Questa non è Elturel.»"
+        },
+        {
+          "type": "quote",
+          "text": "«Il tuo acume non ti abbandona mai.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Lo sguardo si fa più cupo."
+        },
+        {
+          "type": "quote",
+          "text": "«Sono tornato da un luogo che non esiste più. E la legge cittadina non ha facilitato il mio ritorno.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Il fratello annuisce lentamente."
+        },
+        {
+          "type": "quote",
+          "text": "«Sono stato informato prima dei nostri genitori. Un membro della famiglia Nodorovo in prigione. Faticavo a crederci.»"
+        },
+        {
+          "type": "quote",
+          "text": "«Allora questa visita è più lieta di quanto sembri.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Un cenno alla guardia."
+        },
+        {
+          "type": "quote",
+          "text": "«Apri.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Le chiavi tintinnano."
+        },
+        {
+          "type": "paragraph",
+          "text": "La serratura scatta."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le sbarre si aprono."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il fratello posa una mano sulla spalla di Alaster."
+        },
+        {
+          "type": "quote",
+          "text": "«Con questo sei in debito, fratellino.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Due leggere pacche."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il messaggio è chiaro."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il piccolo Cleiton non crede ai propri occhi e non sa come agire per trarre vantaggio dagli eventi."
+        },
+        {
+          "type": "quote",
+          "text": "«Liberate anche me! Posso essere utile! Ho conoscenze! Ho idee! Sono destinato alla grandezza!»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Un istante dopo —"
+        },
+        {
+          "type": "paragraph",
+          "text": "Platt."
+        },
+        {
+          "type": "paragraph",
+          "text": "Qualcosa colpisce la faccia della guardia."
+        },
+        {
+          "type": "quote",
+          "text": "«Ti ho preso!»"
+        },
+        {
+          "type": "paragraph",
+          "text": "La guardia sbatte la spada contro le sbarre."
+        },
+        {
+          "type": "quote",
+          "text": "«Ti farò marcire qui dentro, bestiaccia! Ti è bastato infilarti nella fabbrica del consigliere Gortash?»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Il nome cade pesante."
+        },
+        {
+          "type": "paragraph",
+          "text": "Cleiton deglutisce."
+        },
+        {
+          "type": "quote",
+          "text": "«Non ho preso niente! Non mi avete trovato nulla!»"
+        },
+        {
+          "type": "quote",
+          "text": "«Il consigliere non è noto per la sua clemenza.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "La tensione cambia direzione."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aelar osserva il coboldo per qualche istante."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dietro quella follia disordinata c’era ingegno."
+        },
+        {
+          "type": "paragraph",
+          "text": "E l’ingegno, in tempi come quelli, era una risorsa rara."
+        },
+        {
+          "type": "paragraph",
+          "text": "Si avvicina ad Alaster e parla a bassa voce."
+        },
+        {
+          "type": "quote",
+          "text": "«Senti Alaster... che ne dici di prendere con noi anche il piccoletto? Certo, è una creatura singolare, ma potrebbe tornarci utile, non credi? Io ci farei un pensiero.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Alaster osserva il coboldo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi la guardia."
+        },
+        {
+          "type": "quote",
+          "text": "«Quanto è la sua cauzione?»"
+        },
+        {
+          "type": "quote",
+          "text": "«Quaranta monete d’oro.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Le monete cambiano mano."
+        },
+        {
+          "type": "quote",
+          "text": "«E non voglio rivederlo qui.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "La cella si apre."
+        },
+        {
+          "type": "paragraph",
+          "text": "Cleiton salta fuori."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aelar lo afferra per le spalle."
+        },
+        {
+          "type": "quote",
+          "text": "«Ti abbiamo salvato. Sei in debito con noi.»"
+        },
+        {
+          "type": "quote",
+          "text": "«Assolutamente! Sono al vostro servizio! Ingegnere! Portaborse! Visionario!»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Le porte dell’avamposto si chiudono alle loro spalle."
+        },
+        {
+          "type": "paragraph",
+          "text": "L’aria della città è sporca, ma libera."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il fratello di Alaster si sistema i guanti."
+        },
+        {
+          "type": "quote",
+          "text": "«Dovrai spiegare molte cose alla famiglia.»"
+        },
+        {
+          "type": "quote",
+          "text": "«Prima devo sistemare un obbligo con i Pugni Fiammanti.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Un mezzo sorriso."
+        },
+        {
+          "type": "quote",
+          "text": "«I Nodorovo pagano sempre i loro debiti.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Il fratello si allontana."
+        },
+        {
+          "type": "paragraph",
+          "text": "Restano soli."
+        },
+        {
+          "type": "paragraph",
+          "text": "Liberi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Con un coboldo."
+        },
+        {
+          "type": "paragraph",
+          "text": "E un nome nuovo che pesa nell’aria:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Gortash."
+        }
+      ]
+    },
+    {
+      "id": "liberi",
+      "title": "Siamo fuori",
+      "videoId": "jkFs2J5KMQE",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Le porte dell’avamposto si chiudono alle loro spalle."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dorian non si volta."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non saluta."
+        },
+        {
+          "type": "paragraph",
+          "text": "Si dilegua tra le ombre della città alta."
+        },
+        {
+          "type": "paragraph",
+          "text": "Restano in sei."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sei figure nella Città Bassa, mentre il sole cala oltre i tetti storti di Baldur’s Gate."
+        },
+        {
+          "type": "quote",
+          "text": "«Qual è il prossimo passo?»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Le opzioni non sono poche."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma il tempo sì."
+        },
+        {
+          "type": "quote",
+          "text": "«Tarina.»"
+        },
+        {
+          "type": "quote",
+          "text": "«Le terme.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "La discussione è rapida."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le terme distano meno di un’ora a piedi."
+        },
+        {
+          "type": "paragraph",
+          "text": "È quasi notte."
+        },
+        {
+          "type": "quote",
+          "text": "«Se sopravvivremo, torneremo da Tarina.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Nessuno ride."
+        },
+        {
+          "type": "paragraph",
+          "text": "Baldur’s Gate cambia volto quando il sole scompare."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le botteghe chiudono in fretta."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le imposte si serrano."
+        },
+        {
+          "type": "paragraph",
+          "text": "I mercanti si affrettano verso casa."
+        },
+        {
+          "type": "paragraph",
+          "text": "I vicoli si svuotano di gente onesta e si riempiono di ombre."
+        },
+        {
+          "type": "paragraph",
+          "text": "Chi è nato qui ci ha fatto il callo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Per chi viene da fuori, è un trauma."
+        },
+        {
+          "type": "paragraph",
+          "text": "Elis prende la guida."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non sceglie la via più breve."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sceglie quella meno illuminata, meno frequentata, ma anche meno sorvegliata."
+        },
+        {
+          "type": "paragraph",
+          "text": "Strade secondarie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Passaggi tra edifici addossati."
+        },
+        {
+          "type": "paragraph",
+          "text": "Scale strette tra muri umidi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Mentre avanzano, una voce si insinua nel rumore della notte."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non è un grido."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non è una conversazione."
+        },
+        {
+          "type": "paragraph",
+          "text": "È un suono basso."
+        },
+        {
+          "type": "paragraph",
+          "text": "Soffocato."
+        },
+        {
+          "type": "paragraph",
+          "text": "Proviene da un vicolo laterale."
+        },
+        {
+          "type": "paragraph",
+          "text": "Kyran si ferma."
+        },
+        {
+          "type": "paragraph",
+          "text": "Inclina il capo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ascolta."
+        },
+        {
+          "type": "paragraph",
+          "text": "I passi degli altri si arrestano."
+        },
+        {
+          "type": "paragraph",
+          "text": "L’aria cambia."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non è il normale rumore di città."
+        },
+        {
+          "type": "paragraph",
+          "text": "È qualcosa di più teso."
+        },
+        {
+          "type": "paragraph",
+          "text": "Qualcuno è lì dentro."
+        },
+        {
+          "type": "paragraph",
+          "text": "E non sta parlando liberamente."
+        },
+        {
+          "type": "paragraph",
+          "text": "La notte di Baldur’s Gate non è mai silenziosa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma certi silenzi gridano più delle urla."
+        }
+      ]
+    },
+    {
+      "id": "rumori",
+      "title": "Rumori nel vicolo",
+      "videoId": "5lAqILNFFnc",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Non è un urlo."
+        },
+        {
+          "type": "paragraph",
+          "text": "È l’inizio di un urlo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Una voce che si carica d’aria, pronta a spezzare il silenzio — e poi viene soffocata."
+        },
+        {
+          "type": "paragraph",
+          "text": "Interrotta."
+        },
+        {
+          "type": "quote",
+          "text": "«Avete sentito niente voi?»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Gli altri scuotono il capo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nessuno ha percepito nulla."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sembrava una voce femminile."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan lo guarda."
+        },
+        {
+          "type": "quote",
+          "text": "«Nathan, siamo già stati in prigione.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Aelar vede già lo svolgimento delle prossime azioni."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un invito alla prudenza."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma Kyran non distoglie lo sguardo dal vicolo laterale."
+        },
+        {
+          "type": "quote",
+          "text": "«C’è qualcuno in pericolo.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Aeren si alza tra i tetti, silenzioso come un’ombra."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il suo sguardo scivola sopra tegole spezzate e comignoli anneriti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi il messaggio arriva."
+        },
+        {
+          "type": "paragraph",
+          "text": "Cinque figure."
+        },
+        {
+          "type": "paragraph",
+          "text": "Una cinquantina di metri più avanti, oltre una serie di vicoli intrecciati."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non distingue volti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Solo movimenti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Elis si muove per primo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Vuole andare a vedere di cosa si tratti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Passo leggero, silenzioso come un'ombra."
+        },
+        {
+          "type": "paragraph",
+          "text": "Peso distribuito con precisione."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ogni appoggio calcolato."
+        },
+        {
+          "type": "paragraph",
+          "text": "Gli altri restano a distanza, mantenendo il contatto visivo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dieci metri."
+        },
+        {
+          "type": "paragraph",
+          "text": "Quindici."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ombre che si allungano tra le pareti umide."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dopo due angoli stretti, il vicolo si apre in un piccolo spiazzo irregolare."
+        },
+        {
+          "type": "paragraph",
+          "text": "Quattro figure sono chine a terra."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non si distinguono bene."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma il gesto è chiaro."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non stanno aiutando."
+        },
+        {
+          "type": "paragraph",
+          "text": "Elis non attacca."
+        },
+        {
+          "type": "paragraph",
+          "text": "Solleva appena una mano e gesticola qualcosa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un suono si diffonde nel vicolo opposto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Passi in armatura."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ferraglia che stride."
+        },
+        {
+          "type": "paragraph",
+          "text": "L’eco inconfondibile di una pattuglia dei Pugni Fiammanti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le quattro figure scattano in piedi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nessuna parola."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nessuna sfida."
+        },
+        {
+          "type": "paragraph",
+          "text": "Si disperdono in direzioni diverse, svanendo tra le ombre."
+        }
+      ]
+    },
+    {
+      "id": "culto",
+      "title": "Il Culto dei Tre Morti",
+      "videoId": "v4DIUMZlUzw",
+      "blocks": [
+        {
+          "type": "image-left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-4/VicoloTreMorti.png",
+          "alt": "Vicolo"
+        },
+        {
+          "type": "paragraph",
+          "text": "Resta qualcuno."
+        },
+        {
+          "type": "paragraph",
+          "text": "Una figura immobile, distesa sul selciato."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il gruppo si avvicina con cautela."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aeren continua a sorvolare la zona, vigilando."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aelar chiede a Nathan di avvicinarsi e gli indica la figura a terra."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan si inginocchia."
+        },
+        {
+          "type": "paragraph",
+          "text": "La persona a terra è una donna."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non respira."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ha la gola tagliata e lo sterno completamente aperto, con parte degli organi riversati accanto al corpo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non si sono limitati a ucciderla."
+        },
+        {
+          "type": "paragraph",
+          "text": "La stavano depredando."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il silenzio del vicolo torna."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma ora non è vuoto."
+        },
+        {
+          "type": "paragraph",
+          "text": "È carico di conseguenze."
+        },
+        {
+          "type": "paragraph",
+          "text": "A Nathan basta uno sguardo per capire."
+        },
+        {
+          "type": "paragraph",
+          "text": "L’assalto è legato ai riti del Culto dei Tre Morti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Gli aggressori stavano raccogliendo ciò che poteva servire ai loro rituali."
+        },
+        {
+          "type": "paragraph",
+          "text": "Denti strappati."
+        },
+        {
+          "type": "paragraph",
+          "text": "Occhi assenti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Quello che resta è un macello."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aelar cerca di orientarsi tra i vicoli, tentando di ricostruire la direzione presa dagli aggressori."
+        },
+        {
+          "type": "paragraph",
+          "text": "Tiene sotto controllo ogni angolo, attento a possibili imboscate."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan continua a osservare il corpo della donna."
+        },
+        {
+          "type": "quote",
+          "text": "«Signori... di sicuro erano cultisti. A quanto pare a volte aiutare le persone ha il suo senso. Purtroppo ormai è troppo tardi. Aelar... hai per caso idea di dove siano finiti?»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Proprio in quel momento Aelar sente il richiamo di Aeren."
+        },
+        {
+          "type": "paragraph",
+          "text": "Stanno arrivando."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pericolo imminente."
+        },
+        {
+          "type": "paragraph",
+          "text": "Tutti si preparano allo scontro."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non c’è neppure il tempo di chiedere maggiori dettagli ad Aeren."
+        }
+      ]
+    },
+    {
+      "id": "cultisti",
+      "title": "I cultisti ci attaccano",
+      "videoId": "YE5i5TB_SAA",
+      "blocks": [
+        {
+          "type": "image-left",
+          "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Avversari/CultistaMyrkul.png",
+          "alt": "Cultista di Myrkul"
+        },
+        {
+          "type": "paragraph",
+          "text": "Una figura emerge."
+        },
+        {
+          "type": "paragraph",
+          "text": "Trasandata."
+        },
+        {
+          "type": "paragraph",
+          "text": "Cappuccio calato sul volto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Mani sporche di sangue secco."
+        },
+        {
+          "type": "quote",
+          "text": "«Il Dio delle Ossa… vi reclama.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Indica Nathan."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dalla sua mano si sprigiona un’articolazione spettrale."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un arto osseo si allunga nell’aria e graffia il paladino sul volto."
+        },
+        {
+          "type": "paragraph",
+          "text": "La carne si apre."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il dolore è reale."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aelar si sposta e mette sotto tiro il cultista."
+        },
+        {
+          "type": "paragraph",
+          "text": "Una freccia sibila."
+        },
+        {
+          "type": "paragraph",
+          "text": "Colpisce."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il cultista si sbilancia, barcolla e il cappuccio cade."
+        },
+        {
+          "type": "paragraph",
+          "text": "Parte del volto dell’uomo è quasi scheletrico."
+        },
+        {
+          "type": "paragraph",
+          "text": "Carne viva intrecciata ad osso scoperto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Elis attacca a distanza la figura e lo colpisce con precisione tra la spalla e il petto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il colpo affonda in profondità e lo lascia ormai più morto che vivo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Appena visto l’esito del suo attacco, scatta verso il lato destro cercando copertura."
+        },
+        {
+          "type": "paragraph",
+          "text": "Anche Nathan si avventa sul cultista."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non ha scampo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Cade rapidamente, quasi con la stessa velocità con cui era apparso."
+        },
+        {
+          "type": "image-left",
+          "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Avversari/CultistaBane.png",
+          "alt": "Cultista di Bane"
+        },
+        {
+          "type": "paragraph",
+          "text": "Un’ombra si stacca dal tetto, alla loro sinistra."
+        },
+        {
+          "type": "paragraph",
+          "text": "Piomba su Kyran."
+        },
+        {
+          "type": "paragraph",
+          "text": "La lama scende in picchiata."
+        },
+        {
+          "type": "paragraph",
+          "text": "Quando la punta si avvicina, Kyran avverte qualcosa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non solo pericolo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Vulnerabilità."
+        },
+        {
+          "type": "paragraph",
+          "text": "Come se quell’arma fosse fatta apposta per lui."
+        },
+        {
+          "type": "paragraph",
+          "text": "Inizialmente Kyran sembra reagire in tempo ed evita il primo affondo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma il secondo colpo è sferrato con maestria e precisione."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non c’è nulla da fare."
+        },
+        {
+          "type": "paragraph",
+          "text": "La lama entra."
+        },
+        {
+          "type": "paragraph",
+          "text": "Più in profondità del normale."
+        },
+        {
+          "type": "paragraph",
+          "text": "La carne si lacera."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il sangue scende rapido."
+        },
+        {
+          "type": "paragraph",
+          "text": "Cleiton, spaventato ma efficace, aiuta lanciando ampolle infuocate."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il nuovo assalitore viene colpito in pieno petto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Prende fuoco."
+        },
+        {
+          "type": "paragraph",
+          "text": "Kyran alza le mani."
+        },
+        {
+          "type": "paragraph",
+          "text": "Attorno a lui si espande una sfera di luce violacea."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ombre che brillano."
+        },
+        {
+          "type": "paragraph",
+          "text": "Crepuscolo che protegge."
+        },
+        {
+          "type": "paragraph",
+          "text": "La benedizione del Twilight si diffonde tra i compagni."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ferite che non si chiudono, ma che smettono di sanguinare."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un nuovo cultista entra in scena, questa volta alla loro destra."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sembra un seguace del Dio della Morte."
+        },
+        {
+          "type": "paragraph",
+          "text": "Guarda Alaster, lo punta e decide di colpire lui."
+        },
+        {
+          "type": "paragraph",
+          "text": "Anche dalla sua mano parte un’articolazione spettrale che sfreccia fino all’addome di Alaster e vi affonda."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il colpo è potente."
+        },
+        {
+          "type": "paragraph",
+          "text": "Alaster si piega mentre una smorfia di dolore attraversa il suo volto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Resta uno squarcio nero."
+        },
+        {
+          "type": "paragraph",
+          "text": "E dolore."
+        },
+        {
+          "type": "paragraph",
+          "text": "Gli occhi di Alaster riprendono vita."
+        },
+        {
+          "type": "paragraph",
+          "text": "Tossisce e reagisce."
+        },
+        {
+          "type": "paragraph",
+          "text": "Alza una mano e scaglia contro il cultista un fascio di luce."
+        },
+        {
+          "type": "paragraph",
+          "text": "L’ira è tutta concentrata nel colpo."
+        },
+        {
+          "type": "paragraph",
+          "text": "L’attacco lo investe in pieno e il cultista esplode."
+        },
+        {
+          "type": "paragraph",
+          "text": "Schizzi di sangue fluorescente si riversano sul selciato."
+        },
+        {
+          "type": "paragraph",
+          "text": "Con le ultime forze rimaste, Alaster estrae una fiala e la beve."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le ferite sul suo corpo iniziano lentamente a richiudersi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aelar decide di usare una delle arti insegnategli all’accademia, in memoria dei suoi confratelli."
+        },
+        {
+          "type": "paragraph",
+          "text": "Si incide il palmo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il sangue scorre lungo l’arco."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il legno si accende di brace."
+        },
+        {
+          "type": "paragraph",
+          "text": "Crimson Rite."
+        },
+        {
+          "type": "paragraph",
+          "text": "La freccia vola verso il cultista che sta combattendo con Kyran."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il colpo sembra ben indirizzato, ma l’avversario è abbastanza agile da evitarlo."
+        },
+        {
+          "type": "paragraph",
+          "text": "La freccia si schianta contro la parete retrostante."
+        },
+        {
+          "type": "paragraph",
+          "text": "Elis si sporge appena dal suo nascondiglio tra le casse e scaglia un dardo contro lo stesso cultista."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il colpo è indirizzato alle gambe e va a segno."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il cultista accusa il colpo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi si lancia nuovamente all’attacco in direzione di Kyran."
+        },
+        {
+          "type": "image-left",
+          "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Avversari/CultistaBahal.png",
+          "alt": "Cultista di Bhaal"
+        },
+        {
+          "type": "paragraph",
+          "text": "Un altro cultista si materializza davanti a Nathan e tenta di colpirlo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma il paladino è abituato a combattere queste oscenità."
+        },
+        {
+          "type": "paragraph",
+          "text": "Riesce a schivare."
+        },
+        {
+          "type": "paragraph",
+          "text": "Come appreso al tempio, non si limita a evitare il colpo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Contrattacca."
+        },
+        {
+          "type": "paragraph",
+          "text": "Illuminato dalla forza della sua fede, colpisce duramente."
+        },
+        {
+          "type": "paragraph",
+          "text": "L’impatto è devastante."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un altro colpo raggiunge Kyran."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il cultista sa il fatto suo."
+        },
+        {
+          "type": "paragraph",
+          "text": "La lama si conficca nel fianco del warlock fino in fondo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Kyran perde conoscenza e crolla al suolo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il cultista, spronato dal successo del suo attacco, si sposta davanti ad Alaster."
+        },
+        {
+          "type": "paragraph",
+          "text": "Cleiton trema."
+        },
+        {
+          "type": "paragraph",
+          "text": "È spaventato, ma riesce comunque a farsi forza."
+        },
+        {
+          "type": "paragraph",
+          "text": "Fruga nella borsa ed estrae una fionda improvvisata."
+        },
+        {
+          "type": "paragraph",
+          "text": "Scaglia il colpo con precisione verso il volto del cultista."
+        },
+        {
+          "type": "quote",
+          "text": "«Tre Morti! Tre Morti!»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Uno dei cultisti afferra Nathan per il volto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Gli si avvicina e lo guarda fisso negli occhi."
+        },
+        {
+          "type": "quote",
+          "text": "«Accetta il Dio degli Omicidi. Unisciti a lui.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Per un istante la mente del paladino vacilla."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi la fede si erge come un muro."
+        },
+        {
+          "type": "paragraph",
+          "text": "Resiste."
+        },
+        {
+          "type": "quote",
+          "text": "«L’Osservatore vi giudicherà.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Alaster, sanguinante, alza la mano."
+        },
+        {
+          "type": "paragraph",
+          "text": "Tre occhi compaiono dietro il cultista che gli si erge davanti."
+        },
+        {
+          "type": "paragraph",
+          "text": "La testa del cultista vacilla e sangue nero cola dalle sue narici."
+        },
+        {
+          "type": "paragraph",
+          "text": "Alaster ottiene finalmente un attimo di respiro e arretra verso il fondo del vicolo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aelar attinge a tutte le conoscenze apprese all’accademia."
+        },
+        {
+          "type": "paragraph",
+          "text": "Si concentra sul cultista che sta combattendo Nathan e lo affligge con una Maledizione del Sangue."
+        },
+        {
+          "type": "paragraph",
+          "text": "Impugna l’arco e scocca."
+        },
+        {
+          "type": "paragraph",
+          "text": "La freccia colpisce il petto del bersaglio."
+        },
+        {
+          "type": "paragraph",
+          "text": "La punta prende fuoco, provocando dolore atroce."
+        },
+        {
+          "type": "paragraph",
+          "text": "Eppure il cultista rimane in piedi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Elis si muove rapido."
+        },
+        {
+          "type": "paragraph",
+          "text": "Punta il cultista che ha messo al tappeto Kyran."
+        },
+        {
+          "type": "paragraph",
+          "text": "Lo stocco brilla nell’oscurità."
+        },
+        {
+          "type": "paragraph",
+          "text": "Colpisce alla gamba."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il cultista crolla."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ne resta solo uno ancora in piedi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan avanza."
+        },
+        {
+          "type": "paragraph",
+          "text": "L’ira vorrebbe prendere il sopravvento per lavare nel sangue l’offesa subita."
+        },
+        {
+          "type": "paragraph",
+          "text": "La richiesta di abbandonare la sua fede per unirsi al Signore degli Omicidi brucia ancora."
+        },
+        {
+          "type": "paragraph",
+          "text": "Impugna la spada."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi ruota il polso."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il pomo colpisce la tempia dell’uomo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il corpo cade."
+        },
+        {
+          "type": "paragraph",
+          "text": "Incosciente."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il fuoco si spegne lentamente."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il battito scompare."
+        },
+        {
+          "type": "paragraph",
+          "text": "Restano:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Due corpi morti.",
+            "Un cultista vivo.",
+            "Sangue sui muri.",
+            "Odore di carne bruciata."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "E un vicolo che ha visto troppo."
+        }
+      ]
+    },
+    {
+      "id": "scontro",
+      "title": "Lo scontro è finito...",
+      "videoId": "hlWGV3I5H",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Il combattimento è finito."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma il dolore resta."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il raggio che ha colpito Kyran lo ha devastato."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il corpo è riverso contro il muro."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il respiro è irregolare."
+        },
+        {
+          "type": "quote",
+          "text": "«Ragazzi… legate quel tizio. L’ho fatto svenire.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan si inginocchia accanto a Kyran e posa la mano sul simbolo sacro."
+        },
+        {
+          "type": "paragraph",
+          "text": "Cerca una preghiera."
+        },
+        {
+          "type": "paragraph",
+          "text": "Cerca una cura."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma le energie sono esaurite."
+        },
+        {
+          "type": "quote",
+          "text": "«Non ne ho più… ho usato tutto.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Aelar si avvicina."
+        },
+        {
+          "type": "quote",
+          "text": "«Medicina.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Le sue mani sono ferme."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ancora una volta, gli studi all’accademia gli tornano utili."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ripensa ai suoi confratelli mentre applica la giusta pressione sulle ferite."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il respiro di Kyran si regolarizza."
+        },
+        {
+          "type": "paragraph",
+          "text": "Resterà incosciente."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma vivrà."
+        },
+        {
+          "type": "paragraph",
+          "text": "I corpi vengono perquisiti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Coltelli ondulati, progettati per lacerare più che per uccidere."
+        },
+        {
+          "type": "paragraph",
+          "text": "Veleno classico sulle lame."
+        },
+        {
+          "type": "paragraph",
+          "text": "E collane."
+        },
+        {
+          "type": "paragraph",
+          "text": "Simboli di Myrkul."
+        },
+        {
+          "type": "paragraph",
+          "text": "Su entrambi i mirkuliti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi —"
+        },
+        {
+          "type": "paragraph",
+          "text": "Aelar, indagando con attenzione sul corpo di uno dei cultisti, trova una moneta."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non è di metallo."
+        },
+        {
+          "type": "paragraph",
+          "text": "È fatta d’osso."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sulla superficie è inciso un simbolo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un triangolo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Tre cerchi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aelar non ha mai visto nulla del genere."
+        },
+        {
+          "type": "paragraph",
+          "text": "La mostra subito a Nathan."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan osserva la moneta."
+        },
+        {
+          "type": "quote",
+          "text": "«Tre Morti.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "L’ipotesi è immediata."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma non definitiva."
+        },
+        {
+          "type": "paragraph",
+          "text": "Cleiton si avvicina."
+        },
+        {
+          "type": "paragraph",
+          "text": "Gli occhi si stringono."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pensa e ripensa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Si prende la testa tra le mani."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi ha un’illuminazione."
+        },
+        {
+          "type": "quote",
+          "text": "«L’ho visto! Al mercato nero. Fuori da un emporio… come si chiama… Black.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Il nome si imprime nell’aria."
+        },
+        {
+          "type": "paragraph",
+          "text": "Emporio Black."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non è una prova."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma è un filo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il cultista legato si muove."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un suono gutturale."
+        },
+        {
+          "type": "paragraph",
+          "text": "Elis reagisce subito e gli blocca la bocca con un pezzo di corda."
+        },
+        {
+          "type": "paragraph",
+          "text": "Troppo tardi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Schiuma."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non bianca."
+        },
+        {
+          "type": "paragraph",
+          "text": "Scura."
+        },
+        {
+          "type": "paragraph",
+          "text": "Acida."
+        },
+        {
+          "type": "paragraph",
+          "text": "La pelle attorno alle labbra inizia a corrodersi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Si sta sciogliendo dall’interno."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nessun antidoto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nessuna confessione."
+        },
+        {
+          "type": "paragraph",
+          "text": "Solo un altro cadavere."
+        },
+        {
+          "type": "paragraph",
+          "text": "C’è troppo sangue per restare."
+        },
+        {
+          "type": "quote",
+          "text": "«Dobbiamo muoverci. Potrebbero arrivarne altri.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Kyran è incosciente."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan è ferito."
+        },
+        {
+          "type": "paragraph",
+          "text": "Alaster porta ancora i segni dello scontro."
+        },
+        {
+          "type": "quote",
+          "text": "«La locanda più vicina è il Canto Elfico.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "L’idea è semplice."
+        },
+        {
+          "type": "paragraph",
+          "text": "Riposarsi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Al mattino parleranno ai Pugni Fiammanti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi decideranno come proseguire."
+        },
+        {
+          "type": "paragraph",
+          "text": "Emporio Black."
+        },
+        {
+          "type": "paragraph",
+          "text": "Mercato Nero."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il filo esiste."
+        },
+        {
+          "type": "paragraph",
+          "text": "E ora hanno una direzione."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma la Città Bassa non dimentica il sangue versato."
+        }
+      ]
+    }
+  ]
+}
