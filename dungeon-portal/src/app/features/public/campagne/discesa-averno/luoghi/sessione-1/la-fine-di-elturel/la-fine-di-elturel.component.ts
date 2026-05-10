@@ -18,5 +18,5 @@ Luogo di soccorso, scelte morali e nascita dell’alleanza definitiva.
 
   `;
 
-  immagine = 'assets/luoghi/sessione-1/LaFineDiElturel.png'; // metti qui il path corretto
+  immagine = 'assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-1/LaFineDiElturel.png'; // metti qui il path corretto
 }

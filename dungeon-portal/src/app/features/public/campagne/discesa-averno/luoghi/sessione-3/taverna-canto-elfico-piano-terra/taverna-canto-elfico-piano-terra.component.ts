@@ -18,5 +18,5 @@ export class TavernaCantoElficoPianoTerraComponent {
    (il proprietario della taverna) e combattono contro i Pirati che stavano braccando Tarina.
   `;
 
-  immagine = 'assets/luoghi/sessione-3/TavernaCantoElficoPianoTerra.png'; // metti qui il path corretto
+  immagine = 'assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-3/TavernaCantoElficoPianoTerra.png'; // metti qui il path corretto
 }

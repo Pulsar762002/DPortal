@@ -24,5 +24,5 @@ futuro.
 della sopravvivenza familiare.
   `;
 
-  immagine = 'assets/personaggi/Alleati/DarsusBell.png'; // metti qui il path corretto
+  immagine = 'assets/data/ikaros/campagne/discesa-averno/personaggi/Alleati/DarsusBell.png'; // metti qui il path corretto
 }

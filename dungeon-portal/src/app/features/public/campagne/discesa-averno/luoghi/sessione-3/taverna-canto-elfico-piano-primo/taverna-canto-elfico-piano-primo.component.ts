@@ -17,5 +17,5 @@ export class TavernaCantoElficoPianoPrimoComponent {
    Questo e' il luogo nel quale Aelar, Alaster e Nathan hanno incontrato Elis e Tarina
   `;
 
-  immagine = 'assets/luoghi/sessione-3/TavernaCantoElficoPianoPrimo.png'; // metti qui il path corretto
+  immagine = 'assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-3/TavernaCantoElficoPianoPrimo.png'; // metti qui il path corretto
 }

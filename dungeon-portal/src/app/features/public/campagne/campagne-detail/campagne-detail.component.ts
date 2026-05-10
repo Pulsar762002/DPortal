@@ -4,7 +4,7 @@ import { CommonModule, TitleCasePipe } from '@angular/common';
 
 @Component({
   selector: 'app-campagne-detail',
-  imports: [CommonModule, TitleCasePipe, RouterLink],
+  imports: [CommonModule, RouterLink],
   templateUrl: './campagne-detail.component.html',
   styleUrl: './campagne-detail.component.css',
 })

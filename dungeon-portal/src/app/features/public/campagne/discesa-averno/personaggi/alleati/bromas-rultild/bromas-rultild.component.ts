@@ -24,5 +24,5 @@ profughi raccolti lungo la strada.
 masse civili sopravvissute.
   `;
 
-  immagine = 'assets/personaggi/Alleati/BromasRultild.png'; // metti qui il path corretto
+  immagine = 'assets/data/ikaros/campagne/discesa-averno/personaggi/Alleati/BromasRultild.png'; // metti qui il path corretto
 }

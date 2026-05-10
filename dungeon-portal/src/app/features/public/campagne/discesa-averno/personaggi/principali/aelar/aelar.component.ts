@@ -27,6 +27,6 @@ export class AelarComponent {
     È spesso il primo ad analizzare scenari e pericoli.
   `;
 
-  immagine = 'assets/personaggi/Party/AelarBig.png'; // metti qui il path corretto
+  immagine = 'assets/data/ikaros/campagne/discesa-averno/personaggi/Party/AelarBig.png'; // metti qui il path corretto
 
 }

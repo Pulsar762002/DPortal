@@ -37,7 +37,7 @@ export class NavbarComponent {
 
   getAvatarUrl(): string {
     if (!this.user?.avatarUrl) {
-      return 'assets/default-avatar.png';
+      return 'assets/data/ikaros/campagne/discesa-averno/default-avatar.png';
     }
     return `${this.apiUrl}/uploads/${this.user.avatarUrl}`;
   }

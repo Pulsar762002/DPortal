@@ -26,6 +26,6 @@ export class NathanComponent {
     soccorrere civili, respingere pericoli e guidare gli altri con la sua fede.
   `;
 
-  immagine = 'assets/personaggi/Party/NathanBig.png'; // metti qui il path corretto
+  immagine = 'assets/data/ikaros/campagne/discesa-averno/personaggi/Party/NathanBig.png'; // metti qui il path corretto
 
 }

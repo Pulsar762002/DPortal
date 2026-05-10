@@ -27,6 +27,6 @@ export class AlasterComponent {
     pragmatico
   `;
 
-  immagine = 'assets/personaggi/Party/AlasterBig.png'; // metti qui il path corretto
+  immagine = 'assets/data/ikaros/campagne/discesa-averno/personaggi/Party/AlasterBig.png'; // metti qui il path corretto
 
 }

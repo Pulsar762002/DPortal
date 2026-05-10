@@ -1,0 +1,1435 @@
+{
+  "id": 100,
+  "title": "Sessione 100",
+  "videoId": "QNR3GYtjuGs",
+  "chapters": [
+    {
+      "id": "elturel",
+      "title": "Elturel, la Città della Luce",
+      "videoId": "bGmBYsl4-YU",
+      "blocks": [
+        {
+          "type": "image-left",
+          "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-1/Elturel.png",
+          "alt": "Elturel sotto il Compagno"
+        },
+        {
+          "type": "paragraph",
+          "text": "Davanti a voi si erge Elturel, distante pochi giorni nell’entroterra rispetto a Baldur’s Gate, lungo la Costa della Spada. Sorge sulle rive del fiume Chionthar, le cui acque scorrono profonde fino alle alte foreste degli Elfi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Questa è casa. Per alcuni lo è dalla nascita; per altri è diventata rifugio col passare degli anni. Le sue strade, le sue mura e le sue torri sono familiari. Ma ciò che davvero la distingue non è la pietra né il fiume."
+
+        },
+        {
+          "type": "paragraph",
+          "text": "Sopra la città splende un sole artificiale: una sfera bianca, immobile nel cielo, che irradia luce sacra senza mai affievolirsi. Gli Elturiani lo chiamano <strong>il Compagno </strong>."
+        },
+        {
+          "type": "paragraph",
+          "text": "Da quasi cinquant’anni quella luce veglia su Elturel. È conoscenza comune che il Compagno sia apparso come risposta a un terribile attacco guidato da un Signore dei Vampiri, quando la città era stretta dall’ombra e dai non morti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Da allora, la sua luminosità consacrata ha scacciato le creature della notte. I non morti non possono prosperare sotto il suo bagliore. Elturel è rinata, protetta da una presenza che non conosce tramonto."
+        },
+        {
+          "type": "paragraph",
+          "text": "A custodire il miracolo vi è l’<strong>Ordine del Compagno</strong>, un ordine clericale che venera quella sfera luminosa come simbolo di salvezza e fede. Essi vegliano, pregano e difendono la promessa che il cielo stesso abbia scelto Elturel."
+        }
+      ]
+    },
+    {
+      "id": "nathan",
+      "title": "Nathan, Paladino del Dovere",
+      "videoId": "-0J3IWj3exk",
+      "blocks": [
+        {
+          "type": "image-left",
+          "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Party/NathanBig.png",
+          "alt": "Nathan"
+        },
+        {
+          "type": "paragraph",
+          "text": "Tra coloro che chiamano Elturel casa vi è Nathan. Umano di circa ventiquattro inverni, alto oltre la media ma senza imponenza ostentata, porta sul volto cicatrici ormai sbiadite dal tempo. Non sono ferite recenti, ma memorie incise nella carne."
+        },
+        {
+          "type": "paragraph",
+          "text": "I suoi capelli castani ricadono ordinati sul capo, mentre gli occhi azzurri osservano con attenzione vigile. Indossa una solida cotta di maglia, il metallo intrecciato che accompagna i suoi movimenti con un suono grave e rassicurante."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sul guanto d’arme che porta alla mano destra è dipinto un occhio. Non un semplice ornamento, ma un simbolo che osserva, giudica e non dimentica. Anche sotto la luce eterna del Compagno, qualcuno deve continuare a vigilare."
+        }
+      ]
+    },
+    {
+      "id": "tempio",
+      "title": "Il tempio delle divinità",
+      "videoId": "BVSm9TFJq78",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Un nuovo giorno si leva su Elturel. Nel grande Tempio delle Divinità, tra colonne imponenti e altari consacrati, Nathan apre gli occhi al mattino."
+        },
+        {
+          "type": "paragraph",
+          "text": "La prima figura che incontra è quella che da sempre considera una guida, una presenza paterna: Marcus. L’uomo è già raccolto in preghiera, inginocchiato davanti agli altari degli dèi, immerso in una devozione silenziosa e profonda."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan si avvicina senza interrompere il raccoglimento. Si inginocchia accanto a lui, dedicando anch’egli la propria preghiera del mattino alla divinità che venera. Le parole sono sussurrate, intime, ma cariche di convinzione."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il tempio è vasto e l’acustica amplifica ogni passo. Marcus percepisce l’arrivo del giovane. Apre appena un occhio, quasi impercettibilmente, poi torna a chiudersi nella sua preghiera. Dopo qualche istante traccia su di sé il segno sacro."
+        },
+        {
+          "type": "quote",
+          "text": "«Anche oggi hai intenzione di bighellonare,o finalmente ti occuperai dei tuoi doveri?»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan completa la propria preghiera, compie a sua volta il segno sacro e risponde con calma contenuta."
+        },
+        {
+          "type": "quote",
+          "text": "«Sono tornato da pochi giorni, e già iniziamo? Sai bene che non bighellono mai. E poi, fare l’avventuriero… tu come lo definiresti? Ognuno esprime la propria fede in modi diversi. Me lo hai insegnato tu.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Marcus scuote appena il capo. È un uomo anziano, legato a tradizioni più rigide, fedele ai dettami di Helm e della Chiesa. Ha visto altri giovani scegliere vie più stabili — servire la guardia cittadina, trovare uno scopo entro le mura sacre. Nathan, invece, ai suoi occhi appare inquieto."
+        },
+        {
+          "type": "quote",
+          "text": "«Non ti ho insegnato a vagare per il Faerûn. Tuo fratello ha trovato il suo posto. Tu, figlio mio… mi sembri perso.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Le parole non sono pronunciate con rabbia, ma con un peso antico. È un dialogo che si ripete da anni, una costante di ogni preghiera del mattino, del pomeriggio, della sera."
+        },
+        {
+          "type": "quote",
+          "text": "«Non sono perso. Non sono mai stato più certo della mia via. Ho salvato più persone in viaggio di quante ne avrei salvate restando fermo qui.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Marcus sospira. Non discutono mai con asprezza. Davanti agli dèi, anche il conflitto resta misurato. Dopo un lungo silenzio, l’uomo si rassegna con un semplice gesto, lasciando al giovane la libertà delle sue scelte."
+        },
+        {
+          "type": "paragraph",
+          "text": "Quando Nathan si allontana, vede Marcus tornare alle sue mansioni: sistemare i candelabri, riordinare gli altari, spolverare le superfici consacrate. È il suo modo di servire."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan invece esce dal tempio. Non verso la guardia, non verso la celebrazione delle cerimonie. Si dirige verso l’orfanotrofio, verso quelle piccole vite fragili che attendono qualcuno disposto a proteggerle."
+        }
+
+
+      ]
+    },
+    {
+      "id": "orfanotrofio",
+      "title": "L’Orfanotrofio di Marta",
+      "videoId": "ieahzqcpIDg",
+      "blocks": [
+       {
+          "type": "paragraph",
+          "text": "Nathan esce dal Tempio. Anche oggi Elturel è avvolta da una splendida giornata, e il Compagno splende alto nel cielo, riversando sulla città la sua luce sacra, calda e purificante come un balsamo sulla pelle."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poco distante si trova l’Orfanotrofio. Il luogo in cui è cresciuto. Il luogo che custodisce la maggior parte dei suoi ricordi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nel cortile alcuni bambini giocano, lanciando sassolini contro bottiglie allineate su una staccionata. Ridono, si spingono, competono con la serietà tipica di chi considera ogni gioco una battaglia decisiva."
+        },
+        {
+          "type": "paragraph",
+          "text": "Quando Nathan si avvicina, i piccoli si voltano di scatto, temendo per un istante l’arrivo della severa governante — la stessa di quando lui era bambino. Nessuno conosce davvero la sua età. Sembra eterna quanto il Compagno."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma il timore svanisce subito."
+        },
+        {
+          "type": "quote",
+          "text": "«Nathan!»"
+        },
+        {
+          "type": "paragraph",
+          "text": "I bambini gli corrono incontro, abbracciandolo con entusiasmo. Lui ricambia, lasciandosi stringere, sorridendo come solo lì riesce a fare."
+        },
+        {
+          "type": "quote",
+          "text": "«Chi sta vincendo?»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Le accuse volano rapide: Olly bara. No, sono gli altri a essere delle schiappe. Linguacce, gomitate, risate."
+        },
+        {
+          "type": "paragraph",
+          "text": " Nathan scuote il capo con finta severità."
+        },
+        {
+          "type": "quote",
+          "text": "«Mi raccomando, fate i bravi. E quando finite, rimettete tutto a posto. Non fate arrabbiare la povera Marta… alla sua età.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Dopo qualche carezza sulla testa e una raccomandazione paterna, entra nell’edificio."
+        },
+        {
+          "type": "paragraph",
+          "text": "L’interno è un turbinio di vita: bambini che corrono su e giù per le scale, donne che preparano la colazione, richiami, risate, caos. Scene che Nathan ricorda fin troppo bene. Era lui, un tempo, il primo a scendere le scale di corsa. Bambino felice, nonostante tutto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Incontra le donne che lo hanno cresciuto, figure materne più che semplici tutrici."
+        },
+        {
+          "type": "quote",
+          "text": "«Nathan! Che piacere vederti. Sapevamo fossi tornato in città. Tutto bene?»"
+        },
+        {
+          "type": "paragraph",
+          "text": " Parole affettuose, stanchezza sincera, la solita lotta quotidiana contro l’energia incontenibile dei piccoli."
+        },
+        {
+          "type": "quote",
+          "text": "«Ogni generazione è più selvaggia della precedente.»"
+        },
+        {
+          "type": "paragraph",
+          "text": " Nathan ride piano. Anche lui, un tempo, era tra i più irrequieti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Gli viene offerta la possibilità di fermarsi per la colazione, ma scuote il capo con rammarico."
+        },
+        {
+          "type": "quote",
+          "text": "«Mi piacerebbe. Ma devo passare alla Gilda. Forse c’è bisogno di qualcuno.»"
+        },
+        {
+          "type": "paragraph",
+          "text": " È solo un saluto. Un ritorno breve, un promemoria di ciò che è stato."
+        },
+        {
+          "type": "paragraph",
+          "text": "Mentre si allontana, sente una voce gridare dietro di lui."
+        },
+        {
+          "type": "quote",
+          "text": "«Ehi! Metti giù quel colpasso!»"
+        },
+        {
+          "type": "paragraph",
+          "text": " Un altro inseguimento. Un’altra mattina rumorosa. Nathan sorride appena, poi si incammina verso la Gilda degli Avventurieri, sotto la luce eterna del Compagno."
+        }
+      ]
+    },
+    {"id": "gilda",
+      "title": "La Gilda degli Avventurieri e l’incontro",
+      "videoId": "sYxXAAXrR6A",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": " Prima di raggiungere la Gilda, Nathan si ferma dal panettiere. Una piccola colazione veloce: un pezzo di pane ancora caldo, semplice, sufficiente."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le strade di Elturel sono tranquille. Nonostante sia una grande città, non vi è quell’afflusso continuo di avventurieri che si trova altrove, come a Baldur’s Gate."
+        },
+        {
+          "type": "paragraph",
+          "text": " La luce sacra del Compagno ha cambiato tutto. Nei dintorni della città, la presenza di non morti e mostri è drasticamente diminuita. Negli ultimi cinquant’anni, gli incidenti causati da creature delle tenebre  sono calati in modo netto. Elturel è diventata un luogo sicuro."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ed è proprio questa sicurezza a rendere la Gilda meno affollata di quanto ci si aspetterebbe. Molti degli incarichi vengono accettati da avventurieri esterni, viaggiatori di passaggio, uomini e donne che non hanno radici in città."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan apre la porta della Gilda. Il legno scricchiola leggermente sui cardini. All’interno riconosce alcuni volti familiari, individui già incontrati in passato, presenze abituali tra quelle mura."
+        },
+        {
+          "type": "paragraph",
+          "text": " Davanti alla bacheca degli annunci una figura attira la sua attenzione. Sta ferma, le mani sui fianchi, il corpo leggermente inclinato in avanti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Scruta con attenzione gli incarichi affissi, studiando ogni dettaglio come se stesse pesando il destino stesso. La luce che filtra dalle finestre illumina il profilo di quella presenza sconosciuta."
+        }
+      ]
+
+
+    },
+    {
+      "id": "aelar",
+      "title": "L'incontro con Aelar",
+      "videoId": "v1XMu2PkHTQ",
+      "blocks": [
+        {
+          "type": "image-left",
+          "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Party/AelarBig.png",
+          "alt": "Aelar"
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan si avvicina alla figura ferma davanti alla bacheca. Le mani sono posate sui fianchi, lo sguardo attento, concentrato sugli incarichi affissi."
+        },
+        {
+          "type": "paragraph",
+          "text": "È chiaramente di stirpe elfica. Le orecchie non lasciano dubbi. Non sembra uno straniero: si muove con naturalezza, conosce i volti, riconosce i nomi. È uno che appartiene a quel luogo."
+        },
+        {
+          "type": "paragraph",
+          "text": " Nathan lo osserva per un istante, poi gli si rivolge in elfico."
+        },
+        {
+          "type": "quote",
+          "text": "«Buongiorno. Anche voi cercate un incarico per oggi?»"
+        },
+        {
+          "type": "quote",
+          "text": " «Quando si è alla Gilda, di solito si attende un incarico. Per ora osservo. Se qualcuno avrà bisogno dei miei servigi, sarò pronto.»"
+        },
+        {
+          "type": "paragraph",
+          "text": " Non vi è arroganza nel tono, solo misura."
+        },
+        {
+          "type": "paragraph",
+          "text": " Nathan inclina leggermente il capo, intuendo una certa disciplina nell’altro."
+        },
+        {
+          "type": "quote",
+          "text": "«Piacere. Nathan. Non ricordo di avervi mai visto qui. Sono nato e cresciuto a Elturel.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "L’elfo tende la mano."
+        },
+        {
+          "type": "quote",
+          "text": "«Aelar. Sono tornato da poco. Ho viaggiato per il Faerûn. Suppongo si possa dire che anch’io sia un avventuriero.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Le loro strette di mano sono ferme, misurate. Non di sfida. Di riconoscimento."
+        },
+        {
+          "type": "paragraph",
+          "text": "È mattina presto. La Gilda non è ancora animata come nelle ore centrali. Vi è un piccolo punto di ristoro, ma la maggior parte degli avventori si limita a consultare gli annunci o ad allenarsi nella sala adiacente."
+        },
+        {
+          "type": "quote",
+          "text": "«Di solito passo a fare qualche tiro con l’arco nella sala di addestramento. Per scaldare i muscoli. Se vi interessa, possiamo incrociare qualche colpo.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan torna a guardare la bacheca, cercando tra i fogli affissi qualcosa che valga la giornata."
+        },
+        {
+          "type": "paragraph",
+          "text": "Due sconosciuti, sotto la luce eterna del Compagno, uniti dallo stesso silenzioso proposito: servire."
+        }
+      ]
+    },
+    {
+      "id": "missione",
+      "title": "La nostra prima missione",
+      "videoId": "V09x5WLn8gA",
+      "blocks": [
+        
+        {
+          "type": "paragraph",
+          "text": "Aelar stava già osservando la bacheca quando Nathan si avvicinò. Ora entrambi fissano lo stesso foglio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le altre missioni sono poco allettanti: compensi modesti, incarichi che non valgono una giornata intera. Ma una richiesta attira la loro attenzione."
+        },
+        {
+          "type": "paragraph",
+          "text": "Scorta per un erborista fuori città. Raccolta di erbe nei dintorni. Guardia durante il lavoro. Compenso: quaranta monete d’oro a testa. Fino a un massimo di tre persone."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il nome in calce è chiaro: <strong>Fernand Règlisse</strong>."
+        },
+        {
+          "type": "paragraph",
+          "text": " Una nota aggiuntiva specifica: se non si trova nella sua bottega, cercarlo alla <em>Chanson Rouge</em>."
+        },
+        {
+          "type": "quote",
+          "text": "«Interessante…» mormora Nathan. «Ben pagata per una semplice scorta. Non ho sentito di particolari avvistamenti ultimamente. Tu che ne pensi?»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Aelar riflette. La città è sicura sotto la luce del Compagno, ma fuori dalle mura le certezze si assottigliano."
+        },
+        {
+          "type": "quote",
+          "text": "«È una richiesta semplice. Potremmo accettarla.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Mancano ancora posti nel gruppo. Potrebbero attendere un terzo, oppure procedere subito."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan si avvicina al bancone della Gilda. La receptionist, colta quasi di sorpresa, sistema gli occhiali sul naso e consulta il registro."
+        },
+        {
+          "type": "quote",
+          "text": "«Sì, Fernand è venuto ieri a depositare la richiesta. È… noto per bere un po’ troppo, ma è una brava persona. Il negozio si trova nel distretto ovest. E se non lo trovate lì, probabilmente sarà alla Chanson Rouge.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Nessun altro si è ancora fatto avanti. Sono i primi. Buon segno."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan chiede che, nel caso qualcuno si presenti, venga indirizzato a loro. La ragazza annuisce, intinge la piuma nel calamaio, firma, timbra."
+        },
+        {
+          "type": "quote",
+          "text": "«Ufficialmente accettata.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Il contratto resta alla Gilda. Il compenso verrà erogato solo a incarico concluso, previa conferma dell’erborista."
+        },
+        {
+          "type": "paragraph",
+          "text": "I due escono insieme. Ora non sono più due sconosciuti davanti a una bacheca. Sono un gruppo."
+        },
+        {
+          "type": "quote",
+          "text": "«Io di solito avanzo in prima linea,» dice Nathan. «Tu lavori a distanza, immagino. Ho visto l’arco.»"
+        },
+        {
+          "type": "quote",
+          "text": "«Agisco meglio da solo, di solito. Ma non è male avere qualcuno con cui condividere la strada.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Le parole sono misurate, ma sincere."
+        },
+        {
+          "type": "paragraph",
+          "text": " Sotto la luce eterna del Compagno, Nathan e Aelar muovono i primi passi verso la loro prima missione insieme."
+        }
+      ]
+    },
+    {
+      "id": "papavero",
+      "title": "Il Seme di Papavero",
+      "videoId": "wL5lGNNAJQU",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Nathan e Aelar lasciano la Gilda e si incamminano tra le vie di Elturel. Strade strette si alternano ai viali principali, illuminate dalla luce costante del Compagno."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dopo alcuni minuti giungono davanti alla bottega. L’insegna di legno reca inciso il nome: <strong>Il Seme di Papavero</strong>."
+        },
+        {
+          "type": "paragraph",
+          "text": "L’esterno è sorprendentemente rigoglioso: vasi colmi di piante e fiori colorati, alte vetrate che permettono alla luce di filtrare all’interno, un piccolo sottotetto con travi a vista che conferisce un’aria accogliente e curata."
+        },
+        {
+          "type": "quote",
+          "text": "«Prego. Prima tu. Che la Fede ti assista.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan si avvicina alla porta, posa la mano sulla maniglia. È rigida. Prova a spingere. Nulla."
+        },
+        {
+          "type": "paragraph",
+          "text": "La bottega è chiusa."
+        },
+        {
+          "type": "quote",
+          "text": "«Signor Règlisse! È lei che ha affisso la richiesta? Siamo qui per la scorta!»"
+        },
+        {
+          "type": "paragraph",
+          "text": "La voce rimbalza sul legno e sulle vetrate, ma dall’interno non giunge risposta."
+        },
+        {
+          "type": "paragraph",
+          "text": "I due si sporgono leggermente, cercando di osservare attraverso le finestre. L’interno è deserto. Nessun movimento. Nessuna presenza."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan sospira."
+        },
+        {
+          "type": "quote",
+          "text": "«Ce l’avevano detto. Se non è qui, sarà alla taverna.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Poco distante, una vecchina sistema cassette di ortaggi. Minuta, curva, ma con occhi attenti."
+        },
+        {
+          "type": "quote",
+          "text": "«Buongiorno, giovani. Volete delle mele? Sono fresche, raccolte da mio marito.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan declina con un sorriso, poi chiede informazioni."
+        },
+        {
+          "type": "quote",
+          "text": "«Stavamo cercando il signor Fernand Règlisse. La bottega è chiusa. Sa dirci dove potremmo trovarlo?»"
+        },
+        {
+          "type": "paragraph",
+          "text": "La donna sbuffa appena."
+        },
+        {
+          "type": "quote",
+          "text": "«Sarà ancora in quella taverna. Non sarà nemmeno tornato stanotte. Non so come faccia a mandare avanti la sua proprietà.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Un mistero, a quanto pare, condiviso da tutto il quartiere."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ringraziata la donna, i due si rimettono in cammino. La meta è chiara: la <em>Chanson Rouge</em>."
+        },
+        {
+          "type": "paragraph",
+          "text": "La taverna non si trova nel cuore templare e burocratico della città, ma in una zona più periferica, popolare. Non è rinomata, ma è sempre animata."
+        },
+        {
+          "type": "paragraph",
+          "text": "Musica dal vivo, canti, clienti abituali. Un luogo dove il tempo scorre più lento, o forse viene dimenticato del tutto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan accelera leggermente il passo."
+        },
+        {
+          "type": "quote",
+          "text": "«Lui si diverte. Ma il tempo passa. E io oggi vorrei lavorare.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Quando la sagoma della taverna appare in vista, i due rallentano. Nathan osserva l’ingresso, cercando eventuali segni di attività: un buttafuori, clienti che entrano o escono, qualche indizio che confermi la presenza dell’erborista."
+        },
+        {
+          "type": "paragraph",
+          "text": "La loro prima missione li sta già mettendo alla prova — non con il pericolo, ma con la pazienza."
+        }
+      ]
+    },
+    {
+      "id": "rouge",
+      "title": "La Chanson Rouge",
+      "videoId": "BxxcdxS5YLY",
+      "blocks": [
+        {
+          "type": "image-left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-1/LaChansonRouge.png",
+          "alt": "La Chandon Rouge"
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "",
+      "title": "",
+      "videoId": "ozjAZ-bJoA4",
+      "blocks": [
+        {
+          "type": "image-left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-1/LaFineDiElturel.png",
+          "alt": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "",
+      "title": "",
+      "videoId": "ozjAZ-bJoA4",
+      "blocks": [
+        {
+          "type": "image-left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-1/LaFineDiElturel.png",
+          "alt": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "",
+      "title": "",
+      "videoId": "ozjAZ-bJoA4",
+      "blocks": [
+        {
+          "type": "image-left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-1/LaFineDiElturel.png",
+          "alt": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "",
+      "title": "",
+      "videoId": "ozjAZ-bJoA4",
+      "blocks": [
+        {
+          "type": "image-left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-1/LaFineDiElturel.png",
+          "alt": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "",
+      "title": "",
+      "videoId": "ozjAZ-bJoA4",
+      "blocks": [
+        {
+          "type": "image-left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-1/LaFineDiElturel.png",
+          "alt": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "",
+      "title": "",
+      "videoId": "ozjAZ-bJoA4",
+      "blocks": [
+        {
+          "type": "image-left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-1/LaFineDiElturel.png",
+          "alt": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "",
+      "title": "",
+      "videoId": "ozjAZ-bJoA4",
+      "blocks": [
+        {
+          "type": "image-left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-1/LaFineDiElturel.png",
+          "alt": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "caduta",
+      "title": "La caduta di Elturel",
+      "videoId": "ozjAZ-bJoA4",
+      "blocks": [
+        {
+          "type": "image-left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-1/LaFineDiElturel.png",
+          "alt": "La fine di Elturel"
+        },
+        {
+          "type": "paragraph",
+          "text": "Mentre tornate verso la città, un’altra carrozza si avvicina al confine opposto."
+        },
+        {
+          "type": "paragraph",
+          "text": "I destini si intrecciano, ignari."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi — nuvole nere."
+        },
+        {
+          "type": "paragraph",
+          "text": "Fulmini rossi fendono il cielo e colpiscono il Compagno."
+        },
+        {
+          "type": "paragraph",
+          "text": "Elturel non c’è più."
+        }
+      ]
+    }
+  ]
+}

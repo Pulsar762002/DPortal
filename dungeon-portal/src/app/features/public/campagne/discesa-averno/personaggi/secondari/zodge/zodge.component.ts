@@ -24,5 +24,5 @@ export class ZodgeComponent {
     L'incarico affidato agli avventurieri e' quello di raccogliere informazioni sul Culto dei Tre Morti.
   `;
 
-  immagine = 'assets/personaggi/Secondari/Zodge.png'; // metti qui il path corretto
+  immagine = 'assets/data/ikaros/campagne/discesa-averno/personaggi/Secondari/Zodge.png'; // metti qui il path corretto
 }

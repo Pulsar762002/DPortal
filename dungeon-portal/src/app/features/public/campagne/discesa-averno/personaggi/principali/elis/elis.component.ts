@@ -23,6 +23,6 @@ export class ElisComponent {
 
   `;
 
-  immagine = 'assets/personaggi/Party/ElisBig.png'; // metti qui il path corretto
+  immagine = 'assets/data/ikaros/campagne/discesa-averno/personaggi/Party/ElisBig.png'; // metti qui il path corretto
 
 }

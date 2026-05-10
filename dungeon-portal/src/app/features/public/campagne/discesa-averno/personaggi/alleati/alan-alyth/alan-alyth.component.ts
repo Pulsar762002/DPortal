@@ -23,6 +23,6 @@ export class AlanAlythComponent {
     Gestisce la taverna ed interagisce con il party.
   `;
 
-  immagine = 'assets/personaggi/Alleati/Alan_alyth.png'; // metti qui il path corretto
+  immagine = 'assets/data/ikaros/campagne/discesa-averno/personaggi/Alleati/Alan_alyth.png'; // metti qui il path corretto
 
 }

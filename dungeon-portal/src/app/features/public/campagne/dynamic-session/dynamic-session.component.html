@@ -1,0 +1,155 @@
+<div class="dynamic-session">
+
+    <div class="session-layout">
+
+        <!-- SIDEBAR -->
+        <aside class="session-sidebar">
+
+            <div class="sidebar-card">
+
+                <div class="sidebar-title-row">
+
+                    <h3>{{ session.title }}</h3>
+
+                    <button
+                            *ngIf="session.videoId"
+                            class="sidebar-play"
+                            type="button"
+                            (click)="openVideo(session.videoId, 0, session.title)">
+                        ▶
+                    </button>
+
+                </div>
+
+                <ul>
+
+                    <li *ngFor="let chapter of session.chapters">
+
+                        <a
+                                [routerLink]="[]"
+                                [fragment]="chapter.id">
+
+                            {{ chapter.title }}
+
+                        </a>
+
+                    </li>
+
+                </ul>
+
+            </div>
+
+        </aside>
+
+        <!-- CONTENT -->
+        <main class="session-content">
+
+            <div class="content-card">
+
+                <section
+                        *ngFor="let chapter of session.chapters"
+                        [id]="chapter.id"
+                        class="chapter">
+
+                    <!-- TITLE -->
+                    <div class="chapter-title-row">
+
+                        <h2>{{ chapter.title }}</h2>
+
+                        <button
+                                *ngIf="chapter.videoId"
+                                class="chapter-play"
+                                type="button"
+                                (click)="openVideo(chapter.videoId, 0, chapter.title)">
+                            ▶
+                        </button>
+
+                    </div>
+
+                    <!-- BLOCKS -->
+                    <ng-container *ngFor="let block of chapter.blocks || []">
+
+                        <!-- PARAGRAPH -->
+                        <p *ngIf="block.type === 'paragraph'"[innerHTML]="block.text">
+
+
+
+                        </p>
+
+                        <!-- QUOTE -->
+                        <blockquote *ngIf="block.type === 'quote'">
+
+                            {{ block.text }}
+
+                        </blockquote>
+
+                        <!-- IMAGE LEFT -->
+                        <img
+                                *ngIf="block.type === 'image-left'"
+                                [src]="block.src"
+                                [alt]="block.alt || chapter.title"
+                                class="chapter-image-left"/>
+
+                        <!-- IMAGE LEFT SMALL -->
+                        <img
+                                *ngIf="block.type === 'image-left-small'"
+                                [src]="block.src"
+                                [alt]="block.alt || chapter.title"
+                                class="chapter-image-left-small"/>
+
+                        <!-- IMAGE LEFT BIG -->
+                        <img
+                                *ngIf="block.type === 'image-left-big'"
+                                [src]="block.src"
+                                [alt]="block.alt || chapter.title"
+                                class="chapter-image-left-big"/>
+
+                    </ng-container>
+
+                </section>
+
+            </div>
+
+        </main>
+
+    </div>
+
+    <!-- VIDEO MODAL -->
+    <div
+            class="video-modal-overlay"
+            *ngIf="isVideoOpen"
+            (click)="closeVideo()"
+            role="presentation">
+
+        <div
+                class="video-modal"
+                role="dialog"
+                aria-modal="true"
+                [attr.aria-label]="activeVideoTitle || 'Video della sezione'"
+                (click)="$event.stopPropagation()">
+
+            <button
+                    class="video-close"
+                    type="button"
+                    (click)="closeVideo()"
+                    aria-label="Chiudi">
+                ✕
+            </button>
+
+            <div class="video-frame">
+
+                <iframe
+                        *ngIf="activeVideoUrl"
+                        [src]="activeVideoUrl"
+                        title="Video sessione"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                        allowfullscreen>
+                </iframe>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</div>

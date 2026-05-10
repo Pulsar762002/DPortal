@@ -24,5 +24,5 @@ Elturel.
 personali dell’apocalisse.
   `;
 
-  immagine = 'assets/personaggi/Alleati/LianPei.png'; // metti qui il path corretto
+  immagine = 'assets/data/ikaros/campagne/discesa-averno/personaggi/Alleati/LianPei.png'; // metti qui il path corretto
 }

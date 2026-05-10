@@ -22,5 +22,5 @@ export class AlyssaTokkerComponent {
     Rappresentante di civili con esigenze urgenti; motiva il gruppo a proseguire con compassione.
   `;
 
-  immagine = 'assets/personaggi/Alleati/AlyssaTokker.png'; // metti qui il path corretto
+  immagine = 'assets/data/ikaros/campagne/discesa-averno/personaggi/Alleati/AlyssaTokker.png'; // metti qui il path corretto
 }

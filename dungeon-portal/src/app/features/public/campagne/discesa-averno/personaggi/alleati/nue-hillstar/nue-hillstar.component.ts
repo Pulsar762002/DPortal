@@ -24,5 +24,5 @@ composta nonostante tutto.
 perdita.
   `;
 
-  immagine = 'assets/personaggi/Alleati/NueHillstar.png'; // metti qui il path corretto
+  immagine = 'assets/data/ikaros/campagne/discesa-averno/personaggi/Alleati/NueHillstar.png'; // metti qui il path corretto
 }

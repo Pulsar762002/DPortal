@@ -18,5 +18,5 @@ export class BaldursGateComponent {
 
   `;
 
-  immagine = 'assets/luoghi/sessione-3/BaldursGate.png'; // metti qui il path corretto
+  immagine = 'assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-3/BaldursGate.png'; // metti qui il path corretto
 }

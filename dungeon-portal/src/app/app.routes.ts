@@ -154,6 +154,30 @@ export const routes: Routes = [
                         .then(m => m.Sessione10Component)
               },
               {
+                path: 'sessione/11',
+                loadComponent: () =>
+                    import('./features/public/campagne/discesa-averno/sessione-11/sessione-11.component')
+                        .then(m => m.Sessione11Component)
+              },
+              {
+                path: 'sessione/12',
+                loadComponent: () =>
+                    import('./features/public/campagne/discesa-averno/sessione-12/sessione-12.component')
+                        .then(m => m.Sessione12Component)
+              },
+              {
+                path: 'sessione/13',
+                loadComponent: () =>
+                    import('./features/public/campagne/discesa-averno/sessione-13/sessione-13.component')
+                        .then(m => m.Sessione13Component)
+              },
+              {
+                path: 'dynamic/:sessionId',
+                loadComponent: () =>
+                    import('./features/public/campagne/dynamic-session/dynamic-session.component')
+                        .then(m => m.DynamicSessionComponent)
+              },
+              {
                 path: 'personaggi',
                 loadComponent: () =>
                   import('./features/public/campagne/discesa-averno/personaggi/personaggi-page/personaggi-page.component')

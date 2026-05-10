@@ -19,5 +19,5 @@ gruppo. Qui viene salvata Kyran.
 
   `;
 
-  immagine = 'assets/luoghi/sessione-1/BoschiElturel.png'; // metti qui il path corretto
+  immagine = 'assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-1/BoschiElturel.png';
 }

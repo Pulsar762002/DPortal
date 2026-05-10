@@ -24,6 +24,6 @@ manda informazioni cruciali.
     Vedetta e perlustrazione aerea; invia messaggi mentali ad Aelar.
   `;
 
-  immagine = 'assets/personaggi/Alleati/Aeren.png'; // metti qui il path corretto
+  immagine = 'assets/data/ikaros/campagne/discesa-averno/personaggi/Alleati/Aeren.png'; // metti qui il path corretto
 
 }

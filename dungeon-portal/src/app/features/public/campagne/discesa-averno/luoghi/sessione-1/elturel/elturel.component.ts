@@ -18,5 +18,5 @@ La sua presenza era simbolo di protezione divina e della forza morale degli eltu
 
   `;
 
-  immagine = 'assets/luoghi/sessione-1/Elturel.png'; // metti qui il path corretto
+  immagine = 'assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-1/Elturel.png'; // metti qui il path corretto
 }

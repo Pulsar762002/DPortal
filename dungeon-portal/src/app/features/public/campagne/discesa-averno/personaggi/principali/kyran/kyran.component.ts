@@ -26,6 +26,6 @@ export class KyranComponent {
     tattiche non convenzionali.
   `;
 
-  immagine = 'assets/personaggi/Party/KyranBig.png'; // metti qui il path corretto
+  immagine = 'assets/data/ikaros/campagne/discesa-averno/personaggi/Party/KyranBig.png'; // metti qui il path corretto
 
 }

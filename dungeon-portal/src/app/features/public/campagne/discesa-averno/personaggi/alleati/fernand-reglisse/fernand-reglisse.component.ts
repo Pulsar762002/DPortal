@@ -24,5 +24,5 @@ missione di scorta. Appare trasandato e in difficoltà dopo la caduta di Elturel
 fragilità post-disastro, incapace di aiutare i feriti per mancanza di risorse.
   `;
 
-  immagine = 'assets/personaggi/Alleati/FernandRèglisse.png'; // metti qui il path corretto
+  immagine = 'assets/data/ikaros/campagne/discesa-averno/personaggi/Alleati/FernandRèglisse.png'; // metti qui il path corretto
 }

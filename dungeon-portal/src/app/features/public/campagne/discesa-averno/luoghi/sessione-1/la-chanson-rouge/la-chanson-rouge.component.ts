@@ -18,5 +18,5 @@ stringe l’accordo per la missione di scorta.
 
   `;
 
-  immagine = 'assets/luoghi/sessione-1/LaChansonRouge.png'; // metti qui il path corretto
+  immagine = 'assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-1/LaChansonRouge.png'; // metti qui il path corretto
 }

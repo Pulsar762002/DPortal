@@ -17,5 +17,5 @@ export class AccampamentoComponent {
    durante il viaggio verso la citta'
   `;
 
-  immagine = 'assets/luoghi/sessione-2/AccampamentoSessione2.png'; // metti qui il path corretto
+  immagine = 'assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-2/AccampamentoSessione2.png'; // metti qui il path corretto
 }

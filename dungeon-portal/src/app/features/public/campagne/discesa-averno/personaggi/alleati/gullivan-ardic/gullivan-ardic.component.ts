@@ -24,5 +24,5 @@ nelle occasioni meno opportune.
 leggerezza e flavor narrativo.
   `;
 
-  immagine = 'assets/personaggi/Alleati/GullivanArdic.png'; // metti qui il path corretto
+  immagine = 'assets/data/ikaros/campagne/discesa-averno/personaggi/Alleati/GullivanArdic.png'; // metti qui il path corretto
 }

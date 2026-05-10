@@ -1,7 +1,7 @@
 import { Component, Input } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { LuogoCardComponent } from
-    '../../features/public/campagne/discesa-averno/luoghi/luogo-card/luogo-card.component';
+    '../../../features/public/campagne/discesa-averno/luoghi/luogo-card/luogo-card.component';
 
 @Component({
   selector: 'app-hover-luoghi',

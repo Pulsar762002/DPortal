@@ -17,5 +17,5 @@ export class TraEltureleEbaldursGateComponent {
 
   `;
 
-  immagine = 'assets/luoghi/sessione-3/TraEltureleEBaldursGate.png'; // metti qui il path corretto
+  immagine = 'assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-3/TraEltureleEBaldursGate.png'; // metti qui il path corretto
 }

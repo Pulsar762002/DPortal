@@ -1,7 +1,7 @@
 import { Component, Input } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { PersonaggioCardComponent } from
-    '../../features/public/campagne/discesa-averno/personaggi/principali/personaggio-card/personaggio-card.component';
+    '../../../features/public/campagne/discesa-averno/personaggi/principali/personaggio-card/personaggio-card.component';
 
 @Component({
   selector: 'app-hover-character',

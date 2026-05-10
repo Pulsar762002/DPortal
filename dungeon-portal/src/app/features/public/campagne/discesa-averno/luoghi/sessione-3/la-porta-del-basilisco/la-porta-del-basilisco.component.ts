@@ -17,5 +17,5 @@ export class LaPortaDelBasiliscoComponent {
    Qui, gli avventurieri, incontrano i Pugni Fiammeggianti ed il capitano Zodge
   `;
 
-  immagine = 'assets/luoghi/sessione-3/LaPortaDelBasilisco.png'; // metti qui il path corretto
+  immagine = 'assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-3/LaPortaDelBasilisco.png'; // metti qui il path corretto
 }

@@ -5,7 +5,7 @@ import { AelarComponent } from  '../personaggi/principali/aelar/aelar.component'
 import { AlasterComponent } from  '../personaggi/principali/alaster/alaster.component';
 import { KyranComponent } from  '../personaggi/principali/kyran/kyran.component';
 import { ElisComponent } from  '../personaggi/principali/elis/elis.component';
-import { HoverWrapperComponent } from '../../../../../shared/hover-wrapper/hover-wrapper.component';
+import { HoverWrapperComponent } from '../../../../../shared/components/hover-wrapper/hover-wrapper.component';
 import {CommonModule} from '@angular/common';
 import { HostListener } from '@angular/core';
 import { DomSanitizer, SafeResourceUrl } from '@angular/platform-browser';

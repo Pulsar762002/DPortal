@@ -1,0 +1,16 @@
+@import "../../../../shared/styles/session-layout.css";
+
+
+:host {
+    display: block;
+    width: 100%;
+}
+
+.dynamic-session {
+    width: 100%;
+    min-height: 100vh;
+
+    padding-top: 120px;
+
+    color: white;
+}

@@ -1,9 +1,9 @@
 import {Component, Input} from '@angular/core';
-import {LuogoCardComponent} from '../../features/public/campagne/discesa-averno/luoghi/luogo-card/luogo-card.component';
+import {LuogoCardComponent} from '../../../features/public/campagne/discesa-averno/luoghi/luogo-card/luogo-card.component';
 import {CommonModule, NgIf} from '@angular/common';
 import {
   LuogoSecondarioCardComponent
-} from '../../features/public/campagne/discesa-averno/luoghi/luogo-secondario-card/luogo-secondario-card.component';
+} from '../../../features/public/campagne/discesa-averno/luoghi/luogo-secondario-card/luogo-secondario-card.component';
 
 @Component({
   selector: 'app-hover-luoghi-secondari',

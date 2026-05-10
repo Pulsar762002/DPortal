@@ -24,5 +24,5 @@ ma capace.
 cataclisma.
   `;
 
-  immagine = 'assets/personaggi/Alleati/MevilDhirder.png'; // metti qui il path corretto
+  immagine = 'assets/data/ikaros/campagne/discesa-averno/personaggi/Alleati/MevilDhirder.png'; // metti qui il path corretto
 }
