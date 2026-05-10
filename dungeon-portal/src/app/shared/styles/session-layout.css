@@ -123,9 +123,11 @@ ul li::before {
     margin-top: 0;
 }
 
-.chapter {
-    scroll-margin-top: 400px; /* altezza navbar + un po' di margine */
+
+.chapter p {
+    text-align: left;
 }
+
 .content-card h2 {
     margin-top: 40px;
     margin-bottom: 18px;
@@ -137,6 +139,11 @@ ul li::before {
 
     border-left: 3px solid rgba(230,195,111,0.6);
     padding-left: 14px;
+}
+
+
+.chapter-blocks {
+    display: block;
 }
 
 .chapter-image-left {
@@ -168,15 +175,16 @@ ul li::before {
 
 .chapter-image-left-big {
     float: left;
-    width: 900px;
-    max-width: none;
+
+    max-width: 100%;
+    height: auto;
 
     margin: 10px 40px 20px 0;
 
     border-radius: 14px;
 
-    line-height: normal;        /* 🔴 importante */
-    display: inline-block;      /* 🔴 importantissimo */
+    display: inline-block;
+    line-height: normal;
 }
 
 .chapter::after {

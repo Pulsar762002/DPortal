@@ -26,8 +26,8 @@ export const appConfig: ApplicationConfig = {
     provideBrowserGlobalErrorListeners(),
     provideRouter(routes,
       withInMemoryScrolling({
-        anchorScrolling: 'disabled',
-        scrollPositionRestoration: 'disabled'
+        anchorScrolling: 'enabled',
+        scrollPositionRestoration: 'enabled'
       })),
     provideClientHydration(withEventReplay()),
     provideHttpClient(

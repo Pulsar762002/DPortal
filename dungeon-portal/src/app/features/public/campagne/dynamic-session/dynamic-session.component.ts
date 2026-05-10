@@ -26,8 +26,7 @@ import {
   standalone: true,
 
   imports: [
-    CommonModule,
-    RouterLink
+    CommonModule
   ],
 
   templateUrl: './dynamic-session.component.html',
@@ -135,5 +134,26 @@ export class DynamicSessionComponent implements OnInit {
     this.activeVideoUrl = undefined;
 
     this.activeVideoTitle = '';
+  }
+
+  scrollToChapter(event: Event, chapterId: string): void {
+
+    event.preventDefault();
+
+    const element = document.getElementById(chapterId);
+
+    if (!element) return;
+
+    const offset = 140;
+
+    const y =
+        element.getBoundingClientRect().top
+        + window.scrollY
+        - offset;
+
+    window.scrollTo({
+      top: y,
+      behavior: 'smooth'
+    });
   }
 }
