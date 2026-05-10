@@ -9,7 +9,8 @@
       "videoId": "-x5-mibVu1g",
       "blocks": [
         {
-          "type": "image-left-big",
+          "type": "image",
+          "variant": "left-big",
           "src": "assets/data/ikaros/campagne/discesa-averno/Scontri/La_morte_di_Flenner.png",
           "alt": "La morte di Flenner"
         },
@@ -85,7 +86,8 @@
       "videoId": "ljlbwkcG1kM",
       "blocks": [
         {
-          "type": "image-left-big",
+          "type": "image",
+          "variant": "left-big",
           "src": "assets/data/ikaros/campagne/discesa-averno/eventi/essenza.png",
           "alt": "Essenza"
         },
@@ -456,7 +458,8 @@
       "videoId": "mikRRfvZ0Es",
       "blocks": [
         {
-          "type": "image-left-big",
+          "type": "image",
+          "variant": "left-big",
           "src": "assets/data/ikaros/campagne/discesa-averno/eventi/Elis/Il_Giuramento_Di_Elis.png",
           "alt": "Il Giuramento di Elis"
         },
@@ -871,7 +874,8 @@
       "videoId": "aio2V2xViLw",
       "blocks": [
         {
-          "type": "image-left",
+          "type": "image",
+          "variant": "left",
           "src": "assets/data/ikaros/campagne/discesa-averno/Oggetti/tomo_flenner.png",
           "alt": "Tomo di Flenner"
         },
@@ -1063,7 +1067,8 @@
       "videoId": "G4bwFXpR3Mc",
       "blocks": [
         {
-          "type": "image-left-big",
+          "type": "image",
+          "variant": "left-big",
           "src": "assets/data/ikaros/campagne/discesa-averno/eventi/Elis/elis_maledizione.png",
           "alt": "Elis e la maledizione"
         },
@@ -2095,7 +2100,8 @@
           "text": "L’interno è ordinato, ricolmo di erbe appese a essiccare, radici immerse in liquidi ambrati, barattoli colmi di polveri e semi."
         },
         {
-          "type": "image-left",
+          "type": "image",
+          "variant": "left",
           "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Secondari/Derek.png",
           "alt": "Derek"
         },

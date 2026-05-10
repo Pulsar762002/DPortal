@@ -9,7 +9,8 @@
       "videoId": "pkr2WGzLsh4",
       "blocks": [
         {
-          "type": "image-left-big",
+          "type": "image",
+          "variant": "left-big",
           "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-9/Zodge_in_the%20_office.png",
           "alt": "zodge"
         },
@@ -280,7 +281,8 @@
       "videoId": "V0le45xSFg8",
       "blocks": [
         {
-          "type": "image-left-big",
+          "type": "image",
+          "variant": "left-big",
           "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-9/Preparativi_Missione_Terme.png",
           "alt": "preparativi"
         },
@@ -838,7 +840,8 @@
           "text": "La porta si aprì."
         },
         {
-          "type": "image-left-big",
+          "type": "image",
+          "variant": "left-big",
           "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-9/Primo%20Scontro%20alle%20Terme.png",
           "alt": "scontro"
         },
@@ -1086,7 +1089,8 @@
           "text": "Nascosto. Silenzioso. Atteso."
         },
         {
-          "type": "image-left-big",
+          "type": "image",
+          "variant": "left-big",
           "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-9/Accesso%20Al%20Covo.png",
           "alt": "accesso"
         },
@@ -1278,7 +1282,8 @@
           "text": "Ma qualcosa di forse più inquietante."
         },
         {
-          "type": "image-left-big",
+          "type": "image",
+          "variant": "left-big",
           "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-9/Le%20tre%20porte.png",
           "alt": "porte"
         },
@@ -1370,7 +1375,8 @@
       "videoId": "CwCEwgrVuzo",
       "blocks": [
         {
-          "type": "image-left-big",
+          "type": "image",
+          "variant": "left-big",
           "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-9/Altare1.png",
           "alt": "altare"
         },

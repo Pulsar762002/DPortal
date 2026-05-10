@@ -109,6 +109,7 @@
       "blocks": [
         {
           "type": "image-left",
+          "variant": "left",
           "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Party/AlasterBig.png",
           "alt": "Alaster Nodorovo"
         },
@@ -419,7 +420,8 @@
       "videoId": "UCqTkNioWMw",
       "blocks": [
         {
-          "type": "image-left-big",
+          "type": "image",
+          "variant": "left-big",
           "src": "assets/data/ikaros/campagne/discesa-averno/Scontri/Assalto_alla_carrozza.png",
           "alt": "Assalto alla carrozza"
         },
@@ -698,7 +700,8 @@
       "videoId": "juN7DVNGn4U",
       "blocks": [
         {
-          "type": "image-left-big",
+          "type": "image",
+          "variant": "left-big",
           "src": "assets/data/ikaros/campagne/discesa-averno/eventi/Il_Gruppo_si_riunisce.png",
           "alt": "Il gruppo si riunisce"
         },
@@ -1308,7 +1311,8 @@
       "videoId": "PeN8bl46Idg",
       "blocks": [
         {
-          "type": "image-left-big",
+          "type": "image",
+          "variant": "left-big",
           "src": "assets/data/ikaros/campagne/discesa-averno/eventi/Andiamo.png",
           "alt": "morte"
         },
@@ -1424,7 +1428,8 @@
       "videoId": "Zm5L1oEyPbI",
       "blocks": [
         {
-          "type": "image-left",
+          "type": "image",
+          "variant": "left",
           "src": "assets/data/ikaros/campagne/discesa-averno/eventi/Alaster/Il_triste_mietitore.png",
           "alt": "morte"
         },
@@ -1775,7 +1780,8 @@
       "videoId": "2I08tZXIj5M",
       "blocks": [
         {
-          "type": "image-left-big",
+          "type": "image",
+          "variant": "left-big",
           "src": "assets/data/ikaros/campagne/discesa-averno/eventi/In_viaggio.png",
           "alt": "In viaggio"
         },
@@ -1939,7 +1945,8 @@
       "videoId": "MTimtAHaPVw",
       "blocks": [
         {
-          "type": "image-left-big",
+          "type": "image",
+          "variant": "left-big",
           "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-2/Carovana.png",
           "alt": "Carovana"
         },
@@ -1964,7 +1971,8 @@
           "text": "Sto raccogliendo chi posso lungo la via. Non voglio denaro. Solo compagnia. E magari qualche mano in più."
         },
         {
-          "type": "image-left-small",
+          "type": "image",
+          "variant": "left-small",
           "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Alleati/BromasRultild.png",
           "alt": "Bromas"
         },
@@ -1989,7 +1997,8 @@
           "text": "Tra i profughi siedono volti diversi, ognuno con la propria perdita cucita addosso."
         },
         {
-          "type": "image-left-small",
+          "type": "image",
+          "variant": "left-small",
           "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Alleati/GullivanArdic.png",
           "alt": "Gullivan"
         },
@@ -1998,7 +2007,8 @@
           "text": "C’è <strong>Gullivan Ardick</strong>, halfling dai piedi nudi e dal sorriso eccessivo, che parla troppo e ride ancora di più."
         },
         {
-          "type": "image-left-small",
+          "type": "image",
+          "variant": "left-small",
           "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Alleati/NueHillstar.png",
           "alt": "Nue"
         },
@@ -2007,7 +2017,8 @@
           "text": "C’è <strong>Nue</strong>, donna dalla pelle scura e dallo sguardo composto, forse la più lucida tra tutti."
         },
         {
-          "type": "image-left-small",
+          "type": "image",
+          "variant": "left-small",
           "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Alleati/AlyssaTokker.png",
           "alt": "Alyssa"
         },
@@ -2016,7 +2027,8 @@
           "text": "C’è <strong>Alyssa</strong>, incinta in stato avanzato, stretta alla mano del marito <strong>Darsus</strong>, agricoltore scampato alle fiamme."
         },
         {
-          "type": "image-left-small",
+          "type": "image",
+          "variant": "left-small",
           "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Alleati/MevilDhirder.png",
           "alt": "Mevil"
         },
@@ -2025,7 +2037,8 @@
           "text": "C’è <strong>Mevil</strong>, robusta ma dal volto quasi infantile, che ha perso il padre fornaio e non ha mai visto il mondo oltre le mura."
         },
         {
-          "type": "image-left-small",
+          "type": "image",
+          "variant": "left-small",
           "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Alleati/LianPei.png",
           "alt": "Lian"
         },
@@ -2241,7 +2254,8 @@
       "videoId": "bT0fpU9mXiI",
       "blocks": [
         {
-          "type": "image-left-big",
+          "type": "image",
+          "variant": "left-big",
           "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-2/Accampamento.png",
           "alt": "Accampamento"
         },
@@ -2361,7 +2375,8 @@
       "videoId": "fe2RFT6Snco",
       "blocks": [
         {
-          "type": "image-left-big",
+          "type": "image",
+          "variant": "left-big",
           "src": "assets/data/ikaros/campagne/discesa-averno/Scontri/Assalto_all_accampamento.png",
           "alt": "Assalto all'accampamento"
         },

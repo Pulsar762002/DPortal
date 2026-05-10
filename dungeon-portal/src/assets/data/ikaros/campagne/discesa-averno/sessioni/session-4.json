@@ -9,7 +9,8 @@
       "videoId": "_D3qhT1pFRY",
       "blocks": [
         {
-          "type": "image-left-big",
+          "type": "image",
+          "variant": "left-big",
           "src": "assets/data/ikaros/campagne/discesa-averno/eventi/I_resti.png",
           "alt": "I resti della battaglia"
         },
@@ -579,7 +580,8 @@
       "videoId": "_pTeWS7Rp2U",
       "blocks": [
         {
-          "type": "image-left",
+          "type": "image",
+          "variant": "left",
           "src": "assets/personaggi/Secondari/Tarina.jpg",
           "alt": "Tarina"
         },
@@ -942,7 +944,8 @@
       "videoId": "5fecfpwZ77s",
       "blocks": [
         {
-          "type": "image-left-big",
+          "type": "image",
+          "variant": "left-big",
           "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-4/Prigioni.png",
           "alt": "Prigioni"
         },
@@ -1377,7 +1380,8 @@
       "videoId": "CTCfj1uMgk8",
       "blocks": [
         {
-          "type": "image-left",
+          "type": "image",
+          "variant": "left",
           "src": "assets/personaggi/Alleati/Cleiton.jpg",
           "alt": "Cleiton"
         },
@@ -1697,7 +1701,8 @@
       "videoId": "Ir3QPHHEZC8",
       "blocks": [
         {
-          "type": "image-left",
+          "type": "image",
+          "variant": "left",
           "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Secondari/Dorian%20Nodorovo.png",
           "alt": "Dorian Nodorovo"
         },
@@ -2407,7 +2412,8 @@
       "videoId": "v4DIUMZlUzw",
       "blocks": [
         {
-          "type": "image-left-big",
+          "type": "image",
+          "variant": "left-big",
           "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-4/VicoloTreMorti.png",
           "alt": "Vicolo"
         },
@@ -2535,7 +2541,8 @@
       "videoId": "YE5i5TB_SAA",
       "blocks": [
         {
-          "type": "image-left",
+          "type": "image",
+          "variant": "left",
           "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Avversari/CultistaMyrkul.png",
           "alt": "Cultista di Myrkul"
         },
@@ -2628,7 +2635,8 @@
           "text": "Cade rapidamente, quasi con la stessa velocità con cui era apparso."
         },
         {
-          "type": "image-left",
+          "type": "image",
+          "variant": "left",
           "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Avversari/CultistaBane.png",
           "alt": "Cultista di Bane"
         },
@@ -2837,7 +2845,8 @@
           "text": "Poi si lancia nuovamente all’attacco in direzione di Kyran."
         },
         {
-          "type": "image-left",
+          "type": "image",
+          "variant": "left",
           "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Avversari/CultistaBahal.png",
           "alt": "Cultista di Bhaal"
         },

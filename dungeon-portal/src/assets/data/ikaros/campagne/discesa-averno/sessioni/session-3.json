@@ -9,7 +9,8 @@
       "videoId": "qJBSWuwcEn0",
       "blocks": [
         {
-          "type": "image-left-big",
+          "type": "image",
+          "variant": "left-big",
           "src": "assets/data/ikaros/campagne/discesa-averno/eventi/Interrogatorio.png",
           "alt": "Interrogatorio del bandito"
         },
@@ -547,7 +548,8 @@
       "videoId": "AaiMqRdYtYE",
       "blocks": [
         {
-          "type": "image-left-big",
+          "type": "image",
+          "variant": "left-big",
           "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-3/Carro.png",
           "alt": "Carro della carovana"
         },
@@ -667,7 +669,8 @@
       "videoId": "Jy0pJ38Exk0",
       "blocks": [
         {
-          "type": "image-left-big",
+          "type": "image",
+          "variant": "left-big",
           "src": "assets/data/ikaros/campagne/discesa-averno/eventi/Lian_dove_sei.png",
           "alt": "Lian nel bosco"
         },
@@ -899,7 +902,8 @@
       "videoId": "AaiMqRdYtYE",
       "blocks": [
         {
-          "type": "image-left-big",
+          "type": "image",
+          "variant": "left-big",
           "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-3/Carro2.png",
           "alt": "La carovana riparte"
         },
@@ -1027,7 +1031,8 @@
       "videoId": "i42oS1q--zk",
       "blocks": [
         {
-          "type": "image-left-big",
+          "type": "image",
+          "variant": "left-big",
           "src": "assets/data/ikaros/campagne/discesa-averno/eventi/Arrivo.png",
           "alt": "Arrivo a Baldur’s Gate"
         },
@@ -1171,7 +1176,8 @@
       "videoId": "PXv5QSzGCNI",
       "blocks": [
         {
-          "type": "image-left-big",
+          "type": "image",
+          "variant": "left-big",
           "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-3/LaPortaDelBasilisco.png",
           "alt": "La porta del Basilisco"
         },
@@ -1343,7 +1349,8 @@
       "videoId": "kZCb49F35aM",
       "blocks": [
         {
-          "type": "image-left-big",
+          "type": "image",
+          "variant": "left-big",
           "src": "assets/data/ikaros/campagne/discesa-averno/eventi/Non_tuti_possono_entrare.png",
           "alt": "Non tutti possono entrare"
         },
@@ -1535,7 +1542,8 @@
       "videoId": "DmT01JKOJ5E",
       "blocks": [
         {
-          "type": "image-left-small",
+          "type": "image",
+          "variant": "left-small",
           "src": "assets/data/ikaros/campagne/discesa-averno/Stemmi/Pugni%20fiammanti.png",
           "alt": "I pugni Fiammeggianti"
         },
@@ -1627,7 +1635,8 @@
       "videoId": "QewvR1nCUhM",
       "blocks": [
         {
-          "type": "image-left",
+          "type": "image",
+          "variant": "left",
           "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Secondari/Zodge.png",
           "alt": "Il capitano Zodge"
         },
@@ -1847,7 +1856,8 @@
       "videoId": "dQx46Y52UQg",
       "blocks": [
         {
-          "type": "image-left-big",
+          "type": "image",
+          "variant": "left-big",
           "src": "assets/data/ikaros/campagne/discesa-averno/eventi/Arruolamento.png",
           "alt": "Arruolamento"
         },
@@ -2071,7 +2081,8 @@
       "videoId": "Tashd0rYUTM",
       "blocks": [
         {
-          "type": "image-left-big",
+          "type": "image",
+          "variant": "left-big",
           "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-3/Locanda_Canto_Elfico.png",
           "alt": "La taverna del Canto Elfico"
         },
@@ -2275,7 +2286,8 @@
       "videoId": "Bu3gR_jCl14",
       "blocks": [
         {
-          "type": "image-left",
+          "type": "image",
+          "variant": "left",
           "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Alleati/Alan_alyth.png",
           "alt": "Alan"
         },
@@ -2456,7 +2468,8 @@
           "text": "Ma nessuno sembrava farci caso. In quella città, anche i morti trovavano il loro posto."
         },
         {
-          "type": "image-left",
+          "type": "image",
+          "variant": "left",
           "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-3/Elis_al_tavolo_0.png",
           "alt": "La taverna del Canto Elfico primo piano"
         },
@@ -2520,7 +2533,8 @@
       "videoId": "BIv4UjCHdgQ",
       "blocks": [
         {
-          "type": "image-left-big",
+          "type": "image",
+          "variant": "left-big",
           "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-3/Elis_al_tavolo.png",
           "alt": "Elis al tavolo"
         },
@@ -3007,7 +3021,8 @@
       "videoId": "SvgqxE1vsB8",
       "blocks": [
         {
-          "type": "image-left",
+          "type": "image",
+          "variant": "left",
           "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-3/Arrivano_i_pirati.png",
           "alt": "L’arrivo dei pirati"
         },
@@ -3211,7 +3226,8 @@
       "videoId": "2zgTlJ6bhXk",
       "blocks": [
         {
-          "type": "image-left-big",
+          "type": "image",
+          "variant": "left-big",
           "src": "assets/data/ikaros/campagne/discesa-averno/eventi/Alan_ed_i_pirati.png",
           "alt": "Alan e i pirati"
         },

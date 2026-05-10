@@ -172,7 +172,8 @@
       "videoId": "TK9aiLi3eFQ",
       "blocks": [
         {
-          "type": "image-left-big",
+          "type": "image",
+          "variant": "left-big",
           "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-7/Il_Tempio_Di_Helm.png",
           "alt": "Tempio di Helm"
         },
@@ -245,7 +246,8 @@
           "text": "Quando udirono i passi delle guardie avvicinarsi, interruppero immediatamente la conversazione e si voltarono."
         },
         {
-          "type": "image-left",
+          "type": "image",
+          "variant": "left",
           "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Secondari/David_Norman.png",
           "alt": "David Norman"
         },
@@ -286,7 +288,8 @@
           "type": "spacer"
         },
         {
-          "type": "image-left",
+          "type": "image",
+          "variant": "left",
           "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Secondari/Roland%20Revengar.png",
           "alt": "Roland Revengar"
         },
@@ -1066,7 +1069,8 @@
       "videoId": "NfeXw0V9BD8",
       "blocks": [
         {
-          "type": "image-left-big",
+          "type": "image",
+          "variant": "left-big",
           "src": "assets/data/ikaros/campagne/discesa-averno/eventi/Nathan/Il_giuramento_di_nathan.png",
           "alt": "Il giuramento di Nathan"
         },
@@ -1334,7 +1338,8 @@
       "videoId": "Kx5lvbp-IZw",
       "blocks": [
         {
-          "type": "image-left-big",
+          "type": "image",
+          "variant": "left-big",
           "src": "assets/data/ikaros/campagne/discesa-averno/eventi/Lo_Studio_Del_Libro.png",
           "alt": "Lo studio del libro di Flenner"
         },
@@ -2801,7 +2806,8 @@
       "videoId": "zvmffFR16K4",
       "blocks": [
         {
-          "type": "image-left-big",
+          "type": "image",
+          "variant": "left-big",
           "src": "assets/data/ikaros/campagne/discesa-averno/eventi/Alaster/La_Muta_Di_Alaster.png",
           "alt": "La muta di Alaster"
         },
@@ -3284,7 +3290,8 @@
       "videoId": "MhnRwsEX03s",
       "blocks": [
         {
-          "type": "image-left-big",
+          "type": "image",
+          "variant": "left-big",
           "src": "assets/data/ikaros/campagne/discesa-averno/eventi/Aelar/Aelar_Muta.png",
           "alt": "Aelar affronta la seconda mutazione"
         },

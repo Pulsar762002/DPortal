@@ -9,7 +9,8 @@
       "videoId": "bGmBYsl4-YU",
       "blocks": [
         {
-          "type": "image-left",
+          "type": "image",
+          "variant": "left",
           "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-1/Elturel.png",
           "alt": "Elturel sotto il Compagno"
         },
@@ -45,7 +46,8 @@
       "videoId": "-0J3IWj3exk",
       "blocks": [
         {
-          "type": "image-left",
+          "type": "image",
+          "variant": "left",
           "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Party/NathanBig.png",
           "alt": "Nathan"
         },
@@ -270,7 +272,8 @@
       "videoId": "v1XMu2PkHTQ",
       "blocks": [
         {
-          "type": "image-left",
+          "type": "image",
+          "variant": "left",
           "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Party/AelarBig.png",
           "alt": "Aelar"
         },
@@ -536,7 +539,8 @@
       "videoId": "BxxcdxS5YLY",
       "blocks": [
         {
-          "type": "image-left-big",
+          "type": "image",
+          "variant": "left-big",
           "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-1/LaChansonRouge.png",
           "alt": "La Chandon Rouge"
         },
@@ -657,7 +661,8 @@
       "videoId": "ovJOHHJ9ZWA",
       "blocks": [
         {
-          "type": "image-left",
+          "type": "image",
+          "variant": "left",
           "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Alleati/FernandRèglisse.png",
           "alt": "Fernand Règlisse"
         },
@@ -1035,7 +1040,8 @@
       "videoId": "poSIpR1TOgM",
       "blocks": [
         {
-          "type": "image-left-big",
+          "type": "image",
+          "variant": "left-big",
           "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-1/BoschiElturel.png",
           "alt": "Il bosco fuori elturel"
         },
@@ -1091,7 +1097,8 @@
       "videoId": "90xVXTW3Z3g",
       "blocks": [
         {
-          "type": "image-left-big",
+          "type": "image",
+          "variant": "left-big",
           "src": "assets/data/ikaros/campagne/discesa-averno/Scontri/L'incontro_con_Kyran.png",
           "alt": "morte"
         },
@@ -1361,7 +1368,8 @@
       "videoId": "ozjAZ-bJoA4",
       "blocks": [
         {
-          "type": "image-left-big",
+          "type": "image",
+          "variant": "left-big",
           "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-1/LaFineDiElturel.png",
           "alt": "La fine di Elturel"
         },

@@ -9,7 +9,8 @@
       "videoId": "ZhVA_8eusww",
       "blocks": [
         {
-          "type": "image-left-big",
+          "type": "image",
+          "variant": "left-big",
           "src": "assets/data/ikaros/campagne/discesa-averno/eventi/Alaster/Il serpentello.png",
           "alt": "Il serpente apparso nella stanza di Alaster"
         },
@@ -242,7 +243,8 @@
           "text": "Silente nella sostanza."
         },
         {
-          "type": "image-left-big",
+          "type": "image",
+          "variant": "left-big",
           "src": "assets/data/ikaros/campagne/discesa-averno/eventi/Alaster/Tatuaggio.png",
           "alt": "Il tatuaggio serpentino sul braccio di Alaster"
         },
@@ -948,7 +950,8 @@
           "text": "Ma forse… solo in superficie."
         },
         {
-          "type": "image-left-big",
+          "type": "image",
+          "variant": "left-big",
           "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-8/terme.png",
           "alt": "Ingresso delle terme"
         },
@@ -1005,7 +1008,8 @@
           "text": "Sembra quasi la città alta…"
         },
         {
-          "type": "image-left-big",
+          "type": "image",
+          "variant": "left-big",
           "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-8/terme_giardino.png",
           "alt": "Giardino interno delle terme"
         },
@@ -1137,7 +1141,8 @@
           "text": "La schiena dritta, le mani raccolte al petto, un sorriso studiato che non abbandonava mai il volto."
         },
         {
-          "type": "image-left-big",
+          "type": "image",
+          "variant": "left-big",
           "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-8/terme_accesso.png",
           "alt": "Ingresso interno delle terme"
         },
@@ -1461,7 +1466,8 @@
           "text": "lei."
         },
         {
-          "type": "image-left",
+          "type": "image",
+          "variant": "left",
           "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Secondari/Camilla.png",
           "alt": "Camilla"
         },
@@ -1833,7 +1839,8 @@
           "text": "nascondevano verità."
         },
         {
-          "type": "image-left-big",
+          "type": "image",
+          "variant": "left-big",
           "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Secondari/boh.png",
           "alt": "Massaggiatrice delle terme"
         },

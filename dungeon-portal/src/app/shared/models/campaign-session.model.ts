@@ -16,9 +16,8 @@ export interface CampaignChapter {
 
 export interface CampaignBlock {
     type: string;
-
+    variant?: string;
     text?: string;
-
     src?: string;
     alt?: string;
 }

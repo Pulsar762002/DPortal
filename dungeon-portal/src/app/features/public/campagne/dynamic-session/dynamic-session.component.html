@@ -84,26 +84,13 @@
 
                             </blockquote>
 
-                            <!-- IMAGE LEFT -->
+                            <!-- IMAGE -->
                             <img
-                                    *ngIf="block.type === 'image-left'"
+                                    *ngIf="block.type === 'image'"
                                     [src]="block.src"
                                     [alt]="block.alt || chapter.title"
-                                    class="chapter-image-left"/>
-
-                            <!-- IMAGE LEFT SMALL -->
-                            <img
-                                    *ngIf="block.type === 'image-left-small'"
-                                    [src]="block.src"
-                                    [alt]="block.alt || chapter.title"
-                                    class="chapter-image-left-small"/>
-
-                            <!-- IMAGE LEFT BIG -->
-                            <img
-                                    *ngIf="block.type === 'image-left-big'"
-                                    [src]="block.src"
-                                    [alt]="block.alt || chapter.title"
-                                    class="chapter-image-left-big"/>
+                                    [ngClass]="'chapter-image-' + block.variant"
+                            />
 
                         </ng-container>
                     </div>
