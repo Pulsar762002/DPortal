@@ -9,6 +9,12 @@
       "videoId": "edwlYjmojPs",
       "blocks": [
         {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-10/PrimoIncontro.png",
+          "alt": "Massaggiatrice delle terme"
+        },
+        {
           "type": "paragraph",
           "text": "Le acque stagnanti delle terme restituivano soltanto il suono dei passi del gruppo, un lento ciak… ciak… che rompeva il silenzio soffocante dei corridoi sommersi. Fu Elis, poco più avanti degli altri, a notare per primo la figura immobile nell’ombra."
         },
@@ -75,6 +81,12 @@
       "title": "Lo scontro all’ultimo sangue",
       "videoId": "b3QxpvT6rVU",
       "blocks": [
+        {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-10/Scontro.png",
+          "alt": "Massaggiatrice delle terme"
+        },
         {
           "type": "paragraph",
           "text": "L’inganno di Elis si spezzò in un istante."
@@ -198,6 +210,12 @@
       "title": "Un inaspettato superstite",
       "videoId": "mJbKOxo0tCI",
       "blocks": [
+        {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-10/Il Superstite.png",
+          "alt": "Massaggiatrice delle terme"
+        },
         {
           "type": "paragraph",
           "text": "Il fragore dell’esplosione si dissolse lentamente tra le pareti umide delle terme sotterranee."
@@ -370,6 +388,12 @@
       "videoId": "zmf7kBEoV_0",
       "blocks": [
         {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-10/AltroAltareMirkulita.png",
+          "alt": "Massaggiatrice delle terme"
+        },
+        {
           "type": "paragraph",
           "text": "Dopo aver lasciato il superstite alle proprie sorti, il gruppo si ricompattò nel corridoio umido delle terme sotterranee."
         },
@@ -508,6 +532,12 @@
       "title": "Il ritorno di Flenner",
       "videoId": "OGddM4Sgnqg",
       "blocks": [
+        {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-10/ScontroConFlenner.png",
+          "alt": "Massaggiatrice delle terme"
+        },
         {
           "type": "paragraph",
           "text": "Il rumore delle ossa spezzate proveniente da dietro il tavolo di pietra si fece sempre più forte."
@@ -704,6 +734,12 @@
       "videoId": "Vu4wHvR3b2s",
       "blocks": [
         {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-10/Resti e Tombe.png",
+          "alt": "Massaggiatrice delle terme"
+        },
+        {
           "type": "paragraph",
           "text": "Il silenzio che seguì la caduta di Flenner fu quasi irreale."
         },
@@ -899,6 +935,12 @@
       "videoId": "1RDKKgvEHu8",
       "blocks": [
         {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-10/Altra Superstite.png",
+          "alt": "Massaggiatrice delle terme"
+        },
+        {
           "type": "paragraph",
           "text": "Mentre il gruppo si preparava a proseguire lungo il corridoio funerario, fu Alaster a soffermarsi davanti alla tomba della donna vestita con abiti d’altri tempi."
         },
@@ -1085,6 +1127,12 @@
       "title": "Un’altra superstite",
       "videoId": "4gVqEKH4_Eo",
       "blocks": [
+        {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-10/AltraSuperstite.png",
+          "alt": "Massaggiatrice delle terme"
+        },
         {
           "type": "paragraph",
           "text": "Il silenzio della stanza di tortura fu rotto soltanto dal lento gocciolare dell’acqua nei corridoi vicini."

@@ -9,6 +9,12 @@
       "videoId": "MBReKAGBkws",
       "blocks": [
         {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-11/IlSangueDeiDimenticati.png",
+          "alt": "Massaggiatrice delle terme"
+        },
+        {
           "type": "paragraph",
           "text": "Il gruppo avanzò nel ventre del dungeon con la cautela di chi aveva ormai compreso una verità semplice e crudele: in quel luogo, ogni passo poteva celare un’insidia, ogni corridoio poteva condurre non solo alla morte, ma a qualcosa di peggiore. Alice manteneva la posizione di testa, come aveva fatto per tutta la discesa, mentre Clayton restava accanto a chiudeva la fila, saldo al fianco di Aelar. Era una disposizione ormai naturale, quasi rituale, nata dalla fatica e dal sangue condiviso."
         },
@@ -119,6 +125,12 @@
       "title": "La porta che si apre da sola",
       "videoId": "sllEvNNSgzg",
       "blocks": [
+        {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-11/Scontro.png",
+          "alt": "Massaggiatrice delle terme"
+        },
         {
           "type": "paragraph",
           "text": "Dopo aver lasciato alle spalle la cripta del sarcofago colmo di sangue, il gruppo si preparò a proseguire. L’odore ferroso di quel luogo sembrava ancora incollato alla pelle, e l’anello con l’incisione “K + A, per sempre insieme” pesava più di quanto il suo semplice metallo potesse giustificare. Non era solo un oggetto: era il residuo di una vita spezzata, di una promessa lasciata a marcire tra le ossa e i topi."
@@ -347,6 +359,12 @@
       "videoId": "3wQhWe_ipC0",
       "blocks": [
         {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-11/Passaggio Segreto.png",
+          "alt": "Massaggiatrice delle terme"
+        },
+        {
           "type": "paragraph",
           "text": "Quando l’ultimo dei cultisti cadde e il silenzio tornò a reclamare il corridoio, il gruppo rimase per un istante immobile, circondato dal risultato della propria fatica. Davanti alla porta si era accumulata una vera pila di cadaveri: corpi spezzati, armature ammaccate, sangue che si insinuava tra le fughe della pietra come piccoli rivoli scuri. Passare oltre non era più semplice che vincere lo scontro stesso."
         },
@@ -518,6 +536,12 @@
       "videoId": "itbEVWC2_rk",
       "blocks": [
         {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-11/Incontriamo Motlock.png",
+          "alt": "Massaggiatrice delle terme"
+        },
+        {
           "type": "paragraph",
           "text": "Il gruppo rimase fermo all’imbocco del passaggio allagato, sospeso tra due possibilità ugualmente sgradevoli: la porta chiusa alla destra, da cui provenivano rumori soffocati, e il fondo del tunnel, dove altri suoni si muovevano nell’oscurità. L’acqua stagnante rifletteva appena le sagome, mentre le travi di legno sopra le loro teste scricchiolavano con una pazienza sinistra."
         },
@@ -673,6 +697,12 @@
       "videoId": "tDZilEqRu-g",
       "blocks": [
         {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-11/Clayton cosa fai.png",
+          "alt": "Massaggiatrice delle terme"
+        },
+        {
           "type": "paragraph",
           "text": "Il combattimento contro i cultisti si stava trasformando in qualcosa di diverso. Non era più soltanto una rissa brutale tra fanatici e avventurieri, né soltanto l’intervento inatteso di quel gigantesco guerriero che sembrava legato, in qualche modo, alla Duchessa Vanthampur."
         },
@@ -703,6 +733,12 @@
         {
           "type": "paragraph",
           "text": "Era qualcosa di sbagliato."
+        },
+        {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-11/Compare Orin.png",
+          "alt": "Massaggiatrice delle terme"
         },
         {
           "type": "paragraph",
@@ -815,6 +851,12 @@
         {
           "type": "paragraph",
           "text": "E ciò che lasciò davanti a loro fu peggio del buio stesso."
+        },
+        {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-11/Orin e Nathan.png",
+          "alt": "Massaggiatrice delle terme"
         },
         {
           "type": "paragraph",
@@ -942,6 +984,12 @@
         {
           "type": "paragraph",
           "text": "Il Nathan di sinistra si mosse per primo."
+        },
+        {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-11/Nathan contro Nathan.png",
+          "alt": "Massaggiatrice delle terme"
         },
         {
           "type": "paragraph",
@@ -1134,6 +1182,12 @@
       "title": "La fede, il sangue e la scelta",
       "videoId": "17I2VSaIsBg",
       "blocks": [
+        {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-11/Salviamo Mortlock.png",
+          "alt": "Massaggiatrice delle terme"
+        },
         {
           "type": "paragraph",
           "text": "Il dubbio era ormai diventato una lama puntata alla gola del gruppo."
@@ -1332,7 +1386,7 @@
       "id": "orin",
       "title": "Orin, il prezzo della verità",
       "videoId": "edwlYjmojPs",
-      "content": [
+      "blocks": [
         {
           "type": "paragraph",
           "text": "Quando il caos del combattimento si spense davvero, non rimase soltanto il silenzio."

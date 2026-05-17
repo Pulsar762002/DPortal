@@ -91,7 +91,7 @@ export const routes: Routes = [
                 pathMatch: 'full',
                 loadComponent: () =>
                   import('./features/public/campagne/campagne-detail/campagne-detail.component')
-                    .then(m => m.CampagneDetailComponent)
+                    .then(m => m.CampaignDetailComponent)
               },
               {
                 path: 'sessione/:sessionId',
