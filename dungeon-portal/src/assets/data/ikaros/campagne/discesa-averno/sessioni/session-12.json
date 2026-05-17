@@ -9,6 +9,12 @@
       "videoId": "edwlYjmojPs",
       "blocks": [
         {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-12/Bottino1.png",
+          "alt": "Bottina nel tempio dei Mirkuliti"
+        },
+        {
           "type": "paragraph",
           "text": "Le ultime parole di Mortlock Vanthampur riecheggiarono ancora per qualche istante nelle viscere umide del sotterraneo, come un giuramento pronunciato da un uomo che aveva finalmente scelto di smettere di appartenere alla propria stirpe."
         },
@@ -140,6 +146,12 @@
       "videoId": "edwlYjmojPs",
       "blocks": [
         {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-12/Le tre statue.png",
+          "alt": "Bottina nel tempio dei Mirkuliti"
+        },
+        {
           "type": "paragraph",
           "text": "Con Mortlock ormai svanito nei corridoi del sotterraneo e il primo bottino già spartito, il gruppo riprese l’esplorazione delle profondità della villa Vanthampur. Ogni stanza sembrava custodire non soltanto ricchezze, ma simboli, reliquie e frammenti di un culto antico e marcio."
         },
@@ -194,6 +206,12 @@
         {
           "type": "paragraph",
           "text": "E non era un mimic. Per una volta, gli dèi concessero loro il lusso della normalità."
+        },
+        {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-12/Il Tesoro dei cultisti.png",
+          "alt": "Bottina nel tempio dei Mirkuliti"
         },
         {
           "type": "paragraph",
@@ -310,6 +328,12 @@
       "title": "Il peso degli dèi morti",
       "videoId": "edwlYjmojPs",
       "blocks": [
+        {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-12/La potenza delle statue.png",
+          "alt": "Bottina nel tempio dei Mirkuliti"
+        },
         {
           "type": "paragraph",
           "text": "Prima di abbandonare quella sezione del sotterraneo, il pensiero tornò inevitabilmente alle tre grandi statue nella sala rituale. Non erano semplici decorazioni. Nessuno ormai lo credeva più. Quelle figure osservavano. Aspettavano."
@@ -660,6 +684,12 @@
       "title": "Il giudizio del Capitano Zodge",
       "videoId": "edwlYjmojPs",
       "blocks": [
+        {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-12/Zodge.png",
+          "alt": "Bottina nel tempio dei Mirkuliti"
+        },
         {
           "type": "paragraph",
           "text": "Quando finalmente emersero dal sottosuolo, la notte non era ancora finita."
@@ -1701,6 +1731,12 @@
           "text": "Quando attraversarono i cancelli, il contrasto fu quasi offensivo."
         },
         {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-12/La Citta' Alta.png",
+          "alt": "Bottina nel tempio dei Mirkuliti"
+        },
+        {
           "type": "paragraph",
           "text": "La Città Alta non sembrava Baldur’s Gate. Sembrava una bugia costruita sopra di essa."
         },
@@ -1755,6 +1791,12 @@
         {
           "type": "paragraph",
           "text": "Poi sentì la campanella. Si voltò. E vide Alaster."
+        },
+        {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-12/Romeo.png",
+          "alt": "Bottina nel tempio dei Mirkuliti"
         },
         {
           "type": "quote",

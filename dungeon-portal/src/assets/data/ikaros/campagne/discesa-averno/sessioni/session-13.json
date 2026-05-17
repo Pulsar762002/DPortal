@@ -9,6 +9,12 @@
       "videoId": "lSh3iPC9vjk",
       "blocks": [
         {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-13/Citta' Alta di Giorno 2.png",
+          "alt": "Bottina nel tempio dei Mirkuliti"
+        },
+        {
           "type": "paragraph",
           "text": "La Città Alta respirava secondo regole proprie."
         },
@@ -200,6 +206,12 @@
       "videoId": "-PbXTFRgBwE",
       "blocks": [
         {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-13/Dorian1.png",
+          "alt": "Bottina nel tempio dei Mirkuliti"
+        },
+        {
           "type": "paragraph",
           "text": "La figura attraversò la piazza con la grazia inquietante di chi non ha mai davvero bisogno di farsi spazio: è il mondo che si sposta per lasciarlo passare."
         },
@@ -262,6 +274,12 @@
         {
           "type": "quote",
           "text": "Eccoci qua. Cosa di poco conto, in realtà, se devo dirlo."
+        },
+        {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-13/Dorian2.png",
+          "alt": "Bottina nel tempio dei Mirkuliti"
         },
         {
           "type": "quote",
@@ -507,6 +525,12 @@
       "videoId": "ZjSwgS5YCaE",
       "blocks": [
         {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-13/Entriamo nella villa Nodorovo.png",
+          "alt": "Bottina nel tempio dei Mirkuliti"
+        },
+        {
           "type": "paragraph",
           "text": "Lasciata alle spalle la piazza centrale e il velenoso scambio con Dorian, il gruppo si incamminò verso la residenza dei Nodorovo."
         },
@@ -577,6 +601,12 @@
         {
           "type": "paragraph",
           "text": "Una delle guardie lasciò trapelare appena il proprio giudizio."
+        },
+        {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-13/Ingresso Villa Nodorovo.png",
+          "alt": "Bottina nel tempio dei Mirkuliti"
         },
         {
           "type": "quote",
@@ -780,6 +810,12 @@
         {
           "type": "paragraph",
           "text": "Eppure non ebbe nemmeno il tempo di finire di parlare."
+        },
+        {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-13/Incontriamo Alyssandra.png",
+          "alt": "Bottina nel tempio dei Mirkuliti"
         },
         {
           "type": "paragraph",
@@ -1047,6 +1083,12 @@
         {
           "type": "paragraph",
           "text": "Il silenzio del salotto durò appena il tempo necessario perché tutti si abituassero alla quiete della villa."
+        },
+        {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-13/Incontriamo Seraphine.png",
+          "alt": "Bottina nel tempio dei Mirkuliti"
         },
         {
           "type": "paragraph",
@@ -1352,6 +1394,12 @@
           "text": "Non sentirono passi."
         },
         {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-13/Vassander Nodorovo.png",
+          "alt": "Bottina nel tempio dei Mirkuliti"
+        },
+        {
           "type": "paragraph",
           "text": "Non il rumore di una porta. Non il suono di una presenza che si avvicina."
         },
@@ -1564,7 +1612,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Sara era appena uscita dalla casa di Darren."
+          "text": "Sylvar era appena uscita dalla casa di Darren."
         },
         {
           "type": "paragraph",
@@ -1656,7 +1704,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Sara si avviò verso la Città Alta."
+          "text": "Sylvar si avviò verso la Città Alta."
         },
         {
           "type": "paragraph",
@@ -1748,7 +1796,7 @@
         },
         {
           "type": "paragraph",
-          "text": "E con esso tornò anche una sensazione che Sara conosceva bene."
+          "text": "E con esso tornò anche una sensazione che Sylvar conosceva bene."
         },
         {
           "type": "paragraph",
@@ -1800,7 +1848,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Sara arrivava a piedi."
+          "text": "Sylvar arrivava a piedi."
         },
         {
           "type": "paragraph",
