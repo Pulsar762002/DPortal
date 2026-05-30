@@ -15,6 +15,14 @@
           "subtitle": "Baldur's Gate"
         },
         {
+          "type": "divider",
+          "variant": "flourish"
+        },
+        {
+          "type": "note",
+          "text": "Pochi, nella Città Bassa, sanno cosa accade davvero dietro i cancelli dorati: la Città Alta è uno stato nello stato, con leggi proprie e una giustizia che non ammette appello."
+        },
+        {
           "type": "image",
           "variant": "left-big",
           "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-13/Citta' Alta di Giorno 2.png",
