@@ -9,6 +9,12 @@
       "videoId": "lSh3iPC9vjk",
       "blocks": [
         {
+          "type": "scene",
+          "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-13/Citta' Alta di Giorno 2.png",
+          "title": "La Città Alta",
+          "subtitle": "Baldur's Gate"
+        },
+        {
           "type": "image",
           "variant": "left-big",
           "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-13/Citta' Alta di Giorno 2.png",
