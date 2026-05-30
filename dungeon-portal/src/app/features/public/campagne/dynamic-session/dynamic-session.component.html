@@ -98,6 +98,18 @@
                                     [block]="block">
                             </app-scene-block>
 
+                            <!-- DIVIDER -->
+                            <app-divider-block
+                                    *ngIf="block.type === 'divider'"
+                                    [block]="block">
+                            </app-divider-block>
+
+                            <!-- NOTE -->
+                            <app-note-block
+                                    *ngIf="block.type === 'note'"
+                                    [block]="block">
+                            </app-note-block>
+
                         </ng-container>
                     </div>
 

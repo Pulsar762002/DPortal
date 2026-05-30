@@ -24,13 +24,21 @@ import {
 import { SceneBlockComponent }
   from '../../../../shared/story-blocks/scene-block/scene-block.component';
 
+import { DividerBlockComponent }
+  from '../../../../shared/story-blocks/divider-block/divider-block.component';
+
+import { NoteBlockComponent }
+  from '../../../../shared/story-blocks/note-block/note-block.component';
+
 @Component({
   selector: 'app-dynamic-session',
   standalone: true,
 
   imports: [
     CommonModule,
-    SceneBlockComponent
+    SceneBlockComponent,
+    DividerBlockComponent,
+    NoteBlockComponent
   ],
 
   templateUrl: './dynamic-session.component.html',

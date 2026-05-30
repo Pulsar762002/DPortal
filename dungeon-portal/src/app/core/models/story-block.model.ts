@@ -37,8 +37,30 @@ export interface SceneBlock extends BaseBlock {
     alt?: string;
 }
 
+/**
+ * Separatore ornamentale tra una scena e l'altra. Solo decorativo.
+ * variant sceglie il decoro centrale (default: flourish).
+ */
+export interface DividerBlock extends BaseBlock {
+    type: 'divider';
+    variant?: 'flourish' | 'rune' | 'plain';
+}
+
+/**
+ * Nota del Master: riquadro "aside" per lore o voce fuori campo del
+ * narratore, con stile distinto dal corpo del testo. `text` può contenere
+ * HTML (reso come i paragrafi). `title` sovrascrive l'etichetta.
+ */
+export interface NoteBlock extends BaseBlock {
+    type: 'note';
+    text: string;
+    title?: string;
+}
+
 export type StoryBlock =
   | ParagraphBlock
   | QuoteBlock
   | ImageBlock
-  | SceneBlock;
+  | SceneBlock
+  | DividerBlock
+  | NoteBlock;

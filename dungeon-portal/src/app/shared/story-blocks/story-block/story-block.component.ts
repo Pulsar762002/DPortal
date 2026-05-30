@@ -3,6 +3,8 @@ import {QuoteBlockComponent} from "../quote-block/quote-block.component";
 import {ImageBlockComponent} from "../image-block/image-block.component";
 import {ParagraphBlockComponent} from "../paragraph-block/paragraph-block.component";
 import {SceneBlockComponent} from "../scene-block/scene-block.component";
+import {DividerBlockComponent} from "../divider-block/divider-block.component";
+import {NoteBlockComponent} from "../note-block/note-block.component";
 import {StoryBlock} from "../../../core/models/story-block.model";
 
 @Component({
@@ -13,7 +15,9 @@ import {StoryBlock} from "../../../core/models/story-block.model";
     QuoteBlockComponent,
     ImageBlockComponent,
     ParagraphBlockComponent,
-    SceneBlockComponent
+    SceneBlockComponent,
+    DividerBlockComponent,
+    NoteBlockComponent
   ]
 })
 export class StoryBlockComponent {

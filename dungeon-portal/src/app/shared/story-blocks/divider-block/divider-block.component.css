@@ -1,0 +1,33 @@
+/* ===== Separatore ornamentale tra scene ===== */
+
+.divider {
+    display: flex;
+    align-items: center;
+    gap: 18px;
+
+    margin: 40px auto;
+    max-width: 520px;
+
+    color: rgba(230, 195, 111, 0.85);
+}
+
+.divider__line {
+    flex: 1;
+    height: 1px;
+
+    /* linea che sfuma verso i bordi */
+    background: linear-gradient(
+            90deg,
+            rgba(230, 195, 111, 0) 0%,
+            rgba(230, 195, 111, 0.55) 50%,
+            rgba(230, 195, 111, 0) 100%
+    );
+}
+
+.divider__mark {
+    font-size: 1.1rem;
+    line-height: 1;
+    letter-spacing: 0.2em;
+
+    text-shadow: 0 0 14px rgba(230, 195, 111, 0.45);
+}

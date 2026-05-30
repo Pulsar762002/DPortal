@@ -1,0 +1,51 @@
+/* ===== Nota del Master (aside) ===== */
+
+.note {
+    margin: 32px 0;
+    padding: 20px 24px;
+
+    border-radius: 12px;
+    border-left: 3px solid rgba(230, 195, 111, 0.7);
+
+    background: linear-gradient(
+            rgba(15, 18, 30, 0.7),
+            rgba(10, 12, 20, 0.8)
+    );
+
+    box-shadow:
+            0 12px 32px rgba(0, 0, 0, 0.45),
+            inset 0 0 30px rgba(230, 195, 111, 0.04);
+}
+
+.note__label {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+
+    margin-bottom: 10px;
+
+    color: #e6c36f;
+    font-size: 0.78rem;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+}
+
+.note__mark {
+    font-size: 0.9rem;
+    text-shadow: 0 0 12px rgba(230, 195, 111, 0.5);
+}
+
+.note__text {
+    color: rgba(235, 230, 220, 0.85);
+    font-style: italic;
+    line-height: 1.7;
+}
+
+/* eredità tipografica per eventuale HTML nel testo */
+.note__text :is(p) {
+    margin: 0 0 10px;
+}
+
+.note__text :is(p):last-child {
+    margin-bottom: 0;
+}
