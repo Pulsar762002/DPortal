@@ -30,6 +30,15 @@ import { DividerBlockComponent }
 import { NoteBlockComponent }
   from '../../../../shared/story-blocks/note-block/note-block.component';
 
+import { SubtitleBlockComponent }
+  from '../../../../shared/story-blocks/subtitle-block/subtitle-block.component';
+
+import { ListBlockComponent }
+  from '../../../../shared/story-blocks/list-block/list-block.component';
+
+import { SpacerBlockComponent }
+  from '../../../../shared/story-blocks/spacer-block/spacer-block.component';
+
 @Component({
   selector: 'app-dynamic-session',
   standalone: true,
@@ -38,7 +47,10 @@ import { NoteBlockComponent }
     CommonModule,
     SceneBlockComponent,
     DividerBlockComponent,
-    NoteBlockComponent
+    NoteBlockComponent,
+    SubtitleBlockComponent,
+    ListBlockComponent,
+    SpacerBlockComponent
   ],
 
   templateUrl: './dynamic-session.component.html',

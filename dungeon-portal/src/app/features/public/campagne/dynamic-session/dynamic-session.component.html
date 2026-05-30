@@ -72,15 +72,26 @@
                         <ng-container *ngFor="let block of chapter.blocks || []">
 
                             <!-- PARAGRAPH -->
-                            <p *ngIf="block.type === 'paragraph'" [innerHTML]="block.text">
-
-
+                            <p *ngIf="block.type === 'paragraph'"
+                               [ngClass]="{
+                                   'paragraph-emphasis': block.variant === 'emphasis',
+                                   'paragraph-italic': block.style === 'italic'
+                               }"
+                               [innerHTML]="block.text">
                             </p>
+
+                            <!-- SUBTITLE -->
+                            <app-subtitle-block
+                                    *ngIf="block.type === 'subtitle'"
+                                    [block]="block">
+                            </app-subtitle-block>
 
                             <!-- QUOTE -->
                             <blockquote *ngIf="block.type === 'quote'">
 
                                 {{ block.text }}
+
+                                <cite *ngIf="block.author" class="quote-author">— {{ block.author }}</cite>
 
                             </blockquote>
 
@@ -109,6 +120,18 @@
                                     *ngIf="block.type === 'note'"
                                     [block]="block">
                             </app-note-block>
+
+                            <!-- LIST -->
+                            <app-list-block
+                                    *ngIf="block.type === 'list'"
+                                    [block]="block">
+                            </app-list-block>
+
+                            <!-- SPACER -->
+                            <app-spacer-block
+                                    *ngIf="block.type === 'spacer'"
+                                    [block]="block">
+                            </app-spacer-block>
 
                         </ng-container>
                     </div>

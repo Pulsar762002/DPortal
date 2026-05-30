@@ -7,10 +7,22 @@ export interface BaseBlock {
 export interface ParagraphBlock extends BaseBlock {
     type: 'paragraph';
     text: string;
+    /** Enfasi tipografica del paragrafo. */
+    variant?: 'emphasis';
+    /** Stile inline (es. corsivo). */
+    style?: 'italic';
 }
 
 export interface QuoteBlock extends BaseBlock {
     type: 'quote';
+    text: string;
+    /** Attribuzione opzionale della citazione. */
+    author?: string;
+}
+
+/** Sotto-titolo / intestazione dentro un capitolo. */
+export interface SubtitleBlock extends BaseBlock {
+    type: 'subtitle';
     text: string;
 }
 export interface ImageBlock extends BaseBlock {
@@ -57,10 +69,26 @@ export interface NoteBlock extends BaseBlock {
     title?: string;
 }
 
+/** Elenco di voci, puntato (default) o numerato. */
+export interface ListBlock extends BaseBlock {
+    type: 'list';
+    items: string[];
+    variant?: 'bullet' | 'number';
+}
+
+/** Spazio verticale tra blocchi. */
+export interface SpacerBlock extends BaseBlock {
+    type: 'spacer';
+    variant?: 'small' | 'medium' | 'large';
+}
+
 export type StoryBlock =
   | ParagraphBlock
   | QuoteBlock
+  | SubtitleBlock
   | ImageBlock
   | SceneBlock
   | DividerBlock
-  | NoteBlock;
+  | NoteBlock
+  | ListBlock
+  | SpacerBlock;

@@ -1,0 +1,13 @@
+@if (block.variant === 'number') {
+    <ol class="story-list story-list--number">
+        @for (item of block.items; track $index) {
+            <li [innerHTML]="textRender.render(item)"></li>
+        }
+    </ol>
+} @else {
+    <ul class="story-list">
+        @for (item of block.items; track $index) {
+            <li [innerHTML]="textRender.render(item)"></li>
+        }
+    </ul>
+}
