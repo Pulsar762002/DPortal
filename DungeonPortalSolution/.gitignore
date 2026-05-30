@@ -1,0 +1,7 @@
+# Artefatti di build .NET
+bin/
+obj/
+
+# User-specific / IDE
+*.user
+.vs/
