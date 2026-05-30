@@ -1,4 +1,5 @@
 {
+  "$schema": "./session.schema.json",
   "id": 5,
   "title": "Sessione 5",
   "videoId": "qnd1fsMHX-4",
@@ -6412,7 +6413,6 @@
         }
       ]
     },
-    [
       {
         "id": "sacerdote",
         "title": "Il sacerdote Mirkulita",
@@ -7051,6 +7051,5 @@
           }
         ]
       }
-    ]
   ]
 }

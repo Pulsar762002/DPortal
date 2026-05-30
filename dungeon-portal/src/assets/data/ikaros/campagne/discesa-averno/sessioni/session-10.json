@@ -1,4 +1,5 @@
 {
+  "$schema": "./session.schema.json",
   "id": 10,
   "title": "Sessione 10",
   "videoId": "83KGFc-a-Ac",

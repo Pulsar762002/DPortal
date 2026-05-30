@@ -1,4 +1,5 @@
 {
+  "$schema": "./session.schema.json",
   "id": 17,
   "title": "Sessione 17",
   "videoId": "JGEVwjbMr_4",
@@ -21,7 +22,8 @@
           "text": "Quella sera avrebbero assaltato la villa dei Vanthampur."
         },
         {
-          "type": "image-left-big",
+          "type": "image",
+          "variant": "left-big",
           "src": "assets/campaigns/discesa-averno/sessione17/preparativi-assalto.webp",
           "alt": "Il gruppo riunito alla Taverna del Canto Elfico mentre prepara l’assalto alla villa Vanthampur"
         },
@@ -190,7 +192,8 @@
           "text": "Ma il problema della Città Alta rimaneva sempre lo stesso: controllo. Permessi. Pattuglie. Guardie private. Nessuno si muoveva liberamente in quella parte di Baldur’s Gate."
         },
         {
-          "type": "image-left-big",
+          "type": "image",
+          "variant": "left-big",
           "src": "assets/campaigns/discesa-averno/sessione17/ricognizione-citta-alta.webp",
           "alt": "Il gruppo discute strategie e ricognizioni per infiltrarsi nella villa Vanthampur nella Città Alta"
         },
@@ -326,7 +329,8 @@
           "text": "Le regole esistevano soltanto per chi non aveva abbastanza potere da ignorarle."
         },
         {
-          "type": "image-left-big",
+          "type": "image",
+          "variant": "left-big",
           "src": "assets/campaigns/discesa-averno/sessione17/magione-nodorovo.webp",
           "alt": "Il gruppo raggiunge la magione Nodorovo nella Città Alta di Baldur's Gate"
         },
@@ -569,7 +573,8 @@
           "text": "Abiti eleganti, mantelli discreti e vestiti meno appariscenti vennero distribuiti da Aurelius con la precisione impeccabile tipica della servitù della Città Alta."
         },
         {
-          "type": "image-left-big",
+          "type": "image",
+          "variant": "left-big",
           "src": "assets/campaigns/discesa-averno/sessione17/ricognizioni-citta-alta.webp",
           "alt": "Il gruppo organizza le ricognizioni nella Città Alta all'interno della magione Nodorovo"
         },
@@ -761,7 +766,8 @@
           "text": "Stavano osservando Nathan."
         },
         {
-          "type": "image-left-big",
+          "type": "image",
+          "variant": "left-big",
           "src": "assets/campaigns/discesa-averno/sessione17/nathan-addestramento.webp",
           "alt": "Nathan combatte in allenamento contro il capo delle guardie della magione Nodorovo"
         },
@@ -886,7 +892,8 @@
           "text": "Ognuno sapeva che le prossime ore avrebbero potuto decidere il successo o il fallimento dell’assalto."
         },
         {
-          "type": "image-left-big",
+          "type": "image",
+          "variant": "left-big",
           "src": "assets/campaigns/discesa-averno/sessione17/ricognizione-villa-vanthampur.webp",
           "alt": "Aelar osserva la villa Vanthampur attraverso Aeren mentre Sylvar esplora le fogne"
         },
@@ -1069,7 +1076,8 @@
           "text": "Il rumore ritmico del martello riecheggiava dalla forgia come il battito di un gigantesco cuore di ferro."
         },
         {
-          "type": "image-left-big",
+          "type": "image",
+          "variant": "left-big",
           "src": "assets/campaigns/discesa-averno/sessione17/dal-fabbro.webp",
           "alt": "Alaster e il gruppo discutono con il mastro fabbro Ferroteso nella forgia della Città Alta"
         },
@@ -1314,7 +1322,8 @@
           "text": "Vivo."
         },
         {
-          "type": "image-left-big",
+          "type": "image",
+          "variant": "left-big",
           "src": "assets/campaigns/discesa-averno/sessione17/sylvar-topo-fogne.webp",
           "alt": "Sylvar trasformato in topo attraversa le fogne della Città Alta di Baldur's Gate"
         },
@@ -1456,7 +1465,8 @@
           "text": "I livelli superiori, abbandonati e mai bonificati, rimanevano sigillati da anni."
         },
         {
-          "type": "image-left-big",
+          "type": "image",
+          "variant": "left-big",
           "src": "assets/campaigns/discesa-averno/sessione17/kyran-incontro-kenku.webp",
           "alt": "Kyran incontra un misterioso Kenku nei vicoli della Città Alta"
         },
@@ -1606,7 +1616,8 @@
           "text": "Kanbos."
         },
         {
-          "type": "image-left-big",
+          "type": "image",
+          "variant": "left-big",
           "src": "assets/campaigns/discesa-averno/sessione17/kanbos-ritorno.webp",
           "alt": "Kanbos emerge dalle ombre davanti a Kyran nei vicoli di Baldur's Gate"
         },
@@ -1783,7 +1794,8 @@
           "text": "Distrutte."
         },
         {
-          "type": "image-left-big",
+          "type": "image",
+          "variant": "left-big",
           "src": "assets/campaigns/discesa-averno/sessione17/sylvar-fogne-vanthampur.webp",
           "alt": "Sylvar esplora le fogne isolate sotto la villa Vanthampur"
         },
@@ -2022,7 +2034,8 @@
           "text": "Troppo pericolosi."
         },
         {
-          "type": "image-left-big",
+          "type": "image",
+          "variant": "left-big",
           "src": "assets/campaigns/discesa-averno/sessione17/torre-ramazith.webp",
           "alt": "L'interno della Torre di Ramazith pieno di libri fluttuanti e oggetti magici"
         },
@@ -2308,7 +2321,8 @@
           "text": "Molto storto."
         },
         {
-          "type": "image-left-big",
+          "type": "image",
+          "variant": "left-big",
           "src": "assets/campaigns/discesa-averno/sessione17/kyran-fuga-demoni.webp",
           "alt": "Kyran fugge nei vicoli della Città Alta inseguita da creature demoniache"
         },

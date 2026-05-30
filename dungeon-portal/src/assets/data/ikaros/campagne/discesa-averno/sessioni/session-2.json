@@ -1,4 +1,5 @@
 {
+  "$schema": "./session.schema.json",
   "id": 2,
   "title": "Sessione 2",
   "videoId": "KS80Gp2YiVk",
@@ -108,7 +109,7 @@
       "videoId": "TawvuNp-A5s",
       "blocks": [
         {
-          "type": "image-left",
+          "type": "image",
           "variant": "left",
           "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Party/AlasterBig.png",
           "alt": "Alaster Nodorovo"

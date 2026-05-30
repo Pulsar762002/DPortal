@@ -1,0 +1,103 @@
+{
+  "$schema": "./session.schema.json",
+  "id": 18,
+  "title": "Sessione 18",
+  "videoId": "",
+
+  "chapters": [
+    {
+      "id": "capitolo-1",
+      "title": "Titolo del primo capitolo",
+      "videoId": "",
+
+      "blocks": [
+        {
+          "type": "scene",
+          "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-18/apertura.png",
+          "title": "TITOLO DELLA SCENA",
+          "subtitle": "Luogo, momento"
+        },
+        {
+          "type": "paragraph",
+          "text": "Scrivi qui l'apertura del racconto."
+        },
+        {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-18/immagine.png",
+          "alt": "Descrizione dell'immagine"
+        },
+        {
+          "type": "paragraph",
+          "text": "Altro paragrafo: il testo scorre attorno all'immagine flottata a sinistra."
+        },
+        {
+          "type": "quote",
+          "text": "Una battuta memorabile di un personaggio."
+        },
+        {
+          "type": "divider",
+          "variant": "flourish"
+        },
+        {
+          "type": "note",
+          "text": "Nota di lore o voce fuori campo del Master."
+        }
+      ]
+    },
+    {
+      "id": "capitolo-2",
+      "title": "Catalogo dei blocchi",
+
+      "blocks": [
+        {
+          "type": "subtitle",
+          "text": "Questo è un sotto-titolo"
+        },
+        {
+          "type": "paragraph",
+          "text": "Paragrafo normale di esempio."
+        },
+        {
+          "type": "paragraph",
+          "variant": "emphasis",
+          "text": "Paragrafo enfatizzato (centrato e dorato)."
+        },
+        {
+          "type": "paragraph",
+          "style": "italic",
+          "text": "Paragrafo in corsivo."
+        },
+        {
+          "type": "quote",
+          "text": "Una citazione con attribuzione.",
+          "author": "Aelar"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Prima voce di un elenco puntato.",
+            "Seconda voce.",
+            "Terza voce."
+          ]
+        },
+        {
+          "type": "list",
+          "variant": "number",
+          "items": [
+            "Primo passo.",
+            "Secondo passo."
+          ]
+        },
+        {
+          "type": "spacer",
+          "variant": "large"
+        },
+        {
+          "type": "paragraph",
+          "text": "Dopo uno spazio ampio."
+        }
+      ]
+    }
+  ]
+}
