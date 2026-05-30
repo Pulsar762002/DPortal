@@ -24,6 +24,12 @@ node_modules/
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# Archives / artefatti
 dungeon-portal.zip
-dungeon-portal.zip
-dungeon-portal.zip
+
+# Documenti e backup che non vanno versionati
+*.docx
+.~lock.*#
+docker-compose.yml.backup
+docker-compose.yml_back
