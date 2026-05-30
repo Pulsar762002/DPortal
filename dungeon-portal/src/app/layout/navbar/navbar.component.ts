@@ -2,6 +2,7 @@ import { Component } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { RouterLink, RouterLinkActive } from '@angular/router';
 import { AuthService } from '../../core/services/auth.service';
+import { ROLES } from '../../core/models/role.model';
 import { Observable } from 'rxjs';
 import { environment } from '../../../environments/environment';
 
@@ -20,11 +21,11 @@ export class NavbarComponent {
   apiUrl = environment.apiUrl;
 
   isMaster(): boolean {
-    return this.user?.role === 'MASTER' || this.user?.role === 'ADMIN';
+    return this.authService.hasRole(ROLES.Master, ROLES.Admin);
   }
 
   isAdmin(): boolean {
-    return this.user?.role === 'ADMIN';
+    return this.authService.hasRole(ROLES.Admin);
   }
 
   constructor(private authService: AuthService) {

@@ -3,6 +3,7 @@ import { HttpClient } from '@angular/common/http';
 import { Router } from '@angular/router';
 import { BehaviorSubject, tap } from 'rxjs';
 import { environment } from '../../../environments/environment';
+import { Role, hasAnyRole } from '../models/role.model';
 
 @Injectable({
   providedIn: 'root'
@@ -42,8 +43,20 @@ export class AuthService {
   }
 
   getUser() {
+    if (typeof window === 'undefined') {
+      return null;
+    }
     const user = localStorage.getItem('user');
     return user ? JSON.parse(user) : null;
+  }
+
+  getRole(): string | null {
+    return this.getUser()?.role ?? null;
+  }
+
+  /** Verifica (case-insensitive) se l'utente corrente ha uno dei ruoli indicati. */
+  hasRole(...allowed: Role[]): boolean {
+    return hasAnyRole(this.getRole(), allowed);
   }
 
   logout() {
