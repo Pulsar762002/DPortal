@@ -92,6 +92,12 @@
                                     [ngClass]="'chapter-image-' + block.variant"
                             />
 
+                            <!-- SCENE -->
+                            <app-scene-block
+                                    *ngIf="block.type === 'scene'"
+                                    [block]="block">
+                            </app-scene-block>
+
                         </ng-container>
                     </div>
 

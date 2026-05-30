@@ -1,0 +1,80 @@
+/* ===== Scena "establishing shot" ===== */
+
+.scene {
+    position: relative;
+    margin: 48px 0;
+
+    border-radius: 18px;
+    overflow: hidden;
+
+    border: 1px solid rgba(230, 195, 111, 0.18);
+    box-shadow:
+            0 25px 70px rgba(0, 0, 0, 0.6),
+            inset 0 0 60px rgba(230, 195, 111, 0.04);
+
+    line-height: 0; /* elimina il gap sotto l'immagine */
+}
+
+.scene__img {
+    display: block;
+    width: 100%;
+    height: clamp(260px, 42vh, 520px);
+    object-fit: cover;
+}
+
+.scene__caption {
+    position: absolute;
+    inset: 0;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+
+    padding: clamp(20px, 4vw, 48px);
+
+    /* gradiente scuro dal basso: garantisce leggibilità del testo */
+    background: linear-gradient(
+            to top,
+            rgba(6, 8, 14, 0.88) 0%,
+            rgba(6, 8, 14, 0.45) 32%,
+            rgba(6, 8, 14, 0) 62%
+    );
+
+    line-height: normal;
+}
+
+.scene__title {
+    margin: 0;
+
+    color: #f3e3b6;
+    font-size: clamp(1.8rem, 4vw, 3rem);
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+
+    text-shadow: 0 2px 18px rgba(0, 0, 0, 0.85);
+}
+
+/* fregio dorato sotto il titolo */
+.scene__title::after {
+    content: "";
+    display: block;
+    width: 64px;
+    height: 2px;
+    margin-top: 14px;
+
+    background: linear-gradient(
+            90deg,
+            rgba(230, 195, 111, 0.9),
+            rgba(230, 195, 111, 0)
+    );
+}
+
+.scene__subtitle {
+    margin: 12px 0 0;
+
+    color: rgba(230, 195, 111, 0.92);
+    font-style: italic;
+    letter-spacing: 0.08em;
+
+    text-shadow: 0 2px 12px rgba(0, 0, 0, 0.85);
+}

@@ -21,12 +21,16 @@ import {
   CampaignSession
 } from '../../../../shared/models/campaign-session.model';
 
+import { SceneBlockComponent }
+  from '../../../../shared/story-blocks/scene-block/scene-block.component';
+
 @Component({
   selector: 'app-dynamic-session',
   standalone: true,
 
   imports: [
-    CommonModule
+    CommonModule,
+    SceneBlockComponent
   ],
 
   templateUrl: './dynamic-session.component.html',
