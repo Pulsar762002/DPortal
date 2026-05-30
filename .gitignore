@@ -33,3 +33,6 @@ dungeon-portal.zip
 .~lock.*#
 docker-compose.yml.backup
 docker-compose.yml_back
+
+# Sorgenti grafici (GIMP) - si versiona solo l'export PNG
+*.xcf
