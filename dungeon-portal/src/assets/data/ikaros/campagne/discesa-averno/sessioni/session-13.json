@@ -2030,6 +2030,12 @@
           "text": "All’interno, il gala li aspettava."
         },
         {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-13/La sala del Gala.png",
+          "alt": "Gala"
+        },
+        {
           "type": "paragraph",
           "text": "Il grande salone era immenso."
         },
@@ -2102,6 +2108,12 @@
           "text": "E loro entrarono."
         },
         {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-13/Alaster elegante.png",
+          "alt": "Alaster elegante"
+        },
+        {
           "type": "paragraph",
           "text": "Alaster apriva la fila, ovviamente."
         },
@@ -2114,12 +2126,24 @@
           "text": "Sembrava nato per quel luogo. E forse lo era davvero."
         },
         {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-13/Elis elegante.png",
+          "alt": "Elis elegante"
+        },
+        {
           "type": "paragraph",
           "text": "Subito dietro, Elis."
         },
         {
           "type": "paragraph",
           "text": "Con il sorriso giusto, le movenze studiate, e il chiaro tentativo di copiare ogni singolo gesto di Alaster."
+        },
+        {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-13/Nathan elegante.png",
+          "alt": "Nathan elegante"
         },
         {
           "type": "paragraph",
@@ -2135,7 +2159,13 @@
         },
         {
           "type": "paragraph",
-          "text": "Come una carta da parati sacra. Come un paladino umano."
+          "text": "Come una carta da parati sacra. Come un paladino."
+        },
+        {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-13/Aelar elegante.png",
+          "alt": "Aelar elegante"
         },
         {
           "type": "paragraph",
@@ -2148,6 +2178,12 @@
         {
           "type": "paragraph",
           "text": "Gli mancava Aeren sulla spalla. E si vedeva."
+        },
+        {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-13/Kyran elegante.png",
+          "alt": "Kyran elegante"
         },
         {
           "type": "paragraph",
@@ -2187,15 +2223,11 @@
         },
         {
           "type": "quote",
-          "text": "Siate concisi. Per il resto… divertitevi."
+          "text": "Beh… devo dire che Rome ha fatto proprio un bel lavoro con voi. Siate concisi. Per il resto… divertitevi."
         },
         {
           "type": "paragraph",
           "text": "Aelar osservò gli altri."
-        },
-        {
-          "type": "quote",
-          "text": "Beh… devo dire che ormai hanno fatto proprio un bel lavoro con voi."
         },
         {
           "type": "paragraph",
@@ -2216,6 +2248,18 @@
         {
           "type": "paragraph",
           "text": "Kyran lo seguì."
+        },
+        {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-13/Alaster ed Elis.png",
+          "alt": "Aelar elegante"
+        },
+        {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-13/Aelar e Kyran.png",
+          "alt": "Aelar elegante"
         },
         {
           "type": "paragraph",
@@ -2256,6 +2300,12 @@
       "title": "Sylvar si introduce",
       "videoId":"ik9vUgMQJDM",
       "blocks": [
+        {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-13/Sylvar al gala.png",
+          "alt": "Sylvar"
+        },
         {
           "type": "paragraph",
           "text": "In mezzo al rumore elegante del gala, tra il vetro dei calici e il fruscio dei vestiti costosi, c’era una figura che sembrava costruita apposta per passare inosservata."
@@ -2457,6 +2507,12 @@
           "text": "«Mi avete fatto un gran favore, sapete. Quei disgraziati stavano creando parecchio scompiglio nel mio territorio.»"
         },
         {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-13/Alaster ed Elis con il nobile.png",
+          "alt": "Adam Whitburn"
+        },
+        {
           "type": "paragraph",
           "text": "Si presentò come Adam Whitburn, proprietario di diversi negozi nella zona commerciale della Città Bassa e di alcuni esercizi anche nella Città Alta."
         },
@@ -2619,6 +2675,12 @@
       "title": "L’uomo che aspettava Darren",
       "videoId": "Dk55jr0D0kc",
       "blocks": [
+        {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-13/Sylvar e Fauler.png",
+          "alt": "Sylvar"
+        },
         {
           "type": "paragraph",
           "text": "Mentre il resto del gala tratteneva il respiro per l’ingresso del Consigliere Gortash, per Sylvar la serata prese una piega molto diversa."
@@ -3098,6 +3160,12 @@
       "title": "Il brindisi di Gortash",
       "videoId": "uoV4LCg4YCg",
       "blocks": [
+        {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-13/Gortash.png",
+          "alt": "Gortash"
+        },
         {
           "type": "paragraph",
           "text": "Al centro della sala, il Consigliere Gortash avanzava come se il gala fosse stato costruito soltanto per il suo passaggio."
