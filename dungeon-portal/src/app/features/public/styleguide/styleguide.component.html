@@ -1,0 +1,118 @@
+<!--
+  Galleria degli stili. Usa la stessa struttura di dynamic-session
+  (session-layout.css + i componenti story-block), così gli esempi
+  riflettono esattamente gli stili reali delle sessioni.
+-->
+<div class="dynamic-session">
+
+    <div class="session-layout">
+
+        <!-- SIDEBAR -->
+        <aside class="session-sidebar">
+
+            <div class="sidebar-card">
+
+                <div class="sidebar-title-row">
+                    <h3>{{ session.title }}</h3>
+                </div>
+
+                <ul>
+                    <li *ngFor="let chapter of session.chapters">
+                        <a href="" (click)="$event.preventDefault()">{{ chapter.title }}</a>
+                    </li>
+                </ul>
+
+            </div>
+
+        </aside>
+
+        <!-- CONTENT -->
+        <main class="session-content">
+
+            <div class="content-card">
+
+                <section
+                        *ngFor="let chapter of session.chapters"
+                        [id]="chapter.id"
+                        class="chapter">
+
+                    <!-- TITLE -->
+                    <div class="chapter-title-row">
+                        <h2>{{ chapter.title }}</h2>
+                    </div>
+
+                    <!-- BLOCKS -->
+                    <div class="chapter-blocks">
+                        <ng-container *ngFor="let block of chapter.blocks || []">
+
+                            <!-- PARAGRAPH -->
+                            <p *ngIf="block.type === 'paragraph'"
+                               [ngClass]="{
+                                   'paragraph-emphasis': block.variant === 'emphasis',
+                                   'paragraph-italic': block.style === 'italic'
+                               }"
+                               [innerHTML]="block.text">
+                            </p>
+
+                            <!-- SUBTITLE -->
+                            <app-subtitle-block
+                                    *ngIf="block.type === 'subtitle'"
+                                    [block]="block">
+                            </app-subtitle-block>
+
+                            <!-- QUOTE -->
+                            <blockquote *ngIf="block.type === 'quote'">
+                                {{ block.text }}
+                                <cite *ngIf="block.author" class="quote-author">— {{ block.author }}</cite>
+                            </blockquote>
+
+                            <!-- IMAGE -->
+                            <img
+                                    *ngIf="block.type === 'image'"
+                                    [src]="block.src"
+                                    [alt]="block.alt || chapter.title"
+                                    [ngClass]="'chapter-image-' + block.variant"
+                            />
+
+                            <!-- SCENE -->
+                            <app-scene-block
+                                    *ngIf="block.type === 'scene'"
+                                    [block]="block">
+                            </app-scene-block>
+
+                            <!-- DIVIDER -->
+                            <app-divider-block
+                                    *ngIf="block.type === 'divider'"
+                                    [block]="block">
+                            </app-divider-block>
+
+                            <!-- NOTE -->
+                            <app-note-block
+                                    *ngIf="block.type === 'note'"
+                                    [block]="block">
+                            </app-note-block>
+
+                            <!-- LIST -->
+                            <app-list-block
+                                    *ngIf="block.type === 'list'"
+                                    [block]="block">
+                            </app-list-block>
+
+                            <!-- SPACER -->
+                            <app-spacer-block
+                                    *ngIf="block.type === 'spacer'"
+                                    [block]="block">
+                            </app-spacer-block>
+
+                        </ng-container>
+                    </div>
+
+                </section>
+
+            </div>
+
+        </main>
+
+    </div>
+
+</div>

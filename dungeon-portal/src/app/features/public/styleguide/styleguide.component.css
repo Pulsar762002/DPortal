@@ -1,0 +1,47 @@
+@import "../../../shared/styles/session-layout.css";
+
+:host {
+    display: block;
+    width: 100%;
+}
+
+.dynamic-session {
+    width: 100%;
+    min-height: 100vh;
+
+    padding-top: 120px;
+
+    color: white;
+}
+
+/* ===== Varianti del paragrafo ===== */
+.chapter .paragraph-italic {
+    font-style: italic;
+}
+
+.chapter .paragraph-emphasis {
+    font-style: italic;
+    text-align: center;
+    color: #e6c36f;
+    letter-spacing: 0.04em;
+    margin: 22px 0;
+}
+
+/* ===== Attribuzione citazione ===== */
+.chapter .quote-author {
+    display: block;
+    margin-top: 8px;
+    font-style: normal;
+    text-align: right;
+    color: rgba(230, 195, 111, 0.8);
+}
+
+/* Codice inline usato nelle didascalie della galleria */
+.chapter code {
+    font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+    font-size: 0.9em;
+    color: #e6c36f;
+    background: rgba(230, 195, 111, 0.1);
+    padding: 0.05em 0.4em;
+    border-radius: 4px;
+}

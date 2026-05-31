@@ -47,6 +47,12 @@ export const routes: Routes = [
           import('./features/public/masters/masters.component')
             .then(m => m.MastersComponent),
       },
+      {
+        path: 'styleguide',
+        loadComponent: () =>
+          import('./features/public/styleguide/styleguide.component')
+            .then(m => m.StyleguideComponent),
+      },
 
       // PROTECTED
       {
