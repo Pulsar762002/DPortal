@@ -1,0 +1,3710 @@
+{
+  "$schema": "./session.schema.json",
+  "id": 7,
+  "title": "Sessione 7",
+  "videoId": "_Z6ISWqjaJM",
+  "chapters": [
+    {
+      "id": "ombra",
+      "title": "Che fine ha fatto l’ombra di Elis?",
+      "videoId": "_2DdbZVUK0A",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "L’aria davanti al tempio era immobile, quasi sospesa. Le antiche pietre delle mura riflettevano la luce del giorno, e il cortile era attraversato da lame di sole che cadevano nette sul pavimento."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il gruppo si era fermato pochi istanti prima di entrare."
+        },
+        {
+          "type": "paragraph",
+          "text": "C’era ancora la questione del tempio da risolvere, e tutti sembravano consapevoli che ciò che li attendeva all’interno non sarebbe stato semplice."
+        },
+        {
+          "type": "paragraph",
+          "text": "Fu Nathan a notarlo per primo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il paladino osservava distrattamente i compagni mentre discutevano del da farsi, ma qualcosa stonava nella scena."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un dettaglio minuscolo, quasi impercettibile, che però gli rimase incastrato nello sguardo come una scheggia."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un’ombra che mancava."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan corrugò la fronte e fece un passo verso Elis, studiando la posizione del sole e il modo in cui la luce cadeva sul terreno."
+        },
+        {
+          "type": "quote",
+          "text": "Scusami un attimo… ti puoi spostare?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Il tiefling lo guardò perplesso ma fece comunque un passo di lato."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan si mosse a sua volta, cercando di metterlo tra sé e la luce del sole."
+        },
+        {
+          "type": "paragraph",
+          "text": "Se Elis fosse stato illuminato da dietro, la sua ombra avrebbe dovuto allungarsi sul terreno… o su di lui."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma non accadde nulla."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il paladino cambiò angolazione, osservando il suolo di pietra."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi fece un altro passo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ancora nulla."
+        },
+        {
+          "type": "paragraph",
+          "text": "Era come se sopra la testa del tiefling il sole fosse fermo in un eterno mezzogiorno, un punto impossibile dove la luce cade perfettamente verticale e nessuna ombra riesce a formarsi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan rimase in silenzio per un istante, poi indicò il terreno."
+        },
+        {
+          "type": "quote",
+          "text": "Elis… come mai non hai un’ombra? Che cavolo ti sta succedendo?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Il tiefling lo fissò incredulo."
+        },
+        {
+          "type": "quote",
+          "text": "Ma che cavolo dici?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Abbassò lo sguardo verso i propri piedi, come per verificare con i propri occhi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Per un momento sembrò non capire."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi la consapevolezza arrivò."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non c’era nulla."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il terreno attorno a lui era illuminato dal sole del pomeriggio, ma la sua figura non lasciava alcuna traccia di oscurità."
+        },
+        {
+          "type": "paragraph",
+          "text": "Gli altri si avvicinarono, attratti dall’insolita scena."
+        },
+        {
+          "type": "paragraph",
+          "text": "Elis si passò una mano tra i capelli, cercando di mantenere un tono disinvolto nonostante l’evidente stranezza della situazione."
+        },
+        {
+          "type": "quote",
+          "text": "Siamo venuti qui anche per chiedere queste cose, no?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Il gruppo rimase per un momento in silenzio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Qualcuno pose allora la domanda che aleggiava ormai nelle menti di tutti."
+        },
+        {
+          "type": "quote",
+          "text": "Sei sicuro… di non aver fatto qualche patto?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Elis sollevò lentamente il guanto della mano, come se stesse valutando quella possibilità con una certa esitazione."
+        },
+        {
+          "type": "paragraph",
+          "text": "Inspirò profondamente."
+        },
+        {
+          "type": "quote",
+          "text": "Magari… chiediamo dentro."
+        },
+        {
+          "type": "paragraph",
+          "text": "Gli sguardi dei compagni si spostarono verso le porte del tempio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Se esisteva un luogo dove una simile anomalia poteva trovare risposta, forse era proprio quello."
+        },
+        {
+          "type": "paragraph",
+          "text": "Eppure una domanda rimaneva sospesa nell’aria, pesante come un presagio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Che fine aveva fatto l’ombra di Elis?"
+        }
+      ]
+    },
+    {
+      "id": "tempio1",
+      "title": "Nathan ed Elis nel tempio di Helm",
+      "videoId": "TK9aiLi3eFQ",
+      "blocks": [
+        {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-7/Il_Tempio_Di_Helm.png",
+          "alt": "Tempio di Helm"
+        },
+        {
+          "type": "paragraph",
+          "text": "Il tempio di Helm si ergeva come una fortezza sacra nel cuore della città."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dall’esterno sembrava quasi un palazzo reale più che un luogo di culto: una costruzione immensa, severa e imponente, sorretta da colonne di marmo bianco che si innalzavano verso la volta con una perfezione quasi militare."
+        },
+        {
+          "type": "paragraph",
+          "text": "All’interno, la luce filtrava dall’alto attraversando drappi solenni che pendevano dalle arcate."
+        },
+        {
+          "type": "paragraph",
+          "text": "Su ciascuno di essi era ricamato il simbolo sacro del dio guardiano: il guanto aperto di Helm, emblema della vigilanza eterna e della protezione incorruttibile."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nel punto più profondo del tempio, oltre l’altare maggiore, dominava l’intero santuario una gigantesca statua del Guardiano."
+        },
+        {
+          "type": "paragraph",
+          "text": "La divinità era raffigurata immobile, con la spada puntata verso il basso, la punta della lama appoggiata a terra come se fosse piantata nella pietra stessa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non era una posa di guerra."
+        },
+        {
+          "type": "paragraph",
+          "text": "Era una posa di attesa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan ed Elis si trovavano al centro della navata quando il sacerdote con cui avevano parlato pochi minuti prima tornò verso di loro."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non era solo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Accanto a lui avanzavano diversi templari di Helm."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le loro armature risuonavano con un ritmo cadenzato sul pavimento del tempio mentre si disponevano con precisione quasi militare attorno ai due visitatori."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il sacerdote fece loro cenno di seguirlo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Senza aggiungere spiegazioni, li guidò lontano dalla navata principale, verso un corridoio laterale che conduceva alla sacrestia."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le pesanti porte si chiusero alle loro spalle, isolandoli dagli sguardi dei fedeli."
+        },
+        {
+          "type": "paragraph",
+          "text": "All’interno della stanza vi erano due uomini che stavano discutendo tra loro."
+        },
+        {
+          "type": "paragraph",
+          "text": "Quando udirono i passi delle guardie avvicinarsi, interruppero immediatamente la conversazione e si voltarono."
+        },
+        {
+          "type": "image",
+          "variant": "left",
+          "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Secondari/David_Norman.png",
+          "alt": "David Norman"
+        },
+        {
+          "type": "paragraph",
+          "text": "Il primo era un uomo molto anziano."
+        },
+        {
+          "type": "paragraph",
+          "text": "Indossava vesti sacerdotali leggere, ricamate con fili bianchi e dorati."
+        },
+        {
+          "type": "paragraph",
+          "text": "La sua schiena era leggermente incurvata dagli anni, e il volto portava le tracce profonde del tempo e della devozione."
+        },
+        {
+          "type": "paragraph",
+          "text": "I suoi occhi, però, erano vigili e penetranti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan stimò che dovesse avere almeno settant’anni."
+        },
+        {
+          "type": "paragraph",
+          "text": "Accanto a lui si trovava un’altra figura molto diversa."
+        },
+        {
+          "type": "spacer"
+        },
+        {
+          "type": "spacer"
+        },
+        {
+          "type": "spacer"
+        },
+        {
+          "type": "spacer"
+        },
+        {
+          "type": "image",
+          "variant": "left",
+          "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Secondari/Roland%20Revengar.png",
+          "alt": "Roland Revengar"
+        },
+        {
+          "type": "paragraph",
+          "text": "Un uomo sui quarant’anni, alto e massiccio, dalla corporatura solida come quella di un veterano di guerra."
+        },
+        {
+          "type": "paragraph",
+          "text": "Indossava abiti più leggeri sopra l’armatura, ma bastava uno sguardo per capire che sotto quei veli di stoffa era pronto al combattimento."
+        },
+        {
+          "type": "paragraph",
+          "text": "Una spada riposava al suo fianco."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il suo portamento era rigido, stoico, disciplinato come quello di un comandante abituato alla guerra e alla vigilanza."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan notò anche un dettaglio significativo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sul petto dell’uomo brillava lo stesso simbolo che decorava tutto il tempio: il guanto di Helm."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non come semplice decorazione."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma come un segno di autorità."
+        },
+        {
+          "type": "spacer"
+        },
+        {
+          "type": "paragraph",
+          "text": "La discussione tra i due uomini si era interrotta completamente."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ora entrambi osservavano Nathan ed Elis con attenzione, come se li stessero già studiando prima ancora di rivolgere loro la parola."
+        }
+      ]
+    },
+    {
+      "id": "libro",
+      "title": "Il libro dei mirkuliti",
+      "videoId": "4ZpUgdGwmfg",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Il silenzio della sacrestia era carico di attesa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le pesanti porte del tempio avevano isolato Nathan ed Elis dal resto della navata, lasciandoli soli davanti alle due figure che ora li osservavano con attenzione."
+        },
+        {
+          "type": "paragraph",
+          "text": "Fu il vecchio sacerdote a rompere il silenzio."
+        },
+        {
+          "type": "quote",
+          "text": "Quindi… sono loro. Prego, avvicinatevi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan fece un passo avanti e portò la mano al petto nel gesto rituale dei fedeli di Helm."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il saluto era antico, solenne, e veniva insegnato a chi cresceva sotto lo sguardo del Guardiano."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il vecchio ricambiò il gesto con la stessa precisione."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan chinò appena il capo."
+        },
+        {
+          "type": "quote",
+          "text": "Sì. Sono nato e cresciuto nel tempio di Helm di Elturel."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il sacerdote annuì lentamente, osservandolo con uno sguardo che sembrava pesare ogni parola."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi parlò con una voce stanca ma autorevole."
+        },
+        {
+          "type": "quote",
+          "text": "Ho sentito ciò che è accaduto a Elturel. Non posso dire che la vostra gente abbia passato giorni facili di recente. Mi addolora sapere della vostra situazione."
+        },
+        {
+          "type": "paragraph",
+          "text": "Fece un piccolo respiro prima di continuare."
+        },
+        {
+          "type": "quote",
+          "text": "Io sono il vescovo di questo tempio. Il mio nome è David Norman."
+        },
+        {
+          "type": "paragraph",
+          "text": "Mentre parlava, il peso degli anni sembrava gravare sulle sue spalle."
+        },
+        {
+          "type": "paragraph",
+          "text": "La schiena leggermente incurvata e la voce affaticata tradivano la stanchezza di una vita lunga trascorsa tra preghiera e responsabilità."
+        },
+        {
+          "type": "paragraph",
+          "text": "Cercò un momento di appoggio, quasi barcollando."
+        },
+        {
+          "type": "paragraph",
+          "text": "Solo allora Nathan notò come l’uomo più giovane al suo fianco fosse sempre rimasto immobile e silenzioso, pronto a intervenire se necessario."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il vescovo riprese parola."
+        },
+        {
+          "type": "quote",
+          "text": "Mi è stato riferito che siete venuti in possesso di un cimelio sacro. Un oggetto… piuttosto singolare."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan esitò un istante."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi aprì il suo mantello e tirò fuori il libro."
+        },
+        {
+          "type": "paragraph",
+          "text": "Era un tomo inquietante: la copertina in pelle di origine incerta, intagli in osso lungo i bordi e una gemma verde incastonata al centro, che sembrava trattenere una luce fredda e innaturale."
+        },
+        {
+          "type": "paragraph",
+          "text": "Appena il vescovo lo vide, si raddrizzò di scatto."
+        },
+        {
+          "type": "paragraph",
+          "text": "L’uomo fece un passo avanti, ma il movimento incerto lo fece vacillare leggermente."
+        },
+        {
+          "type": "paragraph",
+          "text": "L’altra figura intervenne subito, offrendogli un braccio su cui appoggiarsi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Gli occhi del vecchio non si staccavano dal libro."
+        },
+        {
+          "type": "quote",
+          "text": "Un oggetto… alquanto singolare."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi sollevò lo sguardo verso Nathan ed Elis."
+        },
+        {
+          "type": "quote",
+          "text": "Dove l’avete trovato?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan lanciò una breve occhiata a Elis."
+        },
+        {
+          "type": "paragraph",
+          "text": "Fu il tiefling a rispondere."
+        },
+        {
+          "type": "quote",
+          "text": "In un tempio nascosto dei mirkuliti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il vescovo inspirò lentamente."
+        },
+        {
+          "type": "quote",
+          "text": "Non posso dire di essere un loro ammiratore."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi aggiunse, con un tono più riflessivo:"
+        },
+        {
+          "type": "quote",
+          "text": "Ma è pur sempre un dio. E non è compito nostro giudicare la fede altrui."
+        },
+        {
+          "type": "paragraph",
+          "text": "I suoi occhi tornarono sul libro."
+        },
+        {
+          "type": "quote",
+          "text": "Avete provato ad aprirlo?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan scosse la testa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il vescovo annuì lentamente."
+        },
+        {
+          "type": "quote",
+          "text": "Capisco. E la vostra intenzione… quale sarebbe?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan parlò con rispetto ma decisione."
+        },
+        {
+          "type": "quote",
+          "text": "Vorremmo chiedere il vostro aiuto. Non è l’unico oggetto che abbiamo recuperato. Vorremmo sapere se questi artefatti sono sicuri da maneggiare… se contengono incantesimi o protezioni. O se sono maledetti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il vescovo rimase in silenzio per qualche istante."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi mormorò:"
+        },
+        {
+          "type": "quote",
+          "text": "Maledetti…"
+        },
+        {
+          "type": "paragraph",
+          "text": "Lo sguardo del vecchio tornò alla gemma verde incastonata sulla copertina."
+        },
+        {
+          "type": "quote",
+          "text": "Conoscendo il dio in questione… mi sorprenderebbe di più il contrario."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il vescovo sollevò lentamente la mano sopra il libro."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non lo toccò."
+        },
+        {
+          "type": "paragraph",
+          "text": "La lasciò sospesa appena sopra la superficie, come se cercasse di percepirne la natura."
+        },
+        {
+          "type": "quote",
+          "text": "Sarò anche vecchio… ma il tatto non mi ha ancora abbandonato."
+        },
+        {
+          "type": "paragraph",
+          "text": "Chiuse gli occhi per un istante."
+        },
+        {
+          "type": "quote",
+          "text": "Sì… sento un’energia negativa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi si voltò verso l’uomo accanto a lui."
+        },
+        {
+          "type": "quote",
+          "text": "Roland. Mi fai la cortesia di portarlo sull’altare dietro di noi?"
+        },
+        {
+          "type": "paragraph",
+          "text": "L’uomo fece un cenno con il capo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Si avvicinò a Nathan e allungò la mano."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan gli consegnò il libro senza opporre resistenza."
+        },
+        {
+          "type": "paragraph",
+          "text": "Roland lo prese con cautela e lo posò su un piccolo altare di pietra dietro di loro."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il vescovo sospirò leggermente."
+        },
+        {
+          "type": "quote",
+          "text": "La cosa richiederà un po’ di tempo. E, naturalmente, non potrà essere gratuita."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi aggiunse con calma:"
+        },
+        {
+          "type": "quote",
+          "text": "Anche per noi fedeli è necessario sostenere le spese per mantenere questo luogo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan rimase in silenzio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il vecchio lo osservò ancora per qualche istante, poi accennò un piccolo sorriso stanco."
+        },
+        {
+          "type": "quote",
+          "text": "Tuttavia… per questa volta potremmo fare una piccola eccezione."
+        },
+        {
+          "type": "paragraph",
+          "text": "Indicò il libro sul piccolo altare."
+        },
+        {
+          "type": "quote",
+          "text": "Testi come questo sono rari. Le scritture al loro interno potrebbero rivelare molto sul pensiero dei seguaci di Myrkul… sul modo in cui interpretano la morte."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il vescovo David Norman annuì lentamente."
+        },
+        {
+          "type": "quote",
+          "text": "Da un punto di vista spirituale… e didattico… un oggetto simile ha il suo valore."
+        }
+      ]
+    },
+    {
+      "id": "flenner",
+      "title": "Il racconto di Flenner",
+      "videoId": "6IxKtet270Y",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "La sacrestia del tempio di Helm era immersa in una quiete carica di significato."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sul piccolo altare dietro al vescovo giaceva il libro oscuro, e la gemma verde incastonata nella copertina sembrava trattenere una luce malsana che contrastava con la purezza del marmo circostante."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il vescovo David Norman rimase per qualche istante in silenzio, lo sguardo fisso sull’oggetto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi sollevò lentamente gli occhi verso Nathan ed Elis."
+        },
+        {
+          "type": "quote",
+          "text": "Vorrei chiedervi una cosa… chi era il suo possessore? Raccontatemi la storia di questo libro. Solo così potremo comprenderne davvero la natura."
+        },
+        {
+          "type": "paragraph",
+          "text": "Elis fece un piccolo cenno con il capo."
+        },
+        {
+          "type": "quote",
+          "text": "È giusto, signore. Del resto ci state facendo un favore."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il tiefling prese fiato e iniziò a raccontare."
+        },
+        {
+          "type": "paragraph",
+          "text": "Spiegò di come lui e i suoi compagni stessero lavorando per i Pugni Fiammanti e di come una pista li avesse condotti nel sottobosco criminale della città."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un negozio sospetto. Un ingresso nascosto. Un passaggio segreto che conduceva nelle profondità della terra."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sotto Baldur’s Gate avevano trovato qualcosa di molto più grande di quanto si aspettassero."
+        },
+        {
+          "type": "quote",
+          "text": "Abbiamo scoperto l’accesso a un tempio nascosto. Un santuario dei mirkuliti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Elis esitò un istante prima di continuare."
+        },
+        {
+          "type": "quote",
+          "text": "Non è stato facile entrarci. Abbiamo dovuto fare… cose poco piacevoli."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il vescovo non lo interruppe. Si limitò ad ascoltare."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il tiefling continuò il racconto, spiegando di come il gruppo avesse esplorato il santuario sotterraneo e recuperato diversi manufatti oscuri, tra cui proprio il libro ora posato sull’altare."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma non erano soli in quel luogo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il possessore del libro li aveva attaccati."
+        },
+        {
+          "type": "paragraph",
+          "text": "Elis incrociò le braccia mentre ricordava la scena."
+        },
+        {
+          "type": "quote",
+          "text": "Prima di morire siamo riusciti a strappargli il nome."
+        },
+        {
+          "type": "paragraph",
+          "text": "Fece una breve pausa."
+        },
+        {
+          "type": "quote",
+          "text": "Si faceva chiamare… la Voce di Myrkul."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il silenzio nella stanza divenne più pesante."
+        },
+        {
+          "type": "paragraph",
+          "text": "Elis proseguì:"
+        },
+        {
+          "type": "quote",
+          "text": "Il suo nome era Flenner."
+        },
+        {
+          "type": "paragraph",
+          "text": "Descrisse il santuario dove l’avevano trovato."
+        },
+        {
+          "type": "paragraph",
+          "text": "Una statua oscura capace di emanare energia verso i morti. Rituali. Simboli della divinità della morte."
+        },
+        {
+          "type": "paragraph",
+          "text": "E il libro."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il libro che sembrava essere il centro di tutto."
+        },
+        {
+          "type": "quote",
+          "text": "Crediamo che lo usasse per compiere i suoi rituali."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il tiefling abbassò lo sguardo per un istante."
+        },
+        {
+          "type": "quote",
+          "text": "L’abbiamo sconfitto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi aggiunse, con un tono più cupo:"
+        },
+        {
+          "type": "quote",
+          "text": "E ucciso."
+        },
+        {
+          "type": "paragraph",
+          "text": "Roland, fino a quel momento rimasto in silenzio, parlò per la prima volta da quando Nathan ed Elis erano entrati nella stanza."
+        },
+        {
+          "type": "quote",
+          "text": "Quindi avete sconfitto un sacerdote. Un alto sacerdote di Myrkul."
+        },
+        {
+          "type": "paragraph",
+          "text": "Elis alzò leggermente le spalle."
+        },
+        {
+          "type": "quote",
+          "text": "Non posso dire quale fosse il suo rango nella chiesa. Ma era sicuramente il capo di quel tempio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Fece una pausa, ricordando le dimensioni del luogo."
+        },
+        {
+          "type": "quote",
+          "text": "E non era affatto piccolo. Per essere sotterraneo… era enorme. Qualcuno deve averlo scavato per mesi. Forse per anni."
+        },
+        {
+          "type": "paragraph",
+          "text": "Roland rimase in silenzio per un istante."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi fece una domanda semplice."
+        },
+        {
+          "type": "quote",
+          "text": "Sei stato tu a dargli il colpo di grazia?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan scosse la testa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Elis rispose senza esitazione."
+        },
+        {
+          "type": "quote",
+          "text": "No. Sono stato io."
+        },
+        {
+          "type": "paragraph",
+          "text": "Per la prima volta Roland osservò il tiefling con attenzione più profonda, come se fino a quel momento non avesse davvero valutato la sua presenza."
+        },
+        {
+          "type": "paragraph",
+          "text": "I suoi occhi scesero sul simbolo sacro che Nathan portava con sé."
+        },
+        {
+          "type": "quote",
+          "text": "Vedo che porti il segno di Helm… ma non riconosco alcun simbolo che identifichi il tuo giuramento."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan rispose con semplicità."
+        },
+        {
+          "type": "quote",
+          "text": "Non ho ancora avuto modo di pronunciarlo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Roland rimase immobile per un momento."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi parlò con tono misurato."
+        },
+        {
+          "type": "quote",
+          "text": "Un paladino senza giuramento che sconfigge un alto sacerdote di Myrkul."
+        },
+        {
+          "type": "paragraph",
+          "text": "Fece un piccolo cenno del capo."
+        },
+        {
+          "type": "quote",
+          "text": "Notevole."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan rispose con un gesto di rispetto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nel frattempo il vescovo David Norman era tornato a concentrarsi sul libro."
+        },
+        {
+          "type": "paragraph",
+          "text": "La sua mano rimaneva sospesa sopra la copertina mentre sembrava percepirne le energie invisibili."
+        },
+        {
+          "type": "paragraph",
+          "text": "Per qualche secondo non disse nulla."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi dalle sue labbra uscì un leggero sbuffo."
+        }
+      ]
+    },
+    {
+      "id": "paladino",
+      "title": "Nathan, paladino di Helm",
+      "videoId": "YZzkqxEv46s",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "La sacrestia era immersa in un silenzio grave mentre il vescovo David Norman continuava a percepire le energie oscure che emanavano dal libro dei mirkuliti."
+        },
+        {
+          "type": "paragraph",
+          "text": "La sua mano tremante rimaneva sospesa sopra la copertina, come se stesse seguendo correnti invisibili che solo lui poteva avvertire."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nel frattempo Roland, il comandante delle guardie del tempio, rimaneva immobile accanto a Nathan ed Elis."
+        },
+        {
+          "type": "paragraph",
+          "text": "La sua presenza era quella di un uomo abituato a combattere, a osservare, a giudicare."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dopo qualche istante di silenzio, fu proprio lui a parlare."
+        },
+        {
+          "type": "quote",
+          "text": "Il nostro ordine avrebbe bisogno di nuovi membri."
+        },
+        {
+          "type": "paragraph",
+          "text": "La sua voce era calma ma ferma."
+        },
+        {
+          "type": "quote",
+          "text": "L’età dei nostri confratelli avanza. Ci sono sempre meno sentinelle pronte a vegliare su questo mondo e a proteggerlo dalle minacce che provengono… anche da altri."
+        },
+        {
+          "type": "paragraph",
+          "text": "Lo sguardo dell’uomo si posò su Nathan."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il giovane paladino rimase in silenzio per un istante, poi rispose con rispetto ma con una fermezza che non lasciava spazio a dubbi."
+        },
+        {
+          "type": "quote",
+          "text": "Ne sono consapevole. Ma sento che il mio posto è altrove."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan fece un piccolo gesto con la mano, come a indicare il mondo al di là delle mura del tempio."
+        },
+        {
+          "type": "quote",
+          "text": "Credo che la fede di Helm debba essere portata anche fuori da questi luoghi. Tra la gente. Dove la protezione è davvero necessaria."
+        },
+        {
+          "type": "paragraph",
+          "text": "Roland lo ascoltò senza interromperlo."
+        },
+        {
+          "type": "quote",
+          "text": "Non mi sento adatto alla vita di guardiano di un tempio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan inspirò lentamente."
+        },
+        {
+          "type": "quote",
+          "text": "Il mio compito è viaggiare. Proteggere chi non può difendersi. Portare la giustizia di Helm ovunque sia necessaria."
+        },
+        {
+          "type": "paragraph",
+          "text": "Roland inclinò appena la testa."
+        },
+        {
+          "type": "quote",
+          "text": "E se dovessi portarla… oltre questo mondo?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan corrugò leggermente la fronte."
+        },
+        {
+          "type": "paragraph",
+          "text": "La domanda non era retorica."
+        },
+        {
+          "type": "quote",
+          "text": "Cosa intendi?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Roland rispose con semplicità."
+        },
+        {
+          "type": "quote",
+          "text": "Altri piani di esistenza."
+        },
+        {
+          "type": "paragraph",
+          "text": "Per un momento il silenzio tornò nella stanza."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan rifletté sulla domanda."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi rispose con calma."
+        },
+        {
+          "type": "quote",
+          "text": "Le minacce non arrivano solo dal nostro mondo."
+        },
+        {
+          "type": "paragraph",
+          "text": "I suoi occhi si fecero più duri."
+        },
+        {
+          "type": "quote",
+          "text": "Se posso fermarle prima che raggiungano il nostro… tanto meglio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Roland rimase in silenzio, studiando il giovane paladino."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi parlò ancora."
+        },
+        {
+          "type": "quote",
+          "text": "Da ciò che ho sentito… Elturel è stata attaccata."
+        },
+        {
+          "type": "paragraph",
+          "text": "Fece una breve pausa."
+        },
+        {
+          "type": "quote",
+          "text": "Alcuni parlano di demoni. Altri di draghi. C’è chi dice che lingue di fuoco siano emerse dal sottosuolo… come se gli inferi stessi fossero saliti a reclamarla."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan abbassò lo sguardo per un istante."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi raccontò ciò che aveva visto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Descrisse la scena della caduta di Elturel. Il cielo oscurato. Il rosso delle fiamme. La città inghiottita dalla voragine."
+        },
+        {
+          "type": "paragraph",
+          "text": "Parlò senza enfasi, ma ogni parola sembrava pesare come pietra."
+        },
+        {
+          "type": "paragraph",
+          "text": "Quando ebbe finito, il silenzio tornò a riempire la stanza."
+        },
+        {
+          "type": "paragraph",
+          "text": "Roland osservò il giovane paladino con uno sguardo diverso."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi parlò lentamente."
+        },
+        {
+          "type": "quote",
+          "text": "Allora, giovane paladino…"
+        }
+      ]
+    },
+    {
+      "id": "giuramento",
+      "title": "Il giuramento di Nathan",
+      "videoId": "NfeXw0V9BD8",
+      "blocks": [
+        {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/eventi/Nathan/Il_giuramento_di_nathan.png",
+          "alt": "Il giuramento di Nathan"
+        },
+        {
+          "type": "paragraph",
+          "text": "La sacrestia del tempio di Helm rimase avvolta in un silenzio solenne."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il libro oscuro dei mirkuliti riposava sull'altare secondario mentre il vescovo continuava a esaminarlo con attenzione, ma l’attenzione della stanza si era spostata altrove."
+        },
+        {
+          "type": "paragraph",
+          "text": "Roland Revengar, Gran Templare della chiesa di Helm, osservava Nathan con uno sguardo fermo e penetrante."
+        },
+        {
+          "type": "paragraph",
+          "text": "Per alcuni istanti rimase immobile, come se stesse valutando il giovane paladino non solo per ciò che aveva detto… ma per ciò che rappresentava."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi parlò, senza esitazione."
+        },
+        {
+          "type": "quote",
+          "text": "Te lo chiederò in modo molto diretto. Vuoi proteggere le persone, il popolo di questo mondo, da tutto ciò che ha causato anche — probabilmente — la caduta di Elturel?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan non rispose con parole."
+        },
+        {
+          "type": "paragraph",
+          "text": "Estrasse lentamente la spada."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non come gesto di sfida, ma come un cavaliere che si presenta davanti al proprio ordine."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi si inginocchiò."
+        },
+        {
+          "type": "paragraph",
+          "text": "La lama rimase inclinata davanti a lui mentre abbassava il capo."
+        },
+        {
+          "type": "quote",
+          "text": "Voglio che meno persone soffrano per colpa dei mali che provengono dall’esterno."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sollevò lo sguardo verso Roland."
+        },
+        {
+          "type": "quote",
+          "text": "E voglio scoprire cosa è davvero successo a Elturel."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il Gran Templare annuì lentamente."
+        },
+        {
+          "type": "paragraph",
+          "text": "Fece un passo avanti e si fermò davanti al giovane cavaliere inginocchiato."
+        },
+        {
+          "type": "quote",
+          "text": "Io, Gran Templare della chiesa di Helm, Roland Revengar, annuncio davanti al dio Guardiano che un nuovo confratello si presenta per unirsi alla battaglia."
+        },
+        {
+          "type": "paragraph",
+          "text": "La sua voce riecheggiò nella stanza."
+        },
+        {
+          "type": "quote",
+          "text": "Chi si presenta al cospetto di Helm? Chi si presenta davanti ai Guardiani?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan sollevò appena lo sguardo."
+        },
+        {
+          "type": "quote",
+          "text": "Il mio nome è Nathan."
+        },
+        {
+          "type": "paragraph",
+          "text": "Roland lo fissò ancora."
+        },
+        {
+          "type": "quote",
+          "text": "E cosa giuri di difendere?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan prese un respiro profondo."
+        },
+        {
+          "type": "quote",
+          "text": "Giuro di difendere questo mondo da tutto ciò che viene dall’esterno. Da ogni male, da ogni minaccia contro gli innocenti. E qualunque pericolo si presenti… lo affronterò. Anche al costo della mia vita."
+        },
+        {
+          "type": "paragraph",
+          "text": "Roland rimase in silenzio per un momento."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi parlò con tono grave."
+        },
+        {
+          "type": "quote",
+          "text": "Le ombre degli altri mondi sono antiche e ingannevoli. Demoni, aberrazioni e tiranni dei piani lontani cercheranno di piegare la tua mente."
+        },
+        {
+          "type": "paragraph",
+          "text": "La sua voce divenne ancora più severa."
+        },
+        {
+          "type": "quote",
+          "text": "Resisterai. Non sarai soltanto uno scudo. E se il male fuggirà oltre le soglie del mondo… tu lo seguirai."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan non esitò."
+        },
+        {
+          "type": "quote",
+          "text": "Lo seguirò. Fino a estirparlo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Roland lo lasciò per un momento inginocchiato."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi si voltò verso uno scaffale della sacrestia e prese un antico libro."
+        },
+        {
+          "type": "paragraph",
+          "text": "Lo aprì lentamente e lo portò davanti al giovane paladino."
+        },
+        {
+          "type": "quote",
+          "text": "Pronuncia il tuo giuramento."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan abbassò lo sguardo sul testo aperto davanti a lui."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi parlò."
+        },
+        {
+          "type": "quote",
+          "text": "Davanti alla luce che custodisce questo mondo e alle ombre che cercano di attraversarlo… io giuro di vegliare."
+        },
+        {
+          "type": "quote",
+          "text": "Sarò sentinella contro ciò che viene da oltre. Contro i demoni che sussurrano nel buio. Contro gli abomini nati tra le stelle. Contro ogni potere che non appartiene a questo piano."
+        },
+        {
+          "type": "quote",
+          "text": "Nessun mostro mi troverà impreparato. Nessun inganno piegherà la mia mente. Nessuna creatura immonda camminerà libera finché io respirerò."
+        },
+        {
+          "type": "quote",
+          "text": "Non sarò soltanto uno scudo. Sarò anche l’amo."
+        },
+        {
+          "type": "quote",
+          "text": "Se il male tenterà di entrare nel nostro mondo, lo respingerò. Se si nasconderà oltre i veli della realtà, lo inseguirò."
+        },
+        {
+          "type": "quote",
+          "text": "Affronterò l’oscurità dove dimora, marcherò i suoi portali e porterò equilibrio nei domini del male."
+        },
+        {
+          "type": "quote",
+          "text": "Io sono il guardiano delle porte. Il custode della scala infinita. Il muro tra questo mondo e le forze dell’oscurità."
+        },
+        {
+          "type": "quote",
+          "text": "Finché avrò la forza di rialzarmi, nessuna ombra passerà senza affrontarmi."
+        },
+        {
+          "type": "quote",
+          "text": "Questo è il mio giuramento. Nel nome dei Guardiani. Nel nome di Helm."
+        },
+        {
+          "type": "paragraph",
+          "text": "Roland richiuse lentamente il libro."
+        },
+        {
+          "type": "paragraph",
+          "text": "Lo ripose sullo scaffale con rispetto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi estrasse la propria spada."
+        },
+        {
+          "type": "paragraph",
+          "text": "La lama si posò prima su una spalla di Nathan… poi sull’altra."
+        },
+        {
+          "type": "quote",
+          "text": "Alzati, Nathan."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il giovane paladino si alzò lentamente."
+        },
+        {
+          "type": "quote",
+          "text": "Da oggi sei un Guardiano. Da oggi sei una Sentinella di Helm."
+        },
+        {
+          "type": "paragraph",
+          "text": "Roland lo guardò negli occhi."
+        },
+        {
+          "type": "quote",
+          "text": "Da oggi inizia la tua veglia. E terminerà soltanto con il tuo ultimo respiro."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan chinò leggermente il capo."
+        },
+        {
+          "type": "quote",
+          "text": "E la veglia abbia inizio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Roland annuì."
+        },
+        {
+          "type": "quote",
+          "text": "La veglia abbia inizio."
+        },
+        {
+          "type": "paragraph",
+          "text": "La spada tornò nel fodero."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il Gran Templare lasciò uscire un breve respiro, quasi sollevato."
+        },
+        {
+          "type": "quote",
+          "text": "Benvenuto, fratello."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan rispose con un gesto di rispetto."
+        }
+      ]
+    },
+    {
+      "id": "tomo",
+      "title": "Il contenuto del tomo di Flenner",
+      "videoId": "Kx5lvbp-IZw",
+      "blocks": [
+        {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/eventi/Lo_Studio_Del_Libro.png",
+          "alt": "Lo studio del libro di Flenner"
+        },
+        {
+          "type": "paragraph",
+          "text": "Il silenzio della sacrestia venne improvvisamente interrotto dalla voce del vescovo David Norman."
+        },
+        {
+          "type": "quote",
+          "text": "Trovato! Ho trovato!"
+        },
+        {
+          "type": "paragraph",
+          "text": "Il vecchio sacerdote sollevò lo sguardo dal libro con un’espressione quasi trionfante."
+        },
+        {
+          "type": "quote",
+          "text": "Sì… su questo libro c’è sicuramente una maledizione. Ma posso eliminarla."
+        },
+        {
+          "type": "paragraph",
+          "text": "Solo allora sembrò rendersi conto di aver interrotto qualcosa."
+        },
+        {
+          "type": "quote",
+          "text": "Oh… scusate. Ho rovinato un momento delicato. Ho sentito che stavate parlando, ma ero troppo concentrato."
+        },
+        {
+          "type": "paragraph",
+          "text": "Roland lo guardò con un mezzo sorriso stanco."
+        },
+        {
+          "type": "quote",
+          "text": "Quando è che andrai in pensione, vecchio?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Il vescovo sbuffò appena."
+        },
+        {
+          "type": "quote",
+          "text": "Molto presto, spero. La mia schiena non reggerà ancora a lungo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Roland rispose con tono asciutto:"
+        },
+        {
+          "type": "quote",
+          "text": "La pensione per noi significa praticamente morire."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il vescovo non replicò. Si limitò a fare un cenno a uno dei sacerdoti presenti nella sacrestia."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pronunciò alcuni nomi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il sacerdote annuì e uscì dalla stanza."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pochi minuti dopo tornarono quattro altri membri del tempio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Si disposero attorno all’altare dove il libro dei mirkuliti era stato posato, formando un piccolo cerchio rituale attorno al vescovo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le loro voci si unirono in una breve litania."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il rituale non durò molto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dopo pochi istanti una sottile cortina di fumo si sollevò dalle pagine del tomo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Per un attimo quella nube assunse una forma inquietante."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un teschio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Uno scheletro appena accennato, come un’ombra che cercasse di manifestarsi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi svanì."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il vescovo inspirò profondamente."
+        },
+        {
+          "type": "quote",
+          "text": "Ora dovrebbe essere tutto a posto. Almeno la maledizione che gravava su questo oggetto è stata rimossa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi si rivolse agli altri sacerdoti."
+        },
+        {
+          "type": "quote",
+          "text": "Grazie, fratelli. Potete andare."
+        },
+        {
+          "type": "paragraph",
+          "text": "Gli altri religiosi lasciarono la stanza uno dopo l’altro."
+        },
+        {
+          "type": "paragraph",
+          "text": "Quando la sacrestia tornò silenziosa, il vescovo si rivolse a Nathan ed Elis con un leggero sorriso."
+        },
+        {
+          "type": "quote",
+          "text": "Avrete l’onore di leggerlo per primi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Elis guardò il libro con curiosità evidente."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan rimase accanto a lui, osservando con attenzione mentre il tiefling prendeva il tomo tra le mani."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le pagine si aprirono lentamente."
+        },
+        {
+          "type": "paragraph",
+          "text": "La carta era sottile e fragile, logorata dal tempo e dall’uso."
+        },
+        {
+          "type": "paragraph",
+          "text": "La scrittura era ancora più inquietante."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non era inchiostro."
+        },
+        {
+          "type": "paragraph",
+          "text": "Era sangue ormai secco."
+        },
+        {
+          "type": "paragraph",
+          "text": "La grafia appariva disordinata, quasi febbrile, come se chi l’avesse scritta fosse stato guidato da una mente disturbata o da una mano incerta."
+        },
+        {
+          "type": "paragraph",
+          "text": "Tra le righe comparivano simboli familiari."
+        },
+        {
+          "type": "paragraph",
+          "text": "Gli stessi che avevano visto incisi sui frammenti d’osso recuperati nel tempio sotterraneo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Rune. Segni arcani. Strutture tipiche delle formule magiche."
+        },
+        {
+          "type": "paragraph",
+          "text": "Elis non riusciva a decifrarne il significato preciso, ma riconosceva la natura di quelle scritture."
+        },
+        {
+          "type": "paragraph",
+          "text": "Erano incantesimi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Voltando altre pagine, tuttavia, il libro cambiava tono."
+        },
+        {
+          "type": "paragraph",
+          "text": "Accanto alle formule comparivano testi scritti in lingua comune."
+        },
+        {
+          "type": "paragraph",
+          "text": "Salmi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Omelie dedicate alla morte e al culto di Myrkul."
+        },
+        {
+          "type": "paragraph",
+          "text": "Preghiere oscure rivolte alla divinità dei defunti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Tra le prime pagine vi era anche un lungo testo introduttivo, una sorta di invocazione che sembrava fungere da apertura all’intero tomo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Elis chiuse lentamente il libro."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi guardò Nathan."
+        },
+        {
+          "type": "quote",
+          "text": "Qui dentro ci sono formule magiche… incantesimi, probabilmente. Ma non so esattamente quali."
+        },
+        {
+          "type": "paragraph",
+          "text": "Rimase un momento pensieroso."
+        },
+        {
+          "type": "quote",
+          "text": "Forse qualcuno più esperto di magia potrebbe capirci qualcosa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il tiefling fece scorrere le dita sulla copertina del libro prima di richiuderlo definitivamente."
+        },
+        {
+          "type": "paragraph",
+          "text": "Gli occhi gli si strinsero leggermente."
+        },
+        {
+          "type": "quote",
+          "text": "Potremmo farlo esaminare meglio dai nostri compagni."
+        }
+      ]
+    },
+    {
+      "id": "elis",
+      "title": "Le richieste di Elis",
+      "videoId": "cNm4DTzGNVY",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Quando il rituale fu concluso e il tomo dei mirkuliti tornò silenzioso tra le mani dei suoi nuovi custodi, nella sacrestia del tempio calò di nuovo una quiete solenne."
+        },
+        {
+          "type": "paragraph",
+          "text": "La tensione dei momenti precedenti sembrava lentamente dissolversi tra le colonne di marmo e i drappi sacri dedicati al Guardiano."
+        },
+        {
+          "type": "paragraph",
+          "text": "Elis rimase per qualche istante in silenzio, poi fece un passo avanti verso il vescovo David Norman."
+        },
+        {
+          "type": "quote",
+          "text": "Mi scusi, vescovo… in realtà avremmo anche altre richieste."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il vecchio sacerdote sollevò lo sguardo con un’espressione paziente."
+        },
+        {
+          "type": "quote",
+          "text": "Parlate pure."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il tiefling estrasse una piccola sacca."
+        },
+        {
+          "type": "paragraph",
+          "text": "All’interno vi erano frammenti di ossa incisi con simboli arcani, gli stessi segni inquietanti che avevano visto nel tempio sotterraneo dei mirkuliti."
+        },
+        {
+          "type": "paragraph",
+          "text": "David osservò attentamente i residui, avvicinandosi con cautela."
+        },
+        {
+          "type": "quote",
+          "text": "La natura di questi simboli è la stessa che ho visto nel libro."
+        },
+        {
+          "type": "paragraph",
+          "text": "Elis annuì."
+        },
+        {
+          "type": "quote",
+          "text": "Abbiamo trovato anche questo insieme al tomo. Pensiamo che possa essere maledetto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi estrasse una seconda piccola sacca con altri oggetti recuperati durante l’esplorazione."
+        },
+        {
+          "type": "paragraph",
+          "text": "Infine, dopo un breve momento di esitazione, il tiefling inspirò profondamente."
+        },
+        {
+          "type": "quote",
+          "text": "Le altre richieste sono… più personali."
+        },
+        {
+          "type": "paragraph",
+          "text": "Per un momento la sua voce cambiò tono."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non era più la sicurezza ironica che lo caratterizzava di solito."
+        },
+        {
+          "type": "paragraph",
+          "text": "Era qualcosa di più profondo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Raccontò della sua infanzia."
+        },
+        {
+          "type": "paragraph",
+          "text": "Di come fosse cresciuto in un tempio dove venivano venerati diversi dei della giustizia."
+        },
+        {
+          "type": "paragraph",
+          "text": "Di Tyr, di Lathander… e di come, tra tutti, fosse stato Tyr la figura con cui si era sentito più vicino."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi arrivò al punto."
+        },
+        {
+          "type": "quote",
+          "text": "Quando ero più giovane… sono successe due cose."
+        },
+        {
+          "type": "quote",
+          "text": "Ho perso la mia ombra."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan rimase immobile accanto a lui."
+        },
+        {
+          "type": "paragraph",
+          "text": "Elis continuò."
+        },
+        {
+          "type": "quote",
+          "text": "Non so se sia una maledizione. Non so se ho toccato qualcosa che non avrei dovuto toccare."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi sollevò lentamente la mano."
+        },
+        {
+          "type": "paragraph",
+          "text": "Si tolse il guanto."
+        },
+        {
+          "type": "paragraph",
+          "text": "E mostrò il palmo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Per lui la mano non appariva normale."
+        },
+        {
+          "type": "paragraph",
+          "text": "Era come se fosse composta di pura energia, una luce viva e silenziosa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Roland e il vescovo la osservavano, ma le loro espressioni non cambiarono."
+        },
+        {
+          "type": "quote",
+          "text": "Che cosa dovremmo vedere?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Elis abbassò lentamente la mano."
+        },
+        {
+          "type": "quote",
+          "text": "Io la vedo fatta di luce."
+        },
+        {
+          "type": "paragraph",
+          "text": "Esitò un momento."
+        },
+        {
+          "type": "quote",
+          "text": "Durante una preghiera ho sentito una voce. Ho visto qualcosa… e ho offerto me stesso. Da quel momento la mia mano è diventata così."
+        },
+        {
+          "type": "paragraph",
+          "text": "Guardò Roland con una serietà insolita."
+        },
+        {
+          "type": "quote",
+          "text": "Potete usare un incantesimo per verificare che non stia mentendo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Roland non lo fece."
+        },
+        {
+          "type": "paragraph",
+          "text": "Si limitò a osservare la mano con calma."
+        },
+        {
+          "type": "paragraph",
+          "text": "Infine parlò con tono misurato."
+        },
+        {
+          "type": "quote",
+          "text": "Le vie degli dèi sono infinite. È possibile che ciò che vedi sia reale… ma che non sia destinato agli occhi di altri."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan annuì lentamente."
+        },
+        {
+          "type": "quote",
+          "text": "Io mi fido di quello che dice."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il vescovo David Norman sospirò piano."
+        },
+        {
+          "type": "quote",
+          "text": "Mi dispiace non poter fare di più. Per quanto riguarda gli altri oggetti… dovrete tornare un’altra volta. Mi sento molto affaticato."
+        },
+        {
+          "type": "paragraph",
+          "text": "Roland invece si concentrò su un altro dettaglio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Osservò Elis con attenzione."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi disse:"
+        },
+        {
+          "type": "quote",
+          "text": "In effetti… ti manca l’ombra."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il tiefling rimase in silenzio."
+        },
+        {
+          "type": "quote",
+          "text": "È sicuramente una maledizione."
+        },
+        {
+          "type": "paragraph",
+          "text": "Roland scosse lentamente la testa."
+        },
+        {
+          "type": "quote",
+          "text": "Non posso dirti cosa l’abbia provocata. Potrebbe essere necessario un esorcismo… o rimediare all’azione che l’ha causata."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi aggiunse con tono pratico:"
+        },
+        {
+          "type": "quote",
+          "text": "Un esorcismo completo costerebbe circa seicento monete d’oro."
+        },
+        {
+          "type": "paragraph",
+          "text": "Elis lasciò uscire un respiro lento."
+        },
+        {
+          "type": "paragraph",
+          "text": "Era una cifra considerevole."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il vescovo nel frattempo analizzò rapidamente gli altri oggetti."
+        },
+        {
+          "type": "quote",
+          "text": "Sono leggermente maledetti… ma nulla di paragonabile al libro."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il tiefling annuì."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi sollevò lo sguardo verso Roland e il vescovo."
+        },
+        {
+          "type": "quote",
+          "text": "Un’ultima cosa."
+        },
+        {
+          "type": "paragraph",
+          "text": "La sua voce tornò più decisa."
+        },
+        {
+          "type": "quote",
+          "text": "Questa notte potremmo andare a colpire alcuni membri del culto dei Tre Morti. Non sappiamo cosa troveremo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Fece una breve pausa."
+        },
+        {
+          "type": "quote",
+          "text": "Non vi sto chiedendo di punire nessuno. Ma se la chiesa di Helm vuole aiutarci… potrebbe mandarci qualcuno."
+        },
+        {
+          "type": "paragraph",
+          "text": "Indicò la direzione della città."
+        },
+        {
+          "type": "quote",
+          "text": "Ci incontreremo alla Locanda del Canto Elfico."
+        },
+        {
+          "type": "paragraph",
+          "text": "Roland rimase in silenzio per un momento."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi rispose con calma."
+        },
+        {
+          "type": "quote",
+          "text": "Noi non puniamo. Vegliamo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Elis fece un piccolo cenno."
+        },
+        {
+          "type": "quote",
+          "text": "Allora vegliate con noi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan fece il gesto rituale di rispetto verso il tempio."
+        },
+        {
+          "type": "quote",
+          "text": "Grazie per tutto quello che avete fatto per noi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il vescovo David Norman si sedette lentamente su una panca di pietra."
+        },
+        {
+          "type": "paragraph",
+          "text": "La stanchezza degli anni tornò a gravare sul suo volto."
+        },
+        {
+          "type": "quote",
+          "text": "Grazie a voi."
+        }
+      ]
+    },
+    {
+      "id": "ritorno",
+      "title": "Il ritorno alla Locanda del Canto Elfico",
+      "videoId": "WciTA62ivkI",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Quando Nathan ed Elis lasciarono finalmente il tempio di Helm, l’aria della città sembrò più fredda e più viva rispetto alla quiete solenne della sacrestia."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le porte del santuario si richiusero alle loro spalle con un eco grave, come se il Guardiano stesso tornasse alla sua eterna veglia."
+        },
+        {
+          "type": "paragraph",
+          "text": "Per qualche minuto i due camminarono in silenzio tra le vie di Baldur’s Gate."
+        },
+        {
+          "type": "paragraph",
+          "text": "Fu Nathan a parlare per primo."
+        },
+        {
+          "type": "quote",
+          "text": "Sai qual è uno dei motivi per cui non voglio far parte stabilmente dei templi di Helm?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Elis lo guardò di lato."
+        },
+        {
+          "type": "quote",
+          "text": "La loro natura… attendista."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il tiefling rispose nella mente del paladino, sfruttando ancora il legame telepatico che possedeva."
+        },
+        {
+          "type": "quote",
+          "text": "Dovrei farti conoscere delle persone."
+        },
+        {
+          "type": "quote",
+          "text": "Gente con più coraggio di quanto io abbia mai visto. Sono stati loro a crescermi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan sollevò leggermente un sopracciglio."
+        },
+        {
+          "type": "quote",
+          "text": "Anche tu sei orfano?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Elis fece una piccola smorfia."
+        },
+        {
+          "type": "quote",
+          "text": "Tecnicamente sì."
+        },
+        {
+          "type": "quote",
+          "text": "Ma in pratica… ho avuto una grande famiglia."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il tiefling sospirò e scosse la testa."
+        },
+        {
+          "type": "quote",
+          "text": "Ma non è il momento di diventare malinconici. Abbiamo del lavoro da fare."
+        },
+        {
+          "type": "paragraph",
+          "text": "Fece un cenno verso la città."
+        },
+        {
+          "type": "quote",
+          "text": "Dovrò anche tornare in quel tempio dei mirkuliti. Sistemare una faccenda… e sperare di riavere la mia ombra."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan incrociò le braccia."
+        },
+        {
+          "type": "quote",
+          "text": "Forse dovresti smettere di profanare tombe."
+        },
+        {
+          "type": "paragraph",
+          "text": "Elis rise piano."
+        },
+        {
+          "type": "quote",
+          "text": "Hai ragione."
+        },
+        {
+          "type": "quote",
+          "text": "Ma sono anche molto bravo a uscirne vivo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nel frattempo, alla Locanda del Canto Elfico, il resto del gruppo si stava riunendo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aelar, Kyran e Alaster erano tornati da poco e si erano fermati a discutere sul da farsi."
+        },
+        {
+          "type": "paragraph",
+          "text": "La missione li attendeva quella stessa notte."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le Terme, uno dei luoghi dove il culto dei Tre Morti sembrava avere interessi, non distavano molto dalla locanda."
+        },
+        {
+          "type": "paragraph",
+          "text": "Quaranta minuti di cammino al massimo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aelar si appoggiò allo schienale della sedia."
+        },
+        {
+          "type": "quote",
+          "text": "Potremmo fare una ricognizione."
+        },
+        {
+          "type": "quote",
+          "text": "Solo per vedere se ci sono guardie o movimenti sospetti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Alaster rifletté qualche istante."
+        },
+        {
+          "type": "quote",
+          "text": "Secondo me andarci ora sarebbe un azzardo."
+        },
+        {
+          "type": "quote",
+          "text": "Meglio aspettare la notte."
+        },
+        {
+          "type": "paragraph",
+          "text": "Kyran annuì lentamente."
+        },
+        {
+          "type": "quote",
+          "text": "La notte favorisce chi vuole passare inosservato."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aelar alzò lo sguardo verso il soffitto della locanda."
+        },
+        {
+          "type": "quote",
+          "text": "Quanto manca al calar della notte?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Era ancora pomeriggio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Restavano diverse ore prima che l’oscurità coprisse la città."
+        },
+        {
+          "type": "paragraph",
+          "text": "Alaster sospirò leggermente."
+        },
+        {
+          "type": "quote",
+          "text": "Meglio riposare allora."
+        },
+        {
+          "type": "quote",
+          "text": "Abbiamo già affrontato abbastanza oggi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi aggiunse con tono più cupo:"
+        },
+        {
+          "type": "quote",
+          "text": "E speriamo che Nathan ed Elis non abbiano insospettito troppo i fedeli di Helm con quel libro fatto di pelle… forse umana."
+        },
+        {
+          "type": "paragraph",
+          "text": "Per un istante nessuno parlò."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi Alaster portò la mano dietro la nuca, come se qualcosa lo avesse improvvisamente irritato."
+        },
+        {
+          "type": "paragraph",
+          "text": "Si grattò distrattamente."
+        },
+        {
+          "type": "paragraph",
+          "text": "Quando riportò la mano davanti a sé, notò qualcosa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Piccoli frammenti trasparenti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Come sottili scaglie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Rimase a fissarli per un momento."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi chiuse la mano, senza attirare l’attenzione degli altri."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il gruppo si preparava a tornare alla locanda e attendere la notte."
+        },
+        {
+          "type": "paragraph",
+          "text": "La vera caccia sarebbe iniziata allora."
+        }
+      ]
+    },
+    {
+      "id": "locanda",
+      "title": "Finalmente alla Locanda del Canto Elfico",
+      "videoId": "2pQVwEhzfXk",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Quando il gruppo fece ritorno alla Locanda del Canto Elfico, l'atmosfera era molto diversa da quella che avevano lasciato poche ore prima."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le lanterne erano accese, le porte spalancate e il brusio di nuove voci riempiva la sala comune."
+        },
+        {
+          "type": "paragraph",
+          "text": "L’attacco alla taverna sembrava ormai un ricordo lontano."
+        },
+        {
+          "type": "paragraph",
+          "text": "I tavoli erano occupati da nuovi avventori e il profumo del cibo proveniente dalla cucina si mescolava all’odore familiare della birra e del legno consumato."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dietro il bancone, Alan li osservò entrare."
+        },
+        {
+          "type": "quote",
+          "text": "Ancora qui."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aelar sollevò un sopracciglio."
+        },
+        {
+          "type": "quote",
+          "text": "Alan… dovresti ringraziarci che sei ancora qui."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il locandiere sbuffò, ma con un mezzo sorriso."
+        },
+        {
+          "type": "quote",
+          "text": "Vi ho già ringraziato. Vi sto facendo restare qui."
+        },
+        {
+          "type": "paragraph",
+          "text": "L’elfo si appoggiò al bancone con aria divertita."
+        },
+        {
+          "type": "quote",
+          "text": "Strano modo, tra gente dei boschi, di dimostrare apprezzamento."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi aggiunse con tono più leggero:"
+        },
+        {
+          "type": "quote",
+          "text": "Mi ricordo che mi devi una buona bevanda."
+        },
+        {
+          "type": "paragraph",
+          "text": "Alan annuì e versò un liquido dorato in un boccale."
+        },
+        {
+          "type": "quote",
+          "text": "Ho giusto quello che fa per te."
+        },
+        {
+          "type": "paragraph",
+          "text": "La bevanda era forte, dolce e sorprendentemente raffinata."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il locandiere guardò poi il gruppo."
+        },
+        {
+          "type": "quote",
+          "text": "Avete già mangiato?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Aelar fece spallucce."
+        },
+        {
+          "type": "quote",
+          "text": "Direi qualcosa al volo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Alan si girò verso la cucina."
+        },
+        {
+          "type": "quote",
+          "text": "Jeff! Quattro porzioni!"
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi guardò di nuovo il gruppo."
+        },
+        {
+          "type": "quote",
+          "text": "Anzi… cinque."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il cuoco sparì dietro la porta con un grugnito."
+        },
+        {
+          "type": "paragraph",
+          "text": "Mentre aspettavano il cibo, Alan si appoggiò al bancone."
+        },
+        {
+          "type": "quote",
+          "text": "Quindi… altri lavori per i Pugni Fiammanti?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Alaster incrociò le braccia."
+        },
+        {
+          "type": "quote",
+          "text": "Dimmi piuttosto… conosci le terme?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Alan annuì lentamente."
+        },
+        {
+          "type": "quote",
+          "text": "Certo. Ci andavo nei miei giorni di pausa… quando avevo giorni di pausa."
+        },
+        {
+          "type": "quote",
+          "text": "Sono chiuse da un po’, ma ho sentito dire che stanno per riaprire."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aelar inclinò la testa."
+        },
+        {
+          "type": "quote",
+          "text": "Davvero?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Alan si strinse nelle spalle."
+        },
+        {
+          "type": "quote",
+          "text": "Problemi strutturali. Tubature. Ristrutturazioni."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi aggiunse:"
+        },
+        {
+          "type": "quote",
+          "text": "Ha finanziato tutto la Duchessa Vanthampur."
+        },
+        {
+          "type": "paragraph",
+          "text": "Alaster sollevò lo sguardo."
+        },
+        {
+          "type": "quote",
+          "text": "La Duchessa?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Alan annuì."
+        },
+        {
+          "type": "quote",
+          "text": "Già. Tutta la gestione delle fogne e dell’acqua in città è roba sua."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il locandiere si appoggiò meglio al bancone mentre raccontava."
+        },
+        {
+          "type": "paragraph",
+          "text": "La storia della Duchessa era nota a molti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Era nata popolana, ma nel corso degli anni aveva scalato ogni gradino della società di Baldur’s Gate."
+        },
+        {
+          "type": "paragraph",
+          "text": "Matrimonio dopo matrimonio — e morte dopo morte — aveva accumulato potere e influenza."
+        },
+        {
+          "type": "paragraph",
+          "text": "Alla fine era diventata una delle quattro figure che governavano la città."
+        },
+        {
+          "type": "paragraph",
+          "text": "E, nonostante i pettegolezzi e le dicerie, nessuno poteva negare che sotto la sua gestione Baldur’s Gate avesse finalmente ottenuto un sistema fognario degno di una vera metropoli."
+        },
+        {
+          "type": "paragraph",
+          "text": "Alaster rimase pensieroso."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aelar invece sorrise leggermente."
+        },
+        {
+          "type": "quote",
+          "text": "Magari le tue conoscenze potrebbero aiutarci a entrare alle terme."
+        },
+        {
+          "type": "paragraph",
+          "text": "Alaster sospirò."
+        },
+        {
+          "type": "quote",
+          "text": "Mettere ancora il mio nome in gioco per visitare delle terme di quartiere…"
+        },
+        {
+          "type": "paragraph",
+          "text": "Fece una pausa."
+        },
+        {
+          "type": "quote",
+          "text": "State davvero tirando la corda."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aelar rise piano."
+        },
+        {
+          "type": "quote",
+          "text": "Prigione va bene. Arruolamento va bene. Ma le terme no?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Alaster scosse la testa, ma non rispose."
+        },
+        {
+          "type": "paragraph",
+          "text": "In quel momento arrivarono i piatti dalla cucina."
+        },
+        {
+          "type": "paragraph",
+          "text": "Alan li sistemò sul tavolo e si voltò verso Kyran, che fino a quel momento era rimasta quasi completamente in silenzio."
+        },
+        {
+          "type": "quote",
+          "text": "Sei sempre così silenziosa?"
+        },
+        {
+          "type": "paragraph",
+          "text": "La donna lo osservò senza cambiare espressione."
+        },
+        {
+          "type": "quote",
+          "text": "È un problema?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Alan fece un mezzo sorriso."
+        },
+        {
+          "type": "quote",
+          "text": "No. Anzi."
+        },
+        {
+          "type": "quote",
+          "text": "Tra tutti loro, sei quella che mi ha creato meno problemi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aelar borbottò tra sé:"
+        },
+        {
+          "type": "quote",
+          "text": "Ingrato…"
+        },
+        {
+          "type": "paragraph",
+          "text": "Alan continuò a osservare Kyran con curiosità."
+        },
+        {
+          "type": "quote",
+          "text": "Le persone silenziose sono spesso quelle che pensano di più."
+        },
+        {
+          "type": "quote",
+          "text": "E dimmi… cosa ti porta a viaggiare con questo gruppo?"
+        },
+        {
+          "type": "paragraph",
+          "text": "La risposta fu semplice."
+        },
+        {
+          "type": "quote",
+          "text": "Sto cercando un modo per arrivare a Elturel."
+        },
+        {
+          "type": "paragraph",
+          "text": "Alan rimase in silenzio per un momento."
+        },
+        {
+          "type": "quote",
+          "text": "Se Elturel è davvero scomparsa… dubito che Baldur’s Gate riuscirà a raggiungerla."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il locandiere scosse lentamente la testa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi guardò di nuovo il gruppo."
+        },
+        {
+          "type": "quote",
+          "text": "Se non avete altro da chiedere… devo tornare a lavorare."
+        },
+        {
+          "type": "paragraph",
+          "text": "Con un cenno del capo si allontanò verso gli altri tavoli della locanda."
+        }
+      ]
+    },
+    {
+      "id": "locanda1",
+      "title": "Elis e Nathan tornano alla locanda",
+      "videoId": "bx_ioO63Cgg",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "La sala della Locanda del Canto Elfico era ormai animata dal brusio della sera."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le lanterne appese alle travi proiettavano luci calde sui tavoli, mentre i viaggiatori parlavano tra loro e il rumore dei boccali riempiva l’aria."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aelar, Kyran e Alaster erano già seduti a un tavolo quando le porte della locanda si aprirono nuovamente."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan ed Elis entrarono nella sala."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il viaggio al tempio di Helm era terminato, e i due si riunirono finalmente ai loro compagni."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aelar sollevò il boccale in segno di saluto."
+        },
+        {
+          "type": "quote",
+          "text": "Abbiamo ordinato anche per voi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Elis si lasciò cadere sulla sedia con evidente sollievo."
+        },
+        {
+          "type": "quote",
+          "text": "Molto gentile."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un boccale venne spinto verso di lui."
+        },
+        {
+          "type": "paragraph",
+          "text": "Per un momento qualcuno propose scherzosamente di provare a rifilargli una bevanda sospetta, ma Elis preferì andare sul sicuro."
+        },
+        {
+          "type": "quote",
+          "text": "Preferisco la birra."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il gruppo si sistemò attorno al tavolo mentre arrivavano i piatti dalla cucina."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan prese subito la parola."
+        },
+        {
+          "type": "quote",
+          "text": "Abbiamo fatto analizzare il libro. Non dovrebbe più darci problemi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi guardò Kyran e Alaster."
+        },
+        {
+          "type": "quote",
+          "text": "Forse voi due potreste capirci qualcosa di più di noi. Non siamo molto pratici di queste cose."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nel frattempo Elis iniziò a mangiare con evidente appetito."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dopo il primo boccone però si fermò."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aggrottò la fronte."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il pollo… mancava completamente di sale."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il tiefling rimase a fissare il piatto con un’espressione disperata, mentre i suoi compagni commentavano ironicamente la possibile «maledizione del sale»."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan riprese il discorso con tono più serio."
+        },
+        {
+          "type": "quote",
+          "text": "Il vescovo ha potuto analizzare solo il libro."
+        },
+        {
+          "type": "quote",
+          "text": "Per quanto riguarda gli altri oggetti dovremo tornare un altro giorno."
+        },
+        {
+          "type": "paragraph",
+          "text": "Fece una breve pausa."
+        },
+        {
+          "type": "quote",
+          "text": "Ci ha comunque confermato che non sono esattamente sicuri da usare."
+        },
+        {
+          "type": "paragraph",
+          "text": "Alaster annuì lentamente."
+        },
+        {
+          "type": "paragraph",
+          "text": "Anche loro avevano scoperto qualcosa."
+        },
+        {
+          "type": "quote",
+          "text": "Una delle boccette è… interessante."
+        },
+        {
+          "type": "quote",
+          "text": "Una pozione piuttosto particolare."
+        },
+        {
+          "type": "paragraph",
+          "text": "L’elfo nobile sorrise appena."
+        },
+        {
+          "type": "quote",
+          "text": "Molto potente."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il discorso scivolò per qualche momento su ciò che avevano scoperto durante la giornata: il misterioso druido costrutto che avevano incontrato e la natura insolita delle pozioni recuperate."
+        },
+        {
+          "type": "paragraph",
+          "text": "Infine Aelar guardò Nathan."
+        },
+        {
+          "type": "quote",
+          "text": "E il libro?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan rimase in silenzio per un istante."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi parlò con cautela."
+        },
+        {
+          "type": "quote",
+          "text": "Del libro… forse è meglio parlarne con calma."
+        },
+        {
+          "type": "paragraph",
+          "text": "Lo sguardo passò da un compagno all’altro."
+        },
+        {
+          "type": "paragraph",
+          "text": "Era chiaro che la conversazione non era finita."
+        },
+        {
+          "type": "paragraph",
+          "text": "E che quella notte avrebbe portato decisioni importanti."
+        }
+      ]
+    },
+    {
+      "id": "piano",
+      "title": "Il piano d’azione",
+      "videoId": "MEXQ1zN0fiY",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Il gruppo era finalmente riunito attorno al tavolo della Locanda del Canto Elfico."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il cibo era arrivato dalla cucina e il rumore delle posate e dei boccali riempiva per un momento il silenzio tra i compagni."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma tutti sapevano che la quiete sarebbe durata poco."
+        },
+        {
+          "type": "paragraph",
+          "text": "La notte portava con sé una missione."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan fu il primo a rompere il silenzio."
+        },
+        {
+          "type": "quote",
+          "text": "Quindi… cosa vogliamo fare adesso?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Il suo sguardo passò da uno all’altro dei compagni."
+        },
+        {
+          "type": "quote",
+          "text": "Vogliamo andare stanotte… in quel posto?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Per un momento nessuno rispose."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi Aelar parlò con calma."
+        },
+        {
+          "type": "quote",
+          "text": "Prima di tutto… vi sentite pronti?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan fece una smorfia mentre si toccava alcune delle bruciature rimaste dagli scontri recenti."
+        },
+        {
+          "type": "quote",
+          "text": "Onestamente… mi farebbe bene riposare un po’."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi alzò le spalle."
+        },
+        {
+          "type": "quote",
+          "text": "Ma se dobbiamo andarci, posso farlo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Qualcuno suggerì di aspettare almeno il tempo necessario per finire di mangiare e recuperare un minimo di energie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nel frattempo Alaster sembrava distratto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Per la seconda volta quella sera si portò una mano dietro la schiena, grattandosi leggermente come se qualcosa lo stesse irritando."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il gesto era discreto, ma abbastanza evidente per chi lo osservava con attenzione."
+        },
+        {
+          "type": "paragraph",
+          "text": "L’elfo nobile cercò di non dare troppo nell’occhio, limitandosi a un movimento appena accennato."
+        },
+        {
+          "type": "paragraph",
+          "text": "La conversazione proseguì."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aelar guardò verso i compagni più silenziosi del gruppo."
+        },
+        {
+          "type": "quote",
+          "text": "Forse dovremmo sentire anche il parere dei nostri amici più… prudenti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Lo sguardo cadde su Alaster e Kyran."
+        },
+        {
+          "type": "paragraph",
+          "text": "Kyran rimase impassibile."
+        },
+        {
+          "type": "paragraph",
+          "text": "Alaster invece sembrava improvvisamente stanco."
+        },
+        {
+          "type": "quote",
+          "text": "Io vorrei riposare un po’."
+        },
+        {
+          "type": "paragraph",
+          "text": "Si alzò dal tavolo senza terminare il pasto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il piatto rimase mezzo pieno davanti alla sua sedia."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non appena l’elfo si allontanò, qualcuno occupò immediatamente il posto rimasto libero."
+        },
+        {
+          "type": "paragraph",
+          "text": "Clayton."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il dragonide si sedette con entusiasmo e osservò il piatto rimasto sul tavolo."
+        },
+        {
+          "type": "quote",
+          "text": "Questo… lo vuole ancora qualcuno?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Dopo qualche secondo di silenzio, la risposta arrivò con naturalezza."
+        },
+        {
+          "type": "quote",
+          "text": "No."
+        },
+        {
+          "type": "paragraph",
+          "text": "Clayton sorrise e cominciò a mangiare con evidente soddisfazione."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il resto del gruppo rimase seduto attorno al tavolo, tra cibo, discussioni e il lento avvicinarsi della notte."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il piano per quella sera stava prendendo forma."
+        }
+      ]
+    },
+    {
+      "id": "alaster",
+      "title": "La muta di Alaster",
+      "videoId": "zvmffFR16K4",
+      "blocks": [
+        {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/eventi/Alaster/La_Muta_Di_Alaster.png",
+          "alt": "La muta di Alaster"
+        },
+        {
+          "type": "paragraph",
+          "text": "La notte scese lentamente sulla Locanda del Canto Elfico."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dopo le discussioni, il cibo e i piani per la notte, Alaster si ritirò nella sua stanza."
+        },
+        {
+          "type": "paragraph",
+          "text": "Chiuse la porta dietro di sé."
+        },
+        {
+          "type": "paragraph",
+          "text": "A chiave."
+        },
+        {
+          "type": "paragraph",
+          "text": "Per qualche istante rimase immobile nella stanza silenziosa, illuminata solo dalla luce tremolante di una lanterna."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi iniziò a spogliarsi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Con movimenti ampi e fluidi, quasi teatrali, lasciò cadere gli abiti uno dopo l’altro sul pavimento."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma mentre il suo corpo si muoveva, una sensazione strana cominciò a farsi strada sotto la pelle."
+        },
+        {
+          "type": "paragraph",
+          "text": "Una tensione diffusa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un prurito sottile e persistente."
+        },
+        {
+          "type": "paragraph",
+          "text": "Alaster portò le mani dietro la schiena, cercando di raggiungere il punto da cui sembrava provenire quella sensazione."
+        },
+        {
+          "type": "paragraph",
+          "text": "Quando le dita toccarono la pelle, si accorse che qualcosa non era normale."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sotto i polpastrelli percepì una superficie rugosa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Irregolare."
+        },
+        {
+          "type": "paragraph",
+          "text": "Come una sottile patina."
+        },
+        {
+          "type": "paragraph",
+          "text": "Quasi… delle scaglie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il prurito aumentò."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sempre di più."
+        },
+        {
+          "type": "paragraph",
+          "text": "Si diffuse lungo le braccia, le gambe, dietro le ginocchia, sui polpacci, lungo la schiena."
+        },
+        {
+          "type": "paragraph",
+          "text": "Infine arrivò al collo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Lì Alaster iniziò a grattarsi con più insistenza, come se quel gesto fosse diventato un tic nervoso impossibile da ignorare."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ogni volta che le unghie sfioravano la pelle, piccoli frammenti sottili si staccavano dal suo corpo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Scaglie trasparenti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sotto di esse appariva una pelle nuova."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sensibile."
+        },
+        {
+          "type": "paragraph",
+          "text": "Bruciante."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il prurito diventò insopportabile."
+        },
+        {
+          "type": "paragraph",
+          "text": "Alaster cadde quasi sul pavimento della stanza, continuando a grattarsi con movimenti sempre più convulsi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il dolore e il bisogno di liberarsi di quella patina si mescolavano in una sensazione primordiale."
+        },
+        {
+          "type": "paragraph",
+          "text": "Alla fine afferrò un coltello."
+        },
+        {
+          "type": "paragraph",
+          "text": "Con attenzione iniziò a sollevare quelle scaglie, come se stesse togliendo una pelle bruciata dopo una lunga esposizione al sole."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ogni pezzo che si staccava lasciava sotto una sensazione di bruciore intenso."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il sudore freddo gli scivolava sulla schiena mentre continuava a liberarsi di quel guscio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Si muoveva sul pavimento quasi strisciando, incapace di restare in piedi mentre cercava di raggiungere ogni punto del corpo."
+        },
+        {
+          "type": "paragraph",
+          "text": "La scena nella stanza era brutale."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un uomo che si liberava della propria pelle."
+        },
+        {
+          "type": "paragraph",
+          "text": "Una muta."
+        },
+        {
+          "type": "paragraph",
+          "text": "Quando finalmente il processo terminò, Alaster rimase per un momento immobile sul pavimento."
+        },
+        {
+          "type": "paragraph",
+          "text": "Respirava pesantemente."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi si alzò lentamente."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il dolore stava già diminuendo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sotto la luce della lanterna osservò il proprio corpo."
+        },
+        {
+          "type": "paragraph",
+          "text": "La nuova pelle era liscia."
+        },
+        {
+          "type": "paragraph",
+          "text": "Quasi setosa."
+        },
+        {
+          "type": "paragraph",
+          "text": "E quando la luce la colpiva di lato, sembravano intravedersi sottili motivi romboidali ripetersi su tutta la superficie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Alaster sorrise."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un sorriso febbrile."
+        },
+        {
+          "type": "paragraph",
+          "text": "Era eccitato."
+        },
+        {
+          "type": "paragraph",
+          "text": "Quella trasformazione non era dolore inutile."
+        },
+        {
+          "type": "paragraph",
+          "text": "Era crescita."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un nuovo stadio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il formicolio che aveva percepito nel tempio non era stato un caso."
+        },
+        {
+          "type": "paragraph",
+          "text": "Si guardò intorno."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sul pavimento giaceva l’ammasso irregolare della pelle che si era appena strappato di dosso."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non aveva più una forma riconoscibile."
+        },
+        {
+          "type": "paragraph",
+          "text": "Solo frammenti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Molti frammenti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Alaster li raccolse e li spinse sotto il letto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Per il momento bastava nasconderli."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi si rivestì lentamente."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il contatto dei vestiti sulla pelle nuova non provocava più dolore."
+        },
+        {
+          "type": "paragraph",
+          "text": "Solo una sensazione leggera."
+        },
+        {
+          "type": "paragraph",
+          "text": "Quasi piacevole."
+        },
+        {
+          "type": "paragraph",
+          "text": "Prima di spegnere la lanterna, un pensiero gli attraversò la mente."
+        },
+        {
+          "type": "paragraph",
+          "text": "Forse la sua evoluzione era appena iniziata."
+        },
+        {
+          "type": "paragraph",
+          "text": "Con quel pensiero si sdraiò sul letto."
+        },
+        {
+          "type": "paragraph",
+          "text": "E si lasciò finalmente cadere nel sonno."
+        }
+      ]
+    },
+    {
+      "id": "biglietto",
+      "title": "Il biglietto nelle vesti di Flenner",
+      "videoId": "LANbCM8rx3k",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "La conversazione alla Locanda del Canto Elfico sembrava ormai avviarsi verso una conclusione."
+        },
+        {
+          "type": "paragraph",
+          "text": "I piatti erano quasi vuoti, le bevande scivolavano nei boccali e il gruppo stava valutando seriamente se affrontare quella stessa notte il covo dei cultisti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Fu allora che Elis si immobilizzò per un istante."
+        },
+        {
+          "type": "paragraph",
+          "text": "Come colpito da un pensiero improvviso."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il tiefling aggrottò la fronte e si portò una mano alla tempia, cercando di recuperare un ricordo che gli era sfuggito fino a quel momento."
+        },
+        {
+          "type": "quote",
+          "text": "Aspettate…"
+        },
+        {
+          "type": "paragraph",
+          "text": "Gli sguardi degli altri si posarono su di lui."
+        },
+        {
+          "type": "quote",
+          "text": "Sul corpo di Flenner… c’era un biglietto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Per un momento nessuno parlò."
+        },
+        {
+          "type": "paragraph",
+          "text": "Elis continuò."
+        },
+        {
+          "type": "quote",
+          "text": "Era firmato da qualcuno che si faceva chiamare Bats."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il tiefling cercò di ricostruire mentalmente le parole scritte su quel foglio."
+        },
+        {
+          "type": "quote",
+          "text": "Diceva che al covo ci sono stati dei problemi strutturali."
+        },
+        {
+          "type": "quote",
+          "text": "Stanno facendo manutenzione… e approfitteranno della situazione per rinforzare l’occultamento della porta segreta."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il silenzio si fece più pesante attorno al tavolo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi Elis aggiunse un dettaglio ancora più inquietante."
+        },
+        {
+          "type": "quote",
+          "text": "Anche il tribunale dei cultisti ha subito dei crolli."
+        },
+        {
+          "type": "quote",
+          "text": "Alcune colonne sono cadute."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il tiefling incrociò le braccia."
+        },
+        {
+          "type": "quote",
+          "text": "Questo significa che non possono più stare lì."
+        },
+        {
+          "type": "paragraph",
+          "text": "La conclusione arrivò quasi da sola."
+        },
+        {
+          "type": "quote",
+          "text": "Quindi… si sono riversati tutti nel covo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il gruppo rimase in silenzio per qualche secondo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Due culti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Due divinità oscure."
+        },
+        {
+          "type": "paragraph",
+          "text": "Bhaal e Myrkul."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nello stesso luogo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aelar si lasciò andare contro lo schienale della sedia."
+        },
+        {
+          "type": "quote",
+          "text": "Quindi stiamo parlando di un covo… doppio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Qualcuno sospirò."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan scosse lentamente la testa."
+        },
+        {
+          "type": "quote",
+          "text": "Davvero vogliamo andarci così… scarichi?"
+        },
+        {
+          "type": "paragraph",
+          "text": "La domanda non aveva bisogno di risposta."
+        },
+        {
+          "type": "paragraph",
+          "text": "Elis alzò le mani con un gesto quasi di scusa."
+        },
+        {
+          "type": "quote",
+          "text": "Scusatemi. Me ne sono ricordato solo ora."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma ormai il dubbio si era insinuato nella mente di tutti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Se il covo era diventato il rifugio di entrambi i culti, lì dentro avrebbero trovato molti più nemici di quanto avessero previsto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Alla fine la decisione arrivò con naturalezza."
+        },
+        {
+          "type": "quote",
+          "text": "Meglio andarci quando saremo pronti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Qualcuno annuì."
+        },
+        {
+          "type": "quote",
+          "text": "Ci riposiamo."
+        },
+        {
+          "type": "quote",
+          "text": "Domani ci andremo preparati."
+        },
+        {
+          "type": "paragraph",
+          "text": "La tensione si sciolse lentamente."
+        },
+        {
+          "type": "paragraph",
+          "text": "Quella sera non sarebbe stata dedicata alla battaglia."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma alla preparazione."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le armi sarebbero state controllate."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le frecce preparate."
+        },
+        {
+          "type": "paragraph",
+          "text": "Chi aveva bisogno di riposo avrebbe dormito."
+        },
+        {
+          "type": "paragraph",
+          "text": "La notte passò così, tra il rumore della locanda e i pensieri silenziosi di chi sapeva che il giorno dopo sarebbe entrato nel covo dei cultisti."
+        }
+      ]
+    },
+    {
+      "id": "aelar",
+      "title": "La seconda mutazione di Aelar",
+      "videoId": "MhnRwsEX03s",
+      "blocks": [
+        {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/eventi/Aelar/Aelar_Muta.png",
+          "alt": "Aelar affronta la seconda mutazione"
+        },
+        {
+          "type": "paragraph",
+          "text": "La notte nella Locanda del Canto Elfico scivolò lentamente verso le prime ore dell’alba."
+        },
+        {
+          "type": "paragraph",
+          "text": "Quando le quattro ore di riposo elfico di Aelar giunsero al termine, l’elfo si alzò silenziosamente e scese al piano inferiore della locanda."
+        },
+        {
+          "type": "paragraph",
+          "text": "Scelse una delle piccole salette laterali, appartate e schermate da tendine di stoffa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aveva bisogno di pensare."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le immagini della giornata gli scorrevano nella mente: Elturel. La sua accademia. Gli studi lasciati incompiuti. Le tecniche che aveva appreso ma che non aveva mai osato utilizzare davvero."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aveva studiato per tutta la vita arti che richiedevano sacrificio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sacrificio del corpo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sacrificio dell’essenza."
+        },
+        {
+          "type": "paragraph",
+          "text": "E ora si trovava davanti a una scelta."
+        },
+        {
+          "type": "paragraph",
+          "text": "Doveva decidere se compiere finalmente il passo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Quando Alan scese dalla sua stanza, salutò Aelar con un semplice cenno del capo."
+        },
+        {
+          "type": "paragraph",
+          "text": "L’elfo ricambiò."
+        },
+        {
+          "type": "quote",
+          "text": "Buongiorno, Alan. Avrei bisogno di un po’ di privacy."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il locandiere annuì e lasciò che Aelar chiudesse la tendina che isolava il piccolo spazio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Una volta solo, l’elfo estrasse il suo kit da alchimista."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ampolle. Polveri. Fiale. Strumenti di vetro."
+        },
+        {
+          "type": "paragraph",
+          "text": "Gli strumenti dei mutanti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Gli strumenti del suo ordine."
+        },
+        {
+          "type": "paragraph",
+          "text": "Per un momento esitò."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ripensò al suo maestro."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ripensò alle parole pronunciate molti anni prima nell’accademia."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi prese il coltello rituale."
+        },
+        {
+          "type": "paragraph",
+          "text": "Con un gesto deciso si incise il palmo della mano."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il sangue cominciò a scorrere."
+        },
+        {
+          "type": "paragraph",
+          "text": "Lo raccolse in una piccola ampolla."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi in un’altra."
+        },
+        {
+          "type": "paragraph",
+          "text": "Parte della sua essenza veniva offerta alla trasformazione."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dal kit estrasse una fialetta di polvere scura, nera come la notte."
+        },
+        {
+          "type": "paragraph",
+          "text": "La versò lentamente nel sangue."
+        },
+        {
+          "type": "paragraph",
+          "text": "Quasi subito il liquido reagì."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il sangue iniziò a brillare come braci vive, danzando all’interno dell’ampolla."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il colore si fece più profondo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Striature dorate attraversarono il rosso mentre una luce rossastra filtrava dal vetro."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aelar sfiorò l’ampolla."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il calore lo attraversò."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma non lo ferì."
+        },
+        {
+          "type": "paragraph",
+          "text": "La prima preparazione era riuscita."
+        },
+        {
+          "type": "paragraph",
+          "text": "Spinto dall’entusiasmo, l’elfo prese una seconda polvere."
+        },
+        {
+          "type": "paragraph",
+          "text": "Questa volta era chiara."
+        },
+        {
+          "type": "paragraph",
+          "text": "Quasi argentata."
+        },
+        {
+          "type": "paragraph",
+          "text": "Quando la versò nell’ampolla, il sangue reagì con violenza."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il liquido divenne bluastro e iniziò a muoversi in vortici rapidi, come se cercasse di fuggire dal contenitore."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aelar osservò meravigliato quella reazione."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non si aspettava una risposta così intensa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Quando sfiorò il vetro, sentì le dita rispondere con velocità innaturale."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un sorriso gli attraversò il volto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aveva fatto il primo passo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma sapeva che non bastava."
+        },
+        {
+          "type": "paragraph",
+          "text": "Per sostenere davvero quel potere, il suo corpo avrebbe dovuto evolversi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ancora una volta."
+        },
+        {
+          "type": "paragraph",
+          "text": "Preparò quindi una terza fiala."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il sangue venne mescolato con altri componenti alchemici."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il risultato fu un composto nero e denso."
+        },
+        {
+          "type": "paragraph",
+          "text": "L’odore di zolfo riempì l’aria."
+        },
+        {
+          "type": "paragraph",
+          "text": "Era un odore che Aelar conosceva bene."
+        },
+        {
+          "type": "paragraph",
+          "text": "Lo aveva già sentito."
+        },
+        {
+          "type": "paragraph",
+          "text": "La prima volta che il suo corpo era cambiato."
+        },
+        {
+          "type": "paragraph",
+          "text": "Tenendo la fiala tra le dita, l’elfo guardò il proprio riflesso nel vetro."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sapeva che cosa doveva fare."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma era il passo che temeva di più."
+        },
+        {
+          "type": "paragraph",
+          "text": "Richiamò allora Aeren."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il gufo spettrale planò silenziosamente accanto a lui e si posò sul tavolo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Piegò la testa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Come se comprendesse perfettamente ciò che stava per accadere."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aelar annuì."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi bevve la fiala."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il liquido scese nella gola come ghiaccio mescolato a fuoco."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un dolore devastante esplose nel suo corpo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Vene nere si diramarono lungo il collo e scesero sul petto come radici oscure."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il cuore accelerò furiosamente."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi si fermò."
+        },
+        {
+          "type": "paragraph",
+          "text": "Riprese."
+        },
+        {
+          "type": "paragraph",
+          "text": "E si fermò di nuovo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il respiro divenne affannoso."
+        },
+        {
+          "type": "paragraph",
+          "text": "Gli occhi di Aelar si oscurarono completamente."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il corpo fu attraversato da spasmi violenti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aeren rimase accanto a lui, impotente."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il cuore dell’elfo sembrava impazzito."
+        },
+        {
+          "type": "paragraph",
+          "text": "Battiti frenetici."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi silenzio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi ancora battiti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Per lunghi secondi il tempo sembrò fermarsi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi, improvvisamente, Aelar inspirò."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un lungo respiro."
+        },
+        {
+          "type": "paragraph",
+          "text": "Gli occhi tornarono alla normalità."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il cuore riprese a battere."
+        },
+        {
+          "type": "paragraph",
+          "text": "Lentamente."
+        },
+        {
+          "type": "paragraph",
+          "text": "Molto lentamente."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aelar sollevò lo sguardo verso il suo compagno alato."
+        },
+        {
+          "type": "paragraph",
+          "text": "Allungò una mano e accarezzò il gufo."
+        },
+        {
+          "type": "quote",
+          "text": "Ce l’abbiamo fatta."
+        },
+        {
+          "type": "paragraph",
+          "text": "La mutazione era compiuta."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aveva superato il secondo risveglio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Una prova che pochi membri dell’Ordine dei Mutanti erano riusciti a sopravvivere."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ora Aelar non era più soltanto un cacciatore."
+        },
+        {
+          "type": "paragraph",
+          "text": "Era diventato qualcosa di più."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un mutante superiore."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un Witcher."
+        },
+        {
+          "type": "paragraph",
+          "text": "L’elfo osservò le fiale appese alla cintura."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi guardò Aeren."
+        },
+        {
+          "type": "paragraph",
+          "text": "E un sorriso determinato attraversò il suo volto."
+        },
+        {
+          "type": "quote",
+          "text": "E ora… ricominciamo."
+        }
+      ]
+    }
+  ]
+}

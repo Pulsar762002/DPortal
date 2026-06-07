@@ -1,0 +1,3148 @@
+{
+  "$schema": "./session.schema.json",
+  "id": 8,
+  "title": "Sessione 8",
+  "videoId": "eGb-qWbQYus",
+  "chapters": [
+    {
+      "id": "muta",
+      "title": "La muta del serpente",
+      "videoId": "ZhVA_8eusww",
+      "blocks": [
+        {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/eventi/Alaster/Il serpentello.png",
+          "alt": "Il serpente apparso nella stanza di Alaster"
+        },
+        {
+          "type": "paragraph",
+          "text": "Mentre il resto del gruppo si radunava nella sala comune, tra il profumo del pane caldo e le prime parole del mattino, Alaster tardava a scendere."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nella quiete della sua stanza, lontano da occhi indiscreti, il nobile di Baldur’s Gate si ridestò lentamente, ancora immerso nei pensieri della notte precedente."
+        },
+        {
+          "type": "paragraph",
+          "text": "La pelle che aveva abbandonato — quella reliquia innaturale, strappata via come un involucro ormai inutile — giaceva sotto il letto."
+        },
+        {
+          "type": "paragraph",
+          "text": "O almeno… così avrebbe dovuto essere."
+        },
+        {
+          "type": "paragraph",
+          "text": "Quando i suoi piedi toccarono il pavimento, un suono spezzò il silenzio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un crepitio ritmico."
+        },
+        {
+          "type": "paragraph",
+          "text": "Secco."
+        },
+        {
+          "type": "paragraph",
+          "text": "Inquietante."
+        },
+        {
+          "type": "paragraph",
+          "text": "Come una maracas."
+        },
+        {
+          "type": "paragraph",
+          "text": "Alaster si immobilizzò, gli occhi che si socchiudevano appena mentre il suo istinto si tendeva come una corda."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non c’era bisogno di cercare a lungo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il suono proveniva da sotto il letto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Con movimenti lenti, controllati, si abbassò."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le mani a terra, il corpo inclinato, lo sguardo che scivolava nell’ombra."
+        },
+        {
+          "type": "paragraph",
+          "text": "E lì lo vide."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un serpente."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nero come la notte più profonda, avvolto su sé stesso."
+        },
+        {
+          "type": "paragraph",
+          "text": "Gli occhi gialli, freddi e attenti."
+        },
+        {
+          "type": "paragraph",
+          "text": "La coda vibrava, producendo quel suono minaccioso e ipnotico."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma non era quello il dettaglio più inquietante."
+        },
+        {
+          "type": "paragraph",
+          "text": "La pelle non c’era più."
+        },
+        {
+          "type": "paragraph",
+          "text": "La comprensione giunse senza bisogno di parole."
+        },
+        {
+          "type": "quote",
+          "text": "…Capisco."
+        },
+        {
+          "type": "paragraph",
+          "text": "Senza esitazione, Alaster si mosse."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il suo capo iniziò a seguire il ritmo del serpente, oscillando con precisione quasi innaturale."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un’antica conoscenza, radicata nel sangue della sua stirpe, si risvegliò."
+        },
+        {
+          "type": "paragraph",
+          "text": "E parlò."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non in lingua umana."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma in un sibilo antico, viscerale."
+        },
+        {
+          "type": "paragraph",
+          "text": "Una lingua che non si apprende… si eredita."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il serpente si fermò."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il suono cessò."
+        },
+        {
+          "type": "paragraph",
+          "text": "La coda smise di vibrare."
+        },
+        {
+          "type": "paragraph",
+          "text": "Per un istante, il tempo stesso sembrò trattenere il respiro."
+        },
+        {
+          "type": "paragraph",
+          "text": "L’animale lo osservava."
+        },
+        {
+          "type": "paragraph",
+          "text": "Studiava."
+        },
+        {
+          "type": "paragraph",
+          "text": "Comprendeva… a modo suo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Lentamente, si avvicinò."
+        },
+        {
+          "type": "paragraph",
+          "text": "Alaster tese la mano."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il serpente si fermò a pochi centimetri, la lingua biforcuta che sfiorava la pelle, assaggiando la sua essenza più che il suo corpo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi, senza aggressività… si arrampicò."
+        },
+        {
+          "type": "paragraph",
+          "text": "Attorno al braccio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un giro."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi un altro."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non stringeva."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non attaccava."
+        },
+        {
+          "type": "paragraph",
+          "text": "Si ancorava."
+        },
+        {
+          "type": "paragraph",
+          "text": "E infine… cambiò."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il corpo del serpente sembrò appiattirsi, svuotarsi, dissolversi contro la pelle di Alaster."
+        },
+        {
+          "type": "paragraph",
+          "text": "Come se la sua forma fosse solo un passaggio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un tramite."
+        },
+        {
+          "type": "paragraph",
+          "text": "In pochi istanti, non rimase più nulla."
+        },
+        {
+          "type": "paragraph",
+          "text": "Se non un segno."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un tatuaggio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un serpente nero, avvolto nello stesso identico modo attorno al suo braccio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Vivo nella forma."
+        },
+        {
+          "type": "paragraph",
+          "text": "Silente nella sostanza."
+        },
+        {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/eventi/Alaster/Tatuaggio.png",
+          "alt": "Il tatuaggio serpentino sul braccio di Alaster"
+        },
+        {
+          "type": "quote",
+          "text": "Non smetti mai di sorprendermi…"
+        },
+        {
+          "type": "paragraph",
+          "text": "Il sussurro di Alaster era carico di compiacimento."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non paura."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non dubbio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Solo consapevolezza crescente."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ogni mutazione."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ogni dono."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ogni segno."
+        },
+        {
+          "type": "paragraph",
+          "text": "Era un passo in più."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nella sua ascesa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Quando infine si rivestì e lasciò la stanza, scendendo verso gli altri, nulla nel suo portamento tradiva ciò che era appena accaduto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma qualcosa, sotto la superficie…"
+        },
+        {
+          "type": "paragraph",
+          "text": "era cambiato per sempre."
+        }
+      ]
+    },
+    {
+      "id": "sangue",
+      "title": "Il prezzo del sangue",
+      "videoId": "sBx10AkR4eM",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Non tutti avevano vissuto la notte allo stesso modo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Alcuni avevano dormito."
+        },
+        {
+          "type": "paragraph",
+          "text": "Altri… avevano pagato un prezzo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Quando Nathan si ridestò, lo fece come sempre: presto, lucido, saldo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il suo corpo seguiva una disciplina ormai radicata, temprata da addestramento e fede."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma quella mattina, qualcosa attirò la sua attenzione."
+        },
+        {
+          "type": "paragraph",
+          "text": "Una luce filtrava da una stanza laterale della locanda."
+        },
+        {
+          "type": "paragraph",
+          "text": "Una porta socchiusa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un silenzio troppo carico per essere casuale."
+        },
+        {
+          "type": "paragraph",
+          "text": "Si avvicinò."
+        },
+        {
+          "type": "paragraph",
+          "text": "E lo vide."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aelar."
+        },
+        {
+          "type": "paragraph",
+          "text": "Seduto tra ampolle, strumenti e residui alchemici."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il volto segnato."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il corpo stremato."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non era un semplice risveglio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Era il dopo."
+        },
+        {
+          "type": "quote",
+          "text": "Aelar… già sveglio? Che ci fai qui dentro?"
+        },
+        {
+          "type": "paragraph",
+          "text": "La risposta arrivò lenta, appesantita da ciò che era stato fatto."
+        },
+        {
+          "type": "quote",
+          "text": "È stata una nottaccia, Nathan… Ho dovuto affrontare una scelta importante."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sul tavolo, i segni erano evidenti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ampolle svuotate."
+        },
+        {
+          "type": "paragraph",
+          "text": "Residui densi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Tracce di un rituale che non apparteneva alla magia comune."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan aggrottò lo sguardo."
+        },
+        {
+          "type": "quote",
+          "text": "Che cos’è tutta questa roba…? Ti stai drogando?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Un’accusa istintiva."
+        },
+        {
+          "type": "paragraph",
+          "text": "Diretta."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma Aelar non reagì con irritazione."
+        },
+        {
+          "type": "paragraph",
+          "text": "Solo con calma."
+        },
+        {
+          "type": "quote",
+          "text": "Sono un alchimista… o qualcosa di simile. Ho preparato ciò che ci servirà oggi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un attimo di silenzio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi, più profondo:"
+        },
+        {
+          "type": "quote",
+          "text": "Nel mio ordine… si dà qualcosa per ottenere qualcos’altro."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan comprese."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non nei dettagli."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma abbastanza."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il nome non serviva."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il concetto sì."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un ordine di cacciatori."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un cammino fatto di sacrificio."
+        },
+        {
+          "type": "paragraph",
+          "text": "E di sangue."
+        },
+        {
+          "type": "quote",
+          "text": "È… un percorso duro."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aelar accennò un sorriso stanco."
+        },
+        {
+          "type": "quote",
+          "text": "Da ieri… più duro del solito."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il suo sguardo si abbassò per un istante."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non c’era vergogna."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non c’era rimorso."
+        },
+        {
+          "type": "paragraph",
+          "text": "Solo consapevolezza."
+        },
+        {
+          "type": "quote",
+          "text": "Ma mi abituerò. Ogni passo sarà più facile… fino al prossimo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan lo osservò."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non come un giudice."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma come un compagno."
+        },
+        {
+          "type": "paragraph",
+          "text": "Due strade diverse."
+        },
+        {
+          "type": "paragraph",
+          "text": "Due discipline."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un unico scopo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi, con un tono più leggero:"
+        },
+        {
+          "type": "quote",
+          "text": "Allora dobbiamo festeggiare."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aelar sollevò appena lo sguardo."
+        },
+        {
+          "type": "quote",
+          "text": "Portaci il tuo infuso, Alan… quello buono."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il mondo, per un istante, tornò semplice."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un tavolo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Due uomini."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un momento di tregua."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma sotto quella calma…"
+        },
+        {
+          "type": "paragraph",
+          "text": "qualcosa stava crescendo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aelar aveva fatto un passo."
+        },
+        {
+          "type": "paragraph",
+          "text": "E come ogni passo nel suo cammino…"
+        },
+        {
+          "type": "paragraph",
+          "text": "aveva lasciato un segno."
+        }
+      ]
+    },
+    {
+      "id": "fragole",
+      "title": "Strategie e fragole",
+      "videoId": "YHIf6NY7CKU",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "La locanda, ormai, era tornata a respirare."
+        },
+        {
+          "type": "paragraph",
+          "text": "Voci basse, passi lenti, il tintinnio delle stoviglie."
+        },
+        {
+          "type": "paragraph",
+          "text": "La normalità, fragile e temporanea, si era ricostruita sopra le crepe lasciate dagli eventi recenti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Uno alla volta, i membri del gruppo si riunirono."
+        },
+        {
+          "type": "paragraph",
+          "text": "Chi con passo sicuro."
+        },
+        {
+          "type": "paragraph",
+          "text": "Chi trascinandosi dietro i postumi della notte."
+        },
+        {
+          "type": "paragraph",
+          "text": "Chi… semplicemente cercando di capire dove fosse e perché."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aelar, ancora segnato dal rituale, consumava la colazione con movimenti meccanici."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il sapore dolce della marmellata gli arrivava distante, come filtrato da una mente ancora immersa nella fatica."
+        },
+        {
+          "type": "paragraph",
+          "text": "Kyran era già sveglia da tempo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aveva pregato all’alba, in silenzio, lasciando che la luce nascente si riflettesse su un dettaglio che non le era sfuggito."
+        },
+        {
+          "type": "paragraph",
+          "text": "La piuma."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il dono ricevuto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ora diversa."
+        },
+        {
+          "type": "paragraph",
+          "text": "I bordi riflettevano la luce in modo innaturale, come se qualcosa fosse cambiato nella sua essenza più profonda."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un segno sottile."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma inequivocabile."
+        },
+        {
+          "type": "paragraph",
+          "text": "Anche lì… qualcosa si muoveva."
+        },
+        {
+          "type": "paragraph",
+          "text": "Kleyton arrivò poco dopo, portando con sé una presenza decisamente meno mistica."
+        },
+        {
+          "type": "paragraph",
+          "text": "L’odore."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un misto di paglia marcia e stalla."
+        },
+        {
+          "type": "paragraph",
+          "text": "Una notte passata nel posto sbagliato… e nelle condizioni peggiori."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il gruppo si riunì definitivamente attorno al tavolo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Era tempo di decidere."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le terme aprivano al mattino presto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un luogo affollato, ma non troppo nelle prime ore."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un crocevia di persone… e forse di segreti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Alan aveva già dato il suo consiglio:"
+        },
+        {
+          "type": "quote",
+          "text": "Evitate il pomeriggio. Troppa gente."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il piano prese forma rapidamente."
+        },
+        {
+          "type": "paragraph",
+          "text": "Entrare."
+        },
+        {
+          "type": "paragraph",
+          "text": "Mescolarsi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Osservare."
+        },
+        {
+          "type": "paragraph",
+          "text": "Senza attirare attenzione."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma non era l’unico obiettivo."
+        },
+        {
+          "type": "paragraph",
+          "text": "La moneta."
+        },
+        {
+          "type": "paragraph",
+          "text": "Quel misterioso medaglione che aveva aperto una porta nascosta."
+        },
+        {
+          "type": "paragraph",
+          "text": "Se esisteva un passaggio… forse esistevano altre chiavi."
+        },
+        {
+          "type": "paragraph",
+          "text": "O altri modi per accedervi."
+        },
+        {
+          "type": "quote",
+          "text": "Se troviamo qualcosa di simile… potrebbe essere la chiave."
+        },
+        {
+          "type": "paragraph",
+          "text": "L’ipotesi era fragile."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma era pur sempre una direzione."
+        },
+        {
+          "type": "paragraph",
+          "text": "Si parlò anche di infiltrazione."
+        },
+        {
+          "type": "paragraph",
+          "text": "Uffici."
+        },
+        {
+          "type": "paragraph",
+          "text": "Gestori."
+        },
+        {
+          "type": "paragraph",
+          "text": "Intermediari."
+        },
+        {
+          "type": "paragraph",
+          "text": "Perché i nobili non sporcano mai le mani direttamente."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma qualcuno… lo fa al posto loro."
+        },
+        {
+          "type": "paragraph",
+          "text": "E quel qualcuno… poteva essere la vera chiave."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi, inevitabilmente… la tensione si spezzò."
+        },
+        {
+          "type": "paragraph",
+          "text": "Kleyton."
+        },
+        {
+          "type": "paragraph",
+          "text": "E il suo odore."
+        },
+        {
+          "type": "paragraph",
+          "text": "Con un semplice gesto, una magia leggera ma efficace, l’aria cambiò."
+        },
+        {
+          "type": "paragraph",
+          "text": "Fragole."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il contrasto fu quasi surreale."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un paladino in armatura… che profumava di primavera."
+        },
+        {
+          "type": "paragraph",
+          "text": "E un dragonide che, per un attimo, sembrò apprezzare fin troppo quella nuova essenza."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le risate, brevi ma sincere, alleggerirono il peso della mattina."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma solo per un momento."
+        },
+        {
+          "type": "paragraph",
+          "text": "Perché il piano, ormai, era deciso."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le terme li attendevano."
+        },
+        {
+          "type": "paragraph",
+          "text": "E questa volta…"
+        },
+        {
+          "type": "paragraph",
+          "text": "non sarebbero entrati come semplici visitatori."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma come osservatori."
+        },
+        {
+          "type": "paragraph",
+          "text": "Come predatori."
+        },
+        {
+          "type": "paragraph",
+          "text": "In attesa del momento giusto per colpire."
+        }
+      ]
+    },
+    {
+      "id": "vapore",
+      "title": "Il velo del vapore",
+      "videoId": "XhvECr7nCV8",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Il gruppo lasciò la locanda con passo deciso."
+        },
+        {
+          "type": "paragraph",
+          "text": "La città si stava appena risvegliando."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le strade si animavano lentamente: mercanti che aprivano le bancarelle, artigiani già all’opera, venditori ambulanti che esponevano frutta fresca e stoffe colorate."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il suono lontano di strumenti accompagnava il cammino — bardi che già intonavano melodie per attirare monete e attenzione."
+        },
+        {
+          "type": "paragraph",
+          "text": "Era una mattina normale."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ed era proprio questo a renderla sospetta."
+        },
+        {
+          "type": "paragraph",
+          "text": "Attraversando il distretto commerciale verso nord, la qualità degli edifici mutava gradualmente."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le strutture diventavano più curate, i materiali più raffinati."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un confine invisibile separava la sopravvivenza… dal benessere."
+        },
+        {
+          "type": "paragraph",
+          "text": "E lì, poco oltre, si ergevano le terme."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un edificio a un solo piano, ma imponente nella sua eleganza."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le mura, alte e candide, racchiudevano l’intera struttura come un segreto ben custodito."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il portone in legno era decorato con scene di ninfe danzanti, immerse in acque limpide, eteree, quasi vive."
+        },
+        {
+          "type": "paragraph",
+          "text": "All’ingresso, due figure accoglievano i visitatori."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non soldati."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma nemmeno semplici mercanti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Presenze fisse."
+        },
+        {
+          "type": "paragraph",
+          "text": "Attente."
+        },
+        {
+          "type": "paragraph",
+          "text": "Attorno, giovani incaricati distribuivano volantini:"
+        },
+        {
+          "type": "quote",
+          "text": "Grande riapertura! Vasche nuove! Esperienza termale migliorata!"
+        },
+        {
+          "type": "paragraph",
+          "text": "Un volto rinnovato."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma forse… solo in superficie."
+        },
+        {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-8/terme.png",
+          "alt": "Ingresso delle terme"
+        },
+        {
+          "type": "paragraph",
+          "text": "Superato l’ingresso, il gruppo si ritrovò in un cortile interno."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un giardino perfettamente curato si estendeva davanti a loro, con siepi scolpite in forme eleganti:"
+        },
+        {
+          "type": "paragraph",
+          "text": "cigni, pesci, figure armoniose plasmate con precisione quasi artistica."
+        },
+        {
+          "type": "paragraph",
+          "text": "Fontane in marmo bianco decoravano lo spazio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Da ognuna, una ninfa scolpita versava acqua da un’anfora sollevata, il liquido cristallino che ricadeva in bacini sottostanti, liberando un leggero vapore nell’aria."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non era semplice acqua."
+        },
+        {
+          "type": "paragraph",
+          "text": "Era calda."
+        },
+        {
+          "type": "paragraph",
+          "text": "Viva."
+        },
+        {
+          "type": "paragraph",
+          "text": "L’atmosfera era sorprendente."
+        },
+        {
+          "type": "paragraph",
+          "text": "Raffinata."
+        },
+        {
+          "type": "paragraph",
+          "text": "Curata."
+        },
+        {
+          "type": "paragraph",
+          "text": "Troppo, forse, per quella parte della città."
+        },
+        {
+          "type": "quote",
+          "text": "Sembra quasi la città alta…"
+        },
+        {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-8/terme_giardino.png",
+          "alt": "Giardino interno delle terme"
+        },
+        {
+          "type": "paragraph",
+          "text": "Le parole scivolarono leggere, ma non prive di significato."
+        },
+        {
+          "type": "paragraph",
+          "text": "Qualcuno aveva investito molto, in quel luogo."
+        },
+        {
+          "type": "paragraph",
+          "text": "E nessuno lo fa… senza un motivo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Attraversando il cortile, giunsero infine all’interno."
+        },
+        {
+          "type": "paragraph",
+          "text": "E lì…"
+        },
+        {
+          "type": "paragraph",
+          "text": "il mondo cambiò."
+        },
+        {
+          "type": "paragraph",
+          "text": "La sala principale si apriva davanti a loro in tutta la sua ampiezza."
+        },
+        {
+          "type": "paragraph",
+          "text": "Colonne decorate sorreggevano un soffitto alto, attraversato da lucernari da cui filtrava la luce del giorno."
+        },
+        {
+          "type": "paragraph",
+          "text": "I raggi si riflettevano sull’acqua delle vasche, creando giochi di luce che danzavano sulle superfici bianche del marmo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un effetto quasi ipnotico."
+        },
+        {
+          "type": "paragraph",
+          "text": "Quasi irreale."
+        },
+        {
+          "type": "paragraph",
+          "text": "L’aria era satura di vapore caldo e profumi leggeri:"
+        },
+        {
+          "type": "paragraph",
+          "text": "oli essenziali, erbe, essenze rilassanti."
+        },
+        {
+          "type": "paragraph",
+          "text": "E tra tutto questo…"
+        },
+        {
+          "type": "paragraph",
+          "text": "persone."
+        },
+        {
+          "type": "paragraph",
+          "text": "Clienti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Bagnanti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Figure immerse nell’acqua, ignare o indifferenti a ciò che poteva celarsi sotto quella calma apparente."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il luogo perfetto per nascondere qualcosa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il luogo perfetto per osservare."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il gruppo era entrato."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma la vera domanda…"
+        },
+        {
+          "type": "paragraph",
+          "text": "era chi, lì dentro,"
+        },
+        {
+          "type": "paragraph",
+          "text": "stesse osservando loro."
+        }
+      ]
+    },
+    {
+      "id": "maschere",
+      "title": "Maschere e velluto",
+      "videoId": "ZCjduEhdNFE",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Non appena varcarono la soglia interna, vennero accolti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non con sospetto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non con freddezza."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma con perfezione."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un uomo in divisa impeccabile si avvicinò con passo rapido e misurato."
+        },
+        {
+          "type": "paragraph",
+          "text": "La schiena dritta, le mani raccolte al petto, un sorriso studiato che non abbandonava mai il volto."
+        },
+        {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-8/terme_accesso.png",
+          "alt": "Ingresso interno delle terme"
+        },
+        {
+          "type": "quote",
+          "text": "Benvenuti, signori… alle terme."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ogni parola era calibrata."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ogni gesto… provato."
+        },
+        {
+          "type": "paragraph",
+          "text": "Parlava come chi non vende solo un servizio,"
+        },
+        {
+          "type": "paragraph",
+          "text": "ma un’esperienza."
+        },
+        {
+          "type": "paragraph",
+          "text": "E forse…"
+        },
+        {
+          "type": "paragraph",
+          "text": "qualcosa di più."
+        },
+        {
+          "type": "paragraph",
+          "text": "Descrisse le acque, mantenute magicamente a una temperatura perfetta."
+        },
+        {
+          "type": "paragraph",
+          "text": "Parlò delle pietre riscaldanti, delle sorgenti sotterranee."
+        },
+        {
+          "type": "paragraph",
+          "text": "Della qualità."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dell’eccellenza."
+        },
+        {
+          "type": "paragraph",
+          "text": "E infine…"
+        },
+        {
+          "type": "paragraph",
+          "text": "della padrona."
+        },
+        {
+          "type": "quote",
+          "text": "La Duchessa Vanthampur ha contribuito generosamente…"
+        },
+        {
+          "type": "paragraph",
+          "text": "Il nome si insinuò tra loro come una lama sottile."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non era solo un investimento."
+        },
+        {
+          "type": "paragraph",
+          "text": "Era un segnale."
+        },
+        {
+          "type": "paragraph",
+          "text": "Quando Nathan si presentò come nobile, l’uomo non esitò."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il sorriso rimase."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma gli occhi cambiarono."
+        },
+        {
+          "type": "paragraph",
+          "text": "Più attenti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Più interessati."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il gioco delle apparenze era iniziato."
+        },
+        {
+          "type": "paragraph",
+          "text": "E lui… sapeva giocarlo bene."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma anche loro."
+        },
+        {
+          "type": "paragraph",
+          "text": "La tensione salì per un attimo quando Kleyton venne notato."
+        },
+        {
+          "type": "paragraph",
+          "text": "Uno sguardo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un errore."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi subito corretto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Con inchini, scuse e parole scelte con estrema cura."
+        },
+        {
+          "type": "paragraph",
+          "text": "L’uomo non era sciocco."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sapeva riconoscere chi poteva permettersi di offendere…"
+        },
+        {
+          "type": "paragraph",
+          "text": "e chi no."
+        },
+        {
+          "type": "paragraph",
+          "text": "Quando il denaro cambiò mano,"
+        },
+        {
+          "type": "paragraph",
+          "text": "ogni attrito svanì."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il sorriso tornò perfetto."
+        },
+        {
+          "type": "paragraph",
+          "text": "L’ingresso fu concesso."
+        },
+        {
+          "type": "paragraph",
+          "text": "Accappatoi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Asciugamani."
+        },
+        {
+          "type": "paragraph",
+          "text": "Oli profumati."
+        },
+        {
+          "type": "paragraph",
+          "text": "Piccoli lussi confezionati per dare l’illusione di qualcosa di più grande."
+        },
+        {
+          "type": "paragraph",
+          "text": "E poi…"
+        },
+        {
+          "type": "paragraph",
+          "text": "la separazione."
+        },
+        {
+          "type": "paragraph",
+          "text": "Alcuni scelsero le vasche."
+        },
+        {
+          "type": "paragraph",
+          "text": "Altri…"
+        },
+        {
+          "type": "paragraph",
+          "text": "stanze private."
+        },
+        {
+          "type": "paragraph",
+          "text": "Più isolate."
+        },
+        {
+          "type": "paragraph",
+          "text": "Più interessanti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nell’acqua calda, il corpo si rilassava."
+        },
+        {
+          "type": "paragraph",
+          "text": "I muscoli cedevano."
+        },
+        {
+          "type": "paragraph",
+          "text": "La tensione scivolava via."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dopo giorni di viaggio, combattimenti e morte…"
+        },
+        {
+          "type": "paragraph",
+          "text": "era quasi troppo facile lasciarsi andare."
+        },
+        {
+          "type": "paragraph",
+          "text": "Troppo facile dimenticare."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma non tutti si abbandonarono completamente."
+        },
+        {
+          "type": "paragraph",
+          "text": "Alcuni osservavano."
+        },
+        {
+          "type": "paragraph",
+          "text": "Altri pensavano."
+        },
+        {
+          "type": "paragraph",
+          "text": "Altri ancora…"
+        },
+        {
+          "type": "paragraph",
+          "text": "si preparavano."
+        },
+        {
+          "type": "paragraph",
+          "text": "Kleyton evitava l’acqua, diffidente e inquieto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Kyran osservava, estranea a quella realtà, immersa ma distante."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aelar rimaneva vigile, anche nel riposo."
+        },
+        {
+          "type": "paragraph",
+          "text": "E da qualche parte…"
+        },
+        {
+          "type": "paragraph",
+          "text": "dietro porte chiuse,"
+        },
+        {
+          "type": "paragraph",
+          "text": "qualcuno stava per entrare."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non per rilassarsi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma per scoprire."
+        },
+        {
+          "type": "paragraph",
+          "text": "Perché sotto il vapore,"
+        },
+        {
+          "type": "paragraph",
+          "text": "sotto il marmo,"
+        },
+        {
+          "type": "paragraph",
+          "text": "sotto quella perfezione costruita…"
+        },
+        {
+          "type": "paragraph",
+          "text": "qualcosa respirava."
+        }
+      ]
+    },
+    {
+      "id": "pelle",
+      "title": "Pelle e silenzi",
+      "videoId": "fcKRMd1fDGM",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Lontano dalle vasche e dal rumore ovattato delle conversazioni, Aelar si ritrovò in una stanza più piccola."
+        },
+        {
+          "type": "paragraph",
+          "text": "Più silenziosa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Più… isolata."
+        },
+        {
+          "type": "paragraph",
+          "text": "L’aria era calda, carica del profumo degli oli."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il suono dell’acqua arrivava attutito, come se provenisse da un altro mondo."
+        },
+        {
+          "type": "paragraph",
+          "text": "E poi…"
+        },
+        {
+          "type": "paragraph",
+          "text": "lei."
+        },
+        {
+          "type": "image",
+          "variant": "left",
+          "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Secondari/Camilla.png",
+          "alt": "Camilla"
+        },
+        {
+          "type": "paragraph",
+          "text": "Una figura composta, dai movimenti precisi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Voce calma, accogliente."
+        },
+        {
+          "type": "quote",
+          "text": "Si accomodi… tra poco sono da lei."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aelar si distese."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il corpo ancora affaticato dal rituale."
+        },
+        {
+          "type": "paragraph",
+          "text": "La mente sospesa tra vigilanza… e stanchezza."
+        },
+        {
+          "type": "paragraph",
+          "text": "Quando il contatto arrivò, fu immediatamente evidente."
+        },
+        {
+          "type": "paragraph",
+          "text": "Qualcosa non era normale."
+        },
+        {
+          "type": "paragraph",
+          "text": "La pelle della donna era liscia."
+        },
+        {
+          "type": "paragraph",
+          "text": "Troppo liscia."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non semplicemente morbida."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma…"
+        },
+        {
+          "type": "paragraph",
+          "text": "scorrevole."
+        },
+        {
+          "type": "paragraph",
+          "text": "Come se il suo tocco non si posasse davvero sulla pelle,"
+        },
+        {
+          "type": "paragraph",
+          "text": "ma vi scorresse sopra come un fluido."
+        },
+        {
+          "type": "paragraph",
+          "text": "Una sensazione sottile."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma impossibile da ignorare."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il massaggio iniziò."
+        },
+        {
+          "type": "paragraph",
+          "text": "Preciso."
+        },
+        {
+          "type": "paragraph",
+          "text": "Esperto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ogni movimento studiato per sciogliere tensioni,"
+        },
+        {
+          "type": "paragraph",
+          "text": "per abbassare le difese."
+        },
+        {
+          "type": "paragraph",
+          "text": "E funzionava."
+        },
+        {
+          "type": "paragraph",
+          "text": "Troppo bene."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aelar provò a osservare l’ambiente, a mantenere lucidità."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma il calore, il profumo, il ritmo…"
+        },
+        {
+          "type": "paragraph",
+          "text": "lo rallentavano."
+        },
+        {
+          "type": "quote",
+          "text": "La vedo agitato… posso chiederle il motivo?"
+        },
+        {
+          "type": "paragraph",
+          "text": "La voce arrivò morbida."
+        },
+        {
+          "type": "paragraph",
+          "text": "Attenta."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non invadente."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma presente."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aelar rispose con cautela."
+        },
+        {
+          "type": "paragraph",
+          "text": "Complimenti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Osservazioni."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nulla di compromettente."
+        },
+        {
+          "type": "paragraph",
+          "text": "La conversazione scivolò naturale."
+        },
+        {
+          "type": "paragraph",
+          "text": "Troppo naturale."
+        },
+        {
+          "type": "paragraph",
+          "text": "Lei si presentò."
+        },
+        {
+          "type": "paragraph",
+          "text": "Camilla."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non originaria del luogo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Come molti, lì dentro."
+        },
+        {
+          "type": "paragraph",
+          "text": "Disse di aiutare le persone."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nel suo piccolo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Parole semplici."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma vuote."
+        },
+        {
+          "type": "paragraph",
+          "text": "Quando Aelar parlò di Elturel,"
+        },
+        {
+          "type": "paragraph",
+          "text": "lei reagì."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non con sorpresa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non con empatia."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma con una consapevolezza distante."
+        },
+        {
+          "type": "paragraph",
+          "text": "Come chi osserva una tragedia…"
+        },
+        {
+          "type": "paragraph",
+          "text": "da lontano."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il dialogo continuò."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aelar sondava."
+        },
+        {
+          "type": "paragraph",
+          "text": "Cercava spiragli."
+        },
+        {
+          "type": "paragraph",
+          "text": "Informazioni."
+        },
+        {
+          "type": "paragraph",
+          "text": "Debolezze."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma ogni risposta era controllata."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ogni parola…"
+        },
+        {
+          "type": "paragraph",
+          "text": "pesata."
+        },
+        {
+          "type": "quote",
+          "text": "Non mi piace parlare degli altri…"
+        },
+        {
+          "type": "paragraph",
+          "text": "Un sorriso."
+        },
+        {
+          "type": "paragraph",
+          "text": "Gentile."
+        },
+        {
+          "type": "paragraph",
+          "text": "E completamente chiuso."
+        },
+        {
+          "type": "paragraph",
+          "text": "Anche quando Aelar provò a ottenere di più,"
+        },
+        {
+          "type": "paragraph",
+          "text": "offrendo denaro, suggerendo privilegi…"
+        },
+        {
+          "type": "paragraph",
+          "text": "nulla."
+        },
+        {
+          "type": "paragraph",
+          "text": "Solo deviazioni eleganti."
+        },
+        {
+          "type": "paragraph",
+          "text": "E una verità implicita."
+        },
+        {
+          "type": "paragraph",
+          "text": "Lì dentro…"
+        },
+        {
+          "type": "paragraph",
+          "text": "le informazioni avevano un prezzo."
+        },
+        {
+          "type": "paragraph",
+          "text": "E non sempre era oro."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il massaggio terminò."
+        },
+        {
+          "type": "paragraph",
+          "text": "Senza errori."
+        },
+        {
+          "type": "paragraph",
+          "text": "Senza incrinature."
+        },
+        {
+          "type": "paragraph",
+          "text": "Perfetto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Forse…"
+        },
+        {
+          "type": "paragraph",
+          "text": "troppo perfetto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Quando Camilla si allontanò,"
+        },
+        {
+          "type": "paragraph",
+          "text": "la stanza tornò silenziosa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Immobile."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma qualcosa restava."
+        },
+        {
+          "type": "paragraph",
+          "text": "Una sensazione."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un dettaglio fuori posto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un contatto…"
+        },
+        {
+          "type": "paragraph",
+          "text": "che non sembrava umano."
+        }
+      ]
+    },
+    {
+      "id": "crepe",
+      "title": "Crepe sotto il marmo",
+      "videoId": "qGWmmFMCyns",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Non tutte le stanze custodivano silenzi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Alcune…"
+        },
+        {
+          "type": "paragraph",
+          "text": "nascondevano verità."
+        },
+        {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Secondari/boh.png",
+          "alt": "Massaggiatrice delle terme"
+        },
+        {
+          "type": "paragraph",
+          "text": "Quando Elis entrò, fu accolta da una figura diversa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Più semplice."
+        },
+        {
+          "type": "paragraph",
+          "text": "Più umana."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma non era sola."
+        },
+        {
+          "type": "paragraph",
+          "text": "In un angolo della stanza, quasi dimenticata,"
+        },
+        {
+          "type": "paragraph",
+          "text": "sedeva una bambina."
+        },
+        {
+          "type": "paragraph",
+          "text": "Immobile."
+        },
+        {
+          "type": "paragraph",
+          "text": "Silenziosa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Annoiata."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un dettaglio fuori posto."
+        },
+        {
+          "type": "paragraph",
+          "text": "In un luogo dove tutto era studiato…"
+        },
+        {
+          "type": "paragraph",
+          "text": "la sua presenza era una crepa."
+        },
+        {
+          "type": "paragraph",
+          "text": "La donna si scusò subito."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nessuno a cui affidarla."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nessuna alternativa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Una vita che si trascinava tra necessità e compromessi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Elis si distese."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma, a differenza di altri…"
+        },
+        {
+          "type": "paragraph",
+          "text": "non si lasciò andare."
+        },
+        {
+          "type": "paragraph",
+          "text": "Osservava."
+        },
+        {
+          "type": "paragraph",
+          "text": "E quando parlò, non fu per riempire il silenzio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Fu per scavare."
+        },
+        {
+          "type": "paragraph",
+          "text": "All’inizio, solo piccoli spiragli."
+        },
+        {
+          "type": "paragraph",
+          "text": "Commenti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Frasi incomplete."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi…"
+        },
+        {
+          "type": "paragraph",
+          "text": "la crepa si aprì."
+        },
+        {
+          "type": "quote",
+          "text": "Hanno ristrutturato tutto… ma la parte marcia è rimasta."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le parole uscirono come un peso trattenuto troppo a lungo."
+        },
+        {
+          "type": "paragraph",
+          "text": "La donna parlava."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non perché dovesse."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma perché…"
+        },
+        {
+          "type": "paragraph",
+          "text": "non riusciva più a restare in silenzio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Raccontò di notti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Di figure che entravano dopo la chiusura."
+        },
+        {
+          "type": "paragraph",
+          "text": "Di movimenti che non dovevano esistere."
+        },
+        {
+          "type": "paragraph",
+          "text": "Di attese inutili…"
+        },
+        {
+          "type": "paragraph",
+          "text": "davanti a porte che non si riaprivano."
+        },
+        {
+          "type": "quote",
+          "text": "Io non voglio più essere complice."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non sapeva cosa accadesse."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma sapeva…"
+        },
+        {
+          "type": "paragraph",
+          "text": "che accadeva qualcosa."
+        },
+        {
+          "type": "paragraph",
+          "text": "E questo bastava."
+        },
+        {
+          "type": "paragraph",
+          "text": "Quando nominò la duchessa…"
+        },
+        {
+          "type": "paragraph",
+          "text": "si fermò."
+        },
+        {
+          "type": "paragraph",
+          "text": "Troppo tardi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il nome era uscito."
+        },
+        {
+          "type": "paragraph",
+          "text": "E non poteva essere ritirato."
+        },
+        {
+          "type": "paragraph",
+          "text": "Elis continuò a guidarla."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non con forza."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma con empatia."
+        },
+        {
+          "type": "paragraph",
+          "text": "Con attenzione."
+        },
+        {
+          "type": "paragraph",
+          "text": "E con qualcosa di raro…"
+        },
+        {
+          "type": "paragraph",
+          "text": "gentilezza."
+        },
+        {
+          "type": "paragraph",
+          "text": "Per la bambina."
+        },
+        {
+          "type": "paragraph",
+          "text": "Per la madre."
+        },
+        {
+          "type": "paragraph",
+          "text": "Per quella vita fragile che esisteva ai margini di qualcosa di molto più grande."
+        },
+        {
+          "type": "paragraph",
+          "text": "E fu lì…"
+        },
+        {
+          "type": "paragraph",
+          "text": "che arrivò il dettaglio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Quello che cambiava tutto."
+        },
+        {
+          "type": "quote",
+          "text": "Hanno modificato le stanze… abbattuto muri… ristretto spazi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non visibile a chiunque."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma evidente per chi viveva lì ogni giorno."
+        },
+        {
+          "type": "paragraph",
+          "text": "La stanza accanto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Diversa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Più piccola."
+        },
+        {
+          "type": "paragraph",
+          "text": "Alterata."
+        },
+        {
+          "type": "paragraph",
+          "text": "Come se…"
+        },
+        {
+          "type": "paragraph",
+          "text": "qualcosa fosse stato nascosto."
+        },
+        {
+          "type": "paragraph",
+          "text": "O creato."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dietro le pareti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il massaggio terminò."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma Elis non se ne andò come era entrata."
+        },
+        {
+          "type": "paragraph",
+          "text": "Lasciò qualcosa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non per ottenere."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma per dare."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le monete scivolarono verso la bambina,"
+        },
+        {
+          "type": "paragraph",
+          "text": "accompagnate da un gesto leggero."
+        },
+        {
+          "type": "paragraph",
+          "text": "Uno spettacolo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un sorriso."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un momento…"
+        },
+        {
+          "type": "paragraph",
+          "text": "in un luogo che ne aveva dimenticato il significato."
+        },
+        {
+          "type": "paragraph",
+          "text": "Quando uscì dalla stanza,"
+        },
+        {
+          "type": "paragraph",
+          "text": "non era più solo un’infiltrazione."
+        },
+        {
+          "type": "paragraph",
+          "text": "Era una certezza."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le terme non erano ciò che sembravano."
+        },
+        {
+          "type": "paragraph",
+          "text": "E sotto il marmo…"
+        },
+        {
+          "type": "paragraph",
+          "text": "qualcosa era stato costruito."
+        },
+        {
+          "type": "paragraph",
+          "text": "Qualcosa che aspettava."
+        }
+      ]
+    },
+    {
+      "id": "silenzio",
+      "title": "Il prezzo del silenzio",
+      "videoId": "GKZyjoRPiMQ",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Il tempo del relax era finito."
+        },
+        {
+          "type": "paragraph",
+          "text": "Quando Elis tornò nella vasca, il suo sguardo era cambiato."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non più disteso."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non più curioso."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma carico di qualcosa di preciso."
+        },
+        {
+          "type": "paragraph",
+          "text": "Urgenza."
+        },
+        {
+          "type": "paragraph",
+          "text": "Si avvicinò agli altri, abbassando la voce."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le parole non erano per tutti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Solo per chi doveva capire."
+        },
+        {
+          "type": "quote",
+          "text": "In quella stanza… c’è qualcosa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Bastò quello."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aelar annuì appena."
+        },
+        {
+          "type": "paragraph",
+          "text": "Anche lui aveva percepito."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non prove."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma segnali."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il contatto innaturale."
+        },
+        {
+          "type": "paragraph",
+          "text": "La presenza non umana."
+        },
+        {
+          "type": "paragraph",
+          "text": "E ora…"
+        },
+        {
+          "type": "paragraph",
+          "text": "le parole di Elis confermavano tutto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Attività notturne."
+        },
+        {
+          "type": "paragraph",
+          "text": "Figure sospette."
+        },
+        {
+          "type": "paragraph",
+          "text": "Stanze modificate."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un passaggio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Doveva esserci."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il problema…"
+        },
+        {
+          "type": "paragraph",
+          "text": "era il tempo."
+        },
+        {
+          "type": "paragraph",
+          "text": "E la privacy."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non potevano cercare con qualcuno nella stanza."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non lì."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non così."
+        },
+        {
+          "type": "paragraph",
+          "text": "L’idea prese forma rapidamente."
+        },
+        {
+          "type": "paragraph",
+          "text": "Semplice."
+        },
+        {
+          "type": "paragraph",
+          "text": "Costosa."
+        },
+        {
+          "type": "paragraph",
+          "text": "E perfettamente… nobiliare."
+        },
+        {
+          "type": "paragraph",
+          "text": "Quando Alaster chiamò l’uomo dell’ingresso, questi arrivò come sempre:"
+        },
+        {
+          "type": "paragraph",
+          "text": "composto,"
+        },
+        {
+          "type": "paragraph",
+          "text": "impeccabile,"
+        },
+        {
+          "type": "paragraph",
+          "text": "sorridente."
+        },
+        {
+          "type": "quote",
+          "text": "In cosa posso esservi utile, signore?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Le parole furono vaghe."
+        },
+        {
+          "type": "paragraph",
+          "text": "Allusive."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non serviva spiegare troppo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Lui capì."
+        },
+        {
+          "type": "paragraph",
+          "text": "Subito."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma non esitò a ricordare una cosa fondamentale:"
+        },
+        {
+          "type": "paragraph",
+          "text": "tutto…"
+        },
+        {
+          "type": "paragraph",
+          "text": "aveva un prezzo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Parlò di prenotazioni."
+        },
+        {
+          "type": "paragraph",
+          "text": "Di clienti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Di danni d’immagine."
+        },
+        {
+          "type": "paragraph",
+          "text": "Di quanto sarebbe costato"
+        },
+        {
+          "type": "paragraph",
+          "text": "togliere quella stanza dalla disponibilità."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi arrivò la cifra."
+        },
+        {
+          "type": "quote",
+          "text": "Venti monete d’oro."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un attimo di silenzio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non per il costo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma per ciò che rappresentava."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non stavano pagando un servizio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Stavano comprando…"
+        },
+        {
+          "type": "paragraph",
+          "text": "il silenzio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Alaster non esitò."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il denaro cambiò mano."
+        },
+        {
+          "type": "paragraph",
+          "text": "E con esso…"
+        },
+        {
+          "type": "paragraph",
+          "text": "le regole."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il sorriso dell’uomo si fece ancora più profondo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Più sincero."
+        },
+        {
+          "type": "paragraph",
+          "text": "O forse…"
+        },
+        {
+          "type": "paragraph",
+          "text": "solo più interessato."
+        },
+        {
+          "type": "quote",
+          "text": "Assolutamente, signore. La stanza sarà vostra."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nessuna domanda."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nessun dubbio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il denaro aveva risolto tutto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Come sempre."
+        },
+        {
+          "type": "paragraph",
+          "text": "Quando l’uomo si allontanò,"
+        },
+        {
+          "type": "paragraph",
+          "text": "il gruppo rimase solo per un istante."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un attimo sospeso."
+        },
+        {
+          "type": "paragraph",
+          "text": "Carico di consapevolezza."
+        },
+        {
+          "type": "paragraph",
+          "text": "Avevano comprato il tempo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Avevano comprato lo spazio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ora…"
+        },
+        {
+          "type": "paragraph",
+          "text": "dovevano usarli."
+        },
+        {
+          "type": "paragraph",
+          "text": "Perché dietro quella porta,"
+        },
+        {
+          "type": "paragraph",
+          "text": "dietro quella stanza apparentemente perfetta,"
+        },
+        {
+          "type": "paragraph",
+          "text": "si nascondeva qualcosa."
+        },
+        {
+          "type": "paragraph",
+          "text": "E stavolta…"
+        },
+        {
+          "type": "paragraph",
+          "text": "nessuno avrebbe potuto fermarli."
+        }
+      ]
+    },
+    {
+      "id": "vaso",
+      "title": "Il vaso e il segreto",
+      "videoId": "aFY0X-E0G8c",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "La porta si chiuse alle loro spalle."
+        },
+        {
+          "type": "paragraph",
+          "text": "E per la prima volta…"
+        },
+        {
+          "type": "paragraph",
+          "text": "erano davvero soli."
+        },
+        {
+          "type": "paragraph",
+          "text": "La stanza, apparentemente identica alle altre,"
+        },
+        {
+          "type": "paragraph",
+          "text": "sembrava improvvisamente più piccola."
+        },
+        {
+          "type": "paragraph",
+          "text": "Più stretta."
+        },
+        {
+          "type": "paragraph",
+          "text": "Come se le pareti stesse nascondessero qualcosa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non fu un’impressione."
+        },
+        {
+          "type": "paragraph",
+          "text": "Fu Aelar a dirlo per primo."
+        },
+        {
+          "type": "quote",
+          "text": "Questo muro… è troppo corto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Bastò quello per spezzare ogni dubbio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le mani iniziarono a muoversi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Superfici lisce."
+        },
+        {
+          "type": "paragraph",
+          "text": "Marmo nuovo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nessuna crepa evidente."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma qualcosa…"
+        },
+        {
+          "type": "paragraph",
+          "text": "non tornava."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi lo notarono."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un dettaglio insignificante per chiunque altro."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un vaso."
+        },
+        {
+          "type": "paragraph",
+          "text": "Alla base, la terra era smossa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Leggermente."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma abbastanza."
+        },
+        {
+          "type": "paragraph",
+          "text": "Da tradire un movimento."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un meccanismo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Kleyton si avvicinò, concentrato."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non toccò."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ascoltò."
+        },
+        {
+          "type": "paragraph",
+          "text": "E lì…"
+        },
+        {
+          "type": "paragraph",
+          "text": "lo sentì."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un suono sottile."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ripetuto."
+        },
+        {
+          "type": "quote",
+          "text": "Click… click… click…"
+        },
+        {
+          "type": "paragraph",
+          "text": "Non era immaginazione."
+        },
+        {
+          "type": "paragraph",
+          "text": "Era reale."
+        },
+        {
+          "type": "paragraph",
+          "text": "Qualcosa, dietro quella parete,"
+        },
+        {
+          "type": "paragraph",
+          "text": "esisteva davvero."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il gruppo si fermò."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il momento decisivo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aprire."
+        },
+        {
+          "type": "paragraph",
+          "text": "O aspettare."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma la risposta era evidente."
+        },
+        {
+          "type": "paragraph",
+          "text": "Di giorno…"
+        },
+        {
+          "type": "paragraph",
+          "text": "era troppo rischioso."
+        },
+        {
+          "type": "paragraph",
+          "text": "Qualunque cosa si trovasse lì sotto,"
+        },
+        {
+          "type": "paragraph",
+          "text": "non era fatta per essere scoperta"
+        },
+        {
+          "type": "paragraph",
+          "text": "in mezzo a clienti e servitori."
+        },
+        {
+          "type": "paragraph",
+          "text": "E se il meccanismo fosse stato alterato…"
+        },
+        {
+          "type": "paragraph",
+          "text": "non ci sarebbe stato modo di nasconderlo."
+        },
+        {
+          "type": "paragraph",
+          "text": "La decisione prese forma senza bisogno di parole."
+        },
+        {
+          "type": "paragraph",
+          "text": "Tornare."
+        },
+        {
+          "type": "paragraph",
+          "text": "Di notte."
+        },
+        {
+          "type": "paragraph",
+          "text": "Preparati."
+        },
+        {
+          "type": "paragraph",
+          "text": "Consapevoli."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma proprio in quel momento—"
+        },
+        {
+          "type": "paragraph",
+          "text": "un suono."
+        },
+        {
+          "type": "paragraph",
+          "text": "Bussarono."
+        },
+        {
+          "type": "paragraph",
+          "text": "Tre colpi secchi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il tempo si fermò."
+        },
+        {
+          "type": "paragraph",
+          "text": "I corpi si irrigidirono."
+        },
+        {
+          "type": "paragraph",
+          "text": "Gli sguardi si incrociarono."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi…"
+        },
+        {
+          "type": "paragraph",
+          "text": "la maschera tornò."
+        },
+        {
+          "type": "paragraph",
+          "text": "La porta si aprì."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il sorriso era ancora lì."
+        },
+        {
+          "type": "paragraph",
+          "text": "Perfetto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Immutabile."
+        },
+        {
+          "type": "quote",
+          "text": "Signori… spero abbiate gradito i nostri servizi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nessuna domanda."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nessun sospetto evidente."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma il messaggio era chiaro."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il tempo era finito."
+        },
+        {
+          "type": "paragraph",
+          "text": "Uscirono."
+        },
+        {
+          "type": "paragraph",
+          "text": "Senza correre."
+        },
+        {
+          "type": "paragraph",
+          "text": "Senza voltarsi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Come clienti qualunque."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma dentro…"
+        },
+        {
+          "type": "paragraph",
+          "text": "sapevano."
+        },
+        {
+          "type": "paragraph",
+          "text": "Avevano visto abbastanza."
+        },
+        {
+          "type": "paragraph",
+          "text": "Avevano capito abbastanza."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le terme non erano solo un luogo di relax."
+        },
+        {
+          "type": "paragraph",
+          "text": "Erano una facciata."
+        },
+        {
+          "type": "paragraph",
+          "text": "E sotto quella facciata…"
+        },
+        {
+          "type": "paragraph",
+          "text": "qualcosa li stava aspettando."
+        }
+      ]
+    },
+    {
+      "id": "peso",
+      "title": "Il peso delle scelte",
+      "videoId": "F6E72S6OhgI",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Le terme rimasero alle loro spalle."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il vapore."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il marmo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le maschere."
+        },
+        {
+          "type": "paragraph",
+          "text": "Tutto svanì nel rumore della città."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma ciò che avevano scoperto…"
+        },
+        {
+          "type": "paragraph",
+          "text": "non poteva essere ignorato."
+        },
+        {
+          "type": "paragraph",
+          "text": "Era ancora presto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Troppo presto per agire."
+        },
+        {
+          "type": "paragraph",
+          "text": "Così decisero di tornare."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non per riposare davvero."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma per prepararsi."
+        },
+        {
+          "type": "paragraph",
+          "text": "La locanda li accolse con la stessa calma di sempre,"
+        },
+        {
+          "type": "paragraph",
+          "text": "come se nulla fosse cambiato."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma per loro…"
+        },
+        {
+          "type": "paragraph",
+          "text": "tutto era diverso."
+        },
+        {
+          "type": "paragraph",
+          "text": "Seduti attorno al tavolo, iniziarono a parlare."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non più di ipotesi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma di azione."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pozioni."
+        },
+        {
+          "type": "paragraph",
+          "text": "Equipaggiamento."
+        },
+        {
+          "type": "paragraph",
+          "text": "Strategie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ogni dettaglio poteva fare la differenza."
+        },
+        {
+          "type": "paragraph",
+          "text": "Perché quella notte…"
+        },
+        {
+          "type": "paragraph",
+          "text": "non sarebbe stata una semplice esplorazione."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sarebbe stata una discesa."
+        },
+        {
+          "type": "paragraph",
+          "text": "E nessuno sapeva cosa li aspettasse."
+        },
+        {
+          "type": "paragraph",
+          "text": "Alcuni pensarono a protezioni."
+        },
+        {
+          "type": "paragraph",
+          "text": "Altri a potenziamenti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Altri ancora…"
+        },
+        {
+          "type": "paragraph",
+          "text": "a quanto fossero pronti davvero."
+        },
+        {
+          "type": "paragraph",
+          "text": "L’idea del veleno emerse."
+        },
+        {
+          "type": "paragraph",
+          "text": "Potente."
+        },
+        {
+          "type": "paragraph",
+          "text": "Letale."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma difficile da usare."
+        },
+        {
+          "type": "paragraph",
+          "text": "E forse…"
+        },
+        {
+          "type": "paragraph",
+          "text": "troppo pericoloso anche per loro."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le armi cambiarono mano."
+        },
+        {
+          "type": "paragraph",
+          "text": "L’equipaggiamento si adattò."
+        },
+        {
+          "type": "paragraph",
+          "text": "Oro speso."
+        },
+        {
+          "type": "paragraph",
+          "text": "Oro sacrificato."
+        },
+        {
+          "type": "paragraph",
+          "text": "Per una possibilità in più."
+        },
+        {
+          "type": "paragraph",
+          "text": "Anche gli oggetti trovati iniziarono a mostrare la loro vera natura."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non tutti erano doni."
+        },
+        {
+          "type": "paragraph",
+          "text": "Alcuni…"
+        },
+        {
+          "type": "paragraph",
+          "text": "erano legami."
+        },
+        {
+          "type": "paragraph",
+          "text": "Vincoli."
+        },
+        {
+          "type": "paragraph",
+          "text": "E forse…"
+        },
+        {
+          "type": "paragraph",
+          "text": "maledizioni."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma ormai non c’era più tempo per dubbi."
+        },
+        {
+          "type": "paragraph",
+          "text": "La decisione era presa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sarebbero tornati."
+        },
+        {
+          "type": "paragraph",
+          "text": "Di notte."
+        },
+        {
+          "type": "paragraph",
+          "text": "Quando le terme avrebbero mostrato il loro vero volto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Quando le figure sospette sarebbero tornate."
+        },
+        {
+          "type": "paragraph",
+          "text": "Quando il silenzio avrebbe coperto ogni errore."
+        },
+        {
+          "type": "paragraph",
+          "text": "O ogni morte."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il sole continuava a salire nel cielo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma per loro…"
+        },
+        {
+          "type": "paragraph",
+          "text": "la luce stava già svanendo."
+        }
+      ]
+    }
+  ]
+}

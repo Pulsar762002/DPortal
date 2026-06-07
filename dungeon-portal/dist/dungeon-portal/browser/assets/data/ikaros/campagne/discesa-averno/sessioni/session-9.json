@@ -1,0 +1,2125 @@
+{
+  "$schema": "./session.schema.json",
+  "id": 9,
+  "title": "Sessione 9",
+  "videoId": "ckGqU2SGnT8",
+  "chapters": [
+    {
+      "id": "zodge",
+      "title": "Il prezzo delle informazioni",
+      "videoId": "pkr2WGzLsh4",
+      "blocks": [
+        {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-9/Zodge_in_the%20_office.png",
+          "alt": "zodge"
+        },
+        {
+          "type": "paragraph",
+          "text": "Il sole stava ormai calando su Baldur’s Gate quando Elis e Alaster si diressero verso la Porta del Basilisco. Le strade, ancora vive del brulicare del tardo pomeriggio, si tingevano lentamente di ombre più lunghe, mentre il peso degli eventi recenti gravava silenzioso sulle loro spalle."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le guardie dei Pugni Fiammanti, ormai abituate alla loro presenza, li fermarono solo per formalità. Bastarono poche parole: avevano bisogno di parlare con il capitano. L’urgenza nel tono fu sufficiente."
+        },
+        {
+          "type": "paragraph",
+          "text": "Scortati all’interno, attraversarono i corridoi della fortezza fino a raggiungere l’ufficio di Capitano Darmin Zodge. La porta chiusa li attendeva, come se custodisse non solo un uomo, ma il peso stesso della città."
+        },
+        {
+          "type": "paragraph",
+          "text": "Alaster, con la compostezza di chi conosce il valore delle apparenze, bussò tre volte."
+        },
+        {
+          "type": "quote",
+          "text": "Avanti."
+        },
+        {
+          "type": "paragraph",
+          "text": "All’interno, il capitano era seduto alla sua scrivania, intento a compilare documenti. La piuma scivolava rapida sulla carta, segno di una mente già sovraccarica di decisioni e responsabilità. Sollevò lo sguardo."
+        },
+        {
+          "type": "quote",
+          "text": "Ah. Siete voi. Spero abbiate delle notizie da riportarmi. Sono impegnato."
+        },
+        {
+          "type": "paragraph",
+          "text": "I due chiusero la porta alle loro spalle e presero posto. L’atmosfera si fece immediatamente più densa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le prime parole portarono con sé una scoperta inattesa: la lettera lasciata la sera precedente non era mai giunta al capitano. Un’ombra si insinuò tra le righe del discorso."
+        },
+        {
+          "type": "quote",
+          "text": "Se non mi è stata recapitata… significa che qualcuno qui gioca su due fronti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Zodge si portò una mano alla fronte. La stanchezza, per un attimo, si trasformò in irritazione."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma non era tempo per soffermarsi su tradimenti interni. Elis e Alaster portarono notizie ben più rilevanti: l’emporio del mercato nero era stato ripulito, il culto colpito al cuore, e uno dei suoi membri più importanti eliminato."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il nome emerse tra le parole come un sussurro oscuro: Flenner, la cosiddetta “Voce di Myrkul”."
+        },
+        {
+          "type": "paragraph",
+          "text": "Zodge rimase in silenzio per un momento, assimilando il peso di quella rivelazione."
+        },
+        {
+          "type": "quote",
+          "text": "Avete eliminato un membro di alto rango… Bene. State mantenendo fede alla vostra missione."
+        },
+        {
+          "type": "paragraph",
+          "text": "Alaster, con eleganza controllata, non mancò di sottolineare il proprio contributo, accennando persino ai benefici che una simile impresa avrebbe portato al nome della sua casata. Il capitano non sembrò impressionato."
+        },
+        {
+          "type": "quote",
+          "text": "Non mi interessa il vostro status nobiliare. Voglio quei topi di fogna estirpati."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma un accenno di approvazione trapelò comunque. In una città marcia fino alle fondamenta, ogni alleato era prezioso."
+        },
+        {
+          "type": "paragraph",
+          "text": "Fu allora che Elis rivelò il passo successivo: quella stessa notte si sarebbero mossi verso le terme, seguendo una pista che prometteva di avvicinarli ancora di più al cuore del culto."
+        },
+        {
+          "type": "paragraph",
+          "text": "La richiesta era semplice, ma carica di implicazioni: una ronda, discreta, un’ora dopo il loro ingresso. Nessun clamore. Nessun allarme."
+        },
+        {
+          "type": "quote",
+          "text": "Più uomini attireranno attenzione. E loro saprebbero ancora prima del nostro arrivo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Zodge annuì lentamente. Le sue dita tamburellarono sulla scrivania. Sapeva bene quanto fosse fragile l’equilibrio tra controllo e caos."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le parole successive furono pronunciate con freddezza calcolata."
+        },
+        {
+          "type": "quote",
+          "text": "Avendo delle spie all’interno… saprebbero ogni nostra mossa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Una verità che nessuno nella stanza poteva ignorare."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il capitano sollevò lo sguardo, fissandoli entrambi."
+        },
+        {
+          "type": "paragraph",
+          "text": "E in quel momento, tra le ombre che si allungavano fuori dalle finestre, fu chiaro a tutti che la battaglia contro il culto non si combatteva solo nei vicoli oscuri… ma anche tra le mura stesse di Baldur’s Gate."
+        }
+      ]
+    },
+    {
+      "id": "nobili",
+      "title": "Sospetti tra i nobili",
+      "videoId": "O7TuyaPvaEs",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Il dialogo con il Capitano Zodge non si concluse con le sole questioni operative. Come spesso accade nelle città corrotte, le verità più pericolose non si trovavano nei sotterranei… ma nei salotti dei potenti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Fu Elis a sollevare il nome. Un nome che, pronunciato con leggerezza, portava con sé un peso enorme: la Duchessa Vanthampur."
+        },
+        {
+          "type": "paragraph",
+          "text": "Per un istante, l’aria nella stanza sembrò farsi più densa."
+        },
+        {
+          "type": "quote",
+          "text": "Per caso… era presente anche la duchessa?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Zodge rispose senza esitazione, ma non senza una certa cautela. Sì, era presente. E sì, il suo nome aveva un peso."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le parole che seguirono furono misurate, ma il messaggio era chiaro: la duchessa era una figura da non sottovalutare."
+        },
+        {
+          "type": "quote",
+          "text": "Ti consiglio di non averci mai a che fare. Può essere una vera strega."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma il dubbio era ormai stato seminato."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le terme, luogo della prossima incursione, appartenevano proprio a lei."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un collegamento forse casuale… o forse no."
+        },
+        {
+          "type": "paragraph",
+          "text": "Quando Elis accennò alla possibilità — anche solo teorica — che una figura tanto influente potesse essere coinvolta, la reazione del capitano fu immediata e severa."
+        },
+        {
+          "type": "quote",
+          "text": "Accuse del genere sono molto gravi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma fu Alaster, con il suo sguardo attento e la mente affilata, a cogliere ciò che sfuggiva alle parole."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un tremolio. Impercettibile. Un istante in cui l’occhio del capitano si contrasse appena."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un segnale minimo. Ma sufficiente."
+        },
+        {
+          "type": "paragraph",
+          "text": "Qualcosa… non tornava."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non una prova. Non una conferma. Ma abbastanza da insinuare un sospetto reale."
+        },
+        {
+          "type": "paragraph",
+          "text": "La conversazione proseguì su un filo sottile, tra diplomazia e tensione."
+        },
+        {
+          "type": "paragraph",
+          "text": "Zodge ribadì la necessità di prudenza. In una città dove i nobili cadevano e scomparivano, anche solo insinuare qualcosa poteva essere letale."
+        },
+        {
+          "type": "paragraph",
+          "text": "Eppure, tra le righe, qualcosa era cambiato."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il nome della duchessa ora aleggiava nella stanza, come un’ombra silenziosa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Quando infine l’incontro volse al termine, Elis tentò un’ultima richiesta: supporto. Qualcosa che potesse aumentare le loro possibilità di sopravvivenza."
+        },
+        {
+          "type": "paragraph",
+          "text": "Zodge esitò. Le risorse erano limitate. La città era sotto pressione."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma alla fine cedette."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aprì lentamente un cassetto della scrivania e ne estrasse una pergamena."
+        },
+        {
+          "type": "quote",
+          "text": "Questo è il massimo che posso darvi. Non sprecatela."
+        },
+        {
+          "type": "paragraph",
+          "text": "Tra le mani del gruppo passò un potere raro e prezioso: una pergamena di Revivify."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un dono che portava con sé una promessa implicita."
+        },
+        {
+          "type": "paragraph",
+          "text": "Qualcuno… quella notte… avrebbe potuto non sopravvivere."
+        },
+        {
+          "type": "paragraph",
+          "text": "Gli sguardi si incrociarono. Nessuno lo disse ad alta voce."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma tutti lo compresero."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dopo i saluti formali, e un ultimo scambio di sguardi carichi di significato tra Alaster e il capitano, i due lasciarono l’ufficio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Fuori, Baldur’s Gate continuava a vivere, ignara — o forse semplicemente indifferente — alla guerra silenziosa che si combatteva nelle sue viscere."
+        },
+        {
+          "type": "paragraph",
+          "text": "E mentre il gruppo si riuniva, un pensiero si fece strada tra loro:"
+        },
+        {
+          "type": "paragraph",
+          "text": "quella notte, alle terme, non avrebbero affrontato solo cultisti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma qualcosa di molto più grande."
+        }
+      ]
+    },
+    {
+      "id": "quiete",
+      "title": "Preparativi nella quiete",
+      "videoId": "V0le45xSFg8",
+      "blocks": [
+        {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-9/Preparativi_Missione_Terme.png",
+          "alt": "preparativi"
+        },
+        {
+          "type": "paragraph",
+          "text": "Quando Elis e Alaster fecero ritorno alla locanda, il resto del gruppo li attendeva tra il brusio sommesso della sera. Baldur’s Gate, scossa dalle recenti morti, si preparava a chiudersi nel silenzio della notte."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le notizie furono condivise rapidamente: il colloquio con il Capitano Zodge, la presenza di una talpa tra i Pugni Fiammanti, e soprattutto il piano per quella stessa notte."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le terme."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il luogo verso cui tutte le piste sembravano convergere."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il gruppo si raccolse attorno a un tavolo, tra piatti ancora caldi e boccali mezzi vuoti, mentre la conversazione si trasformava lentamente in strategia."
+        },
+        {
+          "type": "paragraph",
+          "text": "L’ora dell’azione divenne subito oggetto di dibattito."
+        },
+        {
+          "type": "paragraph",
+          "text": "Troppo presto, e avrebbero rischiato di attirare attenzioni indesiderate. Troppo tardi, e le strade deserte li avrebbero resi bersagli fin troppo visibili."
+        },
+        {
+          "type": "paragraph",
+          "text": "Alla fine, una linea comune prese forma: muoversi quando la città fosse ormai quieta, ma non ancora completamente morta."
+        },
+        {
+          "type": "paragraph",
+          "text": "Intorno alle undici."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non era una scelta perfetta. Ma era la migliore possibile."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le discussioni si spostarono poi sul piano operativo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aeren, il gufo spettrale di Aelar, avrebbe sorvegliato dall’alto, occhi silenziosi nel buio della città."
+        },
+        {
+          "type": "paragraph",
+          "text": "L’invisibilità, invece, sarebbe stata riservata al momento più critico, quando la furtività avrebbe fatto la differenza tra vita e morte."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il loro obiettivo era chiaro: tornare nella stanza dei massaggi, il cuore del mistero, e scoprire il meccanismo nascosto che avevano solo intravisto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Evitare lo scontro, se possibile."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma essere pronti a combattere, se necessario."
+        },
+        {
+          "type": "paragraph",
+          "text": "E, se l’occasione si fosse presentata, catturare qualcuno."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non tutti i cultisti erano uguali. Alcuni morivano volentieri. Altri… potevano parlare."
+        },
+        {
+          "type": "paragraph",
+          "text": "Tra una battuta e l’altra, tra ironia e tensione, il gruppo trovò il proprio equilibrio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi, prima della partenza, Aelar si raccolse in silenzio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Una breve preghiera, sussurrata più al vento che agli dei."
+        },
+        {
+          "type": "paragraph",
+          "text": "Una piuma eterea si posò su ciascuno dei compagni."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un segno. Una protezione."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un legame."
+        },
+        {
+          "type": "paragraph",
+          "text": "La magia di Aid avvolse il gruppo, rafforzando i loro corpi e, forse, anche il loro spirito."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il tempo scorse veloce."
+        },
+        {
+          "type": "paragraph",
+          "text": "Tra preparativi, parole e silenzi, la sera lasciò spazio alla notte."
+        },
+        {
+          "type": "paragraph",
+          "text": "E quando finalmente giunse il momento, una cosa era chiara a tutti:"
+        },
+        {
+          "type": "paragraph",
+          "text": "stavano per entrare nel cuore del covo."
+        },
+        {
+          "type": "paragraph",
+          "text": "E da lì… non sarebbe stato facile uscire."
+        }
+      ]
+    },
+    {
+      "id": "terme",
+      "title": "Verso le terme",
+      "videoId": "o1b_7ANZ7qk",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "La porta della locanda si richiuse alle loro spalle con un tonfo sordo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Fu in quell’istante che la missione smise di essere un piano… e divenne realtà."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il gruppo si mosse compatto tra le strade di Baldur’s Gate, mentre la città si ritirava lentamente in sé stessa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le luci si spegnevano una dopo l’altra. I locandieri abbassavano le serrande. Le ultime voci si dissolvevano nel crepuscolo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aelar avanzava con passo controllato, mentre Aeren si librava sopra di loro, un’ombra silenziosa nel cielo sempre più scuro."
+        },
+        {
+          "type": "paragraph",
+          "text": "Attraverso il legame che li univa, ogni movimento, ogni dettaglio, fluiva direttamente nella sua mente."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nessuna presenza sospetta. Nessuno che li seguisse."
+        },
+        {
+          "type": "paragraph",
+          "text": "Solo… silenzio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un silenzio innaturale."
+        },
+        {
+          "type": "paragraph",
+          "text": "I pochi passanti rimasti evitavano il gruppo, cambiando lato della strada al loro passaggio, come se percepissero qualcosa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un presagio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Baldur’s Gate, di giorno caotica e viva, di notte si trasformava in qualcosa di diverso."
+        },
+        {
+          "type": "paragraph",
+          "text": "Vuota. Fredda. Diffidente."
+        },
+        {
+          "type": "paragraph",
+          "text": "E poi… la pioggia."
+        },
+        {
+          "type": "paragraph",
+          "text": "Iniziò come un sussurro, una carezza sottile sull’acciottolato, per poi intensificarsi lentamente, accompagnata da una nebbia leggera che strisciava tra le strade."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non abbastanza da oscurare la vista."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma sufficiente… da rendere ogni cosa più incerta."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le sagome si facevano sfocate. I contorni meno definiti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ogni angolo poteva nascondere qualcosa."
+        },
+        {
+          "type": "paragraph",
+          "text": "O qualcuno."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il cupolone delle terme apparve infine davanti a loro, emergendo dalla nebbia come una presenza silenziosa e imponente."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nessuna luce evidente."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nessun segno di vita."
+        },
+        {
+          "type": "paragraph",
+          "text": "Eppure…"
+        },
+        {
+          "type": "paragraph",
+          "text": "Tutti sapevano."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non erano soli."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il gruppo rallentò, fermandosi a breve distanza dall’ingresso."
+        },
+        {
+          "type": "paragraph",
+          "text": "Davanti a loro, le terme."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il cuore del covo."
+        },
+        {
+          "type": "paragraph",
+          "text": "E oltre quella soglia…"
+        },
+        {
+          "type": "paragraph",
+          "text": "li attendeva l’ignoto."
+        }
+      ]
+    },
+    {
+      "id": "presenze",
+      "title": "Il silenzio che osserva",
+      "videoId": "hbW7Q1tJBak",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Il gruppo si fermò davanti al portone delle terme."
+        },
+        {
+          "type": "paragraph",
+          "text": "Massiccio. Decorato. Silenzioso."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le ninfe scolpite nel legno sembravano osservare i visitatori, immobili e senza vita, eppure cariche di una presenza inquietante."
+        },
+        {
+          "type": "paragraph",
+          "text": "Attorno, la cinta muraria si ergeva per diversi metri, isolando completamente l’edificio dal resto della città."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nessuna luce. Nessun movimento."
+        },
+        {
+          "type": "paragraph",
+          "text": "Solo il buio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aelar lasciò che Aeren si muovesse in avanscoperta, guidandolo silenziosamente tra le fontane e i cortili interni."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nulla."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nessuna guardia. Nessuna sentinella."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un vuoto… troppo perfetto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il gufo etereo si posò su una fontana, e per un istante la sua forma sembrò tremolare, come se la realtà stessa lo respingesse."
+        },
+        {
+          "type": "paragraph",
+          "text": "Fu allora che Kyran percepì qualcosa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un suono."
+        },
+        {
+          "type": "paragraph",
+          "text": "Leggero. Quasi impercettibile."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un fruscio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non il suono della pioggia. Non il vento."
+        },
+        {
+          "type": "paragraph",
+          "text": "Qualcosa… di diverso."
+        },
+        {
+          "type": "paragraph",
+          "text": "Eren non avrebbe dovuto fare rumore."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non così."
+        },
+        {
+          "type": "paragraph",
+          "text": "Kyran si avvicinò ad Aelar, la voce bassa, controllata."
+        },
+        {
+          "type": "quote",
+          "text": "Il tuo gufo… di solito non fa rumore, giusto?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Aelar negò."
+        },
+        {
+          "type": "paragraph",
+          "text": "Eren, interrogato, non vide nulla. Non percepì nulla."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma qualcosa… c’era stato."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il gruppo si fermò."
+        },
+        {
+          "type": "paragraph",
+          "text": "In ascolto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma l’unico suono che rimaneva era quello della pioggia che cadeva lenta sull’acciottolato."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il silenzio tornò a dominare la scena."
+        },
+        {
+          "type": "paragraph",
+          "text": "Troppo silenzio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Troppo perfetto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Decisero comunque di muoversi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Kyran si avvicinò alla fontana, osservando la statua della ninfa, il vaso sollevato sopra il capo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Marmo. Freddo. Immutabile."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nessun segno evidente."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nessuna spiegazione."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma il dubbio rimase."
+        },
+        {
+          "type": "paragraph",
+          "text": "Qualcosa li stava osservando?"
+        },
+        {
+          "type": "paragraph",
+          "text": "O era solo suggestione?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Senza ulteriori indugi, si avvicinarono infine al portone."
+        },
+        {
+          "type": "paragraph",
+          "text": "Strumenti alla mano. Armi pronte."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un ultimo sguardo tra loro."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi…"
+        },
+        {
+          "type": "paragraph",
+          "text": "la porta cedette."
+        },
+        {
+          "type": "paragraph",
+          "text": "Senza resistenza."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aperta."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dall’interno, nessun suono di passi. Nessuna voce."
+        },
+        {
+          "type": "paragraph",
+          "text": "Solo un debole, costante…"
+        },
+        {
+          "type": "paragraph",
+          "text": "scorrere d’acqua."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il gruppo varcò la soglia."
+        },
+        {
+          "type": "paragraph",
+          "text": "E con quel passo, lasciò alle spalle la sicurezza del mondo esterno."
+        },
+        {
+          "type": "paragraph",
+          "text": "Davanti a loro…"
+        },
+        {
+          "type": "paragraph",
+          "text": "il covo."
+        }
+      ]
+    },
+    {
+      "id": "dentro",
+      "title": "Il primo sangue",
+      "videoId": "fbnJNlSw8Yk",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "L’interno delle terme li accolse con un silenzio irreale."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nessun ospite. Nessuna voce."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le vasche erano colme, l’acqua ancora in movimento, come se il luogo fosse stato abbandonato solo da pochi istanti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Da qualche punto nascosto, un flusso continuo sgorgava, producendo quel lieve fruscio che Kyran aveva già percepito all’esterno."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aelar si fermò un istante, lasciando che i suoi sensi si estendessero oltre il visibile."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nulla."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nessuna presenza divina o corrotta. Nessuna traccia immediata."
+        },
+        {
+          "type": "paragraph",
+          "text": "Solo… quiete."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma una quiete che sapeva di menzogna."
+        },
+        {
+          "type": "paragraph",
+          "text": "Mentre alcuni esaminavano rapidamente l’ingresso, tra registri e documenti apparentemente ordinari, la decisione fu presa senza bisogno di ulteriori parole."
+        },
+        {
+          "type": "paragraph",
+          "text": "La stanza."
+        },
+        {
+          "type": "paragraph",
+          "text": "Quella stanza."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il cuore del segreto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Avanzarono con cautela, armi pronte, respiri trattenuti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Elis si avvicinò alla porta, inclinando appena il capo, ascoltando."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nulla."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nessun passo. Nessun sussurro."
+        },
+        {
+          "type": "paragraph",
+          "text": "Solo oscurità oltre lo spiraglio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Lentamente, spinse."
+        },
+        {
+          "type": "paragraph",
+          "text": "La porta si aprì."
+        },
+        {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-9/Primo%20Scontro%20alle%20Terme.png",
+          "alt": "scontro"
+        },
+        {
+          "type": "paragraph",
+          "text": "E in quell’istante…"
+        },
+        {
+          "type": "paragraph",
+          "text": "il silenzio si spezzò."
+        },
+        {
+          "type": "paragraph",
+          "text": "Figure incappucciate emersero dalle ombre, muovendosi con rapidità innaturale."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il combattimento esplose senza preavviso."
+        },
+        {
+          "type": "paragraph",
+          "text": "Una freccia sibilò nell’aria, scoccata da Aelar, colpendo uno dei cultisti con precisione letale."
+        },
+        {
+          "type": "paragraph",
+          "text": "Elis si lanciò in avanti, evocando nelle sue mani lame psichiche, colpendo con rapidità sorprendente, anche se il suo controllo su quel potere sembrava ancora incerto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dalle retrovie, una mano spettrale si materializzò nell’aria, scagliandosi contro Alaster."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma una barriera di energia si formò appena in tempo, deviando l’attacco con un bagliore improvviso."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan avanzò senza esitazione, frappandosi tra i nemici e i suoi compagni, la lama pronta a difendere e colpire."
+        },
+        {
+          "type": "paragraph",
+          "text": "Kyran entrò nello scontro con freddezza letale, la sua presenza un’ombra tra le ombre, mentre Clayton supportava con attacchi mirati."
+        },
+        {
+          "type": "paragraph",
+          "text": "L’aria si riempì di suoni:"
+        },
+        {
+          "type": "paragraph",
+          "text": "acciaio contro carne, magia contro carne, respiro contro morte."
+        },
+        {
+          "type": "paragraph",
+          "text": "Uno dei cultisti cadde sotto i colpi combinati del gruppo, il suo corpo crollò a terra senza un grido."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un altro lo seguì poco dopo, trafitto dalle lame di Elis, che per un istante osservò le proprie mani, quasi sorpreso dal potere che scorreva in esse."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il sangue scorreva."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il silenzio era finito."
+        },
+        {
+          "type": "paragraph",
+          "text": "E quello…"
+        },
+        {
+          "type": "paragraph",
+          "text": "era solo l’inizio."
+        }
+      ]
+    },
+    {
+      "id": "entrata",
+      "title": "Il varco nascosto",
+      "videoId": "vMDQ9NNABzY",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Il silenzio tornò lentamente a riempire la stanza, interrotto solo dal respiro dei presenti e dal lieve scorrere dell’acqua nelle vasche."
+        },
+        {
+          "type": "paragraph",
+          "text": "L’avanguardia era stata eliminata."
+        },
+        {
+          "type": "paragraph",
+          "text": "Senza allarme. Senza fuga."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma nessuno si illuse."
+        },
+        {
+          "type": "paragraph",
+          "text": "Se quello era il primo strato del covo… ciò che li attendeva oltre sarebbe stato ben peggiore."
+        },
+        {
+          "type": "paragraph",
+          "text": "I corpi vennero rapidamente controllati."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nessuna moneta. Nessun oggetto di valore."
+        },
+        {
+          "type": "paragraph",
+          "text": "Solo armi rozze e, sul cultista di Myrkul, una collana composta da frammenti d’ossa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un simbolo. Più che un possesso."
+        },
+        {
+          "type": "paragraph",
+          "text": "Alaster recuperò con precisione le frecce scoccate, mentre Kyran osservò attentamente uno dei cadaveri, memorizzandone i tratti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un volto comune."
+        },
+        {
+          "type": "paragraph",
+          "text": "Troppo comune."
+        },
+        {
+          "type": "paragraph",
+          "text": "Segnato da cicatrici, ma privo di qualsiasi elemento distintivo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Uomini qualunque."
+        },
+        {
+          "type": "paragraph",
+          "text": "Carne sacrificabile per qualcosa di più grande."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il gruppo si riorganizzò rapidamente."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ferite valutate. Risorse dosate."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non era ancora il momento di sprecare energia."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non ancora."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi, senza ulteriori esitazioni, tornarono verso il punto che avevano già individuato:"
+        },
+        {
+          "type": "paragraph",
+          "text": "il meccanismo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il vaso."
+        },
+        {
+          "type": "paragraph",
+          "text": "Clayton osservava, mentre gli altri si preparavano a intervenire."
+        },
+        {
+          "type": "paragraph",
+          "text": "La porta alle loro spalle venne chiusa, isolando completamente la stanza dal resto delle terme."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un ultimo sguardo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi…"
+        },
+        {
+          "type": "paragraph",
+          "text": "il gesto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un semplice tocco."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un meccanismo nascosto si attivò."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un suono metallico, profondo, antico."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ingranaggi invisibili iniziarono a muoversi dietro le pareti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un clic."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi un altro."
+        },
+        {
+          "type": "paragraph",
+          "text": "E infine…"
+        },
+        {
+          "type": "paragraph",
+          "text": "un peso enorme che si spostava."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sul muro di fronte a loro, una linea si delineò lentamente."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un contorno."
+        },
+        {
+          "type": "paragraph",
+          "text": "Rettangolare."
+        },
+        {
+          "type": "paragraph",
+          "text": "Della dimensione di una porta."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il passaggio si rivelò."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nascosto. Silenzioso. Atteso."
+        },
+        {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-9/Accesso%20Al%20Covo.png",
+          "alt": "accesso"
+        },
+        {
+          "type": "paragraph",
+          "text": "Senza perdere tempo, il gruppo si mosse con disciplina."
+        },
+        {
+          "type": "paragraph",
+          "text": "I corpi vennero trascinati all’interno, nascosti, cancellati alla vista."
+        },
+        {
+          "type": "paragraph",
+          "text": "Anche il sangue venne eliminato, ogni traccia della loro presenza ripulita con cura."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nessun errore. Nessuna prova."
+        },
+        {
+          "type": "paragraph",
+          "text": "Solo silenzio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Quando tutto fu pronto, si fermarono un istante davanti al passaggio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Armi strette. Sguardi tesi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Davanti a loro non c’era più una semplice stanza."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma una discesa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Verso qualcosa di più oscuro."
+        },
+        {
+          "type": "paragraph",
+          "text": "Più profondo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Più pericoloso."
+        },
+        {
+          "type": "paragraph",
+          "text": "E questa volta…"
+        },
+        {
+          "type": "paragraph",
+          "text": "non ci sarebbe stato ritorno facile."
+        }
+      ]
+    },
+    {
+      "id": "covo",
+      "title": "Le profondità dei Tre Morti",
+      "videoId": "AxwhNZfMZL8",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Il passaggio segreto li condusse verso il basso."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sempre più in profondità."
+        },
+        {
+          "type": "paragraph",
+          "text": "L’aria si fece più fredda, più umida, più pesante."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dopo una lunga discesa, il gruppo raggiunse un livello sotterraneo dove l’acqua stagnante lambiva le caviglie, riflettendo debolmente le loro sagome."
+        },
+        {
+          "type": "paragraph",
+          "text": "Era buio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un buio antico, non semplicemente assenza di luce, ma presenza di qualcosa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Qualcosa che osservava."
+        },
+        {
+          "type": "paragraph",
+          "text": "Elis avanzò per primo."
+        },
+        {
+          "type": "paragraph",
+          "text": "E mentre camminava, il suo corpo iniziò a mutare."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le sue corna si ritirarono, i suoi tratti si modificarono, la sua figura cambiò forma sotto una nuova identità."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un cultista."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un volto tra tanti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Una maschera perfetta."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il gruppo lo seguì, mantenendo distanza e silenzio, comunicando a bassa voce o attraverso la mente, ogni parola misurata, ogni passo controllato."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le gallerie si diramavano in più direzioni."
+        },
+        {
+          "type": "paragraph",
+          "text": "Alcuni passaggi erano crollati, inghiottiti dal tempo o dalla violenza."
+        },
+        {
+          "type": "paragraph",
+          "text": "Altri… conducevano più in profondità."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ogni angolo poteva nascondere una trappola. Ogni parete un segreto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma non tutte le pareti, come Elis scoprì con un tentativo fin troppo ottimistico, celavano passaggi nascosti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un breve momento di leggerezza si dissolse rapidamente."
+        },
+        {
+          "type": "paragraph",
+          "text": "Questo luogo non perdonava errori."
+        },
+        {
+          "type": "paragraph",
+          "text": "Avanzarono ancora, fino a raggiungere una porta."
+        },
+        {
+          "type": "paragraph",
+          "text": "Si fermarono."
+        },
+        {
+          "type": "paragraph",
+          "text": "Armi pronte. Respiri trattenuti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Elis si preparò."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un conto silenzioso."
+        },
+        {
+          "type": "paragraph",
+          "text": "Tre. Due. Uno."
+        },
+        {
+          "type": "paragraph",
+          "text": "La porta si aprì."
+        },
+        {
+          "type": "paragraph",
+          "text": "E oltre di essa…"
+        },
+        {
+          "type": "paragraph",
+          "text": "non trovarono nemici."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma qualcosa di forse più inquietante."
+        },
+        {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-9/Le%20tre%20porte.png",
+          "alt": "porte"
+        },
+        {
+          "type": "paragraph",
+          "text": "Un santuario."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le pareti e le porte erano decorate con simboli e raffigurazioni."
+        },
+        {
+          "type": "paragraph",
+          "text": "Antichi. Oscuri."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sacri."
+        },
+        {
+          "type": "paragraph",
+          "text": "Davanti a loro, il culto si rivelava nella sua vera forma."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sulla porta da cui provenivano, l’immagine di Bhaal: un corpo possente, il volto scarnificato, lame ricurve al posto delle mani."
+        },
+        {
+          "type": "paragraph",
+          "text": "Alla loro destra, Bane, il Signore della Tirannia: corazzato, imponente, il volto nascosto da un elmo cilindrico."
+        },
+        {
+          "type": "paragraph",
+          "text": "E infine, di fronte a loro, Myrkul: avvolto in un mantello, il volto celato, una falce stretta tra le mani."
+        },
+        {
+          "type": "paragraph",
+          "text": "I Tre Morti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non più nomi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non più leggende."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma presenze."
+        },
+        {
+          "type": "paragraph",
+          "text": "Vive."
+        },
+        {
+          "type": "paragraph",
+          "text": "Radicate in quel luogo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il gruppo comprese in quell’istante la vera portata di ciò che stavano affrontando."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non un semplice covo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma un nodo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un punto di incontro tra culti, potere, e morte."
+        },
+        {
+          "type": "paragraph",
+          "text": "E loro…"
+        },
+        {
+          "type": "paragraph",
+          "text": "erano appena entrati al centro."
+        }
+      ]
+    },
+    {
+      "id": "bane",
+      "title": "L’altare e il silenzio degli assassini",
+      "videoId": "CwCEwgrVuzo",
+      "blocks": [
+        {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-9/Altare1.png",
+          "alt": "altare"
+        },
+        {
+          "type": "paragraph",
+          "text": "Il gruppo avanzò nelle gallerie allagate, l’acqua che accompagnava ogni passo con un suono sommesso, quasi a tradire la loro presenza nel silenzio assoluto del covo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le pareti si stringevano attorno a loro, interrotte solo da simboli, passaggi e segni di crolli."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi, una nuova scoperta."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un arazzo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Consumato, macchiato, logorato dal tempo e dall’umidità."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma ciò che rappresentava era inequivocabile."
+        },
+        {
+          "type": "paragraph",
+          "text": "Quattro figure senza volto che smembravano una quinta, intrappolata in un urlo eterno."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un sacrificio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un’offerta a Myrkul."
+        },
+        {
+          "type": "paragraph",
+          "text": "Quando Elis sollevò leggermente il tessuto, il covo rispose."
+        },
+        {
+          "type": "paragraph",
+          "text": "Una massa filamentosa, gialla e pulsante, si agitò dietro la parete."
+        },
+        {
+          "type": "paragraph",
+          "text": "Spore."
+        },
+        {
+          "type": "paragraph",
+          "text": "Vive."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pronte a esplodere."
+        },
+        {
+          "type": "paragraph",
+          "text": "Solo un riflesso rapido gli permise di sottrarsi, evitando che quella nube lo investisse in pieno."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un altro avvertimento."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ogni cosa, lì sotto, era ostile."
+        },
+        {
+          "type": "paragraph",
+          "text": "Proseguirono."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le gallerie si aprirono in una stanza più ampia, sostenuta da travi di legno marce, con l’acqua stagnante che rifletteva ombre distorte."
+        },
+        {
+          "type": "paragraph",
+          "text": "E lì…"
+        },
+        {
+          "type": "paragraph",
+          "text": "trovarono un altare."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ricoperto di viscere."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sopra di esso, una maschera d’acciaio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un volto umano deformato, accigliato, crudele."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il simbolo era chiaro."
+        },
+        {
+          "type": "paragraph",
+          "text": "Bhaal."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il Signore dell’Assassinio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nessuno parlò per un momento."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non ce n’era bisogno."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi…"
+        },
+        {
+          "type": "paragraph",
+          "text": "un altro dettaglio emerse."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un corpo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Disteso a terra, immobile, rivolto verso il basso."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nudo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Silenzioso."
+        },
+        {
+          "type": "paragraph",
+          "text": "Morto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Elis si avvicinò per primo, muovendosi con cautela."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il coltello conficcato nella schiena raccontava già parte della storia."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma non tutta."
+        },
+        {
+          "type": "paragraph",
+          "text": "Quando il corpo venne girato, la verità si rivelò nella sua brutalità."
+        },
+        {
+          "type": "paragraph",
+          "text": "Fendenti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Molti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Troppi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un’esecuzione."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non un sacrificio rituale."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non una morte pulita."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma una punizione."
+        },
+        {
+          "type": "paragraph",
+          "text": "O un tradimento."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aelar osservò con attenzione, la mente fredda, analitica."
+        },
+        {
+          "type": "paragraph",
+          "text": "Due giorni."
+        },
+        {
+          "type": "paragraph",
+          "text": "Era morto da due giorni."
+        },
+        {
+          "type": "paragraph",
+          "text": "Troppo recente per essere ignorato."
+        },
+        {
+          "type": "paragraph",
+          "text": "Troppo vecchio per essere casuale."
+        },
+        {
+          "type": "paragraph",
+          "text": "Eppure…"
+        },
+        {
+          "type": "paragraph",
+          "text": "nessun simbolo. Nessun marchio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Solo cicatrici."
+        },
+        {
+          "type": "paragraph",
+          "text": "E una domanda."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dove erano gli altri?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Il covo avrebbe dovuto pullulare di cultisti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Invece…"
+        },
+        {
+          "type": "paragraph",
+          "text": "silenzio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un silenzio inquietante."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non vuoto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma carico di attesa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Forse erano altrove."
+        },
+        {
+          "type": "paragraph",
+          "text": "Forse erano stati richiamati."
+        },
+        {
+          "type": "paragraph",
+          "text": "O forse…"
+        },
+        {
+          "type": "paragraph",
+          "text": "stavano aspettando."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nascosti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Invisibili."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pronti a colpire."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il gruppo si scambiò poche parole, ma sufficienti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il dubbio era ormai condiviso."
+        },
+        {
+          "type": "paragraph",
+          "text": "Questo luogo non era vuoto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Era…"
+        },
+        {
+          "type": "paragraph",
+          "text": "preparato."
+        },
+        {
+          "type": "paragraph",
+          "text": "Davanti a loro, altre vie si aprivano."
+        },
+        {
+          "type": "paragraph",
+          "text": "Più profonde."
+        },
+        {
+          "type": "paragraph",
+          "text": "Più oscure."
+        },
+        {
+          "type": "paragraph",
+          "text": "Più pericolose."
+        },
+        {
+          "type": "paragraph",
+          "text": "E senza più esitazione, decisero di proseguire."
+        }
+      ]
+    },
+    {
+      "id": "mirkul",
+      "title": "I morti che non riposano",
+      "videoId": "Cr3Zw9i_v0Q",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "La decisione fu presa."
+        },
+        {
+          "type": "paragraph",
+          "text": "La porta di Myrkul."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il gruppo si preparò in silenzio, le armi pronte, i sensi tesi al massimo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Elis, ancora sotto mentite spoglie, si posizionò davanti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un ultimo scambio mentale."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi…"
+        },
+        {
+          "type": "paragraph",
+          "text": "il conto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Tre. Due. Uno."
+        },
+        {
+          "type": "paragraph",
+          "text": "La porta si aprì."
+        },
+        {
+          "type": "paragraph",
+          "text": "All’interno…"
+        },
+        {
+          "type": "paragraph",
+          "text": "due figure a terra."
+        },
+        {
+          "type": "paragraph",
+          "text": "Immobili."
+        },
+        {
+          "type": "paragraph",
+          "text": "Silenziose."
+        },
+        {
+          "type": "paragraph",
+          "text": "Diverse da quelle viste poco prima."
+        },
+        {
+          "type": "paragraph",
+          "text": "Vestite. Composte."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma ugualmente…"
+        },
+        {
+          "type": "paragraph",
+          "text": "sbagliate."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan si avvicinò, controllando il battito."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nulla."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nessun segno di vita."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma qualcosa non convinceva."
+        },
+        {
+          "type": "paragraph",
+          "text": "Erano cultisti di Myrkul."
+        },
+        {
+          "type": "paragraph",
+          "text": "E la morte, per loro, non era mai semplice."
+        },
+        {
+          "type": "paragraph",
+          "text": "Elis non esitò."
+        },
+        {
+          "type": "paragraph",
+          "text": "Una lama."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un colpo secco alla gola."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi un altro."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nessuna reazione."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nessun sangue."
+        },
+        {
+          "type": "paragraph",
+          "text": "Solo carne fredda."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un attimo di silenzio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi…"
+        },
+        {
+          "type": "paragraph",
+          "text": "il movimento."
+        },
+        {
+          "type": "paragraph",
+          "text": "I corpi si risvegliarono."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non vivi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non morti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Qualcosa nel mezzo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il combattimento scoppiò immediatamente."
+        },
+        {
+          "type": "paragraph",
+          "text": "Kyran si lanciò per primo, la lama pronta a colpire senza esitazione."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aelar rispose con precisione, frecce che fendevano l’aria stagnante del sotterraneo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Elis, ormai padrone delle sue lame psichiche, si mosse con velocità letale, colpendo e arretrando in un unico fluido movimento."
+        },
+        {
+          "type": "paragraph",
+          "text": "Alaster evocò un getto di veleno, che si insinuò nei corpi dei nemici, corrompendoli dall’interno."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan, saldo come sempre, si frappose tra i compagni e il pericolo, colpendo con forza e determinazione."
+        },
+        {
+          "type": "paragraph",
+          "text": "Uno dopo l’altro, i cultisti caddero."
+        },
+        {
+          "type": "paragraph",
+          "text": "Questa volta…"
+        },
+        {
+          "type": "paragraph",
+          "text": "definitivamente."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il silenzio tornò."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma non portava sollievo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Solo consapevolezza."
+        },
+        {
+          "type": "paragraph",
+          "text": "Anche i morti, lì sotto, combattevano."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il gruppo ispezionò rapidamente la stanza."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un sarcofago aperto, vuoto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nessun corpo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nessuna spiegazione."
+        },
+        {
+          "type": "paragraph",
+          "text": "Solo un’altra anomalia."
+        },
+        {
+          "type": "paragraph",
+          "text": "Addosso ai cultisti, trovarono dei piccoli libri."
+        },
+        {
+          "type": "paragraph",
+          "text": "Grezzi. Consumati."
+        },
+        {
+          "type": "paragraph",
+          "text": "Versioni minori dei testi già incontrati."
+        },
+        {
+          "type": "paragraph",
+          "text": "Strumenti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non conoscenza."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il covo non era solo un luogo di culto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Era una macchina."
+        },
+        {
+          "type": "paragraph",
+          "text": "E loro…"
+        },
+        {
+          "type": "paragraph",
+          "text": "ne stavano smontando gli ingranaggi, uno alla volta."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dopo un rapido recupero, il gruppo si fermò ancora una volta davanti a una nuova porta."
+        },
+        {
+          "type": "paragraph",
+          "text": "Feriti. Stanchi. Ma ancora in piedi."
+        },
+        {
+          "type": "paragraph",
+          "text": "E pronti…"
+        },
+        {
+          "type": "paragraph",
+          "text": "a scendere ancora più a fondo."
+        }
+      ]
+    },
+    {
+      "id": "giu",
+      "title": "Più in profondità",
+      "videoId": "nZDXt4iEJIY",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "La porta si aprì lentamente."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nessuna esplosione. Nessun attacco."
+        },
+        {
+          "type": "paragraph",
+          "text": "Solo…"
+        },
+        {
+          "type": "paragraph",
+          "text": "un corridoio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Lungo. Silenzioso. Avvolto nell’oscurità."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il gruppo avanzò."
+        },
+        {
+          "type": "paragraph",
+          "text": "Passo dopo passo, l’acqua sotto i piedi, il respiro trattenuto, le armi ancora pronte."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le pareti sembravano stringersi, il suono dei loro movimenti amplificato dal vuoto attorno."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il corridoio piegava."
+        },
+        {
+          "type": "paragraph",
+          "text": "Una curva."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi un’altra."
+        },
+        {
+          "type": "paragraph",
+          "text": "E infine…"
+        },
+        {
+          "type": "paragraph",
+          "text": "una biforcazione."
+        },
+        {
+          "type": "paragraph",
+          "text": "Due direzioni."
+        },
+        {
+          "type": "paragraph",
+          "text": "Due scelte."
+        },
+        {
+          "type": "paragraph",
+          "text": "Due possibili destini."
+        },
+        {
+          "type": "paragraph",
+          "text": "Senza fermarsi, senza esitare, avanzarono ancora."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sempre più in profondità."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sempre più lontani dalla luce."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sempre più vicini…"
+        },
+        {
+          "type": "paragraph",
+          "text": "al cuore del culto."
+        },
+        {
+          "type": "paragraph",
+          "text": "E proprio quando il silenzio sembrava ormai assoluto—"
+        },
+        {
+          "type": "paragraph",
+          "text": "la consapevolezza li colpì."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non avevano dichiarato cautela."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non avevano sussurrato ogni passo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non avevano scelto davvero…"
+        },
+        {
+          "type": "paragraph",
+          "text": "di essere invisibili."
+        },
+        {
+          "type": "paragraph",
+          "text": "E nel profondo di quel labirinto, dove morte e devozione si intrecciavano, una sola verità rimaneva."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non erano soli."
+        },
+        {
+          "type": "paragraph",
+          "text": "E questa volta…"
+        },
+        {
+          "type": "paragraph",
+          "text": "erano loro ad essere attesi."
+        },
+        {
+          "type": "paragraph",
+          "text": "La discesa è iniziata."
+        }
+      ]
+    }
+  ]
+}

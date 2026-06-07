@@ -1,0 +1,177 @@
+{
+  "title": "Le Cronache dell'Averno",
+
+  "description": "Baldur’s Gate è sull’orlo del caos, logorata da vizi e ambizione.",
+
+  "sections": [
+    {
+      "title": "I. Sessioni",
+      "type": "sessions",
+
+      "items": [
+        {
+          "label": "Sessione 1",
+          "sessionNumber": 1,
+          "visible": true
+        },
+        {
+          "label": "Sessione 2",
+          "sessionNumber": 2,
+          "visible": true
+        },
+        {
+          "label": "Sessione 3",
+          "sessionNumber": 3,
+          "visible": true
+        },
+        {
+          "label": "Sessione 4",
+          "sessionNumber": 4,
+          "visible": true
+        },
+        {
+          "label": "Sessione 5",
+          "sessionNumber": 5,
+          "visible": true
+        },
+        {
+          "label": "Sessione 6",
+          "sessionNumber": 6,
+          "visible": true
+        },
+        {
+          "label": "Sessione 7",
+          "sessionNumber": 7,
+          "visible": true
+        },
+        {
+          "label": "Sessione 8",
+          "sessionNumber": 8,
+          "visible": true
+        },
+        {
+          "label": "Sessione 9",
+          "sessionNumber": 9,
+          "visible": true
+        },
+        {
+          "label": "Sessione 10",
+          "sessionNumber": 10,
+          "visible": true
+        },
+        {
+          "label": "Sessione 11",
+          "sessionNumber": 11,
+          "visible": true
+        },
+        {
+          "label": "Sessione 12",
+          "sessionNumber": 12,
+          "visible": true
+        },
+        {
+          "label": "Sessione 13",
+          "sessionNumber": 13,
+          "visible": true
+        },
+        {
+          "label": "Sessione 14",
+          "sessionNumber": 14,
+          "visible": true
+        },
+        {
+          "label": "Sessione 15",
+          "sessionNumber": 15,
+          "visible": true
+        },
+        {
+          "label": "Sessione 16",
+          "sessionNumber": 16,
+          "visible": true
+        },
+        {
+          "label": "Sessione 17",
+          "sessionNumber": 17,
+          "visible": true
+        },
+        {
+          "label": "Sessione 18",
+          "sessionNumber": 18,
+          "visible": false
+        },
+        {
+          "label": "Sessione 19",
+          "sessionNumber": 19,
+          "visible": false
+        },
+        {
+          "label": "Sessione 20",
+          "sessionNumber": 20,
+          "visible": false
+        },
+        {
+          "label": "Sessione 21",
+          "sessionNumber": 21,
+          "visible": false
+        },
+        {
+          "label": "Sessione 22",
+          "sessionNumber": 22,
+          "visible": false
+        }
+      ]
+    },
+
+    {
+      "title": "II. Personaggi",
+      "type": "links",
+
+      "items": [
+        {
+          "label": "Personaggi Principali",
+          "route": ["personaggi"],
+          "fragment": "principali"
+        },
+
+        {
+          "label": "Alleati e PNG",
+          "route": ["personaggi"],
+          "fragment": "alleati"
+        },
+        {
+          "label": "Secondari",
+          "route": ["personaggi"],
+          "fragment": "secondari"
+        },
+        {
+          "label": "NPC Minori",
+          "route": ["personaggi"],
+          "fragment": "minori"
+        }
+      ]
+    },
+
+    {
+      "title": "III. Luoghi",
+      "type": "links",
+
+      "items": [
+        {
+          "label": "Sessione 1",
+          "route": ["luoghi"],
+          "fragment": "sessione-1"
+        },
+        {
+          "label": "Sessione 2",
+          "route": ["luoghi"],
+          "fragment": "sessione-2"
+        },
+        {
+          "label": "Sessione 3",
+          "route": ["luoghi"],
+          "fragment": "sessione-3"
+        }
+      ]
+    }
+  ]
+}

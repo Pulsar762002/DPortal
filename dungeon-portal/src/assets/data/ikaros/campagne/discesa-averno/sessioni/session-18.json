@@ -3,99 +3,3014 @@
   "id": 18,
   "title": "Sessione 18",
   "videoId": "",
-
   "chapters": [
     {
-      "id": "capitolo-1",
-      "title": "Titolo del primo capitolo",
+      "id": "le-fogne",
+      "title": "Le fogne",
       "videoId": "",
-
       "blocks": [
         {
-          "type": "scene",
-          "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-18/apertura.png",
-          "title": "TITOLO DELLA SCENA",
-          "subtitle": "Luogo, momento"
+          "type": "paragraph",
+          "text": "Mentre il resto degli Extermina continuava i preparativi per l’assalto alla villa Vanthampur, Sylvar proseguiva da solo la propria esplorazione nel sottosuolo di Baldur’s Gate."
         },
         {
           "type": "paragraph",
-          "text": "Scrivi qui l'apertura del racconto."
+          "text": "Le fogne della Città Alta si erano già rivelate un intricato labirinto di cunicoli, scarichi e condotti dimenticati. Eppure, mentre percorreva quelle gallerie nella forma di un piccolo topo, il druido trovò qualcosa che non avrebbe dovuto esistere."
         },
         {
           "type": "image",
           "variant": "left-big",
-          "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-18/immagine.png",
-          "alt": "Descrizione dell'immagine"
+          "src": "assets/campaigns/discesa-averno/sessione18/le-fogne.webp",
+          "alt": "Sylvar esplora una sezione nascosta delle fogne sotto la Città Alta di Baldur's Gate"
         },
         {
           "type": "paragraph",
-          "text": "Altro paragrafo: il testo scorre attorno all'immagine flottata a sinistra."
+          "text": "Tra macerie, pietre crollate e vecchie strutture cedute dal tempo, individuò una stretta apertura. Non abbastanza grande da consentire il passaggio di un uomo, ma perfettamente percorribile da una creatura delle sue dimensioni."
+        },
+        {
+          "type": "paragraph",
+          "text": "L'acqua continuava a filtrare sotto i blocchi di pietra, segno che quel passaggio conduceva ancora verso una parte attiva della rete fognaria."
         },
         {
           "type": "quote",
-          "text": "Una battuta memorabile di un personaggio."
+          "text": "Andiamo a vedere cosa c'è oltre la fessura.",
+          "variant": "character"
         },
         {
-          "type": "divider",
-          "variant": "flourish"
+          "type": "paragraph",
+          "text": "Con cautela, Sylvar si insinuò tra le rocce e raggiunse una sezione completamente isolata dal resto delle fogne."
         },
         {
-          "type": "note",
-          "text": "Nota di lore o voce fuori campo del Master."
+          "type": "paragraph",
+          "text": "Massicce sbarre di ferro dividevano il canale dal complesso principale. Le aperture tra una barra e l'altra erano sufficienti per il passaggio di piccoli animali, ma avrebbero fermato senza difficoltà uomini, cani o qualunque intruso più grande."
+        },
+        {
+          "type": "paragraph",
+          "text": "Era evidente che qualcuno avesse voluto separare deliberatamente quella zona dal resto della città sotterranea."
+        },
+        {
+          "type": "paragraph",
+          "text": "Procedendo nel buio, Sylvar notò qualcosa in lontananza."
+        },
+        {
+          "type": "paragraph",
+          "text": "Una luce verdognola."
+        },
+        {
+          "type": "paragraph",
+          "text": "Debole. Tremolante. Quasi pulsante."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non sembrava il riflesso di una torcia né quello di una lanterna comune."
+        },
+        {
+          "type": "paragraph",
+          "text": "Qualcosa brillava nelle profondità del canale."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il druido avanzò con prudenza, cercando di sfruttare ogni ombra e ogni rientranza delle pareti per evitare di essere notato."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le sue piccole zampe producevano appena un lieve rumore tra i liquami e le pietre umide, ma persino quel minimo suono sembrava riecheggiare nell'oscurità."
+        },
+        {
+          "type": "paragraph",
+          "text": "Giunto a un crocevia, il condotto si divideva in due direzioni."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sylvar scelse il percorso di sinistra."
+        },
+        {
+          "type": "paragraph",
+          "text": "Fu allora che vide la creatura."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un enorme cane infernale pattugliava il corridoio più avanti. Fiamme rossastre filtravano tra il pelo scuro mentre l'animale avanzava lentamente, annusando l'aria e controllando il territorio."
+        },
+        {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/campaigns/discesa-averno/sessione18/cane-infernale-fogne.webp",
+          "alt": "Un cane infernale pattuglia i cunicoli nascosti sotto la villa Vanthampur"
+        },
+        {
+          "type": "paragraph",
+          "text": "Per fortuna la bestia non sembrava aver percepito la presenza del piccolo topo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dopo alcuni istanti continuò la propria ronda e scomparve oltre una curva del tunnel."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sylvar non aveva alcuna intenzione di seguire una simile creatura."
+        },
+        {
+          "type": "paragraph",
+          "text": "Iniziò invece a studiare attentamente l'ambiente circostante."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le pareti erano disseminate di piccole nicchie e rientranze. Zone perfette per nascondersi. Rifugi naturali che permettevano a una creatura di piccole dimensioni di sfuggire facilmente agli sguardi delle pattuglie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Più osservava quel luogo, più una conclusione appariva inevitabile."
+        },
+        {
+          "type": "paragraph",
+          "text": "Quella non era una semplice sezione abbandonata delle fogne."
+        },
+        {
+          "type": "paragraph",
+          "text": "Era un'area sorvegliata."
+        },
+        {
+          "type": "paragraph",
+          "text": "Protetta."
+        },
+        {
+          "type": "paragraph",
+          "text": "E probabilmente collegata a qualcosa che i Vanthampur desideravano mantenere nascosto a qualunque costo."
         }
       ]
     },
     {
-      "id": "capitolo-2",
-      "title": "Catalogo dei blocchi",
-
+      "id": "guardie-ovunque",
+      "title": "Guardie ovunque",
+      "videoId": "",
       "blocks": [
         {
-          "type": "subtitle",
-          "text": "Questo è un sotto-titolo"
+          "type": "paragraph",
+          "text": "Sylvar continuò ad avanzare nelle profondità del complesso sotterraneo nascosto sotto la villa Vanthampur. Ogni nuovo corridoio sembrava identico al precedente: pietra umida, canali di scolo, oscurità e quel persistente odore di marcio che impregnava ogni cosa."
         },
         {
           "type": "paragraph",
-          "text": "Paragrafo normale di esempio."
+          "text": "Ma qualcosa stava cambiando."
         },
         {
           "type": "paragraph",
-          "variant": "emphasis",
-          "text": "Paragrafo enfatizzato (centrato e dorato)."
+          "text": "Più si addentrava in quella sezione isolata delle fogne, più diventava evidente che non si trattasse di semplici tunnel abbandonati."
+        },
+        {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/campaigns/discesa-averno/sessione18/guardie-ovunque.webp",
+          "alt": "Sylvar osserva una pattuglia infernale nei cunicoli sotterranei sotto la villa Vanthampur"
         },
         {
           "type": "paragraph",
-          "style": "italic",
-          "text": "Paragrafo in corsivo."
+          "text": "Muovendosi silenziosamente lungo una parete, il druido notò improvvisamente una luce in avvicinamento."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non era una torcia lasciata a illuminare il percorso."
+        },
+        {
+          "type": "paragraph",
+          "text": "Era una pattuglia."
+        },
+        {
+          "type": "paragraph",
+          "text": "Due uomini percorrevano il corridoio sotterraneo in ronda. Uno portava una lanterna, mentre l'altro reggeva un turibolo che diffondeva nell'aria l'aroma pungente dell'incenso."
+        },
+        {
+          "type": "paragraph",
+          "text": "Seduto sulla spalla di quest'ultimo vi era un imp, una piccola creatura infernale dagli occhi vigili e dal pungiglione inquieto."
         },
         {
           "type": "quote",
-          "text": "Una citazione con attribuzione.",
-          "author": "Aelar"
+          "text": "Questo odore mi uccide. Se non avessi questo non riuscirei a stare qui sotto.",
+          "variant": "party"
         },
         {
-          "type": "list",
-          "items": [
-            "Prima voce di un elenco puntato.",
-            "Seconda voce.",
-            "Terza voce."
-          ]
-        },
-        {
-          "type": "list",
-          "variant": "number",
-          "items": [
-            "Primo passo.",
-            "Secondo passo."
-          ]
-        },
-        {
-          "type": "spacer",
-          "variant": "large"
+          "type": "quote",
+          "text": "Sì, ti capisco. È terrificante.",
+          "variant": "party"
         },
         {
           "type": "paragraph",
-          "text": "Dopo uno spazio ampio."
+          "text": "Sylvar si ritrasse immediatamente nell'ombra, comportandosi esattamente come avrebbe fatto un vero topo di fogna."
+        },
+        {
+          "type": "paragraph",
+          "text": "La pattuglia passò oltre senza notarlo."
+        },
+        {
+          "type": "paragraph",
+          "text": "O quasi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Per un istante l'imp irrigidì la schiena. Le orecchie si tesero. Il piccolo diavolo iniziò a osservare il corridoio circostante con sospetto."
+        },
+        {
+          "type": "quote",
+          "text": "Cosa c'è?",
+          "variant": "party"
+        },
+        {
+          "type": "quote",
+          "text": "Niente. Mi sembrava di aver sentito qualcosa. Sarà solo un topo.",
+          "variant": "warning"
+        },
+        {
+          "type": "paragraph",
+          "text": "Dopo qualche secondo la pattuglia riprese il proprio cammino e scomparve nell'oscurità."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il cuore di Sylvar tornò lentamente a battere con regolarità."
+        },
+        {
+          "type": "paragraph",
+          "text": "Quella scoperta era importante."
+        },
+        {
+          "type": "paragraph",
+          "text": "Qualunque cosa si trovasse in quel luogo, veniva sorvegliata da uomini e diavoli."
+        },
+        {
+          "type": "paragraph",
+          "text": "Proseguendo oltre, il druido iniziò a cercare un accesso verso i livelli superiori. Una scala. Un passaggio. Qualunque cosa potesse condurre all'interno della villa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Fu allora che notò una porta."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dall'altra parte provenivano urla soffocate."
+        },
+        {
+          "type": "quote",
+          "text": "Ti prego... basta!",
+          "variant": "warning"
+        },
+        {
+          "type": "paragraph",
+          "text": "Seguì una risata."
+        },
+        {
+          "type": "paragraph",
+          "text": "Lenta."
+        },
+        {
+          "type": "paragraph",
+          "text": "Crudele."
+        },
+        {
+          "type": "paragraph",
+          "text": "Una risata che sembrava nutrirsi della sofferenza altrui."
+        },
+        {
+          "type": "paragraph",
+          "text": "Spinto dalla curiosità e dall'orrore, Sylvar si schiacciò contro il pavimento e riuscì a infilare il muso sotto la porta."
+        },
+        {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/campaigns/discesa-averno/sessione18/prigionieri-sotterranei.webp",
+          "alt": "Un diavolo tortura un prigioniero all'interno delle segrete sotterranee dei Vanthampur"
+        },
+        {
+          "type": "paragraph",
+          "text": "La scena che apparve davanti ai suoi occhi fu raccapricciante."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un diavolo stava torturando un uomo incatenato."
+        },
+        {
+          "type": "paragraph",
+          "text": "La stanza era illuminata soltanto da una lanterna verdognola sospesa al soffitto che oscillava lentamente nel buio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ogni colpo di frusta era accompagnato dalle urla della vittima e dalle risate compiaciute del carnefice."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nell'oscurità oltre la luce principale, Sylvar riuscì inoltre a distinguere altre figure."
+        },
+        {
+          "type": "paragraph",
+          "text": "Prigionieri."
+        },
+        {
+          "type": "paragraph",
+          "text": "Molti più di quanti avrebbe immaginato."
+        },
+        {
+          "type": "paragraph",
+          "text": "Per un istante il druido fu tentato di proseguire."
+        },
+        {
+          "type": "paragraph",
+          "text": "Di trovare una scala."
+        },
+        {
+          "type": "paragraph",
+          "text": "Di scoprire fin dove si estendesse quel complesso sotterraneo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma il tempo della sua trasformazione stava terminando."
+        },
+        {
+          "type": "paragraph",
+          "text": "E ciò che aveva scoperto era già abbastanza per cambiare completamente il piano dell'assalto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Esisteva un'intera struttura segreta sotto la villa Vanthampur."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sorvegliata."
+        },
+        {
+          "type": "paragraph",
+          "text": "Abitata da diavoli."
+        },
+        {
+          "type": "paragraph",
+          "text": "E piena di prigionieri."
+        },
+        {
+          "type": "paragraph",
+          "text": "Senza rischiare ulteriormente, Sylvar invertì la marcia e tornò verso la superficie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aveva trovato ciò che cercava."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ora doveva soltanto riferirlo agli Extermina."
+        }
+      ]
+    },
+    {
+      "id": "kyran-che-successo",
+      "title": "Kyran... che è successo?",
+      "videoId": "",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Lo scontro era terminato da pochi minuti."
+        },
+        {
+          "type": "paragraph",
+          "text": "I vicoli della Città Alta erano tornati silenziosi, ma l'odore acre della magia infernale aleggiava ancora nell'aria. I corpi delle creature evocate da Kanbos giacevano ormai senza vita sul selciato, mentre gli Extermina cercavano di riprendere fiato dopo un combattimento che aveva rischiato di trasformarsi in una tragedia."
+        },
+        {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/campaigns/discesa-averno/sessione18/kyran-che-successo.webp",
+          "alt": "Gli Extermina interrogano Kyran dopo lo scontro con i demoni evocati da Kanbos"
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan aiutò Kyran a rialzarsi, osservandola con evidente preoccupazione."
+        },
+        {
+          "type": "quote",
+          "text": "Kyran, mi spieghi che cazzo è successo qui? Cosa vogliono questi demoni da te?",
+          "variant": "question"
+        },
+        {
+          "type": "paragraph",
+          "text": "La sacerdotessa rimase in silenzio per qualche istante, ancora provata dallo scontro appena concluso."
+        },
+        {
+          "type": "quote",
+          "text": "Li ha evocati una mia vecchia conoscenza.",
+          "variant": "character"
+        },
+        {
+          "type": "paragraph",
+          "text": "Quelle parole non fecero altro che aumentare le domande."
+        },
+        {
+          "type": "quote",
+          "text": "E questa tua vecchia conoscenza è ancora in circolazione, immagino.",
+          "variant": "question"
+        },
+        {
+          "type": "quote",
+          "text": "È sparito dal nulla. Sono comparsi loro e basta.",
+          "variant": "character"
+        },
+        {
+          "type": "paragraph",
+          "text": "La risposta lasciò il gruppo tutt'altro che soddisfatto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Alaster osservò i resti delle creature con crescente interesse, mentre Nathan faticava a nascondere il proprio nervosismo."
+        },
+        {
+          "type": "quote",
+          "text": "Sai, non è divertente ripulire i tuoi casini senza informazioni, Kyran.",
+          "variant": "warning"
+        },
+        {
+          "type": "paragraph",
+          "text": "Nel frattempo alcuni passi risuonarono in lontananza."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le guardie cittadine stavano finalmente arrivando."
+        },
+        {
+          "type": "paragraph",
+          "text": "Troppo tardi per essere utili."
+        },
+        {
+          "type": "paragraph",
+          "text": "Come spesso accadeva a Baldur's Gate."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan si inginocchiò accanto ai resti dei demoni, cercando di comprendere meglio la natura della magia che li aveva evocati."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sapeva che esistevano rituali e incantesimi capaci di richiamare creature infernali nei Reami, ma quella manifestazione gli sembrava ben oltre ciò che avrebbe considerato normale."
+        },
+        {
+          "type": "quote",
+          "text": "Qualunque cosa abbia usato... non credo sia una magia comune.",
+          "variant": "warning"
+        },
+        {
+          "type": "paragraph",
+          "text": "Per questo motivo si rivolse ad Alaster."
+        },
+        {
+          "type": "quote",
+          "text": "Tu che sei più esperto di magia, sai che genere di incantesimo può aver evocato tutta questa roba?",
+          "variant": "question"
+        },
+        {
+          "type": "paragraph",
+          "text": "Il nobile osservò le carcasse con attenzione prima di rispondere."
+        },
+        {
+          "type": "quote",
+          "text": "Questo genere di magia è oscura. Molto oscura. Non è qualcosa che studio abitualmente.",
+          "variant": "character"
+        },
+        {
+          "type": "paragraph",
+          "text": "Per una volta non c'era alcuna ironia nelle sue parole."
+        },
+        {
+          "type": "paragraph",
+          "text": "Alaster appariva sinceramente preoccupato."
+        },
+        {
+          "type": "quote",
+          "text": "Ma non credo sia cosa da poco evocare un numero così elevato di demoni. Chiunque abbia fatto questo possiede capacità ben superiori alle nostre.",
+          "variant": "warning"
+        },
+        {
+          "type": "paragraph",
+          "text": "Quelle parole contribuirono a rendere ancora più pesante l'atmosfera."
+        },
+        {
+          "type": "paragraph",
+          "text": "Kyran rimase immobile per alcuni secondi prima di parlare nuovamente."
+        },
+        {
+          "type": "quote",
+          "text": "La cosa che posso dirvi è che non è lui il problema.",
+          "variant": "character"
+        },
+        {
+          "type": "paragraph",
+          "text": "Gli sguardi si spostarono immediatamente su di lei."
+        },
+        {
+          "type": "quote",
+          "text": "L'ultima volta che l'ho visto l'ho lasciato in fin di vita. Non è lui il problema. È chi lo sta aiutando.",
+          "variant": "warning"
+        },
+        {
+          "type": "paragraph",
+          "text": "La rivelazione non rassicurò nessuno."
+        },
+        {
+          "type": "paragraph",
+          "text": "Anzi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Se Kanbos era soltanto un emissario, allora da qualche parte esisteva qualcuno di molto più pericoloso."
+        },
+        {
+          "type": "quote",
+          "text": "Quindi il problema è un intero gruppo di persone?",
+          "variant": "question"
+        },
+        {
+          "type": "paragraph",
+          "text": "Kyran non rispose immediatamente."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il suo silenzio fu una risposta più eloquente di qualunque parola."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan decise infine di interrompere la discussione."
+        },
+        {
+          "type": "quote",
+          "text": "Un problema alla volta. Abbiamo già abbastanza guai per oggi.",
+          "variant": "info"
+        },
+        {
+          "type": "paragraph",
+          "text": "Per qualche istante il gruppo rimase in silenzio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Fu allora che qualcuno si accorse di un'altra assenza."
+        },
+        {
+          "type": "quote",
+          "text": "E Sylvar? Dov'è finito?",
+          "variant": "question"
+        },
+        {
+          "type": "paragraph",
+          "text": "Il druido mancava ormai da diverso tempo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Fortunatamente tutti sapevano quale fosse la sua missione."
+        },
+        {
+          "type": "paragraph",
+          "text": "Stava esplorando le fogne sotto la villa Vanthampur."
+        },
+        {
+          "type": "paragraph",
+          "text": "Una missione che, considerando la natura di ciò che avevano appena affrontato, iniziava a sembrare molto più pericolosa del previsto."
+        },
+        {
+          "type": "quote",
+          "text": "Abbiamo un punto di ritrovo. Lo troveremo lì.",
+          "variant": "info"
+        },
+        {
+          "type": "paragraph",
+          "text": "La risposta bastò a calmare almeno in parte le preoccupazioni."
+        },
+        {
+          "type": "paragraph",
+          "text": "Prima di lasciare il vicolo, però, l'attenzione tornò sui resti dei demoni."
+        },
+        {
+          "type": "paragraph",
+          "text": "Artigli. Corna. Sangue infernale. Frammenti di creature provenienti da piani che nessuno avrebbe voluto visitare."
+        },
+        {
+          "type": "quote",
+          "text": "Ora che ci penso... forse potremmo ricavarci qualcosa da tutta questa roba.",
+          "variant": "party"
+        },
+        {
+          "type": "paragraph",
+          "text": "L'idea non era affatto sbagliata."
+        },
+        {
+          "type": "paragraph",
+          "text": "Molti alchimisti, maghi e studiosi avrebbero pagato profumatamente per mettere le mani su simili componenti."
+        },
+        {
+          "type": "paragraph",
+          "text": "E con una villa infernale da assaltare entro poche ore, ogni moneta e ogni risorsa potevano fare la differenza."
+        }
+      ]
+    },
+    {
+      "id": "arrivano-le-guardie",
+      "title": "Arrivano le guardie",
+      "videoId": "",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Mentre il gruppo osservava i resti delle creature abbattute, la discussione si spostò rapidamente su una questione pratica."
+        },
+        {
+          "type": "paragraph",
+          "text": "Artigli, sangue infernale, corna e organi provenienti da creature extraplanari avevano certamente un valore. Maghi, alchimisti e studiosi avrebbero probabilmente pagato cifre considerevoli per mettere le mani su simili componenti."
+        },
+        {
+          "type": "quote",
+          "text": "Siamo davanti alla Torre di Ramazith. Potremmo chiedere se sono interessati a comprarli o almeno a identificarli.",
+          "variant": "party"
+        },
+        {
+          "type": "paragraph",
+          "text": "L'idea sembrava sensata, ma comportava anche dei rischi."
+        },
+        {
+          "type": "quote",
+          "text": "Dovremo fare attenzione. Non è proprio normale andare in giro con parti di demone nello zaino.",
+          "variant": "warning"
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan sospirò, osservando i resti delle creature."
+        },
+        {
+          "type": "paragraph",
+          "text": "Per una volta avrebbe voluto vedere comparire delle guardie nel momento del bisogno."
+        },
+        {
+          "type": "paragraph",
+          "text": "Proprio mentre formulava quel pensiero, il rumore di stivali sul selciato riecheggiò nel vicolo."
+        },
+        {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/campaigns/discesa-averno/sessione18/arrivano-le-guardie.webp",
+          "alt": "Le guardie della Città Alta raggiungono gli Extermina dopo lo scontro con i demoni"
+        },
+        {
+          "type": "paragraph",
+          "text": "Cinque guardie cittadine comparvero all'ingresso della strada."
+        },
+        {
+          "type": "paragraph",
+          "text": "Finalmente."
+        },
+        {
+          "type": "quote",
+          "text": "Cosa è successo qui? Abbiamo sentito delle chiamate d'emergenza.",
+          "variant": "question"
+        },
+        {
+          "type": "paragraph",
+          "text": "Le parole morirono sulle loro labbra non appena videro i cadaveri disseminati nel vicolo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Uno dei soldati impallidì immediatamente."
+        },
+        {
+          "type": "quote",
+          "text": "Che diavolo...?",
+          "variant": "warning"
+        },
+        {
+          "type": "paragraph",
+          "text": "Gli Extermina non sembravano particolarmente impressionati dalla loro presenza."
+        },
+        {
+          "type": "quote",
+          "text": "C'erano dei demoni in città. È il vostro lavoro contenerli.",
+          "variant": "warning"
+        },
+        {
+          "type": "paragraph",
+          "text": "Elis rincarò immediatamente la dose."
+        },
+        {
+          "type": "quote",
+          "text": "Avete rischiato di far morire un membro importante della nobiltà.",
+          "variant": "warning"
+        },
+        {
+          "type": "paragraph",
+          "text": "Kyran, ancora ricoperta di sangue e ferite, non perse l'occasione di sottolineare il concetto."
+        },
+        {
+          "type": "quote",
+          "text": "Qualche secondo fa ero a terra. Potevo morire.",
+          "variant": "warning"
+        },
+        {
+          "type": "paragraph",
+          "text": "Le guardie si scambiarono sguardi confusi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Una di loro si avvicinò ai cadaveri con evidente esitazione."
+        },
+        {
+          "type": "quote",
+          "text": "Non è possibile...",
+          "variant": "warning"
+        },
+        {
+          "type": "paragraph",
+          "text": "Un'altra guardia si allontanò immediatamente per richiedere rinforzi e superiori."
+        },
+        {
+          "type": "paragraph",
+          "text": "La situazione era chiaramente ben oltre le competenze di una normale pattuglia."
+        },
+        {
+          "type": "quote",
+          "text": "State bene? Qualcun altro è rimasto coinvolto?",
+          "variant": "question"
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan e gli altri spiegarono rapidamente l'accaduto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un'aggressione improvvisa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Creature demoniache evocate nel cuore della Città Alta."
+        },
+        {
+          "type": "paragraph",
+          "text": "Uno scontro combattuto con tutto ciò che avevano."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le guardie ascoltarono con crescente incredulità."
+        },
+        {
+          "type": "paragraph",
+          "text": "Più il racconto proseguiva, più appariva evidente che nessuno di loro sapesse realmente come reagire."
+        },
+        {
+          "type": "quote",
+          "text": "Se avete altre commissioni urgenti da svolgere, fatele ora. Altrimenti dovremmo accompagnarvi per una deposizione ufficiale.",
+          "variant": "info"
+        },
+        {
+          "type": "paragraph",
+          "text": "Alaster si limitò a sollevare un sopracciglio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan, invece, colse immediatamente l'occasione."
+        },
+        {
+          "type": "quote",
+          "text": "Parleremo anche con il capitano Zodge di questa faccenda.",
+          "variant": "warning"
+        },
+        {
+          "type": "paragraph",
+          "text": "La minaccia velata ottenne l'effetto desiderato."
+        },
+        {
+          "type": "paragraph",
+          "text": "I soldati si fecero immediatamente più rispettosi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Fu allora che uno degli uomini prese un taccuino e iniziò a raccogliere informazioni."
+        },
+        {
+          "type": "quote",
+          "text": "Aspettate... avete detto di essere gli Extermina?",
+          "variant": "question"
+        },
+        {
+          "type": "paragraph",
+          "text": "Un altro soldato sembrò riconoscere immediatamente il nome."
+        },
+        {
+          "type": "quote",
+          "text": "Sono quelli che hanno eliminato i Tre Morti.",
+          "variant": "info"
+        },
+        {
+          "type": "paragraph",
+          "text": "L'atteggiamento della pattuglia cambiò completamente."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non stavano più parlando con semplici cittadini."
+        },
+        {
+          "type": "paragraph",
+          "text": "Stavano parlando con il gruppo che negli ultimi giorni aveva iniziato a costruirsi una reputazione in tutta Baldur's Gate."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dopo aver raccolto le dichiarazioni, la guardia richiuse il taccuino."
+        },
+        {
+          "type": "quote",
+          "text": "Ci dispiace per quanto accaduto. Ma avete gestito la situazione in modo encomiabile.",
+          "variant": "info"
+        },
+        {
+          "type": "paragraph",
+          "text": "Era probabilmente il complimento più sincero che avessero ricevuto da una guardia cittadina da quando erano arrivati a Baldur's Gate."
+        },
+        {
+          "type": "quote",
+          "text": "L'importante è che nessuno di voi sia morto.",
+          "variant": "info"
+        },
+        {
+          "type": "paragraph",
+          "text": "Infine il soldato indicò i cadaveri demoniaci sparsi lungo il vicolo."
+        },
+        {
+          "type": "quote",
+          "text": "Se volete portarli a qualcuno per analizzarli siete liberi di farlo. Altrimenti ce ne occuperemo noi.",
+          "variant": "info"
+        },
+        {
+          "type": "paragraph",
+          "text": "Gli Extermina si scambiarono uno sguardo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Considerando quanto potessero valere quei resti e quanto urgente fosse prepararsi all'assalto della villa Vanthampur, la decisione sembrava piuttosto semplice."
+        }
+      ]
+    },
+    {
+      "id": "harvesting",
+      "title": "Harvesting",
+      "videoId": "",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Dopo aver congedato le guardie della Città Alta, gli Extermina rimasero soli nel vicolo insieme ai resti delle creature infernali."
+        },
+        {
+          "type": "paragraph",
+          "text": "L'adrenalina dello scontro stava lentamente svanendo, lasciando spazio a considerazioni molto più pratiche."
+        },
+        {
+          "type": "paragraph",
+          "text": "Quei cadaveri avevano un valore."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un valore potenzialmente elevato."
+        },
+        {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/campaigns/discesa-averno/sessione18/harvesting-demoni.webp",
+          "alt": "Gli Extermina recuperano componenti dai corpi dei demoni abbattuti nei vicoli della Città Alta"
+        },
+        {
+          "type": "paragraph",
+          "text": "Materiali provenienti da immondi erano richiesti da alchimisti, evocatori, studiosi e mercanti specializzati. Non sempre in modo legale, ma certamente in modo redditizio."
+        },
+        {
+          "type": "quote",
+          "text": "Potremmo portarli alla Torre di Ramazith. Sicuramente sapranno cosa farsene.",
+          "variant": "party"
+        },
+        {
+          "type": "paragraph",
+          "text": "L'idea era sensata."
+        },
+        {
+          "type": "paragraph",
+          "text": "Tuttavia, prima di affidare tutto ai maghi, il gruppo decise di tentare un'operazione più delicata."
+        },
+        {
+          "type": "paragraph",
+          "text": "Recuperare personalmente le parti più preziose."
+        },
+        {
+          "type": "paragraph",
+          "text": "Kyran iniziò a esaminare le carcasse, cercando di individuare quali componenti conservassero ancora valore arcano."
+        },
+        {
+          "type": "paragraph",
+          "text": "Elis, invece, preparò gli strumenti necessari per l'incisione."
+        },
+        {
+          "type": "quote",
+          "text": "Prendiamo i pezzi che valgono davvero.",
+          "variant": "info"
+        },
+        {
+          "type": "paragraph",
+          "text": "Dopo una breve valutazione, la scelta ricadde sugli elementi più ricercati."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il cuore."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le corna."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le parti che più spesso venivano utilizzate nella creazione di rituali, catalizzatori e oggetti magici."
+        },
+        {
+          "type": "paragraph",
+          "text": "L'operazione richiese tempo e precisione."
+        },
+        {
+          "type": "paragraph",
+          "text": "I corpi degli immondi non erano fatti come quelli delle creature mortali."
+        },
+        {
+          "type": "paragraph",
+          "text": "Carne, ossa e organi sembravano quasi opporsi al mondo materiale, come se stessero già tentando di dissolversi e tornare ai piani da cui provenivano."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nonostante le difficoltà, il gruppo riuscì a recuperare ciò che cercava."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un cuore ancora impregnato di energia infernale."
+        },
+        {
+          "type": "paragraph",
+          "text": "E una coppia di corna intatte."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il resto delle carcasse era ormai inutilizzabile."
+        },
+        {
+          "type": "quote",
+          "text": "Direi che può bastare.",
+          "variant": "party"
+        },
+        {
+          "type": "paragraph",
+          "text": "Avvolti i resti più ingombranti in alcuni stracci recuperati sul posto, gli Extermina tornarono infine alla Torre di Ramazith."
+        },
+        {
+          "type": "paragraph",
+          "text": "I maghi della torre non mostrarono alcuna particolare sorpresa nel vedere componenti demoniaci."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dopotutto, Baldur's Gate era una città strana."
+        },
+        {
+          "type": "paragraph",
+          "text": "E la Torre di Ramazith era probabilmente il luogo meno adatto del mondo per scandalizzarsi davanti a materiale extraplanare."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dopo una breve valutazione, il cuore venne acquistato per cento monete d'oro."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le corna per altre cinquanta."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non una fortuna."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma abbastanza da alleggerire almeno in parte le spese sostenute durante la giornata."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il gruppo completò quindi gli ultimi acquisti necessari per l'assalto alla villa Vanthampur."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pozioni."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pergamene."
+        },
+        {
+          "type": "paragraph",
+          "text": "Oggetti magici."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ogni risorsa disponibile venne investita nella speranza di aumentare le probabilità di sopravvivere alla notte che li attendeva."
+        },
+        {
+          "type": "paragraph",
+          "text": "Quando tutti i conti furono finalmente chiusi, la realtà apparve evidente."
+        },
+        {
+          "type": "paragraph",
+          "text": "Gli Extermina erano quasi senza denaro."
+        },
+        {
+          "type": "quote",
+          "text": "Niente soldi, niente problemi.",
+          "variant": "party"
+        },
+        {
+          "type": "paragraph",
+          "text": "La battuta strappò qualche sorriso stanco."
+        },
+        {
+          "type": "paragraph",
+          "text": "Perché tutti sapevano che il vero tesoro non si trovava nelle loro borse."
+        },
+        {
+          "type": "paragraph",
+          "text": "Si trovava nella villa Vanthampur."
+        },
+        {
+          "type": "paragraph",
+          "text": "E avrebbero dovuto sopravvivere abbastanza a lungo da reclamarlo."
+        }
+      ]
+    },
+    {
+      "id": "ci-incontriamo-per-la-spedizione",
+      "title": "Ci incontriamo per la spedizione",
+      "videoId": "",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "La lunga giornata stava finalmente giungendo al termine."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dopo aver recuperato l'equipaggiamento, concluso gli acquisti e sistemato le ultime questioni, gli Extermina si prepararono per la fase successiva del loro piano."
+        },
+        {
+          "type": "paragraph",
+          "text": "L'assalto alla villa Vanthampur."
+        },
+        {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/campaigns/discesa-averno/sessione18/ritrovo-prima-della-spedizione.webp",
+          "alt": "Gli Extermina si riuniscono al tramonto per pianificare l'infiltrazione nella villa Vanthampur"
+        },
+        {
+          "type": "paragraph",
+          "text": "Prima di raggiungere il punto d'incontro, il gruppo passò dall'armeria di Ferro Teso per ritirare le armi commissionate in precedenza."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il fabbro accolse tutti con il consueto entusiasmo che lo contraddistingueva."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ovvero insultandoli per averlo costretto a lavorare come un dannato per rispettare i tempi di consegna."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nonostante le lamentele, però, le nuove lame erano eccellenti."
+        },
+        {
+          "type": "paragraph",
+          "text": "E questo bastava a placare ogni protesta."
+        },
+        {
+          "type": "paragraph",
+          "text": "Mentre alcuni completavano i preparativi, Nathan richiamò la propria cavalcatura."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dalla sua ombra emerse lentamente un enorme lupo nero."
+        },
+        {
+          "type": "paragraph",
+          "text": "La creatura sembrava composta da oscurità liquida e fumo. Dalla pelliccia eterea si sollevavano volute d'ombra, mentre due occhi gialli osservavano il mondo con un'intelligenza inquietante."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il legame tra cavaliere e creatura si stabilì immediatamente."
+        },
+        {
+          "type": "paragraph",
+          "text": "Silenzioso."
+        },
+        {
+          "type": "paragraph",
+          "text": "Istintivo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Antico."
+        },
+        {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/campaigns/discesa-averno/sessione18/lupo-ombra-nathan.webp",
+          "alt": "Nathan richiama il proprio destriero d'ombra sotto forma di enorme lupo nero"
+        },
+        {
+          "type": "paragraph",
+          "text": "Quando il sole iniziò finalmente a calare, il gruppo raggiunse la piazza del mercato della Città Alta."
+        },
+        {
+          "type": "paragraph",
+          "text": "I mercanti stavano smontando le bancarelle."
+        },
+        {
+          "type": "paragraph",
+          "text": "Artisti e giocolieri raccoglievano gli attrezzi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le guardie pattugliavano la zona invitando gli ultimi curiosi a lasciare la piazza."
+        },
+        {
+          "type": "paragraph",
+          "text": "Lì, poco prima del tramonto, gli Extermina si riunirono nuovamente."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sylvar fu l'ultimo ad arrivare."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dopo essersi ripulito dalle fogne, raccontò in dettaglio tutto ciò che aveva scoperto."
+        },
+        {
+          "type": "quote",
+          "text": "La villa è sorvegliata meglio di quanto sperassi.",
+          "variant": "info"
+        },
+        {
+          "type": "paragraph",
+          "text": "Il druido descrisse le ronde che pattugliavano il cortile, i movimenti delle guardie e soprattutto il punto debole che aveva individuato."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un tratto di muro vicino alle stalle."
+        },
+        {
+          "type": "paragraph",
+          "text": "Quattro metri di altezza."
+        },
+        {
+          "type": "paragraph",
+          "text": "Una finestra di pochi secondi tra il passaggio di una ronda e l'altra."
+        },
+        {
+          "type": "quote",
+          "text": "Dovremo essere molto veloci. Abbiamo circa dieci secondi per oltrepassare il muro senza essere notati.",
+          "variant": "warning"
+        },
+        {
+          "type": "paragraph",
+          "text": "La discussione si spostò immediatamente sul ruolo che avrebbe avuto il Culto del Drago."
+        },
+        {
+          "type": "paragraph",
+          "text": "Se il loro diversivo avesse funzionato, gran parte delle difese della villa sarebbe stata costretta a reagire."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma nessuno era disposto a fare affidamento esclusivamente su quella speranza."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sylvar proseguì quindi con il rapporto riguardante le fogne."
+        },
+        {
+          "type": "quote",
+          "text": "Ho trovato un complesso sotterraneo. Guardie. Imp. Prigionieri. E un accesso che sembra collegato direttamente alla villa.",
+          "variant": "info"
+        },
+        {
+          "type": "paragraph",
+          "text": "La notizia confermò i sospetti che il gruppo nutriva ormai da tempo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sotto la residenza dei Vanthampur esisteva qualcosa di molto più grande di una semplice cantina."
+        },
+        {
+          "type": "paragraph",
+          "text": "Qualcosa che meritava di essere nascosto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Qualcosa che coinvolgeva diavoli e prigionieri."
+        },
+        {
+          "type": "paragraph",
+          "text": "La conversazione passò poi agli imp."
+        },
+        {
+          "type": "paragraph",
+          "text": "Piccoli diavoli in grado di rendersi invisibili e fungere da esploratori."
+        },
+        {
+          "type": "paragraph",
+          "text": "Una minaccia apparentemente insignificante, ma estremamente pericolosa durante un'infiltrazione."
+        },
+        {
+          "type": "quote",
+          "text": "Potremmo usare polvere o terriccio per individuarli se si rendono invisibili.",
+          "variant": "party"
+        },
+        {
+          "type": "paragraph",
+          "text": "La proposta sembrò ragionevole."
+        },
+        {
+          "type": "paragraph",
+          "text": "Finché Alaster non intervenne con la propria solita sicurezza."
+        },
+        {
+          "type": "quote",
+          "text": "Io posso vederli.",
+          "variant": "character"
+        },
+        {
+          "type": "paragraph",
+          "text": "Per qualche secondo nessuno rispose."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ormai nessuno si stupiva più delle capacità del nobile."
+        },
+        {
+          "type": "paragraph",
+          "text": "O forse si erano semplicemente arresi al fatto che fosse impossibile capire fino in fondo cosa fosse realmente capace di fare."
+        },
+        {
+          "type": "quote",
+          "text": "C'è qualcosa che non sai fare?",
+          "variant": "question"
+        },
+        {
+          "type": "quote",
+          "text": "Cantare.",
+          "variant": "character"
+        },
+        {
+          "type": "paragraph",
+          "text": "Per una volta la risposta riuscì a strappare qualche sorriso."
+        },
+        {
+          "type": "paragraph",
+          "text": "Fu allora che Alaster iniziò a cambiarsi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sotto gli sguardi perplessi dei compagni indossò abiti eleganti di seta nera, decorati con raffinati ricami e gioielli vistosi."
+        },
+        {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/campaigns/discesa-averno/sessione18/alaster-vestito-di-nero.webp",
+          "alt": "Alaster indossa eleganti abiti nobiliari neri prima dell'infiltrazione nella villa Vanthampur"
+        },
+        {
+          "type": "paragraph",
+          "text": "L'insieme era talmente appariscente da risultare quasi offensivo per chiunque avesse intenzione di infiltrarsi furtivamente da qualche parte."
+        },
+        {
+          "type": "quote",
+          "text": "Ho trovato gente vestita come te nei vicoli. Di solito faceva una brutta fine.",
+          "variant": "party"
+        },
+        {
+          "type": "paragraph",
+          "text": "Alaster ignorò il commento."
+        },
+        {
+          "type": "quote",
+          "text": "Se dovrò agire furtivamente, lo farò a modo mio.",
+          "variant": "character"
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi il suo tono si fece improvvisamente più serio."
+        },
+        {
+          "type": "quote",
+          "text": "Da questo momento in poi, dentro la villa, non rivolgetevi a me come Alaster.",
+          "variant": "warning"
+        },
+        {
+          "type": "paragraph",
+          "text": "La richiesta colse tutti di sorpresa."
+        },
+        {
+          "type": "quote",
+          "text": "E come dovremmo chiamarti?",
+          "variant": "question"
+        },
+        {
+          "type": "quote",
+          "text": "Nessuno.",
+          "variant": "character"
+        },
+        {
+          "type": "paragraph",
+          "text": "Seguì un lungo silenzio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi iniziarono le proteste."
+        },
+        {
+          "type": "paragraph",
+          "text": "E le battute."
+        },
+        {
+          "type": "paragraph",
+          "text": "Molte battute."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma alla fine il messaggio era chiaro."
+        },
+        {
+          "type": "paragraph",
+          "text": "La notte stava per iniziare."
+        },
+        {
+          "type": "paragraph",
+          "text": "E con essa l'operazione più pericolosa che gli Extermina avessero mai affrontato."
+        }
+      ]
+    },
+    {
+      "id": "il-culto-ci-contatta",
+      "title": "Il culto ci contatta",
+      "videoId": "",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Mentre gli Extermina completavano gli ultimi preparativi nella piazza ormai quasi deserta della Città Alta, una figura incappucciata emerse dall'ombra di una traversa e si avvicinò al gruppo."
+        },
+        {
+          "type": "paragraph",
+          "text": "L'uomo non perse tempo in convenevoli."
+        },
+        {
+          "type": "quote",
+          "text": "Zorbat vi sta aspettando.",
+          "variant": "info"
+        },
+        {
+          "type": "paragraph",
+          "text": "Le parole bastarono a catturare immediatamente l'attenzione di tutti."
+        },
+        {
+          "type": "quote",
+          "text": "Dove attaccherete?",
+          "variant": "question"
+        },
+        {
+          "type": "quote",
+          "text": "Al cuore del marcio. Direttamente in casa loro.",
+          "variant": "warning"
+        },
+        {
+          "type": "paragraph",
+          "text": "La risposta lasciava poco spazio alle interpretazioni."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il Culto del Drago non aveva alcuna intenzione di agire nell'ombra."
+        },
+        {
+          "type": "paragraph",
+          "text": "Avrebbero colpito frontalmente."
+        },
+        {
+          "type": "paragraph",
+          "text": "Violentemente."
+        },
+        {
+          "type": "paragraph",
+          "text": "E senza alcuna preoccupazione per le conseguenze."
+        },
+        {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/campaigns/discesa-averno/sessione18/contatto-culto-drago.webp",
+          "alt": "Un emissario del Culto del Drago raggiunge gli Extermina poco prima dell'assalto alla villa Vanthampur"
+        },
+        {
+          "type": "paragraph",
+          "text": "Guidati dall'emissario, gli Extermina attraversarono le strade della Città Alta seguendo percorsi secondari e vicoli poco frequentati."
+        },
+        {
+          "type": "paragraph",
+          "text": "Persino in quella parte privilegiata di Baldur's Gate esistevano zone dimenticate dagli sguardi dei nobili e delle guardie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Luoghi perfetti per chi desiderava muoversi senza essere visto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Durante il tragitto emerse un'altra questione."
+        },
+        {
+          "type": "paragraph",
+          "text": "La pietra donata da Reya Mantlemorn."
+        },
+        {
+          "type": "paragraph",
+          "text": "L'oggetto magico che avrebbe permesso alla giovane Hellrider di localizzarli."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il gruppo si fermò a discutere animatamente."
+        },
+        {
+          "type": "quote",
+          "text": "Se la chiamiamo adesso potrebbe raggiungerci prima dell'assalto.",
+          "variant": "party"
+        },
+        {
+          "type": "quote",
+          "text": "Oppure potrebbe arrivare nel mezzo del massacro.",
+          "variant": "warning"
+        },
+        {
+          "type": "paragraph",
+          "text": "I dubbi erano più che legittimi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nessuno sapeva con precisione dove si trovasse Reya."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nessuno sapeva quanto tempo le sarebbe servito per raggiungerli."
+        },
+        {
+          "type": "paragraph",
+          "text": "E soprattutto nessuno era certo di come avrebbe reagito il Culto del Drago vedendo comparire una Hellrider armata nel mezzo della loro vendetta."
+        },
+        {
+          "type": "paragraph",
+          "text": "Per diversi minuti il gruppo discusse ogni possibile scenario."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ogni possibile rischio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ogni possibile conseguenza."
+        },
+        {
+          "type": "paragraph",
+          "text": "Alla fine Nathan prese una decisione."
+        },
+        {
+          "type": "quote",
+          "text": "No. È troppo rischioso.",
+          "variant": "warning"
+        },
+        {
+          "type": "paragraph",
+          "text": "La pietra rimase intatta."
+        },
+        {
+          "type": "paragraph",
+          "text": "Reya non sarebbe stata coinvolta nell'operazione."
+        },
+        {
+          "type": "paragraph",
+          "text": "Almeno per il momento."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poco dopo il gruppo raggiunse una modesta abitazione nei pressi della villa Vanthampur."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dall'esterno sembrava una semplice casa cittadina."
+        },
+        {
+          "type": "paragraph",
+          "text": "All'interno, invece, si nascondeva il quartier generale temporaneo del Culto del Drago."
+        },
+        {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/campaigns/discesa-averno/sessione18/zorbat-pianifica-assalto.webp",
+          "alt": "Zorbat studia la piantina della villa Vanthampur poco prima dell'attacco"
+        },
+        {
+          "type": "paragraph",
+          "text": "Seduto a un tavolo ricoperto di mappe e appunti, Zorbat stava studiando la pianta della villa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dal suo naso fuoriuscivano sottili sbuffi di fumo mentre osservava attentamente i dettagli dell'assalto imminente."
+        },
+        {
+          "type": "quote",
+          "text": "Era ora.",
+          "variant": "warning"
+        },
+        {
+          "type": "paragraph",
+          "text": "L'uomo sollevò lo sguardo verso gli Extermina."
+        },
+        {
+          "type": "quote",
+          "text": "Attaccheremo a breve. Spero che siate pronti.",
+          "variant": "warning"
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi indicò con decisione la pianta della villa."
+        },
+        {
+          "type": "quote",
+          "text": "Entreremo direttamente dalla porta principale.",
+          "variant": "info"
+        },
+        {
+          "type": "paragraph",
+          "text": "Il dito si posò sul cancello principale."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nessuna infiltrazione."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nessun sotterfugio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Solo violenza."
+        },
+        {
+          "type": "paragraph",
+          "text": "Solo vendetta."
+        },
+        {
+          "type": "quote",
+          "text": "Li colpiremo quando meno se lo aspettano.",
+          "variant": "warning"
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan osservò la mappa e annuì."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il piano coincideva perfettamente con quanto gli Extermina avevano sperato."
+        },
+        {
+          "type": "paragraph",
+          "text": "Mentre il Culto del Drago avrebbe attirato l'attenzione delle guardie e dei difensori, loro avrebbero tentato l'ingresso dal retro sfruttando il caos."
+        },
+        {
+          "type": "quote",
+          "text": "Avevamo già intenzione di agire per conto nostro. Lavoriamo meglio così.",
+          "variant": "info"
+        },
+        {
+          "type": "paragraph",
+          "text": "Zorbat approvò con un cenno."
+        },
+        {
+          "type": "quote",
+          "text": "Allora vi copriremo le spalle. Noi ci occuperemo delle distrazioni.",
+          "variant": "info"
+        },
+        {
+          "type": "paragraph",
+          "text": "Prima di concludere l'incontro, il gruppo affrontò un ultimo argomento."
+        },
+        {
+          "type": "paragraph",
+          "text": "Lo scudo."
+        },
+        {
+          "type": "paragraph",
+          "text": "La reliquia che il Culto del Drago desiderava recuperare."
+        },
+        {
+          "type": "quote",
+          "text": "Tra le reliquie che cercate c'è uno scudo?",
+          "variant": "question"
+        },
+        {
+          "type": "paragraph",
+          "text": "Zorbat scosse la testa."
+        },
+        {
+          "type": "quote",
+          "text": "La nostra dea non si cura di scudi o strumenti per difendersi.",
+          "variant": "character"
+        },
+        {
+          "type": "paragraph",
+          "text": "La risposta rassicurò immediatamente Nathan."
+        },
+        {
+          "type": "paragraph",
+          "text": "Qualunque fosse la natura di quell'artefatto, il Culto del Drago non sembrava interessato a reclamarlo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Rimaneva però un'ultima richiesta."
+        },
+        {
+          "type": "quote",
+          "text": "Se possibile, lasciate almeno un membro della famiglia Vanthampur vivo.",
+          "variant": "warning"
+        },
+        {
+          "type": "paragraph",
+          "text": "Gli Extermina avevano bisogno di risposte."
+        },
+        {
+          "type": "paragraph",
+          "text": "Di informazioni."
+        },
+        {
+          "type": "paragraph",
+          "text": "Di qualcuno da interrogare."
+        },
+        {
+          "type": "paragraph",
+          "text": "Perché la notte che stava per iniziare non avrebbe deciso soltanto il destino della famiglia Vanthampur."
+        },
+        {
+          "type": "paragraph",
+          "text": "Avrebbe forse rivelato la verità dietro la caduta di Elturel."
+        }
+      ]
+    },
+    {
+      "id": "si-attacca",
+      "title": "Si attacca",
+      "videoId": "",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "L'ora era finalmente arrivata."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dopo giorni di preparazione, indagini e inseguimenti, gli Extermina si trovavano ai margini della villa Vanthampur, pronti a colpire il cuore stesso della cospirazione."
+        },
+        {
+          "type": "paragraph",
+          "text": "All'interno della casa sicura del Culto del Drago, decine di uomini e donne si preparavano alla battaglia."
+        },
+        {
+          "type": "paragraph",
+          "text": "La maggior parte erano soldati armati di spada e protetti da armature leggere. Altri indossavano semplici vesti decorate dal simbolo del drago, un pendente che oscillava sul petto come una promessa di morte."
+        },
+        {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/campaigns/discesa-averno/sessione18/culto-pronto-all-assalto.webp",
+          "alt": "I membri del Culto del Drago si preparano all'assalto contro la villa Vanthampur"
+        },
+        {
+          "type": "paragraph",
+          "text": "Mentre il culto si organizzava, Sylvar si avvicinò a Nathan con espressione insolitamente seria."
+        },
+        {
+          "type": "paragraph",
+          "text": "C'era una cosa che non era ancora riuscito a togliersi dalla mente."
+        },
+        {
+          "type": "quote",
+          "text": "Nelle segrete ci sono dei prigionieri.",
+          "variant": "warning"
+        },
+        {
+          "type": "paragraph",
+          "text": "Le parole bastarono a spegnere qualunque leggerezza residua."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il druido raccontò delle celle, delle torture e delle persone che aveva visto nelle profondità del complesso sotterraneo."
+        },
+        {
+          "type": "quote",
+          "text": "Se il Culto del Drago li trova prima di noi, sarà una mattanza.",
+          "variant": "warning"
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan ascoltò senza interromperlo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Conosceva bene il peso di una simile responsabilità."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma sapeva anche che il gruppo non poteva permettersi di salvare tutti senza prima comprendere cosa stesse realmente accadendo all'interno della villa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Per il momento, la questione venne accantonata."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non dimenticata."
+        },
+        {
+          "type": "paragraph",
+          "text": "Soltanto rimandata."
+        },
+        {
+          "type": "paragraph",
+          "text": "Quando il sole scomparve definitivamente oltre i tetti della Città Alta, il gruppo prese posizione."
+        },
+        {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/campaigns/discesa-averno/sessione18/extermina-appostati.webp",
+          "alt": "Gli Extermina osservano la villa Vanthampur nascosti nell'oscurità"
+        },
+        {
+          "type": "paragraph",
+          "text": "Gli Extermina si appostarono sul lato posteriore della proprietà, nascosti tra ombre e vicoli."
+        },
+        {
+          "type": "paragraph",
+          "text": "Davanti a loro si ergevano le mura della villa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dietro di esse, la famiglia Vanthampur."
+        },
+        {
+          "type": "paragraph",
+          "text": "E forse la verità sulla caduta di Elturel."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aeren volteggiava alto sopra i tetti, osservando costantemente il cortile e i movimenti delle guardie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Tutto sembrava identico a quanto Sylvar aveva osservato durante la ricognizione."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le ronde continuavano."
+        },
+        {
+          "type": "paragraph",
+          "text": "I movimenti erano regolari."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nessuno sospettava ciò che stava per accadere."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dall'altro lato della villa, invece, il Culto del Drago era pronto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Zorbat osservava il bersaglio con occhi incandescenti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il suo corpo sembrava emanare calore dalle giunture, come se una fornace ardesse sotto la pelle."
+        },
+        {
+          "type": "quote",
+          "text": "È il momento.",
+          "variant": "warning"
+        },
+        {
+          "type": "paragraph",
+          "text": "Le sue parole furono accolte da decine di sguardi assetati di vendetta."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi il cultista sollevò la voce."
+        },
+        {
+          "type": "quote",
+          "text": "Per Tiamat!",
+          "variant": "warning"
+        },
+        {
+          "type": "paragraph",
+          "text": "L'urlo venne immediatamente ripetuto da tutti i presenti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Una carica selvaggia si abbatté contro il lato principale della villa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Gli Extermina non videro direttamente l'impatto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma lo sentirono."
+        },
+        {
+          "type": "paragraph",
+          "text": "Prima arrivarono le urla."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi il fragore del metallo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi ancora esplosioni."
+        },
+        {
+          "type": "paragraph",
+          "text": "Infine il caos."
+        },
+        {
+          "type": "quote",
+          "text": "È iniziata.",
+          "variant": "info"
+        },
+        {
+          "type": "paragraph",
+          "text": "Quello era il segnale."
+        },
+        {
+          "type": "paragraph",
+          "text": "Mentre la battaglia infuriava sul fronte principale, il gruppo si preparò a muoversi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Kyran richiamò il potere dell'oscurità e avvolse i compagni in un velo di furtività soprannaturale."
+        },
+        {
+          "type": "quote",
+          "text": "Pass Without Trace.",
+          "variant": "info"
+        },
+        {
+          "type": "paragraph",
+          "text": "Le ombre sembrarono stringersi attorno agli Extermina."
+        },
+        {
+          "type": "paragraph",
+          "text": "I passi divennero silenziosi."
+        },
+        {
+          "type": "paragraph",
+          "text": "I movimenti quasi invisibili."
+        },
+        {
+          "type": "paragraph",
+          "text": "Anche il minimo rumore sembrava svanire prima di poter raggiungere il mondo esterno."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ogni dettaglio era pronto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ogni incantesimo era stato preparato."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ogni arma era stata affilata."
+        },
+        {
+          "type": "paragraph",
+          "text": "La distrazione era iniziata."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ora toccava a loro."
+        }
+      ]
+    },
+    {
+      "id": "entriamo-in-azione",
+      "title": "Entriamo in azione",
+      "videoId": "",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Mentre il fragore della battaglia iniziava a risuonare sul lato opposto della villa Vanthampur, gli Extermina completarono gli ultimi preparativi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Incantesimi di protezione."
+        },
+        {
+          "type": "paragraph",
+          "text": "Potenziamenti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Visione nel buio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ogni vantaggio possibile venne sfruttato prima di compiere il primo passo oltre le mura."
+        },
+        {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/campaigns/discesa-averno/sessione18/preparativi-infiltrazione.webp",
+          "alt": "Gli Extermina si preparano all'infiltrazione mentre il Culto del Drago attacca la villa Vanthampur"
+        },
+        {
+          "type": "paragraph",
+          "text": "Kyran avvolse il gruppo nel potere dell'ombra, mentre gli altri richiamavano le proprie magie e verificavano equipaggiamento e posizioni."
+        },
+        {
+          "type": "paragraph",
+          "text": "Per un istante la scena ricordò la preparazione di un esercito prima di una battaglia decisiva."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi arrivò il momento."
+        },
+        {
+          "type": "paragraph",
+          "text": "Attraverso il legame con Aeren, Sylvar osservò nuovamente il cortile della villa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le guardie che presidiavano il retro erano ancora presenti, confuse dai rumori provenienti dal fronte principale."
+        },
+        {
+          "type": "paragraph",
+          "text": "Per alcuni secondi rimasero ferme."
+        },
+        {
+          "type": "paragraph",
+          "text": "Incerte."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi la disciplina prese il sopravvento."
+        },
+        {
+          "type": "paragraph",
+          "text": "Abbandonarono la posizione e si diressero verso il caos che stava esplodendo davanti alla villa."
+        },
+        {
+          "type": "quote",
+          "text": "Adesso.",
+          "variant": "info"
+        },
+        {
+          "type": "paragraph",
+          "text": "La finestra che stavano aspettando si era finalmente aperta."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il retro della proprietà era momentaneamente sguarnito."
+        },
+        {
+          "type": "paragraph",
+          "text": "Gli Extermina si precipitarono verso il muro."
+        },
+        {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/campaigns/discesa-averno/sessione18/scalando-il-muro.webp",
+          "alt": "Gli Extermina tentano di superare le mura posteriori della villa Vanthampur"
+        },
+        {
+          "type": "paragraph",
+          "text": "I membri del Culto del Drago assegnati alla loro squadra offrirono immediatamente supporto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Mani tese."
+        },
+        {
+          "type": "paragraph",
+          "text": "Spinte sulle spalle."
+        },
+        {
+          "type": "paragraph",
+          "text": "Appoggi improvvisati."
+        },
+        {
+          "type": "paragraph",
+          "text": "L'intera scena risultò molto meno eroica di quanto chiunque avrebbe voluto ammettere."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan e Alaster superarono il muro senza particolari problemi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Kyran si mosse con la grazia di chi era abituata a sfruttare ogni appiglio disponibile."
+        },
+        {
+          "type": "paragraph",
+          "text": "Altri, invece, offrirono una dimostrazione molto più discutibile delle proprie capacità atletiche."
+        },
+        {
+          "type": "paragraph",
+          "text": "Per qualche istante sembrò quasi che la missione rischiasse di fallire prima ancora di iniziare."
+        },
+        {
+          "type": "paragraph",
+          "text": "Fortunatamente gli uomini del culto riuscirono a spingere e trascinare i compagni oltre la sommità del muro."
+        },
+        {
+          "type": "quote",
+          "text": "Adesso però dateci una mano anche voi.",
+          "variant": "party"
+        },
+        {
+          "type": "paragraph",
+          "text": "Una volta raggiunto il cortile interno, gli Extermina ricambiarono il favore aiutando gli alleati a superare l'ostacolo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Per qualche secondo l'operazione assunse toni quasi comici."
+        },
+        {
+          "type": "paragraph",
+          "text": "Una catena di mani, spinte e imprecazioni soffocate nel tentativo disperato di mantenere il silenzio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma alla fine tutti riuscirono a passare."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dall'altro lato li attendeva il portone secondario che conduceva agli edifici interni della proprietà."
+        },
+        {
+          "type": "paragraph",
+          "text": "Massiccio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Robusto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Barricato dall'interno con pesanti travi di legno."
+        },
+        {
+          "type": "paragraph",
+          "text": "Gli Extermina si misero immediatamente al lavoro."
+        },
+        {
+          "type": "paragraph",
+          "text": "Una trave."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi una seconda."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi una terza."
+        },
+        {
+          "type": "paragraph",
+          "text": "I blocchi vennero rimossi con attenzione, mentre in lontananza il rumore dello scontro principale continuava ad aumentare."
+        },
+        {
+          "type": "paragraph",
+          "text": "Urla."
+        },
+        {
+          "type": "paragraph",
+          "text": "Acciaio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Esplosioni."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il Culto del Drago stava mantenendo la propria promessa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Tutta l'attenzione della villa era concentrata sul fronte principale."
+        },
+        {
+          "type": "paragraph",
+          "text": "E proprio per questo nessuno si accorse di ciò che stava accadendo alle loro spalle."
+        },
+        {
+          "type": "paragraph",
+          "text": "Quando l'ultima trave venne rimossa, il portone fu finalmente libero."
+        },
+        {
+          "type": "paragraph",
+          "text": "Davanti agli Extermina si apriva ora l'accesso all'interno della tenuta Vanthampur."
+        },
+        {
+          "type": "paragraph",
+          "text": "L'infiltrazione era iniziata davvero."
+        }
+      ]
+    },
+    {
+      "id": "siamo-dentro",
+      "title": "Siamo dentro",
+      "videoId": "",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Il portone cedette."
+        },
+        {
+          "type": "paragraph",
+          "text": "Uno dopo l'altro, i membri del Culto del Drago superarono l'ingresso secondario e si riversarono all'interno della tenuta Vanthampur."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dal cortile giungevano ancora gli echi della battaglia che infuriava sul fronte principale."
+        },
+        {
+          "type": "paragraph",
+          "text": "Urla."
+        },
+        {
+          "type": "paragraph",
+          "text": "Metallo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Fuoco."
+        },
+        {
+          "type": "paragraph",
+          "text": "E qualcosa di molto più terrificante."
+        },
+        {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/campaigns/discesa-averno/sessione18/dragonide-del-culto.webp",
+          "alt": "Un possente guerriero draconico del Culto del Drago semina distruzione davanti alla villa Vanthampur"
+        },
+        {
+          "type": "paragraph",
+          "text": "Attraverso gli occhi di Aeren, Sylvar vide il combattimento che stava devastando l'ingresso principale."
+        },
+        {
+          "type": "paragraph",
+          "text": "Tra le fiamme e il caos si distingueva una figura imponente, ricoperta di scaglie scure."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il guerriero draconico stava letteralmente incenerendo i difensori con il proprio soffio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il Culto del Drago aveva mantenuto la promessa."
+        },
+        {
+          "type": "paragraph",
+          "text": "L'intera attenzione della villa era concentrata sulla battaglia."
+        },
+        {
+          "type": "paragraph",
+          "text": "Era il momento perfetto per agire."
+        },
+        {
+          "type": "paragraph",
+          "text": "I cultisti assegnati agli Extermina si fermarono appena dentro il cortile."
+        },
+        {
+          "type": "quote",
+          "text": "Noi andiamo a supportare gli altri. Voi entrate e fate ciò che dovete fare.",
+          "variant": "info"
+        },
+        {
+          "type": "paragraph",
+          "text": "Gli Extermina annuirono."
+        },
+        {
+          "type": "paragraph",
+          "text": "Era esattamente ciò che desideravano."
+        },
+        {
+          "type": "paragraph",
+          "text": "Meno occhi addosso."
+        },
+        {
+          "type": "paragraph",
+          "text": "Meno interferenze."
+        },
+        {
+          "type": "paragraph",
+          "text": "Più libertà di movimento."
+        },
+        {
+          "type": "paragraph",
+          "text": "Fu allora che Alaster scomparve."
+        },
+        {
+          "type": "paragraph",
+          "text": "Avvolto dall'invisibilità, il nobile si mosse in avanti per esplorare il percorso."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma prima che il gruppo raggiungesse l'ingresso della villa, un imprevisto attirò l'attenzione di Sylvar."
+        },
+        {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/campaigns/discesa-averno/sessione18/lo-stalliere.webp",
+          "alt": "Lo stalliere della villa Vanthampur cerca disperatamente di calmare i cavalli spaventati"
+        },
+        {
+          "type": "paragraph",
+          "text": "All'interno delle stalle un vecchio stalliere stava tentando disperatamente di calmare i cavalli terrorizzati dal rumore della battaglia."
+        },
+        {
+          "type": "paragraph",
+          "text": "L'uomo appariva più spaventato che ostile."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un semplice servitore intrappolato nel posto sbagliato al momento sbagliato."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pochi istanti dopo alcuni membri del Culto del Drago lo notarono."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le spade si sollevarono."
+        },
+        {
+          "type": "paragraph",
+          "text": "Lo stalliere impallidì."
+        },
+        {
+          "type": "quote",
+          "text": "Vi prego... sono solo uno stalliere. Non fatemi del male.",
+          "variant": "warning"
+        },
+        {
+          "type": "paragraph",
+          "text": "Per un momento sembrò che il vecchio fosse condannato."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma Sylvar intervenne prima che fosse troppo tardi."
+        },
+        {
+          "type": "quote",
+          "text": "Se volete davvero divertirvi, i Vanthampur sono dall'altra parte.",
+          "variant": "warning"
+        },
+        {
+          "type": "paragraph",
+          "text": "Le parole colpirono nel segno."
+        },
+        {
+          "type": "paragraph",
+          "text": "I cultisti si scambiarono uno sguardo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il vecchio non rappresentava una sfida."
+        },
+        {
+          "type": "paragraph",
+          "text": "I nobili responsabili della loro vendetta, invece, sì."
+        },
+        {
+          "type": "quote",
+          "text": "Ti verremo a prendere più tardi.",
+          "variant": "warning"
+        },
+        {
+          "type": "paragraph",
+          "text": "Lo stalliere si barricò immediatamente all'interno delle stalle, mentre i cultisti tornavano verso il combattimento."
+        },
+        {
+          "type": "paragraph",
+          "text": "Una vita era stata risparmiata."
+        },
+        {
+          "type": "paragraph",
+          "text": "Almeno per il momento."
+        },
+        {
+          "type": "paragraph",
+          "text": "Con il cortile finalmente sgombro, il gruppo raggiunse l'ingresso posteriore della villa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan abbatté la porta con un colpo deciso."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nello stesso istante Sylvar infranse una finestra vicina con un sasso raccolto nel giardino."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il rumore del vetro esplose nella notte."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma venne completamente inghiottito dal caos che regnava all'esterno."
+        },
+        {
+          "type": "paragraph",
+          "text": "Gli Extermina entrarono finalmente nella villa Vanthampur."
+        },
+        {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/campaigns/discesa-averno/sessione18/ingresso-villa-vanthampur.webp",
+          "alt": "L'ingresso interno della villa Vanthampur esplorato dagli Extermina"
+        },
+        {
+          "type": "paragraph",
+          "text": "Davanti a loro si apriva un elegante ingresso nobiliare."
+        },
+        {
+          "type": "paragraph",
+          "text": "Una scalinata conduceva al piano superiore."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pesanti tendaggi decoravano le pareti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Quadri e mobilio raffinato testimoniavano la ricchezza della casata."
+        },
+        {
+          "type": "paragraph",
+          "text": "Alaster, invisibile, avanzò per primo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Alla sua sinistra individuò un salotto lussuoso, arredato con poltrone e divani di pregio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma fu un'altra presenza a catturare immediatamente la sua attenzione."
+        },
+        {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/campaigns/discesa-averno/sessione18/statua-vanthampur.webp",
+          "alt": "La grottesca statua di Thalamra Vanthampur che domina l'ingresso della villa"
+        },
+        {
+          "type": "paragraph",
+          "text": "Una figura femminile osservava l'ingresso."
+        },
+        {
+          "type": "paragraph",
+          "text": "Per un istante Alaster credette di aver trovato la padrona della villa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi si rese conto della verità."
+        },
+        {
+          "type": "paragraph",
+          "text": "Era una statua."
+        },
+        {
+          "type": "paragraph",
+          "text": "Una riproduzione perfetta di Thalamra Vanthampur a grandezza naturale."
+        },
+        {
+          "type": "paragraph",
+          "text": "La donna era raffigurata mentre accarezzava un curioso gatto alato che stringeva un topo tra i denti."
+        },
+        {
+          "type": "paragraph",
+          "text": "L'opera era talmente dettagliata da risultare inquietante."
+        },
+        {
+          "type": "paragraph",
+          "text": "E confermava una cosa con assoluta certezza."
+        },
+        {
+          "type": "paragraph",
+          "text": "L'ego della signora Vanthampur era probabilmente grande quanto la sua villa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nel frattempo Nathan e gli altri esplorarono le stanze adiacenti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Una grande sala da pranzo dominata da un tavolo di quercia nera."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sedie decorate con motivi infernali."
+        },
+        {
+          "type": "paragraph",
+          "text": "Candelabri monumentali."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un ambiente lussuoso ma sinistro."
+        },
+        {
+          "type": "paragraph",
+          "text": "Per il momento, però, la villa sembrava deserta."
+        },
+        {
+          "type": "paragraph",
+          "text": "E gli Extermina erano finalmente dentro."
+        }
+      ]
+    },
+    {
+      "id": "primi-scontri-infernali",
+      "title": "Primi scontri infernali",
+      "videoId": "",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "L'infiltrazione nella villa Vanthampur proseguì in un silenzio solo apparente."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dietro l'eleganza delle sale nobiliari si nascondevano occhi invisibili che osservavano ogni movimento degli intrusi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Furono i sensi affinati di Kyran a cogliere per primi il pericolo."
+        },
+        {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/campaigns/discesa-averno/sessione18/imp-in-agguato.webp",
+          "alt": "Piccoli imp invisibili osservano gli Extermina dalle ombre della villa Vanthampur"
+        },
+        {
+          "type": "paragraph",
+          "text": "Mentre il gruppo avanzava nella sala da pranzo, la sacerdotessa notò un movimento appena percettibile tra le ombre."
+        },
+        {
+          "type": "paragraph",
+          "text": "Una forma minuta dietro il camino."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un'altra nascosta tra i mobili."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi una terza."
+        },
+        {
+          "type": "paragraph",
+          "text": "Creature invisibili."
+        },
+        {
+          "type": "paragraph",
+          "text": "In attesa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pronte a balzare addosso agli intrusi."
+        },
+        {
+          "type": "quote",
+          "text": "Lì. E lì.",
+          "variant": "warning"
+        },
+        {
+          "type": "paragraph",
+          "text": "Con un gesto discreto, Kyran indicò le posizioni alleate senza attirare l'attenzione delle creature."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aelar comprese immediatamente il messaggio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non riusciva a vedere nulla."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma sapeva che qualcosa era lì."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nascosto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Invisibile."
+        },
+        {
+          "type": "paragraph",
+          "text": "Kyran si preparò all'attacco ancor prima che gli imp decidessero di uscire allo scoperto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le piccole creature infernali si lanciarono fuori dal loro nascondiglio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma trovarono davanti a sé avventurieri già pronti a colpire."
+        },
+        {
+          "type": "quote",
+          "text": "Ce n'è un altro sul camino!",
+          "variant": "warning"
+        },
+        {
+          "type": "paragraph",
+          "text": "Lo scontro durò meno di quanto sarebbe servito per raccontarlo."
+        },
+        {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/campaigns/discesa-averno/sessione18/eliminazione-imp.webp",
+          "alt": "Gli Extermina eliminano rapidamente gli imp nascosti nella villa Vanthampur"
+        },
+        {
+          "type": "paragraph",
+          "text": "Frecce."
+        },
+        {
+          "type": "paragraph",
+          "text": "Spade."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pugnali."
+        },
+        {
+          "type": "paragraph",
+          "text": "Oggetti lanciati al volo."
+        },
+        {
+          "type": "paragraph",
+          "text": "I tre imp vennero abbattuti in pochi istanti senza riuscire nemmeno a organizzare una difesa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Mentre i compagni eliminavano le creature infernali, Sylvar si dedicò ad attività che riteneva altrettanto importanti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il recupero sistematico di qualsiasi oggetto di valore presente nella sala."
+        },
+        {
+          "type": "quote",
+          "text": "Prendi l'argento!",
+          "variant": "party"
+        },
+        {
+          "type": "paragraph",
+          "text": "Posate."
+        },
+        {
+          "type": "paragraph",
+          "text": "Suppellettili."
+        },
+        {
+          "type": "paragraph",
+          "text": "Oggetti decorativi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Qualunque cosa non fosse inchiodata al pavimento sembrava candidata a finire nella Bag of Holding."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il risultato fu una scena piuttosto surreale."
+        },
+        {
+          "type": "paragraph",
+          "text": "Da una parte una battaglia contro emissari infernali."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dall'altra un saccheggio metodico della sala da pranzo dei Vanthampur."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nel frattempo Alaster continuava la propria esplorazione separato dal resto del gruppo."
+        },
+        {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/campaigns/discesa-averno/sessione18/maggiordomo-vanthampur.webp",
+          "alt": "L'anziano maggiordomo della villa Vanthampur osserva silenziosamente un corridoio"
+        },
+        {
+          "type": "paragraph",
+          "text": "Avvolto dall'invisibilità, il nobile raggiunse una nuova stanza."
+        },
+        {
+          "type": "paragraph",
+          "text": "Lì trovò un uomo anziano."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un maggiordomo dai modi impeccabili."
+        },
+        {
+          "type": "paragraph",
+          "text": "Vestito con eleganza."
+        },
+        {
+          "type": "paragraph",
+          "text": "Perfettamente immobile."
+        },
+        {
+          "type": "paragraph",
+          "text": "Come se stesse attendendo qualcuno."
+        },
+        {
+          "type": "paragraph",
+          "text": "O qualcosa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Grazie all'incantesimo di invisibilità, Alaster riuscì a osservarlo senza essere individuato."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aprì lentamente la porta e attraversò la stanza."
+        },
+        {
+          "type": "paragraph",
+          "text": "L'anziano servitore non vide nulla."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma sentì qualcosa."
+        },
+        {
+          "type": "paragraph",
+          "text": "I rumori provenienti dalle sale adiacenti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le urla."
+        },
+        {
+          "type": "paragraph",
+          "text": "Gli imp abbattuti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il caos crescente provocato dagli Extermina."
+        },
+        {
+          "type": "paragraph",
+          "text": "L'uomo si irrigidì."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi si diresse verso il corridoio per capire cosa stesse accadendo."
+        },
+        {
+          "type": "quote",
+          "text": "Sta arrivando verso di voi. Fate attenzione.",
+          "variant": "warning"
+        },
+        {
+          "type": "paragraph",
+          "text": "Il messaggio mentale di Alaster raggiunse immediatamente i compagni."
+        },
+        {
+          "type": "paragraph",
+          "text": "La villa non era più silenziosa."
+        },
+        {
+          "type": "paragraph",
+          "text": "E i suoi abitanti stavano iniziando ad accorgersi della loro presenza."
+        }
+      ]
+    },
+    {
+      "id": "aelar-spacca-il-gruppo",
+      "title": "Aelar spacca il gruppo",
+      "videoId": "",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "L'infiltrazione nella villa Vanthampur stava procedendo con successo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Troppo successo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Perché il vero pericolo non si trovava più soltanto tra le mura della villa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Si stava insinuando all'interno degli Extermina stessi."
+        },
+        {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/campaigns/discesa-averno/sessione18/maggiordomo-giustiziato.webp",
+          "alt": "Il maggiordomo dei Vanthampur cade trafitto dalla freccia di Aelar"
+        },
+        {
+          "type": "paragraph",
+          "text": "Avvertiti da Alaster dell'arrivo di un anziano maggiordomo, i membri del gruppo ebbero solo pochi istanti per decidere come reagire."
+        },
+        {
+          "type": "paragraph",
+          "text": "Per Aelar non esistevano dubbi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ogni presenza all'interno della villa rappresentava una potenziale minaccia."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ogni esitazione era un rischio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ogni errore poteva significare la morte."
+        },
+        {
+          "type": "quote",
+          "text": "Non potete entrare nella villa. Proprietà privata.",
+          "variant": "character"
+        },
+        {
+          "type": "paragraph",
+          "text": "Le parole del vecchio non fecero altro che confermare la decisione già presa."
+        },
+        {
+          "type": "paragraph",
+          "text": "L'arco si tese."
+        },
+        {
+          "type": "paragraph",
+          "text": "La freccia venne incoccata."
+        },
+        {
+          "type": "paragraph",
+          "text": "E Sylvar si mosse."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il druido cercò disperatamente di deviare il colpo prima che fosse troppo tardi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un bastone contro un arco già in tensione."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un tentativo disperato."
+        },
+        {
+          "type": "paragraph",
+          "text": "Inutile."
+        },
+        {
+          "type": "paragraph",
+          "text": "La freccia partì comunque."
+        },
+        {
+          "type": "paragraph",
+          "text": "Precisa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Letale."
+        },
+        {
+          "type": "paragraph",
+          "text": "Inesorabile."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il proiettile trafisse il petto del maggiordomo."
+        },
+        {
+          "type": "paragraph",
+          "text": "L'anziano si accasciò lentamente contro una colonna."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un rivolo di sangue gli scese dalle labbra."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi il corpo rimase immobile."
+        },
+        {
+          "type": "paragraph",
+          "text": "Per alcuni istanti nessuno parlò."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi esplose la tempesta."
+        },
+        {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/campaigns/discesa-averno/sessione18/scontro-tra-compagni.webp",
+          "alt": "Gli Extermina si confrontano duramente dopo l'uccisione del maggiordomo"
+        },
+        {
+          "type": "quote",
+          "text": "Non dovevamo ucciderlo.",
+          "variant": "warning"
+        },
+        {
+          "type": "paragraph",
+          "text": "Sylvar si pose immediatamente tra Aelar e il cadavere."
+        },
+        {
+          "type": "paragraph",
+          "text": "L'aria nella stanza cambiò."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non era più tensione."
+        },
+        {
+          "type": "paragraph",
+          "text": "Era conflitto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Autentico."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pericoloso."
+        },
+        {
+          "type": "paragraph",
+          "text": "Reale."
+        },
+        {
+          "type": "quote",
+          "text": "Qui è vivere o morire. Noi non ti conosciamo. Non metterti mai più in mezzo.",
+          "variant": "warning"
+        },
+        {
+          "type": "paragraph",
+          "text": "La risposta di Aelar fu fredda come una lama."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sylvar non arretrò di un passo."
+        },
+        {
+          "type": "quote",
+          "text": "Io mi metterò sempre in mezzo.",
+          "variant": "character"
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan intervenne immediatamente per impedire che la situazione degenerasse."
+        },
+        {
+          "type": "paragraph",
+          "text": "Kyran, da parte sua, aveva già perso ogni pazienza."
+        },
+        {
+          "type": "quote",
+          "text": "Siamo dentro la villa Vanthampur. Vogliamo continuare la missione oppure discutere tutta la notte?",
+          "variant": "warning"
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma ormai il danno era fatto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le differenze tra i membri del gruppo erano emerse con brutalità."
+        },
+        {
+          "type": "paragraph",
+          "text": "Da una parte chi vedeva la missione come una guerra."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dall'altra chi riteneva che esistessero limiti che non avrebbero mai dovuto essere superati."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nel mezzo, Nathan."
+        },
+        {
+          "type": "paragraph",
+          "text": "Diviso tra la rabbia per la distruzione di Elturel e gli ideali di giustizia che avevano guidato tutta la sua vita."
+        },
+        {
+          "type": "paragraph",
+          "text": "Mentre il dibattito proseguiva, Sylvar frugò rapidamente il cadavere del maggiordomo."
+        },
+        {
+          "type": "paragraph",
+          "text": "La ricerca diede i suoi frutti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Una chiave."
+        },
+        {
+          "type": "paragraph",
+          "text": "Forse proprio quella necessaria per aprire una delle porte chiuse della villa."
+        },
+        {
+          "type": "quote",
+          "text": "Ho trovato la chiave.",
+          "variant": "info"
+        },
+        {
+          "type": "paragraph",
+          "text": "La scoperta contribuì a riportare almeno temporaneamente l'attenzione sulla missione."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nel frattempo, Nathan cercò conforto nella guida di Helm."
+        },
+        {
+          "type": "paragraph",
+          "text": "Strinse il simbolo sacro tra le mani."
+        },
+        {
+          "type": "paragraph",
+          "text": "Cercò una risposta."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un segno."
+        },
+        {
+          "type": "paragraph",
+          "text": "Una conferma."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma ciò che percepì fu soltanto disagio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Come se la giustizia fosse stata tradita."
+        },
+        {
+          "type": "paragraph",
+          "text": "Come se qualcosa, in quella villa, stesse già deviando il gruppo dal sentiero corretto."
+        },
+        {
+          "type": "quote",
+          "text": "Non c'è differenza tra male maggiore e male minore. Esiste soltanto il male.",
+          "variant": "info"
+        },
+        {
+          "type": "paragraph",
+          "text": "Le parole riecheggiarono nella mente del paladino anche dopo che la discussione sembrò placarsi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Alla fine nessuno estrasse le armi contro un compagno."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nessuno oltrepassò il punto di non ritorno."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma tutti compresero una verità inquietante."
+        },
+        {
+          "type": "paragraph",
+          "text": "La minaccia più pericolosa della villa Vanthampur non era necessariamente nascosta nelle sue stanze."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poteva trovarsi all'interno del gruppo stesso."
+        },
+        {
+          "type": "paragraph",
+          "text": "E quando la missione fosse terminata, quelle ferite sarebbero rimaste aperte."
         }
       ]
     }

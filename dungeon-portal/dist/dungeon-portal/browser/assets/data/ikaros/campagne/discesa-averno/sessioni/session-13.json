@@ -1,0 +1,3635 @@
+{
+  "$schema": "./session.schema.json",
+  "id": 13,
+  "title": "Sessione 13",
+  "videoId": "daPANmrKW4I",
+  "chapters": [
+    {
+      "id": "cuore",
+      "title": "Il cuore dorato e le ombre che seguono",
+      "videoId": "lSh3iPC9vjk",
+      "blocks": [
+        {
+          "type": "scene",
+          "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-13/Citta' Alta di Giorno 2.png",
+          "title": "La Città Alta",
+          "subtitle": "Baldur's Gate"
+        },
+        {
+          "type": "divider",
+          "variant": "flourish"
+        },
+        {
+          "type": "note",
+          "text": "Pochi, nella Città Bassa, sanno cosa accade davvero dietro i cancelli dorati: la Città Alta è uno stato nello stato, con leggi proprie e una giustizia che non ammette appello."
+        },
+        {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-13/Citta' Alta di Giorno 2.png",
+          "alt": "Bottina nel tempio dei Mirkuliti"
+        },
+        {
+          "type": "paragraph",
+          "text": "La Città Alta respirava secondo regole proprie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Là dove il resto della metropoli viveva di caos, fame e compromessi, quel quartiere si ergeva come una fortezza di ordine, privilegio e controllo. Le sue strade erano più pulite, le pietre più chiare, le guardie più severe. Persino l’aria sembrava diversa: meno pesante, meno sporca, più selettiva."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nella piazza centrale, tra gli ultimi richiami dei mercanti e il fruscio delle tende che venivano smontate in fretta prima del tramonto, si consumava il rituale quotidiano dell’espulsione silenziosa. I mercatini dovevano sparire. I venditori della Città Bassa non potevano trattenersi oltre. Nessuno era ammesso senza permessi speciali. La legge lì non era un consiglio: era una sentenza preventiva."
+        },
+        {
+          "type": "paragraph",
+          "text": "Arresto, confisca… o peggio."
+        },
+        {
+          "type": "paragraph",
+          "text": "La Città Alta era uno stato dentro lo stato. Un ministero dentro la città. Un piccolo regno separato dal resto del mondo."
+        },
+        {
+          "type": "quote",
+          "text": "Uno stato nello stato. È un Vaticano, in pratica."
+        },
+        {
+          "type": "paragraph",
+          "text": "Per Alaster, però, tutto questo non aveva nulla di opprimente. Al contrario."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il nobile avanzava tra quelle strade con un’agiatezza quasi naturale, come se ogni pietra lo riconoscesse. Per la prima volta da molto tempo, sembrava davvero nel suo elemento."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aelar lo osservò mentre il compagno si guardava attorno con una calma nuova, quasi rasserenata. Dopo giorni di sangue, fango e fughe, vederlo finalmente a casa aveva qualcosa di stranamente umano."
+        },
+        {
+          "type": "quote",
+          "text": "Beh, caro amico… finalmente conosceremo la tua famiglia."
+        },
+        {
+          "type": "paragraph",
+          "text": "Alaster annuì appena, ma il suo sguardo si fece più attento."
+        },
+        {
+          "type": "quote",
+          "text": "Già. A tal proposito… vi chiedo di comportarvi bene quando vi farò entrare nella mia casa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il tono era leggero. Quasi ironico. Ma non abbastanza da nascondere la serietà che vi stava sotto."
+        },
+        {
+          "type": "quote",
+          "text": "Ormai siamo dei compagni. Abbiamo affrontato molte peripezie… e molti pericoli insieme. Mi addolorerebbe allontanarvi per una vostra cattiva condotta."
+        },
+        {
+          "type": "quote",
+          "text": "Addirittura?"
+        },
+        {
+          "type": "quote",
+          "text": "Saremo buoni, non ti preoccupare."
+        },
+        {
+          "type": "quote",
+          "text": "Faremo il nostro dovere."
+        },
+        {
+          "type": "paragraph",
+          "text": "Alaster lasciò emergere un piccolo sorriso. Ma chi lo conosceva abbastanza poteva leggere la verità dietro quell’espressione."
+        },
+        {
+          "type": "quote",
+          "text": "Tengo molto all’idea che la mia famiglia ha di me."
+        },
+        {
+          "type": "quote",
+          "text": "Dai, Alaster. Stai tranquillo, ci hai conosciuto."
+        },
+        {
+          "type": "quote",
+          "text": "Appunto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Seguì un silenzio eloquente."
+        },
+        {
+          "type": "quote",
+          "text": "Siete gli stessi che si sono messi a ruttare e scorreggiare dentro il negozio di vestiti."
+        },
+        {
+          "type": "quote",
+          "text": "E fare finta di fare un’orgia alle terme."
+        },
+        {
+          "type": "paragraph",
+          "text": "Perfino Aelar, nel ricordarlo, non poté trattenere una lieve ombra di sorriso. Perfino nel disastro, il gruppo riusciva a essere disastroso in modi sempre nuovi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma Alaster, sotto quella battuta, stava davvero chiedendo fiducia. E questo nessuno lo ignorò."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le armi erano state lasciate al fabbro per le modifiche richieste. Servivano giorni, forse più, ma il lavoro prometteva bene."
+        },
+        {
+          "type": "quote",
+          "text": "D’altronde ci è stato consigliato da una tua conoscenza… ci aspettiamo un gran lavoro."
+        },
+        {
+          "type": "quote",
+          "text": "Come vi ho detto: conosco solo i migliori."
+        },
+        {
+          "type": "paragraph",
+          "text": "Serviva equipaggiamento migliore. Le ultime ferite lo avevano dimostrato."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aelar si sfiorò istintivamente il petto, là dove la lama aveva trovato carne e respiro. Il ricordo del dolore non era ancora andato via."
+        },
+        {
+          "type": "paragraph",
+          "text": "I tre grimori recuperati nel dungeon restavano nel bottino comune, ancora invenduti. Forse la Città Alta avrebbe offerto compratori degni. Ma non quella sera."
+        },
+        {
+          "type": "paragraph",
+          "text": "I negozi stavano chiudendo. Il tempo per gli affari era finito. Restava solo il tempo delle case."
+        },
+        {
+          "type": "quote",
+          "text": "Bene. Allora seguitemi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Fu proprio in quell’istante che qualcosa cambiò."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aelar lo sentì prima ancora di vederlo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non un rumore. Non un volto. Una presenza."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sgradevole. Fastidiosa. Tagliente come una lama puntata tra le scapole."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il Blood Hunter irrigidì appena le spalle. La mano sfiorò quasi inconsciamente il fianco. L’istinto prima ancora del pensiero."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dall’altro lato della strada, fermo all’angolo di una traversa, qualcuno lo osservava."
+        },
+        {
+          "type": "paragraph",
+          "text": "E sorrideva."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un mezzo sorriso. Sottile. Calmo. Pericoloso."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi iniziò a muoversi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non camminava. Sembrava danzare."
+        },
+        {
+          "type": "paragraph",
+          "text": "Tra la folla della piazza, tra i passanti, tra i servi e i nobili e i mercanti che smontavano le bancarelle, quella figura avanzava senza mai urtare nessuno, come se la città stessa si piegasse per lasciargli strada."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dritto. Verso di loro. Verso Aelar."
+        }
+      ]
+    },
+    {
+      "id": "dorian",
+      "title": "Il fratello maggiore e il peso del nome",
+      "videoId": "-PbXTFRgBwE",
+      "blocks": [
+        {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-13/Dorian1.png",
+          "alt": "Bottina nel tempio dei Mirkuliti"
+        },
+        {
+          "type": "paragraph",
+          "text": "La figura attraversò la piazza con la grazia inquietante di chi non ha mai davvero bisogno di farsi spazio: è il mondo che si sposta per lasciarlo passare."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aelar lo osservò avvicinarsi, ma capì immediatamente che quell’uomo non stava guardando il gruppo. Stava guardando Alaster."
+        },
+        {
+          "type": "paragraph",
+          "text": "E Alaster lo aveva riconosciuto ancora prima che il volto emergesse del tutto dalla folla."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il sorriso che comparve sulle labbra dell’altro era sottile, elegante, pericoloso. Un sorriso di famiglia."
+        },
+        {
+          "type": "quote",
+          "text": "Davanti a te? Fratellino."
+        },
+        {
+          "type": "paragraph",
+          "text": "Gli arrivò vicino con assoluta naturalezza e, senza alcuna esitazione, gli posò le mani addosso con quella confidenza irritante che solo i parenti e i nemici più intimi possiedono."
+        },
+        {
+          "type": "quote",
+          "text": "Felice di non ritrovarti di nuovo dentro le sbarre. Qual buon vento, fratello mio? Anche a quest’ora tarda ancora in giro?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Era lui. Dorian Nodorovo. Il fratello maggiore."
+        },
+        {
+          "type": "paragraph",
+          "text": "La sua presenza aveva qualcosa di raffinato e velenoso insieme. Ogni parola sembrava una carezza scelta con cura per lasciare un livido."
+        },
+        {
+          "type": "paragraph",
+          "text": "Alaster non si scompose. O almeno, non abbastanza da concedergli quella vittoria."
+        },
+        {
+          "type": "quote",
+          "text": "Sì. Ho terminato gli allenamenti di scherma e stavo tornando a casa. A un certo punto ho sentito… come una voce familiare tra gli echi di tutte le altre persone. Ed eccoti qui."
+        },
+        {
+          "type": "quote",
+          "text": "Potrei dire lo stesso di te. Ho avvertito una presenza… pungente."
+        },
+        {
+          "type": "paragraph",
+          "text": "Per un istante sembrò quasi un saluto affettuoso. Poi arrivò il vero colpo."
+        },
+        {
+          "type": "quote",
+          "text": "Ho sentito alcune voci. Sembra che un gruppo di baldi eroi abbia sgominato il culto dei Tre Morti. Ne sai forse qualcosa?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Alaster inclinò appena il capo in un mezzo inchino, teatrale quanto bastava."
+        },
+        {
+          "type": "quote",
+          "text": "Eccoci qua. Cosa di poco conto, in realtà, se devo dirlo."
+        },
+        {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-13/Dorian2.png",
+          "alt": "Bottina nel tempio dei Mirkuliti"
+        },
+        {
+          "type": "quote",
+          "text": "Ma tu avevi le tue faccende da sbrigare, giusto? Dovevi allenarti. Mentre il tuo caro fratellino…"
+        },
+        {
+          "type": "quote",
+          "text": "Stavamo facendo la stessa cosa, tra l’altro."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dorian schioccò la lingua con un piccolo gesto di fastidio elegante."
+        },
+        {
+          "type": "quote",
+          "text": "Beh, si vede che è stato abbastanza facile sgominare questo culto fantomatico."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aelar trattenne il silenzio. Nessuno di loro aveva davvero intenzione di spiegare quanto sangue fosse costata quella vittoria. Non a lui."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma Dorian non aveva ancora finito."
+        },
+        {
+          "type": "quote",
+          "text": "A quanto pare sembra tu… ti sia divertito. Sono sicuro che nostro padre vorrà sapere tutti i dettagli delle tue avventure al di fuori e dentro la città."
+        },
+        {
+          "type": "paragraph",
+          "text": "Quando pronunciò quelle parole — nostro padre — qualcosa cambiò."
+        },
+        {
+          "type": "paragraph",
+          "text": "Per la prima volta, Alaster abbassò davvero le difese. Solo un poco. Ma abbastanza da farsi vedere."
+        },
+        {
+          "type": "quote",
+          "text": "Già. Effettivamente è già da un bel po’ che non vedo nostro padre."
+        },
+        {
+          "type": "quote",
+          "text": "Tranquillo. Gli ho detto che sei tornato in città. Ma non gli ho parlato… di quel tuo piccolo inconveniente al fresco."
+        },
+        {
+          "type": "quote",
+          "text": "Ah. Hai fatto bene. Avviserò io stesso nostro padre di quell’avvenimento increscioso. In fondo è stata colpa di ogni fiammeggiante errore… di certo non mia."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi Dorian notò finalmente il resto del gruppo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il suo sguardo passò su Nathan, su Aelar, sugli altri. Li misurò. Li classificò. Li giudicò."
+        },
+        {
+          "type": "quote",
+          "text": "Ah. Ancora giri insieme a loro?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Il tono era quasi curioso. Quasi."
+        },
+        {
+          "type": "quote",
+          "text": "Beh, ho abbattuto, grazie a loro, il culto dei Tre Morti. Anzi, devo dire che probabilmente non ce l’avrei mai fatta da solo. Sono dei validi compagni."
+        },
+        {
+          "type": "paragraph",
+          "text": "Quella parola sembrò pesargli addosso. Compagni. Non servitori. Non dipendenti. Non utili conoscenze. Compagni."
+        },
+        {
+          "type": "quote",
+          "text": "Oh, non dipendenti. Non dipendenti… incredibile. Compagni. Caspita. Vedo che ti sei… come dire… plebizzato."
+        },
+        {
+          "type": "quote",
+          "text": "O comunque vedo che ti sei ridotto a richiedere aiuti esterni. Beh… non che mi aspettassi nulla di diverso dal mio fratellino."
+        },
+        {
+          "type": "paragraph",
+          "text": "La parola restò sospesa tra loro come una sfida."
+        },
+        {
+          "type": "paragraph",
+          "text": "Per una volta, Alaster lasciò andare. Gli concesse l’ultima parola. Ma solo per quella volta."
+        },
+        {
+          "type": "quote",
+          "text": "Beh. Io vi precedo. Ci vediamo a casa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dorian abbassò appena lo sguardo, come chi sa perfettamente di aver colpito nel punto giusto. Poi gli diede un buffetto sulla guancia."
+        },
+        {
+          "type": "quote",
+          "text": "Non fare tardi a cena. Sai… a mamma non piace aspettare."
+        },
+        {
+          "type": "paragraph",
+          "text": "Quel gesto fece irrigidire perfino chi stava soltanto osservando. Persino Aelar avvertì il fastidio di quella familiarità usata come arma."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma prima che Dorian potesse andarsene del tutto, Alaster rialzò la voce."
+        },
+        {
+          "type": "quote",
+          "text": "Ehm… Dorian, giusto? Non penso che ci saremo a cena. Non vieni con noi dai Patria?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Il silenzio che seguì fu magnifico."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dorian si voltò lentamente. Il gruppo trattenne il fiato. Aelar trattenne a stento una risata."
+        },
+        {
+          "type": "quote",
+          "text": "Non mi avevi detto che erano anche dei comici i tuoi amici. Sono… esilaranti."
+        },
+        {
+          "type": "quote",
+          "text": "Beh, non mi hai fatto finire la frase. Eri così tronfio mentre partivi… Volevo dirti questo, appunto. Siamo stati invitati a un galà con i Patria. Cioè, noi."
+        },
+        {
+          "type": "paragraph",
+          "text": "E quella volta fu Alaster a colpire."
+        },
+        {
+          "type": "quote",
+          "text": "A quanto pare, scelgo meglio io la compagnia con cui farmela, fratello mio."
+        },
+        {
+          "type": "paragraph",
+          "text": "La stoccata arrivò precisa. Elegante. Familiare."
+        },
+        {
+          "type": "quote",
+          "text": "Da quanto tempo ti alleni? Tu puoi ricordare. D’altronde non mi hai ancora mai battuto con la spada."
+        },
+        {
+          "type": "quote",
+          "text": "Ah no, con la spada no. E quanti inviti dei Patria hai ricevuto tu?"
+        },
+        {
+          "type": "quote",
+          "text": "Alcuni."
+        },
+        {
+          "type": "quote",
+          "text": "Ah. Intendi… le dimostrazioni pubbliche? Certo. O con nostro padre. Quelle le ricordo anch’io."
+        },
+        {
+          "type": "paragraph",
+          "text": "Colpo. Contraccolpo."
+        },
+        {
+          "type": "quote",
+          "text": "Occhio, fratello."
+        },
+        {
+          "type": "quote",
+          "text": "Dai, su via. Ci vediamo a casa."
+        },
+        {
+          "type": "paragraph",
+          "text": "E fu Alaster, stavolta, a restituire il buffetto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dorian si irrigidì appena. Solo appena. Ma bastò."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi si allontanò."
+        },
+        {
+          "type": "paragraph",
+          "text": "E quando fu abbastanza lontano, il gruppo poté finalmente respirare."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aelar vide sul volto di Alaster un sorriso autentico, raro. Uno di quelli che non nascono dalla maschera, ma dalla vittoria."
+        },
+        {
+          "type": "quote",
+          "text": "Bravo, Aelar."
+        },
+        {
+          "type": "paragraph",
+          "text": "E lui, per tutta risposta, aveva la faccia di chi stava ancora trattenendo una risata."
+        },
+        {
+          "type": "quote",
+          "text": "Caro mio Alaster… vedo che c’è molta tranquillità tra te e tuo fratello. Siete molto uniti."
+        },
+        {
+          "type": "quote",
+          "text": "Sì. In realtà ci vogliamo molto bene. Solo che ci piace un po’ stuzzicarci a vicenda. Sai… le classiche cose tra fratelli."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nessuno ebbe il coraggio di contraddirlo."
+        },
+        {
+          "type": "quote",
+          "text": "Con quali membri della tua famiglia dobbiamo comportarci… in che modo? Perché tuo fratello mi pare tranquillo. Un po’ arrogante, ma tranquillo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Alaster bevve. Poi rispose con calma."
+        },
+        {
+          "type": "quote",
+          "text": "Io vi dico solamente questo: comportatevi con il massimo rispetto davanti al padrone della villa. Ovvero mio padre. Vassander Nodorovo."
+        },
+        {
+          "type": "quote",
+          "text": "E, ovviamente, rispettate anche mia madre. Penso che mia sorella, invece, vi troverà molto divertenti. Quasi quanto vi trovo io."
+        },
+        {
+          "type": "paragraph",
+          "text": "E mentre si dirigevano verso la villa dei Nodorovo, nessuno ebbe più dubbi."
+        },
+        {
+          "type": "paragraph",
+          "text": "La vera prova della serata non sarebbe stato il gala."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sarebbe stata la cena."
+        }
+      ]
+    },
+    {
+      "id": "magione",
+      "title": "La Villa Nodorovo",
+      "videoId": "ZjSwgS5YCaE",
+      "blocks": [
+        {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-13/Entriamo nella villa Nodorovo.png",
+          "alt": "Bottina nel tempio dei Mirkuliti"
+        },
+        {
+          "type": "paragraph",
+          "text": "Lasciata alle spalle la piazza centrale e il velenoso scambio con Dorian, il gruppo si incamminò verso la residenza dei Nodorovo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Più avanzavano nella Città Alta, più Baldur’s Gate sembrava trasformarsi. Le strade si facevano più larghe, le facciate più severe, i silenzi più costosi. Persino i lampioni sembravano illuminare con maggiore selezione."
+        },
+        {
+          "type": "paragraph",
+          "text": "E infine apparve."
+        },
+        {
+          "type": "paragraph",
+          "text": "La Villa Nodorovo."
+        },
+        {
+          "type": "paragraph",
+          "text": "O forse sarebbe stato più corretto chiamarla magione. O fortezza. O tempio privato costruito per ricordare a tutti chi comandava davvero."
+        },
+        {
+          "type": "paragraph",
+          "text": "La proprietà si ergeva dietro mura eleganti e severe, avvolta da una compostezza che non aveva bisogno di ostentare per incutere rispetto. Al centro del grande cancello in ferro battuto dominava il simbolo della casata: un occhio racchiuso in un cerchio spinato, sorvegliato da due serpenti intrecciati."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non era uno stemma. Era un avvertimento."
+        },
+        {
+          "type": "paragraph",
+          "text": "Davanti all’ingresso stazionavano due guardie armate, entrambe con il medesimo emblema sul petto. Alla vista di Alaster, si irrigidirono immediatamente sull’attenti."
+        },
+        {
+          "type": "quote",
+          "text": "Bentornato, signorino."
+        },
+        {
+          "type": "quote",
+          "text": "Suo padre la sta aspettando."
+        },
+        {
+          "type": "paragraph",
+          "text": "Alaster rispose con la naturalezza di chi era abituato a quel mondo."
+        },
+        {
+          "type": "quote",
+          "text": "Buonasera, Gregorio. Ti ringrazio."
+        },
+        {
+          "type": "quote",
+          "text": "Prego, venite. Queste sono le nostre guardie personali, non temete."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aelar osservò la scena con attenzione. Non tanto per lo sfarzo, quanto per la disciplina. Quelle guardie non somigliavano affatto ai Pugni Fiammanti che aveva imparato a disprezzare."
+        },
+        {
+          "type": "quote",
+          "text": "Beh, caro mio… queste sì che sono guardie. Complimenti."
+        },
+        {
+          "type": "quote",
+          "text": "Non come quelle dei Pugni Fiammanti."
+        },
+        {
+          "type": "quote",
+          "text": "Esatto. Io qui non entrerei mai."
+        },
+        {
+          "type": "paragraph",
+          "text": "Una delle guardie lasciò trapelare appena il proprio giudizio."
+        },
+        {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-13/Ingresso Villa Nodorovo.png",
+          "alt": "Bottina nel tempio dei Mirkuliti"
+        },
+        {
+          "type": "quote",
+          "text": "Il signorino Alaster è davvero convinto di voler far entrare questi popolani?"
+        },
+        {
+          "type": "paragraph",
+          "text": "L’aria si fece più fredda."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma Alaster non esitò nemmeno per un istante."
+        },
+        {
+          "type": "quote",
+          "text": "Sono ospiti. E soprattutto sono invitati al gala dei Patria. Quindi, se fossi in te, mi comporterei in maniera più rispettosa."
+        },
+        {
+          "type": "paragraph",
+          "text": "La risposta fu immediata."
+        },
+        {
+          "type": "quote",
+          "text": "Chiedo perdono, signorino Nodorovo. Non volevo offendere né lei né i suoi compagni."
+        },
+        {
+          "type": "quote",
+          "text": "È facile confondersi. Prego, venite."
+        },
+        {
+          "type": "paragraph",
+          "text": "E così entrarono."
+        },
+        {
+          "type": "paragraph",
+          "text": "L’interno della villa era ancora più impressionante dell’esterno."
+        },
+        {
+          "type": "paragraph",
+          "text": "Lo stile sembrava sospeso tra il gotico e il vittoriano: grandi vetrate colorate, archi sottili che si slanciavano verso l’alto, colonne severe, ombre eleganti, soffitti tanto alti da sembrare costruiti più per la reverenza che per l’abitabilità."
+        },
+        {
+          "type": "paragraph",
+          "text": "Più che una casa, sembrava una cattedrale privata."
+        },
+        {
+          "type": "paragraph",
+          "text": "C’era qualcosa di oscuro in quella bellezza. Qualcosa che non respingeva, ma osservava."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aelar, entrando, si guardò attorno con sincero apprezzamento. Non avrebbe mai ammesso facilmente il fascino del lusso, ma quello… quello era notevole."
+        },
+        {
+          "type": "paragraph",
+          "text": "E poi notò le altre guardie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non due. Non cinque. Almeno una quindicina, solo a un primo sguardo. Silenziose, presenti, addestrate."
+        },
+        {
+          "type": "quote",
+          "text": "Beh… qui certo si sta tranquilli, eh, Alaster? Non mi aspettavo tanta sorveglianza e una magione del genere. Complimenti."
+        },
+        {
+          "type": "quote",
+          "text": "Te l’ho detto. Noi siamo una piccola famiglia nobiliare, certo… ma siamo abbastanza influenti nei nostri campi."
+        },
+        {
+          "type": "quote",
+          "text": "Sinceramente, dopo i Pugni Fiammanti, non mi aspettavo tanto."
+        },
+        {
+          "type": "quote",
+          "text": "E ovviamente sono davvero degli scalsacani questi… perché o sono tutti così benestanti qui, oppure…"
+        },
+        {
+          "type": "paragraph",
+          "text": "Alaster lasciò correre con un sorriso appena accennato."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan, più diretto come sempre, pose la domanda più semplice."
+        },
+        {
+          "type": "quote",
+          "text": "Alaster… di cosa si occupa la tua famiglia?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Il nobile si voltò appena, come se stesse scegliendo quanta verità concedere."
+        },
+        {
+          "type": "quote",
+          "text": "Oh, ma in realtà… sai. Delle solite cose. Commercio di merce rara. Merce esotica, soprattutto."
+        },
+        {
+          "type": "quote",
+          "text": "Noi non siamo originari di Baldur’s Gate. Veniamo da una regione un pochino più distante, sulla Costa della Spada."
+        },
+        {
+          "type": "paragraph",
+          "text": "Parlò allora di Arabell, della città dal drago viola, terra di provenienza della famiglia Nodorovo. Un luogo lontano, rigido, segnato dalla legge marziale e da un controllo che rendeva difficile tanto entrare quanto uscire."
+        },
+        {
+          "type": "quote",
+          "text": "Hai mai sentito parlare del Cormyr?"
+        },
+        {
+          "type": "quote",
+          "text": "Sentirne parlare, sì. Sapere dov’è su una mappa… no."
+        },
+        {
+          "type": "quote",
+          "text": "Non credo che sia così semplice, sai. C’è la legge marziale lì. È difficile sia entrare che uscire."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aelar ascoltò in silenzio. Certe famiglie non costruivano solo ricchezza. Costruivano sistemi."
+        },
+        {
+          "type": "quote",
+          "text": "Beh, non vorrei mica andare a fare niente di male."
+        },
+        {
+          "type": "paragraph",
+          "text": "Alaster rise appena."
+        },
+        {
+          "type": "quote",
+          "text": "È più complicata la situazione, ma… tornando a noi, benvenuti nella mia umile casa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Umile."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nessuno commentò quella parola."
+        },
+        {
+          "type": "quote",
+          "text": "Se volete rinfrescarvi prima di conoscere la mia famiglia…"
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma prima che potesse terminare, la grande porta d’ingresso si aprì."
+        },
+        {
+          "type": "paragraph",
+          "text": "Apparve il maggiordomo. Il maggiordomo. Non un servitore qualunque: il maggiordomo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Postura impeccabile, mani perfettamente controllate, il volto scolpito nella disciplina di chi aveva probabilmente visto generazioni di drammi nobiliari senza mai battere ciglio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Si chiamava Taddeus."
+        },
+        {
+          "type": "paragraph",
+          "text": "Si portò una mano al petto e l’altra dietro la schiena in un inchino perfetto."
+        },
+        {
+          "type": "quote",
+          "text": "Bentornato a casa, signorino Alaster."
+        },
+        {
+          "type": "paragraph",
+          "text": "E mentre pronunciava quelle parole, era chiaro a tutti:"
+        },
+        {
+          "type": "paragraph",
+          "text": "stavano per entrare davvero nel cuore della famiglia Nodorovo."
+        }
+      ]
+    },
+    {
+      "id": "sorella",
+      "title": "Alyssandra e il volto che nessuno vede",
+      "videoId": "NAs3V5J9ITg",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "C’era una sottile tensione in Alaster."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non paura. Non esitazione. Qualcosa di più raro."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ansia."
+        },
+        {
+          "type": "paragraph",
+          "text": "Quella forma di inquietudine che non nasce dai nemici, ma dalla famiglia. Dai luoghi dove si è stati bambini. Dai giudizi che non smettono mai davvero di esistere."
+        },
+        {
+          "type": "paragraph",
+          "text": "Eppure non ebbe nemmeno il tempo di finire di parlare."
+        },
+        {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-13/Incontriamo Alyssandra.png",
+          "alt": "Bottina nel tempio dei Mirkuliti"
+        },
+        {
+          "type": "paragraph",
+          "text": "Dall’altro lato della porta sbucò una piccola figura in corsa, veloce come una freccia, con l’entusiasmo puro che solo i bambini sanno avere."
+        },
+        {
+          "type": "paragraph",
+          "text": "Una bambina."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sua sorella."
+        },
+        {
+          "type": "paragraph",
+          "text": "Alessandra Nodorovo."
+        },
+        {
+          "type": "quote",
+          "text": "Alaster! Sei tornato!"
+        },
+        {
+          "type": "paragraph",
+          "text": "Gli corse incontro senza alcuna esitazione, cercando di abbracciarlo con tutta la forza che il suo piccolo corpo possedeva."
+        },
+        {
+          "type": "paragraph",
+          "text": "E fu allora che il gruppo vide qualcosa di raro."
+        },
+        {
+          "type": "paragraph",
+          "text": "Forse per la prima volta."
+        },
+        {
+          "type": "paragraph",
+          "text": "Alaster la prese letteralmente al volo, sollevandola con naturalezza, e per un istante sparì il nobile tagliente, il manipolatore elegante, il figlio della casata Nodorovo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Restò soltanto un fratello maggiore."
+        },
+        {
+          "type": "paragraph",
+          "text": "La sollevò, la fece ruotare tra le braccia, e sul suo volto comparve un sorriso vero. Non costruito. Non strategico. Vero."
+        },
+        {
+          "type": "quote",
+          "text": "Guarda quanto sei cresciuta."
+        },
+        {
+          "type": "quote",
+          "text": "Sì! Sei mancato un sacco! Adesso ti arrivo quasi al petto!"
+        },
+        {
+          "type": "paragraph",
+          "text": "E in effetti era vero. La testa della bambina arrivava ormai poco sotto il suo petto. Un dettaglio minuscolo, eppure sufficiente a segnare il passare del tempo."
+        },
+        {
+          "type": "quote",
+          "text": "Come stai, Alessandra?"
+        },
+        {
+          "type": "quote",
+          "text": "Mi annoio. Non c’è nessuno con cui giocare. Gli altri non sono così tanto disposti…"
+        },
+        {
+          "type": "paragraph",
+          "text": "Alaster sospirò con un sorriso paziente."
+        },
+        {
+          "type": "quote",
+          "text": "Beh, lo sai come funziona con la servitù. Non ti danno abbastanza agio nei tuoi giochi… nelle tue idee."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi il suo sguardo si spostò sul gruppo. E il sorriso divenne pericolosamente teatrale."
+        },
+        {
+          "type": "quote",
+          "text": "Ma ho proprio qui una soluzione. Se vorrai…"
+        },
+        {
+          "type": "paragraph",
+          "text": "Indicò i suoi compagni come si presenterebbe una selezione di merce rara."
+        },
+        {
+          "type": "quote",
+          "text": "Li vedi questi miei accompagnatori? Uno diventerà il tuo paggio. Uno diventerà…"
+        },
+        {
+          "type": "paragraph",
+          "text": "Aelar lo fissò con lo sguardo di chi stava già preparando una vendetta futura."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma Alessandra, completamente ignara del pericolo diplomatico che stava per esplodere, sorrise con innocente entusiasmo."
+        },
+        {
+          "type": "quote",
+          "text": "Ciao! Io sono Alessandra! Voi come vi chiamate?"
+        },
+        {
+          "type": "quote",
+          "text": "Ciao, questa è la mia sorellina. Io sono Aelar."
+        },
+        {
+          "type": "quote",
+          "text": "Io sono Nathan."
+        },
+        {
+          "type": "paragraph",
+          "text": "Quando arrivò il turno di Kyran, il risultato fu inevitabile."
+        },
+        {
+          "type": "quote",
+          "text": "Lui è Kyran. È la più simpatica presenza oscura che conosca."
+        },
+        {
+          "type": "quote",
+          "text": "Proviene da una dinastia oscura. Hai mai sentito parlare dei tiefling? Te ne ho raccontato nelle storie."
+        },
+        {
+          "type": "paragraph",
+          "text": "La bambina lo guardò con l’onestà brutale dell’infanzia."
+        },
+        {
+          "type": "quote",
+          "text": "Sì… ne avevo sentito parlare."
+        },
+        {
+          "type": "paragraph",
+          "text": "E Kyran assunse immediatamente l’espressione di un cane bastonato che aveva già capito che stava per arrivare il colpo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma invece di rispondere male, si limitò a sistemarsi i lembi del mantello, abbassarsi leggermente e offrire un inchino perfettamente educato."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aelar trattenne a stento il sorriso. Quella scena valeva da sola metà del viaggio."
+        },
+        {
+          "type": "quote",
+          "text": "Bene. Dove si trovano nostra madre e nostro padre?"
+        },
+        {
+          "type": "quote",
+          "text": "Papà è giù, penso. E mamma sta facendo alcune cose. Ma sono sicura che ti stanno aspettando dentro."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi Alessandra sembrò ricordare qualcosa di assolutamente fondamentale."
+        },
+        {
+          "type": "quote",
+          "text": "Io devo andare a studiare! La maestra mi sta aspettando! Però abbiamo un sacco di cose di cui parlare! Ho tante storie da raccontarti!"
+        },
+        {
+          "type": "paragraph",
+          "text": "Fece una pausa. Lo guardò con sospetto."
+        },
+        {
+          "type": "quote",
+          "text": "…Mi hai portato un regalo, vero?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Silenzio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il gruppo osservò Alaster con il rispetto che si deve a chi sta affrontando la prova più difficile della serata."
+        },
+        {
+          "type": "paragraph",
+          "text": "Perché i culti assassini erano una cosa. Deludere una sorellina era guerra vera."
+        },
+        {
+          "type": "paragraph",
+          "text": "Lui sospirò appena, frugò tra i propri effetti e infine estrasse ciò che aveva scelto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Una sfera di ossidiana. Un cristallo oscuro recuperato nelle catacombe. Un piccolo oggetto magico, raro e prezioso."
+        },
+        {
+          "type": "quote",
+          "text": "Quando crescerai, questo potrebbe esserti molto utile. L’ho trovato nelle catacombe."
+        },
+        {
+          "type": "quote",
+          "text": "Grazie, fratellone!"
+        },
+        {
+          "type": "paragraph",
+          "text": "E fu tutto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Prese il dono e corse via come se avesse appena ricevuto il tesoro più importante del mondo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Forse, per lei, era davvero così."
+        },
+        {
+          "type": "paragraph",
+          "text": "Taddeus riapparve con la precisione di chi sa sempre esattamente quando intervenire."
+        },
+        {
+          "type": "quote",
+          "text": "Signorino, se desidera entrare, può rinfrescarsi insieme ai suoi ospiti."
+        },
+        {
+          "type": "quote",
+          "text": "Molto bene. Puoi dire a mio padre, se non è impegnato, che lo raggiungerò a breve."
+        },
+        {
+          "type": "quote",
+          "text": "Riferirò, padroncino."
+        },
+        {
+          "type": "paragraph",
+          "text": "Furono quindi accompagnati nel salotto principale della villa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Divani ampi e morbidi, un grande camino acceso che scaldava la stanza, dipinti alle pareti, ritratti antichi, il profumo discreto del tè appena servito."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma era un quadro in particolare a dominare la stanza."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un enorme ritratto di famiglia."
+        },
+        {
+          "type": "paragraph",
+          "text": "Tutti i Nodorovo riuniti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il padre. La madre. Dorian ancora giovane, quasi dell’età attuale di Alessandra. Un piccolo Alaster. E la madre che teneva in braccio un neonato: la stessa Alessandra, quando ancora era soltanto l’ultima arrivata della casata."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un dipinto vecchio. Ma ancora perfettamente vivo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Servirono tè e bevande leggere per rinfrescare gli ospiti. La calma prima dell’incontro vero."
+        },
+        {
+          "type": "paragraph",
+          "text": "E poco dopo… arrivò qualcuno."
+        }
+      ]
+    },
+    {
+      "id": "mamma",
+      "title": "Seraphine Nodorovo",
+      "videoId": "uUer0XY-K_Y",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Il silenzio del salotto durò appena il tempo necessario perché tutti si abituassero alla quiete della villa."
+        },
+        {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-13/Incontriamo Seraphine.png",
+          "alt": "Bottina nel tempio dei Mirkuliti"
+        },
+        {
+          "type": "paragraph",
+          "text": "Il crepitio del camino, il profumo del tè, il peso degli sguardi dipinti nel grande ritratto di famiglia. Tutto sembrava sospeso in una calma elegante e controllata."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi arrivò lei."
+        },
+        {
+          "type": "paragraph",
+          "text": "La padrona di casa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Seraphine Lirael Nodorovo."
+        },
+        {
+          "type": "paragraph",
+          "text": "La sua presenza non aveva bisogno di annunci. Non era appariscente. Non rumorosa. Ma la stanza sembrò riconoscerla prima ancora delle persone."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aveva già le braccia leggermente aperte quando entrò, come chi sapeva perfettamente che suo figlio sarebbe andato verso di lei."
+        },
+        {
+          "type": "quote",
+          "text": "Sapevo fossi tornato. Mi chiedevo quando saresti tornato a casa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Alaster si alzò immediatamente."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non con la rigidità che mostrava davanti a Dorian. Non con la tensione che riservava al padre."
+        },
+        {
+          "type": "paragraph",
+          "text": "Qui c’era qualcosa di diverso."
+        },
+        {
+          "type": "paragraph",
+          "text": "Si avvicinò e le diede un abbraccio misurato, quasi formale, ma sincero."
+        },
+        {
+          "type": "quote",
+          "text": "Madre. Purtroppo ho avuto degli intoppi con la guardia cittadina. Come sai, i Pugni Fiammanti sono davvero un’istituzione con molti problemi nel suo sistema…"
+        },
+        {
+          "type": "paragraph",
+          "text": "Per un istante sembrò sul punto di dire qualcosa di molto meno elegante. Poi si trattenne."
+        },
+        {
+          "type": "quote",
+          "text": "…ma ognuno fa andare le cose come può. E penso che loro quello sia il loro massimo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Seraphine lo osservò con quella calma che appartiene soltanto a chi sa leggere le persone senza bisogno di domande."
+        },
+        {
+          "type": "quote",
+          "text": "Com’è andato il viaggio? Ti vedo… non in altezza, ma mi dai un’aria diversa. È successo qualcosa?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Alaster abbassò appena lo sguardo. Con lei non servivano maschere perfette."
+        },
+        {
+          "type": "quote",
+          "text": "Beh… non si può nascondere nulla a te, madre. Diciamo che nella sfortuna… penso che ormai sarà arrivata anche a voi la notizia di Elturel."
+        },
+        {
+          "type": "quote",
+          "text": "Sì. Abbiamo saputo anche noi. Ammetto di essere stata in pena per te. Io e tuo padre molto preoccupati."
+        },
+        {
+          "type": "paragraph",
+          "text": "La voce restava composta, ma la verità c’era."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non teatrale. Non ostentata. Reale."
+        },
+        {
+          "type": "quote",
+          "text": "Fortunatamente il cocchiere ha fatto tardi ad arrivare… e purtroppo è deceduto. Ma d’altro canto… beh, come hai detto prima, sono cresciuto."
+        },
+        {
+          "type": "quote",
+          "text": "E grazie anche a questi ospiti che ti ho portato questa sera, posso dire di aver realizzato non pochi traguardi in così poco tempo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Seraphine gli prese il viso tra le mani, con un gesto semplice, quasi disarmante in quella casa di controllo e misura."
+        },
+        {
+          "type": "quote",
+          "text": "Lo so. Si vede."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi si voltò verso il resto del gruppo."
+        },
+        {
+          "type": "paragraph",
+          "text": "E lì Aelar comprese immediatamente da dove Alaster avesse imparato metà delle sue armi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Eleganza. Precisione. Capacità di osservare prima ancora di parlare."
+        },
+        {
+          "type": "quote",
+          "text": "Io sono Seraphine Lirael Nodorovo. Piacere. È un onore conoscere i compagni di mio figlio. Spero siate stati accolti con i dovuti riguardi e che vi sentiate a vostro agio. Prego, fate come foste a casa vostra."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aelar si alzò con il massimo rispetto possibile."
+        },
+        {
+          "type": "quote",
+          "text": "Grazie mille. È un nostro onore essere accolti in questa famiglia. La ringraziamo dell’ospitalità."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan fece un cenno del capo. Elis si presentò con educazione."
+        },
+        {
+          "type": "quote",
+          "text": "Il mio nome è Elis."
+        },
+        {
+          "type": "quote",
+          "text": "Oh sì, lo so. Elis, Aelar, Nathan… e poi c’è Kyran. Giusto?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Il gruppo si fermò."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un silenzio piccolo. Ma molto significativo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Perché ricordare i nomi è una cosa. Sapere già chi sei, prima che tu parli, è un’altra."
+        },
+        {
+          "type": "paragraph",
+          "text": "Seraphine si voltò appena verso Alaster."
+        },
+        {
+          "type": "quote",
+          "text": "Particolare, la tua amica."
+        },
+        {
+          "type": "quote",
+          "text": "Già. Ed è anche molto potente, nonostante le apparenze."
+        },
+        {
+          "type": "quote",
+          "text": "Sì. Lo percepisco. È di poche parole, vedo, ma pensa molto spesso a tante cose. Una tipa riflessiva."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aelar lanciò uno sguardo rapido a Kyran. Anche lui sembrava improvvisamente meno a suo agio."
+        },
+        {
+          "type": "quote",
+          "text": "Non temete. Mia madre è una maestra nell’indovinare le cose, nel dedurre e suggerire."
+        },
+        {
+          "type": "quote",
+          "text": "Indovinare e dedurre è una questione. Sapere i nomi di quattro persone appena conosciute è un’altra."
+        },
+        {
+          "type": "quote",
+          "text": "Beh, avete incontrato mio fratello. Vi ricordate la prigione."
+        },
+        {
+          "type": "quote",
+          "text": "Non mi sembra di avergli mai detto il mio nome."
+        },
+        {
+          "type": "quote",
+          "text": "Forse ricordi male."
+        },
+        {
+          "type": "quote",
+          "text": "Può essere."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nessuno insistette. Nessuno voleva davvero sapere la risposta."
+        },
+        {
+          "type": "paragraph",
+          "text": "Seraphine riprese con naturalezza, come se nulla fosse accaduto."
+        },
+        {
+          "type": "quote",
+          "text": "Vi fermate a cena da noi? Se volete posso far organizzare una cena un po’ più particolare per festeggiare il tuo ritorno a casa e la presenza dei tuoi ospiti."
+        },
+        {
+          "type": "paragraph",
+          "text": "La proposta era sincera. E pericolosamente invitante."
+        },
+        {
+          "type": "paragraph",
+          "text": "Perfino Aelar, per un istante, valutò seriamente l’idea di restare."
+        },
+        {
+          "type": "quote",
+          "text": "Beh, mi piacerebbe molto, madre. Nonostante tutto, non ci vediamo da molto tempo. Ma abbiamo delle faccende più importanti per il momento. Ci hanno invitato i Patriar questa sera."
+        },
+        {
+          "type": "quote",
+          "text": "Bene. La tua prima esperienza con le alte sfere. Sarà emozionante. La prima non si scorda mai."
+        },
+        {
+          "type": "paragraph",
+          "text": "Si mosse allora verso l’uscita. Leggera. Precisa. Come se la stanza stessa si aprisse per lei."
+        },
+        {
+          "type": "quote",
+          "text": "Vado a cercare tuo padre. Sarà sicuramente ansioso di rivederti e conoscere i dettagli delle tue avventure. Delle vostre avventure, ovviamente."
+        },
+        {
+          "type": "quote",
+          "text": "Mi è piaciuto avervi conosciuto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Fece un piccolo inchino, elegante e perfetto, e lasciò la stanza."
+        },
+        {
+          "type": "paragraph",
+          "text": "Per un istante rimase solo il silenzio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi qualcuno si avvicinò ad Aelar e sussurrò:"
+        },
+        {
+          "type": "quote",
+          "text": "Beh… quasi quasi rimango."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aelar non si voltò nemmeno. Non serviva."
+        },
+        {
+          "type": "paragraph",
+          "text": "Capiva perfettamente."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nel frattempo, Alaster si avvicinò con assoluta familiarità a un mobile laterale, prese un calice e si versò dell’Excelsior."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il vino di casa. Il sapore della propria origine."
+        },
+        {
+          "type": "quote",
+          "text": "Me lo merito. Mi mancava casa mia. Tranquilli. Dopo l’incontro con mio padre potremo andare dai Patriar."
+        },
+        {
+          "type": "paragraph",
+          "text": "E fu proprio nel momento in cui pronunciò quelle parole che la stanza cambiò."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le luci si affievolirono."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il fuoco del camino, prima vivo e scoppiettante, si abbassò improvvisamente."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le ombre si allungarono. Il salotto si fece più scuro. Più freddo."
+        },
+        {
+          "type": "paragraph",
+          "text": "E dietro di loro…"
+        },
+        {
+          "type": "paragraph",
+          "text": "comparve un uomo."
+        }
+      ]
+    },
+    {
+      "id": "papa",
+      "title": "Vassander Nodorovo",
+      "videoId": "Un9qYu6iqbM",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Non sentirono passi."
+        },
+        {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-13/Vassander Nodorovo.png",
+          "alt": "Bottina nel tempio dei Mirkuliti"
+        },
+        {
+          "type": "paragraph",
+          "text": "Non il rumore di una porta. Non il suono di una presenza che si avvicina."
+        },
+        {
+          "type": "paragraph",
+          "text": "Eppure lui era lì."
+        },
+        {
+          "type": "paragraph",
+          "text": "Senza che nessuno si fosse accorto di nulla, un uomo si trovava già alle loro spalle, nella stanza, mentre tutti loro erano rivolti verso l’unica porta d’ingresso."
+        },
+        {
+          "type": "paragraph",
+          "text": "La temperatura sembrò cambiare. Il fuoco del camino si abbassò. Le luci si fecero più deboli."
+        },
+        {
+          "type": "paragraph",
+          "text": "E la voce che parlò non aveva bisogno di essere alzata per imporsi."
+        },
+        {
+          "type": "quote",
+          "text": "Felice di averti a casa, figliolo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Vassander Nodorovo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il padrone della villa. Il capofamiglia. L’uomo davanti al quale perfino Alaster smise immediatamente di essere soltanto Alaster."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il calice che stava per portare alle labbra venne posato senza esitazione."
+        },
+        {
+          "type": "paragraph",
+          "text": "Si inchinò subito. Senza ironia. Senza difese."
+        },
+        {
+          "type": "quote",
+          "text": "Padre."
+        },
+        {
+          "type": "paragraph",
+          "text": "Vassander osservò il figlio, poi il resto del gruppo, come se bastasse uno sguardo per pesare il valore di ogni singola presenza."
+        },
+        {
+          "type": "quote",
+          "text": "Nuove amicizie. Sono contento che tu abbia esplorato nuovi orizzonti. Alzati."
+        },
+        {
+          "type": "paragraph",
+          "text": "Solo quando ricevette il permesso, Alaster rialzò il capo."
+        },
+        {
+          "type": "quote",
+          "text": "Ho saputo da tua madre che i tuoi amici hanno combattuto con te. Che avete vissuto delle avventure."
+        },
+        {
+          "type": "quote",
+          "text": "Beh…"
+        },
+        {
+          "type": "quote",
+          "text": "Ho saputo anche che sei stato invitato a un ballo con i Patriar."
+        },
+        {
+          "type": "quote",
+          "text": "È così, padre."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma Vassander non era interessato al gala. Non davvero."
+        },
+        {
+          "type": "quote",
+          "text": "La mia domanda, in realtà, è un’altra."
+        },
+        {
+          "type": "quote",
+          "text": "Perché non sei tornato subito a casa?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Il colpo arrivò secco. Diretto. Senza rabbia. Peggio: con lucidità."
+        },
+        {
+          "type": "quote",
+          "text": "Avevi una missione. Eri fuori. Eppure, quando sei riuscito a rientrare in città, non ti sei sbrigato a tornare."
+        },
+        {
+          "type": "paragraph",
+          "text": "Alaster inspirò lentamente."
+        },
+        {
+          "type": "quote",
+          "text": "Sì… ma dei cavilli legali mi impedivano di entrare subito nella Città Alta. E poi c’erano le questioni con il culto dei Tre Morti."
+        },
+        {
+          "type": "quote",
+          "text": "Penso che Dorian e la notizia in generale si siano già sparse. Hai sentito di un gruppo che ha annientato parte del culto."
+        },
+        {
+          "type": "quote",
+          "text": "Sì. Ho sentito. Non mi ha sorpreso più di tanto, in realtà."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nessun elogio. Nessuna approvazione facile."
+        },
+        {
+          "type": "quote",
+          "text": "Sarebbe sciocco esaltarsi per una vittoria tanto piccola."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi arrivò la vera lezione."
+        },
+        {
+          "type": "quote",
+          "text": "E questi cavilli legali ti impedivano di scrivere una lettera?"
+        },
+        {
+          "type": "quote",
+          "text": "Di pagare un messaggero?"
+        },
+        {
+          "type": "quote",
+          "text": "O banalmente, visto che avevi incontrato tuo fratello… riferirgli ciò che avevi scoperto?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Alaster rimase in silenzio per un istante."
+        },
+        {
+          "type": "quote",
+          "text": "Io… volevo…"
+        },
+        {
+          "type": "quote",
+          "text": "Evidentemente, queste cose non ti sono passate per la mente. Comprendo. La giovinezza è un’esperienza."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non c’era bisogno di alzare la voce. Ogni parola bastava da sola."
+        },
+        {
+          "type": "quote",
+          "text": "Ma adesso sei qui."
+        },
+        {
+          "type": "paragraph",
+          "text": "E allora, inaspettatamente, Vassander gli posò le mani sulle spalle."
+        },
+        {
+          "type": "quote",
+          "text": "Sono contento di rivederti a casa, figliolo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Quella frase colpì più di un rimprovero."
+        },
+        {
+          "type": "quote",
+          "text": "Scusa, padre. Sono contento anch’io."
+        },
+        {
+          "type": "paragraph",
+          "text": "E per la prima volta, persino Aelar notò che ad Alaster mancava quasi il respiro."
+        },
+        {
+          "type": "quote",
+          "text": "Vorrei solamente dire che sono dispiaciuto per la mia mancanza di rispetto nei tuoi riguardi, padre."
+        },
+        {
+          "type": "quote",
+          "text": "No. Non mi è mancato di rispetto."
+        },
+        {
+          "type": "quote",
+          "text": "Volevo avvisarti di persona. Per questo ho aspettato e non ho parlato con mio fratello."
+        },
+        {
+          "type": "quote",
+          "text": "Tranquillo. Ora sei qui. L’importante è che tu sia sano e salvo, che sia a casa. E che tu rimedi il prima possibile a riferirmi ciò che hai scoperto."
+        },
+        {
+          "type": "quote",
+          "text": "Certo. Potremmo andare nella sala lettura e parlarne?"
+        },
+        {
+          "type": "quote",
+          "text": "Certo."
+        }
+      ]
+    },
+    {
+      "id": "uno",
+      "title": "Uno sconosciuto al ricevimento",
+      "videoId": "OXIk85ZDULE",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Facciamo un piccolo cambio di scena."
+        },
+        {
+          "type": "paragraph",
+          "text": "Lontano dalla Villa Nodorovo, lontano dai calici di Excelsior, dai ritratti di famiglia e dalle ombre educate della nobiltà, qualcun altro si stava preparando a entrare nello stesso gioco."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sylvar era appena uscita dalla casa di Darren."
+        },
+        {
+          "type": "paragraph",
+          "text": "Si era vestita come meglio poteva. O meglio: come pensava potesse sembrare adatto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non aveva mai indossato un abito del genere. E forse gli abbinamenti non erano esattamente impeccabili."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma quello non era il momento di preoccuparsi dello stile."
+        },
+        {
+          "type": "paragraph",
+          "text": "Portava con sé uno zaino. O meglio, portava con sé il proprio bottino di guerra."
+        },
+        {
+          "type": "paragraph",
+          "text": "Lo stesso bottino che, con assoluta evidenza, non avrebbe potuto portare dentro un gala nobiliare."
+        },
+        {
+          "type": "paragraph",
+          "text": "Quindi lo lasciò indietro."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nessun armadietto magico, nessun luogo elegante dove nascondere una vita di problemi. Solo la necessità pratica di non presentarsi a un ricevimento con l’aria di chi ha appena svaligiato una cripta."
+        },
+        {
+          "type": "paragraph",
+          "text": "Conservò soltanto il necessario: la piccola sacchetta per gli incantesimi, ben nascosta sotto il gilet e il completo."
+        },
+        {
+          "type": "paragraph",
+          "text": "E soprattutto: l’invito."
+        },
+        {
+          "type": "paragraph",
+          "text": "Quel piccolo pezzo di carta che pesava più di una spada."
+        },
+        {
+          "type": "paragraph",
+          "text": "Su un angolo si era leggermente sporcato di sangue. Poco. Ma abbastanza da ricordare che certi ingressi si pagano sempre."
+        },
+        {
+          "type": "paragraph",
+          "text": "L’evento era ovunque. Sponsorizzato, annunciato, venduto come una promessa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Per strada, un ragazzino con un campanaccio e un cartello appeso fronte-retro gridava le ultime notizie come se stesse annunciando la fine del mondo."
+        },
+        {
+          "type": "quote",
+          "text": "Edizione straordinaria! Un gruppo di eroi ha sventato il Culto dei Tre Morti! Baldur’s Gate è salva! È salva!"
+        },
+        {
+          "type": "paragraph",
+          "text": "Sul cartello davanti:"
+        },
+        {
+          "type": "quote",
+          "text": "Culto dei Tre Morti sconfitto. Sarà la volta definitiva? La città è salva?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Sul retro:"
+        },
+        {
+          "type": "quote",
+          "text": "Cosa faremo di tutti i profughi di Elturel? Ci ruberanno il lavoro? O ci aiuteranno con l’economia?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Piccoli titoli. Grandi paure. Propaganda ben confezionata."
+        },
+        {
+          "type": "paragraph",
+          "text": "La gente comprava. Leggeva. Commentava."
+        },
+        {
+          "type": "paragraph",
+          "text": "L’editore: la Bocca di Baldur."
+        },
+        {
+          "type": "paragraph",
+          "text": "La città aveva sempre fame di storie. Soprattutto quando poteva usarle per dimenticare la propria paura."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sylvar si avviò verso la Città Alta."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ai cancelli, le guardie la fermarono immediatamente. Era quasi sera, e lì dentro nessuno entrava per caso."
+        },
+        {
+          "type": "quote",
+          "text": "Altolà. Farsi riconoscere oppure presentare un permesso."
+        },
+        {
+          "type": "paragraph",
+          "text": "Lei sospirò. Non per paura. Per fastidio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Tirò fuori l’invito e lo porse con la calma di chi è già stanco prima ancora di iniziare."
+        },
+        {
+          "type": "quote",
+          "text": "Ah. L’invito al ballo di stasera. Comprendo. Lei per cosa l’ha ricevuto, se posso chiedere?"
+        },
+        {
+          "type": "quote",
+          "text": "Puoi chiedere. Ma temo che i miei affari riguardino soltanto me."
+        },
+        {
+          "type": "paragraph",
+          "text": "La guardia non si lasciò impressionare. O almeno ci provò."
+        },
+        {
+          "type": "quote",
+          "text": "Sono obbligato a insistere, signor…"
+        },
+        {
+          "type": "quote",
+          "text": "Sono qui per incontrare Ivanka."
+        },
+        {
+          "type": "paragraph",
+          "text": "Una pausa. Un nome lasciato lì come una lama appoggiata sul tavolo."
+        },
+        {
+          "type": "quote",
+          "text": "Oh. Ehm…"
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi il colpo finale."
+        },
+        {
+          "type": "quote",
+          "text": "Preferisci che chieda al signor Amrik di farti partecipare ai nostri colloqui di lavoro?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Non era un inganno. Era puro piacere di rompere le scatole."
+        },
+        {
+          "type": "paragraph",
+          "text": "E funzionò."
+        },
+        {
+          "type": "quote",
+          "text": "No, assolutamente. Non ho alcuna intenzione di infastidire un collaboratore della famiglia della Duchessa. Devo solo segnare il suo nome d’ingresso. Lei è?"
+        },
+        {
+          "type": "quote",
+          "text": "Silver Berianus."
+        },
+        {
+          "type": "quote",
+          "text": "Silver Berianus. Invito al gala per incontrare i membri della famiglia Vanthampur. Prego. Può passare."
+        },
+        {
+          "type": "paragraph",
+          "text": "E così entrò."
+        },
+        {
+          "type": "paragraph",
+          "text": "La Città Alta, di sera, sembrava quasi irreale."
+        },
+        {
+          "type": "paragraph",
+          "text": "Fontane ovunque. Piazze curate come giardini sacri. Balconi fioriti. Vasi perfettamente ordinati. Profumi più puliti. Aria più leggera."
+        },
+        {
+          "type": "paragraph",
+          "text": "C’era un benessere tangibile, quasi offensivo."
+        },
+        {
+          "type": "paragraph",
+          "text": "E con esso tornò anche una sensazione che Sylvar conosceva bene."
+        },
+        {
+          "type": "paragraph",
+          "text": "Essere fuori posto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Si era quasi abituata alla Città Bassa. Al fango. Alla fame. Alla realtà."
+        },
+        {
+          "type": "paragraph",
+          "text": "Quel salto improvviso dentro la perfezione faceva male."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un tuffo traumatico in un mondo che non era il suo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Chiese indicazioni. Le guardie inizialmente la guardarono con sospetto, poi videro l’invito e cambiarono tono."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dritto. Alla seconda. Poi ancora avanti."
+        },
+        {
+          "type": "paragraph",
+          "text": "E infine arrivò."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il palazzo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non una casa. Non una villa. Un palazzo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Immenso. Illuminato da luci magiche che salivano dal basso come riflettori invisibili, esaltandone l’altezza, la presenza, la volontà stessa di dominare."
+        },
+        {
+          "type": "paragraph",
+          "text": "Davanti, una grande rotonda."
+        },
+        {
+          "type": "paragraph",
+          "text": "Carrozze che arrivavano, nobili che scendevano, cocchieri che ripartivano in un movimento continuo perfettamente orchestrato."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sylvar arrivava a piedi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Attorno a lei, figure vestite magnificamente. Nobili. Veri."
+        },
+        {
+          "type": "paragraph",
+          "text": "E lei non aveva nemmeno saputo cosa fosse un gala fino a due ore prima."
+        },
+        {
+          "type": "paragraph",
+          "text": "Si mise in fila."
+        },
+        {
+          "type": "paragraph",
+          "text": "Uno a uno, controllavano gli inviti. Uno a uno, decidevano chi poteva entrare e chi no."
+        },
+        {
+          "type": "paragraph",
+          "text": "E ora, toccava a lei."
+        }
+      ]
+    },
+    {
+      "id": "ricevimento",
+      "title": "Arriviamo al ricevimento",
+      "videoId": "2ciR3wHPIaw",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Anche per loro era arrivato il momento."
+        },
+        {
+          "type": "paragraph",
+          "text": "Mentre Silver avanzava da sola tra i cancelli della Città Alta, il resto del gruppo si preparava a raggiungere il gala con un trattamento decisamente diverso."
+        },
+        {
+          "type": "paragraph",
+          "text": "Erano già nella Città Alta. E una carrozza era venuta personalmente a prenderli."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non una semplice carrozza. Una di quelle che non si discutono: si sale e basta."
+        },
+        {
+          "type": "quote",
+          "text": "Andiamo, andiamo ragazzi. Qui ci aspettano. Dobbiamo far fare bella figura ad Alaster, mi raccomando."
+        },
+        {
+          "type": "quote",
+          "text": "È il nostro lasciapassare per la nobiltà, quindi comportiamoci a modo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il nuovo cocchiere li accolse con impeccabile professionalità."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il problema era che, per un istante, sembrava esattamente quello precedente."
+        },
+        {
+          "type": "paragraph",
+          "text": "Lo stesso volto. Lo stesso portamento. Lo stesso trauma."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aelar ebbe quasi un mezzo collasso, convinto per un attimo che il defunto fosse tornato dalle ceneri per vendicarsi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Per fortuna no."
+        },
+        {
+          "type": "paragraph",
+          "text": "Era soltanto il fratello. Il gemello."
+        },
+        {
+          "type": "quote",
+          "text": "Anche l’altro lo diceva…"
+        },
+        {
+          "type": "paragraph",
+          "text": "Qualcuno si segnò immediatamente, come si fa davanti ai fantasmi o alle pessime coincidenze."
+        },
+        {
+          "type": "quote",
+          "text": "È tornato per sé. È tornato per vendicarsi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan osservava la scena con la stessa espressione di chi guarda un gruppo di persone che ha ormai smesso di provare a capire."
+        },
+        {
+          "type": "paragraph",
+          "text": "Salirono."
+        },
+        {
+          "type": "paragraph",
+          "text": "E la carrozza li portò verso il gala."
+        },
+        {
+          "type": "paragraph",
+          "text": "Quando arrivarono, il colpo d’occhio fu immediato."
+        },
+        {
+          "type": "paragraph",
+          "text": "Una grande rotonda davanti al palazzo, un tappeto rosso che sembrava voler separare il mondo reale da quello nobiliare, file di ospiti, servitori, cocchieri, luci, voci, attese."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma quando arrivò la loro carrozza, la fila smise di esistere."
+        },
+        {
+          "type": "paragraph",
+          "text": "Alcuni servitori aprirono immediatamente la portiera."
+        },
+        {
+          "type": "quote",
+          "text": "Signori, prego! Fate largo! Sono arrivati gli ospiti d’onore!"
+        },
+        {
+          "type": "paragraph",
+          "text": "Tutti si voltarono."
+        },
+        {
+          "type": "paragraph",
+          "text": "Tutti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Per la prima volta — e forse anche per l’ultima — loro erano il centro dell’attenzione."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non semplici avventurieri. Non forestieri. Non superstiti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le stelle della serata."
+        },
+        {
+          "type": "paragraph",
+          "text": "Gli eroi che avevano abbattuto il Culto dei Tre Morti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il gruppo scese uno a uno, accolto dagli sguardi della nobiltà come se stessero assistendo all’ingresso di una compagnia teatrale di cui tutti avevano sentito parlare."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nel frattempo, ancora in fila, Silver osservava tutto questo da lontano."
+        },
+        {
+          "type": "paragraph",
+          "text": "E sentiva già partire i commenti."
+        },
+        {
+          "type": "quote",
+          "text": "Ah, quindi sono loro."
+        },
+        {
+          "type": "quote",
+          "text": "Aspetta… ma pensavo che quell’altro fosse più alto."
+        },
+        {
+          "type": "quote",
+          "text": "Però quello con le corna non è così male…"
+        },
+        {
+          "type": "paragraph",
+          "text": "Ventagli davanti alla bocca. Risatine. Sussurri perfettamente udibili."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nobiltà. La forma più elegante del pettegolezzo."
+        },
+        {
+          "type": "paragraph",
+          "text": "All’interno, il gala li aspettava."
+        },
+        {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-13/La sala del Gala.png",
+          "alt": "Gala"
+        },
+        {
+          "type": "paragraph",
+          "text": "Il grande salone era immenso."
+        },
+        {
+          "type": "paragraph",
+          "text": "Parquet lucente, lampadari di cristallo sospesi da un soffitto altissimo, luce calda e misurata, un’orchestra che riempiva l’aria senza mai dominarla, camerieri con calici, stuzzichini, formaggi, miele, e tutto ciò che rende una festa nobiliare sufficientemente elegante da sembrare irreale."
+        },
+        {
+          "type": "paragraph",
+          "text": "Prima dell’ingresso ufficiale, però, un uomo li fermò davanti al grande portone a due ante."
+        },
+        {
+          "type": "quote",
+          "text": "Buonasera, signori. Mi è stato affidato l’onore e il compito di annunciare la vostra presenza."
+        },
+        {
+          "type": "quote",
+          "text": "Volete essere presentati in un modo particolare? Un nome per il vostro gruppo? O preferite singolarmente?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Alaster si voltò verso gli altri."
+        },
+        {
+          "type": "quote",
+          "text": "Se volete accettare la proposta che vi ho consigliato l’ultima volta…"
+        },
+        {
+          "type": "paragraph",
+          "text": "Ci fu consenso. Più o meno convinto."
+        },
+        {
+          "type": "paragraph",
+          "text": "E così, con il peso solenne delle decisioni che segnano il destino, nacque ufficialmente il loro nome."
+        },
+        {
+          "type": "quote",
+          "text": "Noi siamo… gli Extermina."
+        },
+        {
+          "type": "paragraph",
+          "text": "L’uomo annuì."
+        },
+        {
+          "type": "quote",
+          "text": "Come desiderate."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le enormi porte si spalancarono."
+        },
+        {
+          "type": "paragraph",
+          "text": "E la voce dell’annunciatore attraversò tutta la sala."
+        },
+        {
+          "type": "quote",
+          "text": "Signore e signori, ho il piacere di annunciarvi i grandi ospiti di questa serata: i membri degli Extermina!"
+        },
+        {
+          "type": "paragraph",
+          "text": "Applausi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Tutti si voltarono."
+        },
+        {
+          "type": "paragraph",
+          "text": "E loro entrarono."
+        },
+        {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-13/Alaster elegante.png",
+          "alt": "Alaster elegante"
+        },
+        {
+          "type": "paragraph",
+          "text": "Alaster apriva la fila, ovviamente."
+        },
+        {
+          "type": "paragraph",
+          "text": "Elegante. Impeccabile. Un calice in mano comparso dal nulla come per diritto divino."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sembrava nato per quel luogo. E forse lo era davvero."
+        },
+        {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-13/Elis elegante.png",
+          "alt": "Elis elegante"
+        },
+        {
+          "type": "paragraph",
+          "text": "Subito dietro, Elis."
+        },
+        {
+          "type": "paragraph",
+          "text": "Con il sorriso giusto, le movenze studiate, e il chiaro tentativo di copiare ogni singolo gesto di Alaster."
+        },
+        {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-13/Nathan elegante.png",
+          "alt": "Nathan elegante"
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan seguiva dopo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Formale. Neutro. Perfetto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non esprimeva personalità. Era semplicemente corretto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Come una carta da parati sacra. Come un paladino."
+        },
+        {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-13/Aelar elegante.png",
+          "alt": "Aelar elegante"
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi Aelar."
+        },
+        {
+          "type": "paragraph",
+          "text": "Smoking elegante, dettagli viola, più raffinato del solito, più britannico del necessario, e soprattutto uno sguardo chiaramente a disagio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Gli mancava Aeren sulla spalla. E si vedeva."
+        },
+        {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-13/Kyran elegante.png",
+          "alt": "Kyran elegante"
+        },
+        {
+          "type": "paragraph",
+          "text": "Infine, Kyran."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ultima, ma decisamente impossibile da ignorare."
+        },
+        {
+          "type": "paragraph",
+          "text": "Piume nere. Rosso e ombra. Presenza magnetica."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non si capiva se il silenzio che generava fosse inquietudine o ammirazione."
+        },
+        {
+          "type": "paragraph",
+          "text": "Probabilmente entrambe."
+        },
+        {
+          "type": "paragraph",
+          "text": "Gli sguardi la seguivano. Le persone parlottavano. Lei li ignorava tutti con l’arte di chi non ha alcuna intenzione di essere lì."
+        },
+        {
+          "type": "paragraph",
+          "text": "Alaster distribuì calici come un generale prima della battaglia."
+        },
+        {
+          "type": "quote",
+          "text": "Godetevi la festa. Fate conoscenze. Ballate. Poi andremo a parlare con i Patriar."
+        },
+        {
+          "type": "quote",
+          "text": "E mi raccomando: non rivelate troppo. Vi faranno domande sul vostro ceto sociale, sul vostro passato, sulle vostre capacità."
+        },
+        {
+          "type": "quote",
+          "text": "Beh… devo dire che Rome ha fatto proprio un bel lavoro con voi. Siate concisi. Per il resto… divertitevi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aelar osservò gli altri."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma la verità era semplice: quello non era il suo posto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Troppa luce. Troppe persone. Troppi occhi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Cercò un angolo più tranquillo. Un mangia-in-piedi. Un posto dove diventare arredamento."
+        },
+        {
+          "type": "paragraph",
+          "text": "Scomparire nella tappezzeria."
+        },
+        {
+          "type": "paragraph",
+          "text": "Kyran lo seguì."
+        },
+        {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-13/Alaster ed Elis.png",
+          "alt": "Aelar elegante"
+        },
+        {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-13/Aelar e Kyran.png",
+          "alt": "Aelar elegante"
+        },
+        {
+          "type": "paragraph",
+          "text": "E lì, finalmente, Aelar fece la cosa più naturale di tutta la serata:"
+        },
+        {
+          "type": "paragraph",
+          "text": "richiamò Aeren."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il gufo. La casa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Solo allora si sentì di nuovo un po’ più sé stesso."
+        },
+        {
+          "type": "paragraph",
+          "text": "E proprio mentre gli Extermina cercavano di sopravvivere alla nobiltà, un’altra figura, molto meno appariscente, entrava nella sala."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un giovane uomo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Vestiti semplici. Presenza anonima. Il tentativo evidente di confondersi con l’ambiente."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma certe persone, anche quando cercano di sparire, finiscono comunque per cambiare la storia."
+        }
+      ]
+    },
+    {
+      "id": "sylvar",
+      "title": "Sylvar si introduce",
+      "videoId":"ik9vUgMQJDM",
+      "blocks": [
+        {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-13/Sylvar al gala.png",
+          "alt": "Sylvar"
+        },
+        {
+          "type": "paragraph",
+          "text": "In mezzo al rumore elegante del gala, tra il vetro dei calici e il fruscio dei vestiti costosi, c’era una figura che sembrava costruita apposta per passare inosservata."
+        },
+        {
+          "type": "paragraph",
+          "text": "O quasi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sylvar."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un giovane uomo sulla trentina, dall’altezza media e dalla corporatura asciutta, priva di quell’esagerazione muscolare che spesso appartiene a chi vuole impressionare."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il suo volto sarebbe potuto scivolare via dalla memoria di chiunque, se non fosse stato per alcuni dettagli impossibili da ignorare."
+        },
+        {
+          "type": "paragraph",
+          "text": "I capelli neri, spezzati da forti ciocche bionde che sembravano quasi bruciature di luce."
+        },
+        {
+          "type": "paragraph",
+          "text": "Gli occhi, grigi e luminosi, capaci sotto certe luci di riflettere una sfumatura azzurrina difficile da spiegare."
+        },
+        {
+          "type": "paragraph",
+          "text": "E soprattutto le cicatrici."
+        },
+        {
+          "type": "paragraph",
+          "text": "Lunghe, nette, non frastagliate, come tagli precisi lasciati da una lama che non aveva esitato."
+        },
+        {
+          "type": "paragraph",
+          "text": "Correvano lungo il volto e sembravano proseguire oltre il collo, come una storia che il vestito non riusciva davvero a nascondere."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma non era l’aspetto a renderlo fuori posto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Era il modo in cui si muoveva."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non voleva attirare attenzione. Anzi. Cercava deliberatamente di evitarla."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sfruttò l’ingresso trionfale degli Extermina come copertura perfetta, lasciando che tutti gli occhi della sala si riversassero su di loro mentre lui si defilava verso i margini del salone."
+        },
+        {
+          "type": "paragraph",
+          "text": "Lontano dal centro. Lontano dalla luce. Lontano dalle persone che contavano."
+        },
+        {
+          "type": "paragraph",
+          "text": "Eppure, per chi sapeva osservare, stonava."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non per il vestiario. Non per la postura."
+        },
+        {
+          "type": "paragraph",
+          "text": "Per il comportamento."
+        },
+        {
+          "type": "paragraph",
+          "text": "Là dove un nobile sa perfettamente quando non fissare, quando abbassare lo sguardo, quando fingere disinteresse per educazione, Sylvar faceva l’opposto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Guardava tutto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Assorbiva."
+        },
+        {
+          "type": "paragraph",
+          "text": "Studiava."
+        },
+        {
+          "type": "paragraph",
+          "text": "Persone, gesti, dettagli, voci, sguardi, distanze, possibilità."
+        },
+        {
+          "type": "paragraph",
+          "text": "Senza il filtro dell’etichetta."
+        },
+        {
+          "type": "paragraph",
+          "text": "C’era qualcosa di quasi selvatico nel suo modo di osservare il mondo. Come chi non appartiene a un posto, ma vuole capirlo prima che il posto provi a divorarlo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Notò subito che anche altri stonavano."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non era il solo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aelar e Kyran, in particolare, portavano addosso quella stessa tensione di chi si trova in una stanza troppo luminosa per sentirsi al sicuro."
+        },
+        {
+          "type": "paragraph",
+          "text": "Kyran soprattutto."
+        },
+        {
+          "type": "paragraph",
+          "text": "La tiefling vestita di rosso e nero, con piume scure e presenza magnetica, sembrava tanto elegante quanto palesemente infastidita dall’esistenza stessa del gala."
+        },
+        {
+          "type": "paragraph",
+          "text": "I loro sguardi si incrociarono."
+        },
+        {
+          "type": "paragraph",
+          "text": "Solo un istante. Il tipo di contatto silenzioso che dice: anche tu non appartieni qui."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nessuno dei due fece nulla."
+        },
+        {
+          "type": "paragraph",
+          "text": "E andava bene così."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan, sorprendentemente, stava cavandosela bene."
+        },
+        {
+          "type": "paragraph",
+          "text": "Parlava con alcuni giovani nobili, sostenendo conversazioni educate grazie alla più potente delle magie sociali: sembrare un bravo ragazzo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Elis, invece, aveva scelto la via opposta."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nessuna strategia raffinata. Nessun calcolo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Si era semplicemente lanciato nel punto della sala dove c’era più gente possibile."
+        },
+        {
+          "type": "paragraph",
+          "text": "Con la serenità irresponsabile di chi non ha davvero compreso l’importanza del luogo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Se qualcuno gli parlava, rispondeva. Tranquillamente. Con l’ingenuità sincera di chi non sa ancora che quella stanza può uccidere anche sorridendo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Alaster, naturalmente, era nel suo elemento."
+        },
+        {
+          "type": "paragraph",
+          "text": "Parlava con nobili giovani e meno giovani, si inseriva nei discorsi, si ritirava quando serviva, lasciava il giusto spazio, offriva il giusto sorriso."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non stava partecipando al gala. Lo stava giocando."
+        },
+        {
+          "type": "paragraph",
+          "text": "E Aelar lo osservava come si osserva qualcuno che parla una lingua che tu non saprai mai davvero imparare."
+        },
+        {
+          "type": "paragraph",
+          "text": "A un certo punto, Elis si avvicinò a un uomo che sembrava abbastanza abbordabile."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un nobile minore. Ben vestito, con tartellette in mano e un calice di vino che sembrava ormai parte anatomica."
+        },
+        {
+          "type": "quote",
+          "text": "«Quindi… voi siete quel gruppo che ha risolto il problema del Culto dei Tre Morti.»"
+        },
+        {
+          "type": "quote",
+          "text": "«Sì. Possiamo prenderci parte del merito.»"
+        },
+        {
+          "type": "quote",
+          "text": "«Mi avete fatto un gran favore, sapete. Quei disgraziati stavano creando parecchio scompiglio nel mio territorio.»"
+        },
+        {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-13/Alaster ed Elis con il nobile.png",
+          "alt": "Adam Whitburn"
+        },
+        {
+          "type": "paragraph",
+          "text": "Si presentò come Adam Whitburn, proprietario di diversi negozi nella zona commerciale della Città Bassa e di alcuni esercizi anche nella Città Alta."
+        },
+        {
+          "type": "paragraph",
+          "text": "Elis, con la naturalezza di chi improvvisa con assoluta fiducia, citò perfino una gioielleria per sembrare perfettamente a suo agio."
+        },
+        {
+          "type": "paragraph",
+          "text": "E funzionò."
+        },
+        {
+          "type": "paragraph",
+          "text": "O abbastanza."
+        },
+        {
+          "type": "paragraph",
+          "text": "Adam però non era interessato davvero a lui."
+        },
+        {
+          "type": "paragraph",
+          "text": "Voleva Alaster."
+        },
+        {
+          "type": "quote",
+          "text": "«Speravo potesse presentarmi il suo amico.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "E così, con la dignità di chi sta fingendo di sapere perfettamente cosa sta facendo, Elis andò a recuperarlo."
+        },
+        {
+          "type": "quote",
+          "text": "«Ehi Alaster, qua c’è qualcuno che ti vuole conoscere.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Alaster si staccò dal suo gruppo di nobili con un’eleganza che sembrava allenata fin dall’infanzia."
+        },
+        {
+          "type": "quote",
+          "text": "«Scusatemi un attimo, miei nobili signori.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Si avvicinò."
+        },
+        {
+          "type": "paragraph",
+          "text": "Adam Whitburn era già pronto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Parlò di conoscenze. Di commerci. Di potenziali collaborazioni. Di interessi reciproci."
+        },
+        {
+          "type": "paragraph",
+          "text": "In altre parole: il linguaggio preferito della nobiltà."
+        },
+        {
+          "type": "paragraph",
+          "text": "Alaster, pur chiaramente scocciato dall’interruzione, entrò immediatamente nel ruolo."
+        },
+        {
+          "type": "quote",
+          "text": "«Collaborazione, dice? Di che tipo esattamente?»"
+        },
+        {
+          "type": "paragraph",
+          "text": "E con un nuovo calice in mano, lui, Elis e il signor Whitburn si appartarono per discutere di affari."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aelar li guardò allontanarsi con l’espressione di chi pensa: che palle."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma altrove, un’altra battaglia sociale stava per iniziare."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un giovane nobile si avvicinò a Kyran."
+        },
+        {
+          "type": "quote",
+          "text": "«Buongiorno. Mi presento. Sono Oliver. Posso chiederle il suo nome?\n\nL’ho notata in mezzo a questa marea di gente e non ho potuto fare a meno di venire a parlarle.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Aelar fece immediatamente un passo di lato. Istinto di sopravvivenza."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma Kyran, con assoluta perfidia, gli parlò in elfico:"
+        },
+        {
+          "type": "quote",
+          "text": "«Resta qui. Per favore.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "E lui rispose, nello stesso idioma:"
+        },
+        {
+          "type": "quote",
+          "text": "«Solo perché me lo chiedi tu.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Il resto fu una lenta agonia elegante."
+        },
+        {
+          "type": "paragraph",
+          "text": "Oliver parlava. Kyran cercava vie di fuga. Aelar assisteva come un uomo che osserva un incendio da una distanza di sicurezza."
+        },
+        {
+          "type": "quote",
+          "text": "«Facciamo magari un’altra volta. Stavo discutendo con il mio amico di questioni importanti. E private.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Oliver capì. Male, ma capì."
+        },
+        {
+          "type": "paragraph",
+          "text": "Fece un piccolo inchino e si ritirò con la dignità ferita di chi aveva appena scoperto che il proprio fascino non era sufficiente."
+        },
+        {
+          "type": "quote",
+          "text": "«Non so te, ma odio stare al centro dell’attenzione.»"
+        },
+        {
+          "type": "quote",
+          "text": "«A chi lo dici.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "E proprio mentre i due cercavano disperatamente un modo per sembrare occupati abbastanza da evitare altri approcci, le porte del gala si riaprirono."
+        },
+        {
+          "type": "paragraph",
+          "text": "Questa volta, accompagnate dal suono delle trombe."
+        },
+        {
+          "type": "paragraph",
+          "text": "E la sala intera cambiò."
+        },
+        {
+          "type": "quote",
+          "text": "«Signore e signori! Ho il piacere di presentare il qui presente… Consigliere Gortash.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "E quando lui entrò, perfino il rumore del gala sembrò trattenere il fiato."
+        }
+      ]
+    },
+    {
+      "id": "darren",
+      "title": "L’uomo che aspettava Darren",
+      "videoId": "Dk55jr0D0kc",
+      "blocks": [
+        {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-13/Sylvar e Fauler.png",
+          "alt": "Sylvar"
+        },
+        {
+          "type": "paragraph",
+          "text": "Mentre il resto del gala tratteneva il respiro per l’ingresso del Consigliere Gortash, per Sylvar la serata prese una piega molto diversa."
+        },
+        {
+          "type": "paragraph",
+          "text": "La cameriera che lo aveva urtato stava ancora tentando disperatamente di rimediare al danno, asciugando come poteva il vino rovesciato sui suoi vestiti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Tremava quasi più lei di lui."
+        },
+        {
+          "type": "quote",
+          "text": "«Mi perdoni… mi sono distratta… non volevo… la prego, non lo dica al maître…»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma prima che Sylvar potesse rispondere, una nuova voce si inserì nella scena."
+        },
+        {
+          "type": "paragraph",
+          "text": "Calma. Educata. E per questo, infinitamente più pericolosa."
+        },
+        {
+          "type": "quote",
+          "text": "«Sarebbe meglio che ti allontanassi. Sono sicuro che tu abbia già fatto abbastanza danni, non credi?»"
+        },
+        {
+          "type": "paragraph",
+          "text": "La cameriera si irrigidì."
+        },
+        {
+          "type": "quote",
+          "text": "«Sì, certo. Mi scusi ancora.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "E sparì, felice di poter fuggire da quella presenza."
+        },
+        {
+          "type": "paragraph",
+          "text": "L’uomo rimasto davanti a lui era vestito con un’eleganza studiata, una di quelle che non cercano di impressionare perché danno per scontato di riuscirci."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sorrideva."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sempre."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non un sorriso caldo. Non un sorriso sincero. Un sorriso composto, fisso, quasi professionale."
+        },
+        {
+          "type": "quote",
+          "text": "«Non esiste più la servitù di una volta. Loro erano efficienti. Formali. Erano ombre nella notte.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Fece un mezzo inchino, senza offrire davvero la mano."
+        },
+        {
+          "type": "quote",
+          "text": "«Piacere. Lucius Fowler.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Il nome si posò nell’aria come qualcosa che andava ricordato."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sylvar lo osservò con attenzione."
+        },
+        {
+          "type": "paragraph",
+          "text": "Troppo attento."
+        },
+        {
+          "type": "paragraph",
+          "text": "Troppo presente."
+        },
+        {
+          "type": "paragraph",
+          "text": "Uno di quegli uomini che sembrano sapere sempre qualcosa prima ancora che venga detta."
+        },
+        {
+          "type": "quote",
+          "text": "«Noto che siete alquanto fuori luogo. Provenite… dall’esterno.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Sylvar lasciò emergere appena il proprio accento, quel tanto che bastava per confermare il sospetto."
+        },
+        {
+          "type": "quote",
+          "text": "«Direi che ci ha fatto centro, signor Lucius.»"
+        },
+        {
+          "type": "quote",
+          "text": "«Lucius, certo.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Nel frattempo, senza neppure interrompere il contatto visivo, prese un calice da un cameriere di passaggio con la naturalezza di chi prende ciò che considera già suo."
+        },
+        {
+          "type": "quote",
+          "text": "«Lei… per quale motivo è qui? Mi sembra molto spaesato.»"
+        },
+        {
+          "type": "quote",
+          "text": "«Non direi che sono spaesato. Sto solo cercando qualcuno che possa stuzzicare la mia attenzione.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Lucius sorrise appena di più."
+        },
+        {
+          "type": "quote",
+          "text": "«Oh. Allora l’ha trovato.»"
+        },
+        {
+          "type": "quote",
+          "text": "«No.»"
+        },
+        {
+          "type": "quote",
+          "text": "«Sì. Dà il caso che io sia un’ottima compagnia. E un ottimo bevitore. Prego.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Gli si avvicinò, quasi prendendolo al fianco, guidandolo a camminare con lui come se la conversazione fosse già decisa."
+        },
+        {
+          "type": "quote",
+          "text": "«Mi parli di lei.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Fu allora che Sylvar sentì il bisogno di guardare oltre le buone maniere."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non le parole. L’intenzione."
+        },
+        {
+          "type": "paragraph",
+          "text": "Fece scivolare l’attenzione sotto la superficie elegante e trovò esattamente ciò che Baldur’s Gate produceva meglio:"
+        },
+        {
+          "type": "paragraph",
+          "text": "un uomo che non faceva mai nulla senza un secondo fine."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non era una sorpresa. Era quasi la norma."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma in lui quella sensazione sembrava più affilata. Più precisa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Forse Sylvar si irrigidì appena. Forse il cuore accelerò."
+        },
+        {
+          "type": "paragraph",
+          "text": "Perché Lucius lo notò subito."
+        },
+        {
+          "type": "quote",
+          "text": "«Il suo cuore batte un po’ troppo velocemente. La metto per caso a disagio?»"
+        },
+        {
+          "type": "quote",
+          "text": "«No, deve scusarmi. C’era stato un po’… il vino.»"
+        },
+        {
+          "type": "quote",
+          "text": "«Il vino. Capisco.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Una pausa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi Lucius inclinò appena il capo."
+        },
+        {
+          "type": "quote",
+          "text": "«Lei sa… emana un odore molto particolare.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "E lì qualcosa cambiò."
+        },
+        {
+          "type": "quote",
+          "text": "«Quasi… selvatico. Non viene da Baldur’s Gate.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Sylvar sostenne lo sguardo."
+        },
+        {
+          "type": "quote",
+          "text": "«Continui. Continua a indovinare.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Lucius sorseggiò."
+        },
+        {
+          "type": "quote",
+          "text": "«Sinceramente… mi sarei lavato, venendo qui.\n\nSa… l’odore del sangue è difficile da togliersi di dosso.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "E il sorriso restò."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sempre quello."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma ora era peggio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Perché Sylvar capì."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non era una battuta. Non era una provocazione casuale."
+        },
+        {
+          "type": "paragraph",
+          "text": "Lui sapeva."
+        },
+        {
+          "type": "paragraph",
+          "text": "O almeno, sapeva abbastanza."
+        },
+        {
+          "type": "paragraph",
+          "text": "Una lampadina si accese dietro gli occhi di Sylvar."
+        },
+        {
+          "type": "paragraph",
+          "text": "Darren."
+        },
+        {
+          "type": "paragraph",
+          "text": "L’uomo che avrebbe dovuto essere lì."
+        },
+        {
+          "type": "paragraph",
+          "text": "L’uomo che non era arrivato."
+        },
+        {
+          "type": "paragraph",
+          "text": "L’uomo che lui aveva trovato immerso nel sangue."
+        },
+        {
+          "type": "paragraph",
+          "text": "Lucius continuò, come se stessero parlando del tempo."
+        },
+        {
+          "type": "quote",
+          "text": "«Successo. Denaro. Potere. Sono tutte cose che qualsiasi mortale ambisce.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma Sylvar ormai non stava più ascoltando il gala. Non ascoltava più la musica."
+        },
+        {
+          "type": "paragraph",
+          "text": "Solo lui."
+        },
+        {
+          "type": "quote",
+          "text": "«Chi è lei?»"
+        },
+        {
+          "type": "paragraph",
+          "text": "E allora Lucius smise di sorridere."
+        },
+        {
+          "type": "paragraph",
+          "text": "Solo per un istante."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma bastò."
+        },
+        {
+          "type": "paragraph",
+          "text": "La pressione arrivò come una mano invisibile chiusa attorno al petto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Schiacciante. Intollerabile."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sylvar non riuscì a muoversi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nessuna formula pronunciata. Nessun gesto teatrale."
+        },
+        {
+          "type": "paragraph",
+          "text": "Solo potere."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nudo."
+        },
+        {
+          "type": "quote",
+          "text": "«Sono solamente un uomo alla disperata ricerca della sorella.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Il respiro tornò appena."
+        },
+        {
+          "type": "quote",
+          "text": "«Se vuole un nome… io sono Sylvar.»"
+        },
+        {
+          "type": "quote",
+          "text": "«Ah. Ci voleva così tanto?»"
+        },
+        {
+          "type": "quote",
+          "text": "«Non lo so. Ho provato a giocare a questi giochetti che fate voi nobili. Non è cosa per me.»"
+        },
+        {
+          "type": "quote",
+          "text": "«I giochetti dei nobili li lascio fare a questa gente di poco conto. I miei giochi sono un po’ più… personali.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Ora che aveva il nome, Lucius sembrava quasi soddisfatto."
+        },
+        {
+          "type": "quote",
+          "text": "«Lei ha detto che è alla ricerca di sua sorella? Curioso.\n\nIo in realtà aspettavo un uomo perché lavorasse per me.\n\nE ora che lei ha preso il suo posto… mi dica. Chi svolgerà questo lavoro per me?»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Darren."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non c’erano più dubbi."
+        },
+        {
+          "type": "quote",
+          "text": "«Vecchio Darren è rimasto ancora a casa. Non riesce a muoversi dal suo letto.»"
+        },
+        {
+          "type": "quote",
+          "text": "«Oh, lo credo. Con tutto il sangue che avrà perso, dubito potrà muoversi per molto, molto, molto tempo.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "La conferma arrivò così. Con eleganza. E crudeltà."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sylvar voleva spaccargli la faccia."
+        },
+        {
+          "type": "paragraph",
+          "text": "Subito."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma non era il momento."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non lì."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non ancora."
+        },
+        {
+          "type": "quote",
+          "text": "«Potrei considerare di sostituirlo.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Lucius sorrise di nuovo. Peggio di prima."
+        },
+        {
+          "type": "quote",
+          "text": "«Ah. Mi piace.\n\nQuando la gente è collaborativa, tutto è più facile.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Estrasse un piccolo biglietto nero e glielo porse."
+        },
+        {
+          "type": "quote",
+          "text": "«Se vorrai parlare di lavoro, incontriamoci qui.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Locanda della Lanterna Bassa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il nome scritto in corsivo. Elegante. Preciso."
+        },
+        {
+          "type": "paragraph",
+          "text": "E forse… lo stesso tratto che Sylvar aveva già visto altrove."
+        },
+        {
+          "type": "quote",
+          "text": "«Sarà un piacere fare affari con lei.»"
+        },
+        {
+          "type": "quote",
+          "text": "«Attendo con ansia il nostro prossimo incontro, signor Sylvar.\n\nLe auguro una splendida serata.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "E la pressione svanì."
+        },
+        {
+          "type": "paragraph",
+          "text": "Lucius passò oltre, diretto verso il centro della sala, come se nulla fosse accaduto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sylvar rimase fermo."
+        },
+        {
+          "type": "paragraph",
+          "text": "I denti serrati. La mascella tesa. La voglia violentissima di inseguirlo e finirla lì."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma si trattenne."
+        },
+        {
+          "type": "paragraph",
+          "text": "Perché adesso non servivano esplosioni."
+        },
+        {
+          "type": "paragraph",
+          "text": "Serviva pazienza."
+        },
+        {
+          "type": "paragraph",
+          "text": "E forse, alla fine, non avrebbe nemmeno avuto bisogno di inventarsi un modo per arrivare ad Amrik Vanthampur."
+        },
+        {
+          "type": "paragraph",
+          "text": "Forse, la strada era appena venuta da lui."
+        }
+      ]
+    },
+    {
+      "id": "gortash",
+      "title": "Il brindisi di Gortash",
+      "videoId": "uoV4LCg4YCg",
+      "blocks": [
+        {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-13/Gortash.png",
+          "alt": "Gortash"
+        },
+        {
+          "type": "paragraph",
+          "text": "Al centro della sala, il Consigliere Gortash avanzava come se il gala fosse stato costruito soltanto per il suo passaggio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non aveva bisogno di alzare la voce. Non aveva bisogno di presentarsi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le persone lo guardavano e basta."
+        },
+        {
+          "type": "paragraph",
+          "text": "Alcuni con rispetto. Alcuni con paura. Alcuni con quella forma di ammirazione che nasce quando il potere diventa spettacolo."
+        },
+        {
+          "type": "paragraph",
+          "text": "E mentre si muoveva tra la nobiltà, Alaster si accorse che la sua traiettoria, prima o poi, lo avrebbe inevitabilmente portato verso di loro."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma prima ancora che ciò accadesse, un dito gli sfiorò la spalla da dietro."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un gesto minuscolo. Sufficiente a farlo irrigidire."
+        },
+        {
+          "type": "quote",
+          "text": "«Chi osa toccarmi?»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Quando si voltò, trovò un volto che ricordava perfettamente."
+        },
+        {
+          "type": "paragraph",
+          "text": "Farah Claydon."
+        },
+        {
+          "type": "paragraph",
+          "text": "Elegante, affilata, ironica. Una donna che sembrava capace di trasformare ogni conversazione in un duello."
+        },
+        {
+          "type": "quote",
+          "text": "«Oh, ma tu guarda un po’ chi si rivede. Rieccoci.»"
+        },
+        {
+          "type": "quote",
+          "text": "«Vedo che i modi per apprezzare le donne non sono ancora stati aggiornati.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Alaster recuperò immediatamente il proprio aplomb."
+        },
+        {
+          "type": "quote",
+          "text": "«Non sono abituato al contatto fisico non richiesto. Anche se è una donna bella come lei a farlo.»"
+        },
+        {
+          "type": "quote",
+          "text": "«Già meglio. Apprezzo lo sforzo, almeno.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Farah sorrise. Non per gentilezza. Per divertimento."
+        },
+        {
+          "type": "quote",
+          "text": "«Mi ha sorpresa, in realtà, vederla in mezzo a tutti quanti qui.»"
+        },
+        {
+          "type": "quote",
+          "text": "«In realtà, io mi sono ancora sorpreso di più a vederla uscire viva da quel mercato nero.»"
+        },
+        {
+          "type": "quote",
+          "text": "«Lei mi sta sottovalutando troppo, signorina Claydon.»"
+        },
+        {
+          "type": "quote",
+          "text": "«No. Cerco semplicemente di essere realista.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Aelar li osservava da lontano, una tortina in mano e l’espressione curiosa di chi ha appena capito che forse quella “nobile qualunque” non era affatto qualunque."
+        },
+        {
+          "type": "quote",
+          "text": "«Ehi, Alaster… assaggia questa tortina, è davvero buona.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma Alaster era già altrove."
+        },
+        {
+          "type": "paragraph",
+          "text": "E mentre parlava con Farah, lei accennò a ciò che stava cercando: un cimelio."
+        },
+        {
+          "type": "quote",
+          "text": "«Principalmente mi sto annoiando. Ma sono alla ricerca di qualcosa. Qualcosa di interessante.»"
+        },
+        {
+          "type": "quote",
+          "text": "«Un cimelio, potremmo dire in questo modo.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Alaster si fece più attento."
+        },
+        {
+          "type": "quote",
+          "text": "«Un cimelio, dice? E che forma ha questo ornamento, se posso chiedere?»"
+        },
+        {
+          "type": "quote",
+          "text": "«È una pietra. Una pietra blu. Una come tante altre.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Una pietra blu."
+        },
+        {
+          "type": "paragraph",
+          "text": "Per un istante, nella mente di Alaster, si accese un collegamento immediato: il bottino del Culto dei Tre Morti. La gemma trovata nella cripta."
+        },
+        {
+          "type": "paragraph",
+          "text": "La conosceva."
+        },
+        {
+          "type": "paragraph",
+          "text": "O almeno, conosceva qualcosa di molto simile."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma certe informazioni non si regalano soltanto perché una bella donna sorride bene."
+        },
+        {
+          "type": "quote",
+          "text": "«Sarà difficile trovare un simile cimelio in città. In fondo Baldur’s Gate è così grande.»"
+        },
+        {
+          "type": "quote",
+          "text": "«Ho visto regni più grandi. Ma non così tanto popolati come questo.»"
+        },
+        {
+          "type": "quote",
+          "text": "«Se vuole il mio aiuto… vorrei farle una richiesta.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Farah sollevò appena un sopracciglio."
+        },
+        {
+          "type": "quote",
+          "text": "«Vedo che la sua natura balduriana è finalmente uscita allo scoperto.»"
+        },
+        {
+          "type": "quote",
+          "text": "«Lei fraintende, forse, le mie intenzioni.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "E allora Alaster fece la cosa più Alaster possibile."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le porse la mano."
+        },
+        {
+          "type": "quote",
+          "text": "«Le va un ballo?»"
+        },
+        {
+          "type": "quote",
+          "text": "«Sono un po’ arrugginita.»"
+        },
+        {
+          "type": "quote",
+          "text": "«Tranquilla. Ti guiderò io.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "E così, con assoluta naturalezza, la portò al centro della sala."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non era una danza veloce. Non spettacolare."
+        },
+        {
+          "type": "paragraph",
+          "text": "Era lenta. Vicina. Quasi una conversazione fatta con il corpo."
+        },
+        {
+          "type": "paragraph",
+          "text": "E mentre ballavano, Farah lo osservò con attenzione."
+        },
+        {
+          "type": "quote",
+          "text": "«Mi sembri cambiato dall’ultima volta che ti ho visto.»"
+        },
+        {
+          "type": "quote",
+          "text": "«Diciamo che ho acquisito più sicurezza nelle mie abilità.»"
+        },
+        {
+          "type": "quote",
+          "text": "«Di certo l’hai acquisita nelle parole.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Alaster sorrise."
+        },
+        {
+          "type": "quote",
+          "text": "«Sarebbe strano non fare altrimenti. In fondo, per il momento, la vita mi sorride.\n\nHo raggiunto uno status impeccabile. Ma c’è sempre modo di crescere. E di apprendere nuove cose. L’ho imparato in questi giorni.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Le sue parole si fecero più sincere."
+        },
+        {
+          "type": "quote",
+          "text": "«Avvicinandomi a persone diverse dal solito, ho imparato che non devo giudicare troppo presto dalla copertina.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Farah lo guardò come se stesse cercando qualcosa dietro il volto."
+        },
+        {
+          "type": "quote",
+          "text": "«Non te l’ho mai chiesto, ma hai un aspetto così nobiliare, quasi come il mio. Eppure non sei di queste terre, vero? Vieni da molto lontano.»"
+        },
+        {
+          "type": "quote",
+          "text": "«Sì. Non vengo da qui. Vengo da una parte… più remota.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi fu lei a concedere qualcosa."
+        },
+        {
+          "type": "quote",
+          "text": "«Quando ti ho visto prima… ho notato qualcosa nei tuoi occhi.\n\nPer un momento mi sono preoccupata. Ho visto qualcosa di oscuro dentro di te.\n\nMa da quello che mi hai detto… dalle parole rivolte ai tuoi compagni… penso di essermi sbagliata.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Alaster, con l’ego di chi si sente improvvisamente protagonista di un romanzo, si aggrappò alla parte giusta della frase."
+        },
+        {
+          "type": "quote",
+          "text": "«Hai fatto molta attenzione ai miei occhi.»"
+        },
+        {
+          "type": "quote",
+          "text": "«Gli occhi riflettono ciò che c’è dentro. Da queste parti si dice che sono lo specchio dell’anima.»"
+        },
+        {
+          "type": "quote",
+          "text": "«Beh, dalle mie parti ha un significato simile.»"
+        },
+        {
+          "type": "quote",
+          "text": "«Effettivamente, anche i tuoi occhi sembrano quasi degli oceani sconfinati.»"
+        },
+        {
+          "type": "quote",
+          "text": "«Su questo ci deve lavorare meglio.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Eppure sorrise."
+        },
+        {
+          "type": "quote",
+          "text": "«Dalle mie parti è più importante che il cuore sia leggero come una piuma, che avere degli occhi belli.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "La musica terminò."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il ballo finì lì."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma non il gioco."
+        },
+        {
+          "type": "quote",
+          "text": "«Credo che la prossima volta potremo rincontrarci in occasioni ancora più rosee.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Farah si stava già allontanando, ma Alaster la fermò ancora."
+        },
+        {
+          "type": "quote",
+          "text": "«Per il nostro prossimo incontro… mi piacerebbe sapere almeno dove poterla trovare, signorina Claydon.\n\nSe dovessi mai trovare questa pietra, mi piacerebbe consegnargliela di persona.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Lei si voltò appena. Un sorriso sottile."
+        },
+        {
+          "type": "quote",
+          "text": "«Oh, beh. Se mai dovessi trovare questa pietra…\n\nTi basterà mostrarla al cielo.\n\nIo vedo tutto, signor Alaster. Io vedo ogni cosa.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "E con quelle parole si allontanò davvero."
+        },
+        {
+          "type": "paragraph",
+          "text": "Alaster rimase fermo, il calice in mano, e un solo pensiero perfettamente limpido:"
+        },
+        {
+          "type": "quote",
+          "text": "«È proprio una bella giornata.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Era tornato nella Città Alta. Aveva bevuto Excelsior. Aveva umiliato suo fratello. E aveva appena ballato con una donna pericolosamente interessante."
+        },
+        {
+          "type": "paragraph",
+          "text": "Best day ever."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nel frattempo, Aelar aveva fatto una scelta profondamente discutibile."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aveva deciso di andare dritto verso Gortash."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non perché sapesse qualcosa. Non perché avesse un piano."
+        },
+        {
+          "type": "paragraph",
+          "text": "Per curiosità."
+        },
+        {
+          "type": "paragraph",
+          "text": "La forma più letale di tutte."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma non fu necessario raggiungerlo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Fu Gortash a raggiungere loro."
+        },
+        {
+          "type": "paragraph",
+          "text": "Si avvicinò ad Aelar e Kyran, che come sempre stavano tentando di diventare parte dell’arredamento."
+        },
+        {
+          "type": "quote",
+          "text": "«Una così bella festa in vostro onore e vi vedo qui, in disparte.»"
+        },
+        {
+          "type": "quote",
+          "text": "«Beh… come può immaginare, non tutti sono abituati a tante attenzioni. Preferisco restare un po’ in disparte. Non sono abituato ad avere tanta attenzione addosso.»"
+        },
+        {
+          "type": "quote",
+          "text": "«Un uomo da prima linea, vedo. La capisco.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi Elis si intromise con l’eleganza di un mattone lanciato."
+        },
+        {
+          "type": "quote",
+          "text": "«Per quanto mi riguarda, ci stiamo divertendo.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Gortash lo guardò con un sopracciglio leggermente sollevato. Il classico sguardo che significa: e tu chi cazzo sei?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma riconobbe il gruppo."
+        },
+        {
+          "type": "quote",
+          "text": "«Sono contento che stiate divertendo. Ho sentito che siete riusciti a sgominare gran parte del Culto dei Tre Morti.\n\nI miei complimenti. Non è cosa da tutti riuscire a mettere i bastoni tra le mani di certa gente.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "La sua mano portava il solito anello. Il gioiello che lo accompagnava sempre. Ancora incompleto. Ancora privo di qualcosa."
+        },
+        {
+          "type": "paragraph",
+          "text": "E Aelar, osservandolo, non riusciva a scrollarsi di dosso la sensazione che quell’uomo sapesse molto più di quanto dicesse."
+        },
+        {
+          "type": "quote",
+          "text": "«È un onore per noi incontrarla. Abbiamo visto come è stato introdotto. Evidentemente abbiamo a che fare con una persona di elevato prestigio.»"
+        },
+        {
+          "type": "quote",
+          "text": "«Ah sì. Ma eccole ovviamente. Non è una cosa che in realtà io meriti davvero.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "E quella bugia fu detta con tale eleganza da sembrare quasi arte."
+        },
+        {
+          "type": "quote",
+          "text": "«Gortash, consigliere Gortash. Sono uno che gestisce un po’ tutto qui.»"
+        },
+        {
+          "type": "quote",
+          "text": "«E allora direi che le trombe sono più che meritate.»"
+        },
+        {
+          "type": "quote",
+          "text": "«La prossima volta, infatti, ho richiesto un’intera orchestra. Qualche piccola tromba di certo non mi glorifica appieno.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Kyran, con perfetta calma, chiese:"
+        },
+        {
+          "type": "quote",
+          "text": "«Non è un po’ faticoso sapere che in qualunque stanza entri verrai annunciato così, signor Gortash? Non le piacerebbe ogni tanto un po’ di tranquillità?»"
+        },
+        {
+          "type": "quote",
+          "text": "«No, mio giovane tiefling.\n\nEssere annunciato… essere venerato… in questi modi, diciamo, solletica parecchio il mio spirito.»"
+        },
+        {
+          "type": "quote",
+          "text": "«Ho un vecchio detto di una terra lontana che diceva: date a Cesare ciò che è di Cesare.\n\nIo l’ho un po’ modificato. Adattato alla città moderna.\n\nDate a Gortash ciò che è di Gortash.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "E nessuno, nemmeno per un secondo, dubitò che lo pensasse davvero."
+        }
+      ]
+    }
+  ]
+}

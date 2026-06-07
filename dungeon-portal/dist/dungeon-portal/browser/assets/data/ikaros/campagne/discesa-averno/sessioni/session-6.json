@@ -1,0 +1,2631 @@
+{
+  "$schema": "./session.schema.json",
+  "id": 6,
+  "title": "Sessione 6",
+  "videoId": "kBGIV2Dv70w",
+  "chapters": [
+    {
+      "id": "peso",
+      "title": "Il peso del silenzio",
+      "videoId": "-x5-mibVu1g",
+      "blocks": [
+        {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/Scontri/La_morte_di_Flenner.png",
+          "alt": "La morte di Flenner"
+        },
+        {
+          "type": "paragraph",
+          "text": "Eravamo rimasti lì. Nel respiro sospeso che segue la violenza. Nel momento esatto in cui la lama di Nathan aveva attraversato Flenner da parte a parte, ponendo fine alla sua furia e alla sua agonia."
+        },
+        {
+          "type": "paragraph",
+          "text": "La spada lo trafisse con decisione, senza esitazione. Un colpo pulito. Definitivo. Il metallo emerse dietro la schiena dell’uomo come un sigillo inciso nel sangue, e per un istante nessuno parlò."
+        },
+        {
+          "type": "paragraph",
+          "text": "Flenner esalò l’ultimo respiro con lo sguardo fisso su di voi. Non c’era odio nei suoi occhi. Nessuna maledizione. Nessuna rabbia."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sembrava quasi… sollevato."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non vi ringraziò — non con parole — ma nel modo in cui il suo volto si distese, nel modo in cui la tensione abbandonò le sue spalle, vi fu qualcosa che somigliava a una liberazione. Come se quel colpo fosse stato l’unica fine possibile. L’unica pace concessa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le sue ultime parole erano state una sola."
+        },
+        {
+          "type": "quote",
+          "text": "Finalmente… il silenzio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi il suo corpo cedette."
+        },
+        {
+          "type": "paragraph",
+          "text": "Siete esausti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il combattimento è stato lungo. Intenso. Spietato. Le vostre braccia tremano ancora per lo sforzo, le armature sono segnate, i mantelli lacerati. Il sudore si mescola al sangue, e il sangue non è tutto dei vostri nemici."
+        },
+        {
+          "type": "paragraph",
+          "text": "C’è chi è caduto durante lo scontro, chi ha sentito il buio avvicinarsi prima di essere richiamato indietro con la forza della volontà… o con la magia di un compagno. Vi siete rialzati. Ma non senza pagare un prezzo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Kleyton è ferito. Lo vedete mentre si tiene il fianco; il sangue che macchia le sue dita ha una tonalità innaturale, leggermente violacea. Un colore che non dovrebbe appartenere a un uomo. Tampona le ferite con gesto teso, serrando i denti per non mostrare debolezza."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non è in pericolo di vita. Ma è segnato."
+        },
+        {
+          "type": "paragraph",
+          "text": "Intorno a voi il silenzio pesa. I battiti del cuore, prima martellanti come tamburi di guerra, iniziano lentamente a rallentare. Il respiro si fa meno affannoso. Le mani smettono di tremare."
+        },
+        {
+          "type": "paragraph",
+          "text": "Restate lì, sporchi di sangue e di polvere, con il corpo di Flenner ai vostri piedi e la consapevolezza che qualcosa si è concluso."
+        },
+        {
+          "type": "paragraph",
+          "text": "E qualcosa di nuovo sta per cominciare."
+        }
+      ]
+    },
+    {
+      "id": "essenza",
+      "title": "L’essenza che non svanisce",
+      "videoId": "ljlbwkcG1kM",
+      "blocks": [
+        {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/eventi/essenza.png",
+          "alt": "Essenza"
+        },
+        {
+          "type": "paragraph",
+          "text": "Mentre il silenzio tornava a posarsi sulle rovine del tempio, fu Kyran a vedere ciò che nessun altro poté scorgere."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dal petto esanime di Flenner si sollevava una scia sottile, azzurrina, chiara come la luce filtrata attraverso l’acqua. Non saliva verso il cielo. Non si dissolveva. Ondeggiava lenta, come un’alga immersa nel mare, trattenuta da correnti invisibili."
+        },
+        {
+          "type": "paragraph",
+          "text": "Solo lei la vedeva."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nei suoi occhi passò un lampo di consapevolezza. Aveva studiato. Aveva ascoltato racconti, insegnamenti sussurrati ai margini della vita e della morte. Sapeva che quel fenomeno esisteva. Ma non l’aveva mai osservato davvero."
+        },
+        {
+          "type": "paragraph",
+          "text": "E ora era lì."
+        },
+        {
+          "type": "paragraph",
+          "text": "La vedete agitarsi, frugare tra le vesti e nello zaino con movimenti febbrili. È rapida, ma impanicata. È la prima volta che compie un gesto simile."
+        },
+        {
+          "type": "quote",
+          "text": "Kyran, cosa stai facendo?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Non risponde."
+        },
+        {
+          "type": "paragraph",
+          "text": "I vostri sguardi si incrociano, perplessi. Per voi sta solo afferrando l’aria."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sull’altare restano un libro, simboli sacri, collane, candele nere ormai spente. Kyran ne afferra una e la porta sopra il petto di Flenner, tentando di “tappare” quella luce come si soffocherebbe una fiamma con uno stoppino."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nulla accade."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi — lei sola lo percepisce — una vibrazione sottile. Non nel corpo del morto. Nella propria piuma."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il piccolo ciondolo che termina con una piuma argentata sembra risuonare, non vibrando davvero, ma entrando in risonanza con qualcosa di invisibile."
+        },
+        {
+          "type": "paragraph",
+          "text": "Abbandona la candela. Estrae la piuma."
+        },
+        {
+          "type": "paragraph",
+          "text": "La solleva sopra quella scia luminosa, che intanto si sta affievolendo, diventando più tiepida, più fragile. È questione di istanti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Arriva appena in tempo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il filo azzurro risale come attratto, viene catturato. La piuma brilla lievemente. Minuscole scintille si sprigionano, come gocce di luce che si staccano e svaniscono nell’aria."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi tutto si ferma."
+        },
+        {
+          "type": "paragraph",
+          "text": "La piuma torna opaca. Silenziosa. Inerte."
+        },
+        {
+          "type": "paragraph",
+          "text": "Agli occhi degli altri, nulla di tutto ciò è esistito."
+        },
+        {
+          "type": "paragraph",
+          "text": "Avete visto solo Kyran agitarsi, brandire una candela nel vuoto, poi estrarre il suo ciondolo e posarlo per un istante sul cadavere, prima di riporlo sotto le vesti con aria composta."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un gesto strano. Frettoloso. Quasi folle."
+        },
+        {
+          "type": "paragraph",
+          "text": "Alaster la osserva, ma al tempo stesso scruta il tempio distrutto. I cadaveri. Le ombre. Le macerie della statua ora in frantumi. Si guarda le mani, le stringe lentamente, come a verificare che siano ancora sue."
+        },
+        {
+          "type": "paragraph",
+          "text": "Intorno a voi, solo detriti e silenzio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Qualcuno rompe l’attimo:"
+        },
+        {
+          "type": "quote",
+          "text": "È meglio che ci sbrighiamo. Non sappiamo se quelli all’ingresso abbiano sentito tutto questo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le pareti sono spesse. C’era una porta. Forse siete ancora soli. Forse no."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aelar si avvicina a Kyran."
+        },
+        {
+          "type": "quote",
+          "text": "Tutto bene? Ho visto che armeggiavi sul cadavere. Stavi cercando qualcosa?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Lei ti guarda."
+        },
+        {
+          "type": "quote",
+          "text": "Diciamo un compito più che altro che mi è stato affidato."
+        },
+        {
+          "type": "quote",
+          "text": "Un compito affidato? Hai a che fare con i cultisti di Myrkul?"
+        },
+        {
+          "type": "quote",
+          "text": "No. Se fosse per me potrebbero andare tutti… a morire."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un silenzio carico."
+        },
+        {
+          "type": "quote",
+          "text": "Con questo siamo tutti d’accordo, penso."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ti volti verso Nathan."
+        },
+        {
+          "type": "quote",
+          "text": "Kyran è sempre molto misteriosa. Non riusciamo a tirarle fuori nulla."
+        },
+        {
+          "type": "paragraph",
+          "text": "La risposta resta sospesa nell’aria pesante del tempio profanato."
+        }
+      ]
+    },
+    {
+      "id": "macerie",
+      "title": "Tra macerie e segreti",
+      "videoId": "wvgoglrx64A",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Mentre le vostre voci si intrecciano tra sospetti e mezze verità, Elis si muove."
+        },
+        {
+          "type": "paragraph",
+          "text": "In silenzio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ha già riposto lo stocco. Ora stringe un semplice pugnale. Si avvicina al cadavere di Flenner senza una parola, si inginocchia accanto al corpo e afferra la sua mano destra."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non è un gesto rapido."
+        },
+        {
+          "type": "paragraph",
+          "text": "L’osso oppone resistenza. La carne cede con fatica. È un lavoro sporco, deliberato. Metallo contro tendini. Pressione. Taglio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Alcuni di voi non guardano. Altri fingono di non vedere. Ma chi ha lo sguardo rivolto in quella direzione assiste a ogni movimento."
+        },
+        {
+          "type": "paragraph",
+          "text": "Elis si rialza con la mano mozzata stretta tra le dita e si dirige verso il punto dove un tempo si ergeva la statua, ora ridotta in macerie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nei suoi occhi brilla qualcosa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non solo adrenalina."
+        },
+        {
+          "type": "paragraph",
+          "text": "È carica. Come se dentro di lei qualcosa avesse risposto. Come se la battaglia non l’avesse svuotata… ma accesa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aelar osserva la scena con crescente inquietudine."
+        },
+        {
+          "type": "paragraph",
+          "text": "Kyran parla con le ombre. Alaster fissa le proprie mani come se vi avesse scoperto un potere nuovo. Elis mutila i morti."
+        },
+        {
+          "type": "paragraph",
+          "text": "“Che gruppo è questo?” pensa tra sé."
+        },
+        {
+          "type": "paragraph",
+          "text": "L’occhio resta fisso verso l’ingresso da cui siete venuti."
+        },
+        {
+          "type": "quote",
+          "text": "È meglio che ci sbrighiamo. Non sappiamo se quelli all’ingresso sappiano che il loro capo è morto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il silenzio del tempio è pesante. Quasi assoluto. Un silenzio che Flenner stesso aveva definito “zona di quiete”."
+        },
+        {
+          "type": "paragraph",
+          "text": "E ora ne comprendete il significato."
+        },
+        {
+          "type": "paragraph",
+          "text": "Decidete di perquisire il corpo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le vesti di Flenner sono semplici, povere, prive di doppi fondi o tasche nascoste. Non è un uomo che si protegge con l’inganno del tessuto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma qualcosa porta con sé."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un sacchetto di cuoio, sporco di una polvere sottile. Una boccetta di vetro scuro, sigillata con un tappo di sughero ormai marcio. E una sfera nera, grande quanto una palla da biliardo, liscia, opaca, apparentemente di minerale vitreo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aelar apre la boccetta."
+        },
+        {
+          "type": "paragraph",
+          "text": "L’odore è pungente, aggressivo. Un istinto immediato lo spinge a ritrarre il naso. Non è un composto alchemico ordinario."
+        },
+        {
+          "type": "paragraph",
+          "text": "È veleno."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non sa definirne la natura precisa, ma riconosce la firma tossica della sostanza."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi osserva la polvere nel sacchetto. A prima vista sembra farina. Ma scuotendola emergono frammenti più grossolani."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ossa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Polvere d’ossa mescolata a frammenti incisi con simboli arcani."
+        },
+        {
+          "type": "quote",
+          "text": "Qui c’è polvere d’ossa… e simboli dall’aspetto arcano. Qualcuno di voi è in grado di interpretarli?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Alaster prende la sfera."
+        },
+        {
+          "type": "paragraph",
+          "text": "La osserva. Ne studia la superficie. Vi lascia scorrere un filo impercettibile di magia."
+        },
+        {
+          "type": "paragraph",
+          "text": "La sfera reagisce."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non esplode. Non si illumina."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma vibra dentro."
+        },
+        {
+          "type": "paragraph",
+          "text": "Quanto basta per capire una cosa sola."
+        },
+        {
+          "type": "paragraph",
+          "text": "È un oggetto magico."
+        },
+        {
+          "type": "quote",
+          "text": "Interessante."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non ne conoscete ancora la funzione. Ma il potere è lì. Dormiente."
+        },
+        {
+          "type": "paragraph",
+          "text": "La ripone nella giacca."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il gruppo discute. Analizzare il veleno. Studiare la polvere. Cercare qualcuno a Baldur’s Gate in grado di interpretarli."
+        },
+        {
+          "type": "paragraph",
+          "text": "Intanto la parete d’ossa è crollata insieme alla caduta di Flenner."
+        },
+        {
+          "type": "paragraph",
+          "text": "Resta una porta."
+        },
+        {
+          "type": "paragraph",
+          "text": "L’unica via ancora inesplorata."
+        },
+        {
+          "type": "quote",
+          "text": "Il nostro obiettivo è raccogliere informazioni sul Culto dei Tre Morti. Eviterei altri scontri, se possibile."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma qualcosa è cambiato."
+        },
+        {
+          "type": "paragraph",
+          "text": "Lo si vede negli occhi di Alaster, più acceso del solito. Lo si sente nell’energia nervosa che vibra nel gruppo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Avete distrutto la statua."
+        },
+        {
+          "type": "paragraph",
+          "text": "Avete ucciso il capo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma il culto non è ancora finito."
+        },
+        {
+          "type": "paragraph",
+          "text": "E oltre quella porta… qualcosa attende."
+        }
+      ]
+    },
+    {
+      "id": "giuramento",
+      "title": "Il Giuramento di Sangue",
+      "videoId": "mikRRfvZ0Es",
+      "blocks": [
+        {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/eventi/Elis/Il_Giuramento_Di_Elis.png",
+          "alt": "Il Giuramento di Elis"
+        },
+        {
+          "type": "paragraph",
+          "text": "È evidente che Elis abbia terminato il suo gesto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Con passo calmo si dirige verso il punto in cui sorgeva la statua ormai distrutta. Tiene la mano mozzata di Flenner per il polso, lasciando che il sangue stilli ancora."
+        },
+        {
+          "type": "paragraph",
+          "text": "Si inginocchia."
+        },
+        {
+          "type": "paragraph",
+          "text": "Appoggia il palmo reciso a terra e comincia a muoverlo lentamente. Se qualcuno osserva, vede il sangue tracciare linee precise."
+        },
+        {
+          "type": "paragraph",
+          "text": "Prima un martello, grande e severo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi, dalla testa del martello, una bilancia classica, con i due piatti sospesi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Infine, una cornice che racchiude il tutto dentro uno scudo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il simbolo di <strong>Tyr</strong>."
+        },
+        {
+          "type": "paragraph",
+          "text": "Famoso. Inconfondibile."
+        },
+        {
+          "type": "paragraph",
+          "text": "Elis lascia la mano fuori dal simbolo. Fa un passo indietro, ancora in ginocchio. Solleva lo sguardo verso l’alto, occhi aperti, e comincia a pregare nella sua lingua natia: l’infernale."
+        },
+        {
+          "type": "quote",
+          "text": "Fa’ piombare il tuo sacro giudizio su questo luogo distrutto. Mostra a tutti la sentenza che spetta al male incarnato da questo posto. Se ti servo io, prendimi. Se ho errato, puniscimi. Se sono stato giusto, benedicimi. Temo la tua collera, come ogni saggio dovrebbe temerla. Ma non temo la giustizia."
+        },
+        {
+          "type": "paragraph",
+          "text": "Unisce le mani. Abbassa il capo fino a toccare quasi il suolo."
+        },
+        {
+          "type": "paragraph",
+          "text": "È un’offerta."
+        },
+        {
+          "type": "paragraph",
+          "text": "È un giuramento."
+        },
+        {
+          "type": "paragraph",
+          "text": "Normalmente, una preghiera così si perderebbe nel silenzio divino."
+        },
+        {
+          "type": "paragraph",
+          "text": "Questa no."
+        },
+        {
+          "type": "paragraph",
+          "text": "Elis sente un peso sul petto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Una scia di luce traslucida discende dal soffitto, come se uno sguardo superiore si fosse posato su di lui."
+        },
+        {
+          "type": "paragraph",
+          "text": "Si sente pesante. E leggero."
+        },
+        {
+          "type": "paragraph",
+          "text": "Come acciaio rovente sull’incudine."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nella sua mente risuona l’eco di un martello."
+        },
+        {
+          "type": "paragraph",
+          "text": "<em>TEN.</em>"
+        },
+        {
+          "type": "paragraph",
+          "text": "Una voce, solo per lui."
+        },
+        {
+          "type": "quote",
+          "text": "La giustizia non è una via semplice. Ma se sarai abbastanza coraggioso e onorevole da perseguire la mia causa, ti concederò la mia grazia. Dovrai dimostrarmi di essere determinato."
+        },
+        {
+          "type": "paragraph",
+          "text": "Elis sorride appena, come un figlio che riconosce la voce di un padre lontano."
+        },
+        {
+          "type": "paragraph",
+          "text": "Allunga il braccio destro in avanti."
+        },
+        {
+          "type": "paragraph",
+          "text": "E allora accade."
+        },
+        {
+          "type": "paragraph",
+          "text": "La sua mano comincia a dissolversi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non tagliata. Non strappata. Dissolta."
+        },
+        {
+          "type": "paragraph",
+          "text": "Come sabbia portata via dal vento."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il dolore è atroce."
+        },
+        {
+          "type": "paragraph",
+          "text": "È come immergere la carne nell’acido."
+        },
+        {
+          "type": "paragraph",
+          "text": "I suoi occhi ruotano all’indietro per un istante. Sta per svenire."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma stringe i denti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Si sfila la cintura, la morde per non urlare. I muscoli si irrigidiscono sotto l’armatura. Non nasconde il dolore. Lo accetta."
+        },
+        {
+          "type": "paragraph",
+          "text": "È devozione."
+        },
+        {
+          "type": "paragraph",
+          "text": "È sacrificio."
+        },
+        {
+          "type": "paragraph",
+          "text": "La mano scompare fino al polso."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non resta cicatrice."
+        },
+        {
+          "type": "paragraph",
+          "text": "È come se non fosse mai esistita."
+        },
+        {
+          "type": "paragraph",
+          "text": "Quando il dolore cessa, prova istintivamente a giungere le mani in preghiera."
+        },
+        {
+          "type": "paragraph",
+          "text": "E scopre che la mano è ancora lì."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non di carne."
+        },
+        {
+          "type": "paragraph",
+          "text": "È fatta di energia. Di luce. Di qualcosa che sembra il riflesso della sua anima."
+        },
+        {
+          "type": "paragraph",
+          "text": "Muove le dita."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sente tutto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Come se non l’avesse mai persa."
+        },
+        {
+          "type": "paragraph",
+          "text": "La voce non risponde più."
+        },
+        {
+          "type": "paragraph",
+          "text": "Resta solo la sensazione di una presenza che osserva."
+        },
+        {
+          "type": "paragraph",
+          "text": "E una nuova mano."
+        },
+        {
+          "type": "paragraph",
+          "text": "Voi non vedete la luce."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sentite le sue parole in infernale."
+        },
+        {
+          "type": "paragraph",
+          "text": "Vedete il simbolo di Tyr tracciato nel sangue."
+        },
+        {
+          "type": "paragraph",
+          "text": "Vedete Elis inginocchiato, il volto contratto dal dolore."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma non vedete il divino."
+        },
+        {
+          "type": "paragraph",
+          "text": "Alaster osserva, stupito."
+        },
+        {
+          "type": "quote",
+          "text": "Tutti quelli fissati con le divinità fanno cose strane così?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan rimane serio."
+        },
+        {
+          "type": "quote",
+          "text": "Molte divinità, anche quelle buone, sono brutali con chi infrange la giustizia."
+        },
+        {
+          "type": "paragraph",
+          "text": "Quando Elis si rialza, qualcosa in lui è cambiato."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non è solo più carico."
+        },
+        {
+          "type": "paragraph",
+          "text": "È stato forgiato."
+        },
+        {
+          "type": "paragraph",
+          "text": "Come acciaio sotto un martello invisibile."
+        }
+      ]
+    },
+    {
+      "id": "ora",
+      "title": "È ora di agire",
+      "videoId": "cgzMps8s88A",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Quando Elis si volta verso di voi, qualcuno — quasi d’istinto — gli rivolge un lieve cenno del capo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un gesto di rispetto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Lui non sembra coglierlo davvero. Il suo sguardo è ancora altrove, come se una parte di sé fosse rimasta sospesa tra acciaio e divinità."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi si gira. E comincia a camminare."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non dice nulla."
+        },
+        {
+          "type": "paragraph",
+          "text": "È allora che lo vedete chiaramente."
+        },
+        {
+          "type": "paragraph",
+          "text": "La sua mano destra non è più quella di prima."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non è carne."
+        },
+        {
+          "type": "paragraph",
+          "text": "È un riflesso."
+        },
+        {
+          "type": "paragraph",
+          "text": "Una forma eterea, come luce compressa nella sagoma di una mano. Non trasparente del tutto, ma neppure solida. Una presenza."
+        },
+        {
+          "type": "paragraph",
+          "text": "Tyr, il Dio della Giustizia, è noto per aver perso la mano destra."
+        },
+        {
+          "type": "paragraph",
+          "text": "E ciò che avete appena visto non è difficile da interpretare."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non è mutilazione."
+        },
+        {
+          "type": "paragraph",
+          "text": "È imitazione sacra."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un atto di fede così radicale da incidere il corpo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nessuno parla per un momento."
+        },
+        {
+          "type": "paragraph",
+          "text": "L’aria nel tempio resta immobile."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il silenzio si spezza con una domanda pragmatica."
+        },
+        {
+          "type": "quote",
+          "text": "Dobbiamo portare qualche prova al Capitano?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Avete smantellato un santuario. Ucciso un capo cultista. Distrutto una statua."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma le parole, da sole, non bastano."
+        },
+        {
+          "type": "paragraph",
+          "text": "Frugando meglio, recuperate dal corpo di Flenner un ciondolo più raffinato rispetto agli altri simboli del culto. Più grande. Più lavorato. Chiaramente distintivo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non è un oggetto da indossare."
+        },
+        {
+          "type": "paragraph",
+          "text": "È una prova."
+        },
+        {
+          "type": "paragraph",
+          "text": "Viene preso con cautela, senza che nessuno osi portarlo al collo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non per paura."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma per disprezzo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Qualcuno ricorda allora un dettaglio rimasto in sospeso."
+        },
+        {
+          "type": "quote",
+          "text": "Sull’altare c’era un libro."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le candele nere sono ancora spente."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le fiamme verdi continuano a bruciare, gettando riflessi malati sulle pareti di ossa."
+        },
+        {
+          "type": "paragraph",
+          "text": "La parete crollata ha aperto uno spiraglio verso l’ignoto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma prima di avanzare, forse, conviene raccogliere tutto ciò che può raccontare qualcosa del Culto dei Tre Morti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Perché distruggere è un atto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Capire è potere."
+        },
+        {
+          "type": "paragraph",
+          "text": "E ora… è il momento di decidere."
+        }
+      ]
+    },
+    {
+      "id": "libro",
+      "title": "Il Libro dei Morti",
+      "videoId": "aio2V2xViLw",
+      "blocks": [
+        {
+          "type": "image",
+          "variant": "left",
+          "src": "assets/data/ikaros/campagne/discesa-averno/Oggetti/tomo_flenner.png",
+          "alt": "Tomo di Flenner"
+        },
+        {
+          "type": "paragraph",
+          "text": "C’è un momento di esitazione."
+        },
+        {
+          "type": "paragraph",
+          "text": "La candela è ancora a terra. L’altare è annerito dalle candele spente. E sopra di esso, dimenticato per un istante tra sangue e macerie, giace il libro."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nessuno si precipita a toccarlo."
+        },
+        {
+          "type": "paragraph",
+          "text": "La copertina è vecchia. O forse non lo è — forse è solo consunta da qualcosa di peggiore del tempo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le rilegature sono in pelle."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non una pelle qualsiasi."
+        },
+        {
+          "type": "paragraph",
+          "text": "E negli angoli, piccoli frammenti ossei incastonati nel dorso."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un libro del genere non si trova in una biblioteca accademica."
+        },
+        {
+          "type": "quote",
+          "text": "Chi è lo studioso del gruppo?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Nessuno si offre con entusiasmo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aelar si avvicina, ma non lo tocca direttamente. Con un gesto calcolato taglia un lembo del sudario del sacerdote e lo usa per coprire il tomo, avvolgendolo prima ancora di sollevarlo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non pelle su pelle."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non contatto diretto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Lo solleva con cautela."
+        },
+        {
+          "type": "paragraph",
+          "text": "C’è chi suggerisce di leggerlo."
+        },
+        {
+          "type": "paragraph",
+          "text": "C’è chi suggerisce di non farlo."
+        },
+        {
+          "type": "quote",
+          "text": "Vogliamo davvero aprirlo qui?"
+        },
+        {
+          "type": "paragraph",
+          "text": "L’aria sembra più fredda attorno all’altare."
+        },
+        {
+          "type": "paragraph",
+          "text": "Per un istante qualcuno scosta appena il sudario e intravede le prime righe."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non abbastanza per comprenderne il contenuto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Abbastanza per capire che non è un semplice testo dottrinale."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non è un sermone."
+        },
+        {
+          "type": "paragraph",
+          "text": "È un manuale."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un libro di rituali."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un libro che parla di morte come strumento."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il sudario viene richiuso immediatamente."
+        },
+        {
+          "type": "quote",
+          "text": "Non qui. Non ora."
+        },
+        {
+          "type": "paragraph",
+          "text": "Viene legato con più strati di stoffa, serrato come si farebbe con qualcosa che non deve respirare."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nessuno lo legge."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nessuno vuole essere colui che pronuncia ad alta voce la parola sbagliata."
+        },
+        {
+          "type": "paragraph",
+          "text": "Gli oggetti recuperati vengono distribuiti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il simbolo più raffinato di Myrkul, appartenuto al capo cultista, viene preso come prova."
+        },
+        {
+          "type": "paragraph",
+          "text": "La sfera nera — ancora silente ma innegabilmente magica — è custodita con prudenza."
+        },
+        {
+          "type": "paragraph",
+          "text": "La polvere d’ossa e la boccetta velenosa attendono analisi più approfondite."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il libro, avvolto e serrato, viene affidato a chi può meglio resistere alla tentazione."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non per usarlo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma per consegnarlo."
+        },
+        {
+          "type": "paragraph",
+          "text": "È prova."
+        },
+        {
+          "type": "paragraph",
+          "text": "È testimonianza."
+        },
+        {
+          "type": "paragraph",
+          "text": "È pericolo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le fiamme verdi ancora ardono ai lati della sala."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il simbolo di Tyr, inciso nel sangue, comincia lentamente a seccarsi sul pavimento."
+        },
+        {
+          "type": "paragraph",
+          "text": "E voi siete lì, in mezzo a rovine, reliquie e decisioni."
+        },
+        {
+          "type": "paragraph",
+          "text": "Avete distrutto un santuario."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ora dovete decidere cosa farne delle sue ombre."
+        }
+      ]
+    },
+    {
+      "id": "ingenuita",
+      "title": "Un’ingenuità di Elis",
+      "videoId": "G4bwFXpR3Mc",
+      "blocks": [
+        {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/eventi/Elis/elis_maledizione.png",
+          "alt": "Elis e la maledizione"
+        },
+        {
+          "type": "paragraph",
+          "text": "Siete tutti e cinque. Anche Kleyton si avvicina, tossendo ancora, sputando un filo di sangue scuro."
+        },
+        {
+          "type": "quote",
+          "text": "Possiamo andare via adesso? È stato… faticoso."
+        },
+        {
+          "type": "paragraph",
+          "text": "L’uscita non è crollata. Il tempio è silenzioso. Ma oltre quella porta resta una stanza ancora inesplorata."
+        },
+        {
+          "type": "quote",
+          "text": "Una tomba chiusa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Qualcuno suggerisce prudenza. Qualcun altro curiosità."
+        },
+        {
+          "type": "quote",
+          "text": "Secondo me l’unica cosa che possiamo trovare sono cadaveri."
+        },
+        {
+          "type": "quote",
+          "text": "Cadaveri che si muovono, forse."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le armi vengono impugnate."
+        },
+        {
+          "type": "paragraph",
+          "text": "Incantesimi preparati."
+        },
+        {
+          "type": "paragraph",
+          "text": "Elis si fa avanti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Con la nuova mano eterea ancora visibile come un riflesso di luce compressa, afferra la lastra della tomba e la spinge via."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il coperchio scivola con un suono pesante."
+        },
+        {
+          "type": "paragraph",
+          "text": "All’interno giace uno scheletro consumato dal tempo, disposto in posa funebre, le mani raccolte sul petto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nulla si muove."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma quando la bara viene aperta del tutto, un fumo nero si solleva improvviso e colpisce Elis in pieno volto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Tossisce."
+        },
+        {
+          "type": "paragraph",
+          "text": "Per un istante sente un ronzio nelle tempie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi, tra bisbigli indistinti, una frase si distingue."
+        },
+        {
+          "type": "quote",
+          "text": "Non avresti dovuto. I morti riposano."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le voci svaniscono."
+        },
+        {
+          "type": "paragraph",
+          "text": "Resta solo un leggero mal di testa."
+        },
+        {
+          "type": "quote",
+          "text": "Elis, tutto bene?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Nessuna risposta chiara."
+        },
+        {
+          "type": "paragraph",
+          "text": "All’interno della tomba, oltre alle ossa, ci sono monete. Collane. Anelli."
+        },
+        {
+          "type": "paragraph",
+          "text": "Offerte funebri."
+        },
+        {
+          "type": "paragraph",
+          "text": "Elis le raccoglie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non con avidità."
+        },
+        {
+          "type": "paragraph",
+          "text": "Con pragmatismo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il suono metallico delle monete nel sacchetto rompe il silenzio."
+        },
+        {
+          "type": "quote",
+          "text": "Stiamo depredando una tomba?"
+        },
+        {
+          "type": "paragraph",
+          "text": "La domanda pesa più del coperchio appena spostato."
+        },
+        {
+          "type": "quote",
+          "text": "Non siamo ladri."
+        },
+        {
+          "type": "paragraph",
+          "text": "Elis si volta."
+        },
+        {
+          "type": "quote",
+          "text": "Per me non ha alcun valore."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le fiamme verdi continuano a bruciare."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il simbolo di Tyr è ancora visibile sul pavimento."
+        },
+        {
+          "type": "paragraph",
+          "text": "E nel tempio della morte, per la prima volta, non è il culto a generare tensione."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma voi."
+        }
+      ]
+    },
+    {
+      "id": "cultisti",
+      "title": "Andiamo a distruggere i cultisti",
+      "videoId": "4rpXEbPUBRI",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Se è tutto a posto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le parole riecheggiano ancora nella mente di qualcuno:"
+        },
+        {
+          "type": "quote",
+          "text": "Non disturbate i morti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma avete già distrutto la statua di Myrkul."
+        },
+        {
+          "type": "paragraph",
+          "text": "Una tomba violata sembra quasi un dettaglio minore, al confronto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Eppure qualcosa è stato attivato."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non lo vedete."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non ancora."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma lo sentite."
+        },
+        {
+          "type": "paragraph",
+          "text": "L’aria è cambiata."
+        },
+        {
+          "type": "paragraph",
+          "text": "Elis si ricompone. La mano eterea brilla appena, come un’eco distante. Nessuno esplode. Nessuna maledizione immediata vi travolge."
+        },
+        {
+          "type": "paragraph",
+          "text": "Solo silenzio."
+        },
+        {
+          "type": "paragraph",
+          "text": "E davanti a voi, un corridoio che conduce oltre."
+        },
+        {
+          "type": "paragraph",
+          "text": "Vi muovete."
+        },
+        {
+          "type": "paragraph",
+          "text": "Compatti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Kleyton resta indietro ma vi segue, testardo. Nessuno vuole restare solo in quel luogo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Kyran accenna a spingersi in avanti con la solita impazienza, ma qualcuno la ferma con un gesto."
+        },
+        {
+          "type": "quote",
+          "text": "Forse è meglio che vada avanti io."
+        },
+        {
+          "type": "paragraph",
+          "text": "Armi pronte."
+        },
+        {
+          "type": "paragraph",
+          "text": "Incantesimi caricati sulle labbra."
+        },
+        {
+          "type": "quote",
+          "text": "Cerchiamo di finirli in fretta. Non diamogli tempo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non è più solo esplorazione."
+        },
+        {
+          "type": "paragraph",
+          "text": "È caccia."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sapete che oltre quella soglia potrebbero esserci gli ultimi due cultisti rimasti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Due."
+        },
+        {
+          "type": "paragraph",
+          "text": "Forse solo due."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il piano è semplice."
+        },
+        {
+          "type": "quote",
+          "text": "Gli facciamo il culo e poi esploriamo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nessuno ride."
+        },
+        {
+          "type": "paragraph",
+          "text": "L’accordo è silenzioso ma chiaro."
+        },
+        {
+          "type": "paragraph",
+          "text": "Avete distrutto il capo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Avete profanato il loro santuario."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ora andrete a spegnere le ultime fiamme."
+        },
+        {
+          "type": "paragraph",
+          "text": "E poi, solo poi, vi prenderete il tempo per capire che cosa avete realmente risvegliato."
+        }
+      ]
+    },
+    {
+      "id": "offerte",
+      "title": "La Sala delle Offerte",
+      "videoId": "q8fdHEj1xgI",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Lo scontro con gli ultimi cultisti è rapido."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dopo Flenner e la sua orda, questi due non sono che ombre."
+        },
+        {
+          "type": "paragraph",
+          "text": "Cadono in pochi istanti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Resta solo un muro di pietra."
+        },
+        {
+          "type": "paragraph",
+          "text": "Avete visto uno di loro attraversarlo prima. Non è un semplice ostacolo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Provate a toccarlo."
+        },
+        {
+          "type": "paragraph",
+          "text": "È solido."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un corpo lanciato contro la superficie rimbalza, lasciando solo una macchia di sangue."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non è un’illusione."
+        },
+        {
+          "type": "paragraph",
+          "text": "È un sigillo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ripensate al gesto."
+        },
+        {
+          "type": "paragraph",
+          "text": "La mano strisciata in un movimento preciso, quasi a tracciare un triangolo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il simbolo viene riprodotto sul muro."
+        },
+        {
+          "type": "paragraph",
+          "text": "Per un istante la pietra vibra."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi si apre."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non del tutto."
+        },
+        {
+          "type": "paragraph",
+          "text": "È un varco temporaneo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un passaggio che non resterà tale a lungo."
+        },
+        {
+          "type": "quote",
+          "text": "Sedici secondi. Muovetevi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Attraversate."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il muro si richiude alle vostre spalle come se non fosse mai stato violato."
+        },
+        {
+          "type": "paragraph",
+          "text": "Davanti a voi si apre una stanza."
+        },
+        {
+          "type": "paragraph",
+          "text": "Due statue di pietra sorvegliano l’ambiente."
+        },
+        {
+          "type": "paragraph",
+          "text": "Al centro, una cassa aperta."
+        },
+        {
+          "type": "paragraph",
+          "text": "Oro."
+        },
+        {
+          "type": "paragraph",
+          "text": "Gioielli."
+        },
+        {
+          "type": "paragraph",
+          "text": "Offerte accumulate nel tempo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan percepisce una sola aura magica nella stanza."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non le statue."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non la cassa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Una spada."
+        },
+        {
+          "type": "paragraph",
+          "text": "Incastonata nel bottino, come se fosse stata piantata lì deliberatamente."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non demoniaca."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non decorata con teschi o corna."
+        },
+        {
+          "type": "paragraph",
+          "text": "Semplice."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma magica."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dopo un istante di esitazione, viene estratta."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nulla esplode."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nessuna maledizione immediata."
+        },
+        {
+          "type": "paragraph",
+          "text": "Solo il peso dell’acciaio nella mano."
+        },
+        {
+          "type": "paragraph",
+          "text": "La cassa viene svuotata rapidamente."
+        },
+        {
+          "type": "paragraph",
+          "text": "Trecento monete d’oro."
+        },
+        {
+          "type": "paragraph",
+          "text": "Quattro anelli."
+        },
+        {
+          "type": "paragraph",
+          "text": "Una perla nera."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il bottino viene diviso."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ottanta monete ciascuno."
+        },
+        {
+          "type": "paragraph",
+          "text": "Gli anelli distribuiti."
+        },
+        {
+          "type": "paragraph",
+          "text": "La perla viene trattenuta come ricordo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Per qualcuno è solo ricchezza."
+        },
+        {
+          "type": "paragraph",
+          "text": "Per altri è un segno."
+        },
+        {
+          "type": "paragraph",
+          "text": "La stanza è silenziosa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il culto è stato smantellato."
+        },
+        {
+          "type": "paragraph",
+          "text": "La statua distrutta."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il capo ucciso."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il tesoro reclamato."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma mentre lasciate la Sala delle Offerte, una domanda resta sospesa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Avete davvero chiuso qualcosa."
+        },
+        {
+          "type": "paragraph",
+          "text": "O avete solo aperto una porta che non si richiuderà così facilmente?"
+        }
+      ]
+    },
+    {
+      "id": "usciamo",
+      "title": "Usciamo di qui",
+      "videoId": "_lShLnjNIU8",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "“Ragazzi… che dire. Andiamo.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "L’aria delle catacombe è diventata soffocante. Siete carichi d’oro, di reliquie, di segreti. Ma soprattutto siete stanchi."
+        },
+        {
+          "type": "paragraph",
+          "text": "È pomeriggio inoltrato quando risalite. Le Terme vengono nominate con una nostalgia quasi comica."
+        },
+        {
+          "type": "paragraph",
+          "text": "Elis, prima di uscire del tutto, tenta un’illusione per far apparire normale la sua mano. Un riflesso etereo non è il genere di dettaglio che si mostra con leggerezza per le strade di Baldur’s Gate."
+        },
+        {
+          "type": "paragraph",
+          "text": "Attraversate la porta del magazzino."
+        },
+        {
+          "type": "paragraph",
+          "text": "La pozza di sangue è ancora lì."
+        },
+        {
+          "type": "paragraph",
+          "text": "E poi —"
+        },
+        {
+          "type": "paragraph",
+          "text": "<strong>CRASH.</strong>"
+        },
+        {
+          "type": "paragraph",
+          "text": "Vetri che si infrangono."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un rumore secco."
+        },
+        {
+          "type": "paragraph",
+          "text": "Come una bottiglia scagliata contro il pavimento."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il suono proviene dalla parte anteriore del negozio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Vi fermate."
+        },
+        {
+          "type": "paragraph",
+          "text": "Armi estratte."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan si piazza davanti, pronto a bloccare chiunque entri."
+        },
+        {
+          "type": "paragraph",
+          "text": "Kyran si abbassa in copertura."
+        },
+        {
+          "type": "paragraph",
+          "text": "Alaster si mette dietro al paladino."
+        },
+        {
+          "type": "paragraph",
+          "text": "Kleyton si stringe a voi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dopo dieci secondi in tensione…"
+        },
+        {
+          "type": "paragraph",
+          "text": "Una nuvola nera invade il corridoio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Fumo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il negozio è in fiamme."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le finestre anteriori sono esplose."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il fuoco divora scaffali, tende, legno secco."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non potete restare."
+        },
+        {
+          "type": "paragraph",
+          "text": "Correte."
+        },
+        {
+          "type": "paragraph",
+          "text": "Kyran è la prima a muoversi. Con un movimento fluido attraversa il caos come una lama nel vento."
+        },
+        {
+          "type": "paragraph",
+          "text": "Elis scatta con decisione, saltando tra macerie e travi incandescenti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Kleyton viene letteralmente lanciato fuori come un proiettile improvvisato, finendo contro una bancarella di cavoli dall’altra parte della strada."
+        },
+        {
+          "type": "paragraph",
+          "text": "Tossisce."
+        },
+        {
+          "type": "paragraph",
+          "text": "Alza il pollice."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma Nathan resta dentro."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il fumo gli brucia i polmoni."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le fiamme gli lambiscono l’armatura."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ogni respiro è un coltello rovente."
+        },
+        {
+          "type": "paragraph",
+          "text": "Elis rientra."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il calore è feroce."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il legno cede."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le travi scricchiolano."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan vacilla. La vista si annebbia. Il mondo si restringe a un tunnel di rosso e nero."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un braccio lo afferra."
+        },
+        {
+          "type": "paragraph",
+          "text": "Uno strattone."
+        },
+        {
+          "type": "paragraph",
+          "text": "E poi —"
+        },
+        {
+          "type": "paragraph",
+          "text": "Asfalto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aria."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan cade fuori dal negozio in fiamme, tossendo, boccheggiando come un uomo riemerso da un lago gelido."
+        },
+        {
+          "type": "paragraph",
+          "text": "Alle vostre spalle, l’emporio brucia."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le fiamme si alzano nel cielo di Baldur’s Gate."
+        },
+        {
+          "type": "paragraph",
+          "text": "Profilo basso, avevate detto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il fuoco non conosce discrezione."
+        }
+      ]
+    },
+    {
+      "id": "chi",
+      "title": "Chi sarà stato?",
+      "videoId": "4OTzWdgKj08",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Siete fuori."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il negozio brucia alle vostre spalle, le fiamme divorano legno e tende, mentre i curiosi si radunano attorno alla scena."
+        },
+        {
+          "type": "paragraph",
+          "text": "Secchi d’acqua passano di mano in mano dalla fontana più vicina."
+        },
+        {
+          "type": "paragraph",
+          "text": "Urla."
+        },
+        {
+          "type": "paragraph",
+          "text": "Confusione."
+        },
+        {
+          "type": "paragraph",
+          "text": "Kyran scruta la folla."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nessuno vi osserva con sospetto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Solo cittadini allarmati e gente che corre per mettersi in salvo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nessuna figura incappucciata che fugge."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nessun cultista che si dilegua."
+        },
+        {
+          "type": "quote",
+          "text": "Chi è stato?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Una molotov?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Vendetta?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Gli ultimi seguaci di Myrkul?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Non c’è tempo per indagare."
+        },
+        {
+          "type": "paragraph",
+          "text": "L’unica cosa sensata è allontanarsi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non tutti però si muovono allo stesso modo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Alaster si allontana per primo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi — improvvisamente — scompare."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non è una fuga vigliacca."
+        },
+        {
+          "type": "paragraph",
+          "text": "È istinto."
+        },
+        {
+          "type": "paragraph",
+          "text": "La sua pelle si increspa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Diventa squamosa per un istante."
+        },
+        {
+          "type": "paragraph",
+          "text": "I colori cambiano."
+        },
+        {
+          "type": "paragraph",
+          "text": "Si adattano."
+        },
+        {
+          "type": "paragraph",
+          "text": "Come un camaleonte tra le ombre."
+        },
+        {
+          "type": "paragraph",
+          "text": "Invisibile."
+        },
+        {
+          "type": "paragraph",
+          "text": "Osserva i compagni da pochi passi di distanza, studiandoli."
+        },
+        {
+          "type": "paragraph",
+          "text": "Forse ancora utili."
+        },
+        {
+          "type": "paragraph",
+          "text": "Forse pedine."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il potere cresce."
+        },
+        {
+          "type": "paragraph",
+          "text": "E con esso, l’ambizione."
+        },
+        {
+          "type": "paragraph",
+          "text": "Intanto gli altri si ricompattano."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan tossisce ancora, la voce roca per il fumo."
+        },
+        {
+          "type": "quote",
+          "text": "Andiamo via. Torniamo alla locanda."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma prima che vi disperdiate, Alaster — riapparendo poco distante — solleva la mano destra verso le vostre fronti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un lieve brivido vi attraversa la mente."
+        },
+        {
+          "type": "paragraph",
+          "text": "Per un’ora, potrete comunicare tra voi a distanza."
+        },
+        {
+          "type": "paragraph",
+          "text": "Telepaticamente."
+        },
+        {
+          "type": "paragraph",
+          "text": "Entro un miglio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Una rete silenziosa."
+        },
+        {
+          "type": "quote",
+          "text": "Meglio restare in contatto."
+        },
+        {
+          "type": "paragraph",
+          "text": "La discussione si sposta rapidamente sugli oggetti recuperati."
+        },
+        {
+          "type": "paragraph",
+          "text": "La spada."
+        },
+        {
+          "type": "paragraph",
+          "text": "La perla."
+        },
+        {
+          "type": "paragraph",
+          "text": "La polvere d’ossa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il veleno."
+        },
+        {
+          "type": "paragraph",
+          "text": "Qualcuno propone il tempio di Helm."
+        },
+        {
+          "type": "paragraph",
+          "text": "Qualcuno quello di Tyr."
+        },
+        {
+          "type": "paragraph",
+          "text": "A Baldur’s Gate non mancano i luoghi di culto: Gond per gli artigiani, Helm per i guardiani, Tymora per la fortuna, Umberlee per il mare."
+        },
+        {
+          "type": "paragraph",
+          "text": "E poi c’è un nome che riaffiora nella memoria."
+        },
+        {
+          "type": "paragraph",
+          "text": "Derek."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un forgiato."
+        },
+        {
+          "type": "paragraph",
+          "text": "Erborista."
+        },
+        {
+          "type": "paragraph",
+          "text": "Uno che sa riconoscere sostanze organiche… e forse anche veleni."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le fiamme continuano a salire dietro di voi."
+        },
+        {
+          "type": "paragraph",
+          "text": "La folla cresce."
+        },
+        {
+          "type": "paragraph",
+          "text": "Restare è pericoloso."
+        },
+        {
+          "type": "paragraph",
+          "text": "E qualcuno là fuori ha appena tentato di bruciarvi vivi."
+        },
+        {
+          "type": "paragraph",
+          "text": "La domanda resta sospesa."
+        },
+        {
+          "type": "paragraph",
+          "text": "È stato un avvertimento."
+        },
+        {
+          "type": "paragraph",
+          "text": "O l’inizio di qualcosa di più grande?"
+        }
+      ]
+    },
+    {
+      "id": "erboristeria",
+      "title": "Aelar e Kyran vanno in erboristeria",
+      "videoId": "93OXXuuShwE",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Decidete di separarvi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan ed Elis si dirigono verso il tempio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aelar e Kyran, invece, prendono la strada a nord, verso un’erboristeria non lontana dalla taverna."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il nome dell’insegna è semplice."
+        },
+        {
+          "type": "paragraph",
+          "text": "La Rosa Canina."
+        },
+        {
+          "type": "paragraph",
+          "text": "L’interno è ordinato, ricolmo di erbe appese a essiccare, radici immerse in liquidi ambrati, barattoli colmi di polveri e semi."
+        },
+        {
+          "type": "image",
+          "variant": "left",
+          "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Secondari/Derek.png",
+          "alt": "Derek"
+        },
+        {
+          "type": "paragraph",
+          "text": "Dietro il bancone, un forgiato di legno e metallo separa foglie da rami con movimenti precisi, meccanici ma incredibilmente fluidi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sulla sua spalla, un riccio osserva i nuovi arrivati con il nasino tremante."
+        },
+        {
+          "type": "quote",
+          "text": "Benvenuti, clienti. Io sono Derek. Come posso esservi d’aiuto?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Aelar fa un cenno rispettoso."
+        },
+        {
+          "type": "quote",
+          "text": "Siamo stati indirizzati qui da un tuo conoscente. Uno con le corna all’indietro."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il forgiato inclina leggermente il capo."
+        },
+        {
+          "type": "quote",
+          "text": "Descrizione compatibile. Elis. Cliente particolare. Ha rotto una boccetta."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aelar estrae con cautela la fiala."
+        },
+        {
+          "type": "quote",
+          "text": "Abbiamo rintracciato questo composto. Mi sembra veleno, ma vorrei evitare di scoprirlo assaggiandolo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Derek prende la boccetta. Le giunture in legno e metallo si muovono con precisione millimetrica."
+        },
+        {
+          "type": "paragraph",
+          "text": "La osserva."
+        },
+        {
+          "type": "paragraph",
+          "text": "La stappa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Avvicina l’apertura al volto, inspira leggermente."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ritira subito il capo."
+        },
+        {
+          "type": "quote",
+          "text": "Confermo. Veleno."
+        },
+        {
+          "type": "paragraph",
+          "text": "Con strumenti delicati effettua test rapidi, miscelando reagenti, scaldando il liquido, osservandone le reazioni."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dopo alcuni minuti:"
+        },
+        {
+          "type": "quote",
+          "text": "Posso affermare con elevata probabilità che si tratti di veleno di viverna."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aelar annuisce."
+        },
+        {
+          "type": "quote",
+          "text": "Proprietà?"
+        },
+        {
+          "type": "quote",
+          "text": "Estremamente potente. Secondo solo a pochi altri. Letale, se non si resiste."
+        },
+        {
+          "type": "paragraph",
+          "text": "La fiala viene restituita con estrema cautela."
+        },
+        {
+          "type": "quote",
+          "text": "Maneggiatelo con cura."
+        },
+        {
+          "type": "paragraph",
+          "text": "Cinque monete di bronzo vengono pagate per la consulenza."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aelar estrae poi la sacca di farina d’ossa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Derek vi infila la mano, lasciando scivolare la polvere tra le dita lignee."
+        },
+        {
+          "type": "quote",
+          "text": "Composto organico. Ossa polverizzate. Specie non identificata."
+        },
+        {
+          "type": "paragraph",
+          "text": "Studia le rune incise nei frammenti più grossi."
+        },
+        {
+          "type": "quote",
+          "text": "Potrebbero riguardare… i morti. Ma non sono certo. Vi consiglio un chierico o qualcuno esperto di resurrezione."
+        },
+        {
+          "type": "paragraph",
+          "text": "Mentre parla, la polvere sottile si diffonde nell’aria."
+        },
+        {
+          "type": "paragraph",
+          "text": "Si posa."
+        },
+        {
+          "type": "paragraph",
+          "text": "E lentamente, alle vostre spalle, delinea una sagoma."
+        },
+        {
+          "type": "paragraph",
+          "text": "Derek inclina il capo."
+        },
+        {
+          "type": "quote",
+          "text": "Rilevo una forma insolita. Siete accompagnati?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Vi voltate."
+        },
+        {
+          "type": "paragraph",
+          "text": "Una figura emerge, coperta di residui chiari."
+        },
+        {
+          "type": "paragraph",
+          "text": "Alaster."
+        },
+        {
+          "type": "paragraph",
+          "text": "Con un gesto rapido si ripulisce, lasciando svanire l’invisibilità."
+        },
+        {
+          "type": "quote",
+          "text": "Sono sempre stato con voi. Coprivo le spalle."
+        },
+        {
+          "type": "paragraph",
+          "text": "Kyran lo guarda, sorpresa."
+        },
+        {
+          "type": "quote",
+          "text": "Di nascosto?"
+        },
+        {
+          "type": "quote",
+          "text": "Provavo le mie nuove abilità."
+        },
+        {
+          "type": "paragraph",
+          "text": "Derek non sembra turbato."
+        },
+        {
+          "type": "quote",
+          "text": "Benvenuto, cliente."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il riccio cade dalla sua spalla mentre si inchina. Aelar lo afferra al volo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Si parla brevemente di pozioni."
+        },
+        {
+          "type": "quote",
+          "text": "Cinquanta monete d’oro per una pozione curativa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nessuna contrattazione."
+        },
+        {
+          "type": "paragraph",
+          "text": "Una pozione viene acquistata."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il gruppo si ricompone."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il tempio verrà consultato dai compagni."
+        },
+        {
+          "type": "paragraph",
+          "text": "Voi tornerete alla taverna."
+        },
+        {
+          "type": "paragraph",
+          "text": "Baldur’s Gate continua a respirare attorno a voi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma qualcuno, oggi, ha tentato di bruciarvi vivi."
+        },
+        {
+          "type": "paragraph",
+          "text": "E la partita è appena iniziata."
+        }
+      ]
+    },
+    {
+      "id": "tempio",
+      "title": "Elis e Nathan al Tempio di Helm",
+      "videoId": "pFo10NGmhgA",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Decidete di non andare a piedi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un’ora e mezza sarebbe tempo sprecato."
+        },
+        {
+          "type": "paragraph",
+          "text": "Fermate una carrozza."
+        },
+        {
+          "type": "quote",
+          "text": "Buongiorno! Posso portarvi dove gradite?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan sale per primo."
+        },
+        {
+          "type": "quote",
+          "text": "Tempio di Helm."
+        },
+        {
+          "type": "paragraph",
+          "text": "Una moneta d’argento."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il cocchiere schiocca le redini."
+        },
+        {
+          "type": "paragraph",
+          "text": "Durante il tragitto, parlate."
+        },
+        {
+          "type": "paragraph",
+          "text": "Disordini in città."
+        },
+        {
+          "type": "paragraph",
+          "text": "Omicidi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un culto nuovo."
+        },
+        {
+          "type": "paragraph",
+          "text": "E poi, un nome."
+        },
+        {
+          "type": "paragraph",
+          "text": "Elturel."
+        },
+        {
+          "type": "paragraph",
+          "text": "Città scomparsa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Demoni."
+        },
+        {
+          "type": "paragraph",
+          "text": "Inferno."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il cocchiere scuote il capo."
+        },
+        {
+          "type": "quote",
+          "text": "Baldur’s Gate ha già i suoi problemi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan non replica."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma il pensiero resta."
+        },
+        {
+          "type": "paragraph",
+          "text": "Se nessuno li aiuta… moriranno."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il Tempio di Helm non è imponente come un duomo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma è solido."
+        },
+        {
+          "type": "paragraph",
+          "text": "Una scalinata ampia conduce a una statua centrale: un cavaliere con la spada puntata verso terra."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan porta la mano al petto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un gesto che conosce."
+        },
+        {
+          "type": "paragraph",
+          "text": "Guardie armate sorvegliano l’ingresso."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non semplici fedeli."
+        },
+        {
+          "type": "paragraph",
+          "text": "Soldati della fede."
+        },
+        {
+          "type": "paragraph",
+          "text": "All’interno, navate ampie, colonne robuste, statue raffiguranti scene della vita del Vigilante."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non è un luogo di sola preghiera."
+        },
+        {
+          "type": "paragraph",
+          "text": "È una fortezza consacrata."
+        },
+        {
+          "type": "paragraph",
+          "text": "Vi avvicinate a un chierico."
+        },
+        {
+          "type": "quote",
+          "text": "Che l’Occhio di Helm vegli su di voi. Come posso esservi utile?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Elis mostra il simbolo di Tyr."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan mantiene il tono misurato."
+        },
+        {
+          "type": "quote",
+          "text": "Abbiamo bisogno di parlare con il gran sacerdote. È una questione delicata."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il vecchio inizialmente rifiuta."
+        },
+        {
+          "type": "paragraph",
+          "text": "È occupato."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma quando il libro viene mostrato —"
+        },
+        {
+          "type": "paragraph",
+          "text": "Il suo volto impallidisce."
+        },
+        {
+          "type": "quote",
+          "text": "Per tutti gli dei… dove l’avete trovato?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Myrkul."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il Culto dei Tre Morti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Flenner."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il chierico indietreggia."
+        },
+        {
+          "type": "quote",
+          "text": "Portate quella cosa fuori da questo tempio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Accetta di intercedere."
+        },
+        {
+          "type": "paragraph",
+          "text": "Vi chiede di attendere."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan resta qualche istante."
+        },
+        {
+          "type": "paragraph",
+          "text": "Si inginocchia."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma la preghiera è distratta."
+        },
+        {
+          "type": "paragraph",
+          "text": "Marcus."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jack."
+        },
+        {
+          "type": "paragraph",
+          "text": "Elturel."
+        },
+        {
+          "type": "paragraph",
+          "text": "La mente vaga."
+        },
+        {
+          "type": "paragraph",
+          "text": "Quando uscite, il chierico ritorna."
+        },
+        {
+          "type": "quote",
+          "text": "Il gran sacerdote vi riceverà."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma non da soli."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sei guardie si dispongono ai vostri lati."
+        },
+        {
+          "type": "paragraph",
+          "text": "Precise."
+        },
+        {
+          "type": "paragraph",
+          "text": "Coordinate."
+        },
+        {
+          "type": "paragraph",
+          "text": "Come un unico corpo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non vi trattano come criminali."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma nemmeno come semplici fedeli."
+        },
+        {
+          "type": "paragraph",
+          "text": "Siete un rischio."
+        },
+        {
+          "type": "paragraph",
+          "text": "E il libro che portate lo è ancora di più."
+        },
+        {
+          "type": "paragraph",
+          "text": "Avanzate lungo il corridoio centrale."
+        },
+        {
+          "type": "paragraph",
+          "text": "Verso il cuore del tempio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Verso il giudizio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il resto attende."
+        },
+        {
+          "type": "paragraph",
+          "text": "E l’Occhio di Helm… osserva."
+        }
+      ]
+    }
+  ]
+}

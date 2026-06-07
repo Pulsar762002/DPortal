@@ -1,0 +1,1494 @@
+{
+  "$schema": "./session.schema.json",
+  "id": 1,
+  "title": "Sessione 1",
+  "videoId": "QNR3GYtjuGs",
+  "chapters": [
+    {
+      "id": "elturel",
+      "title": "Elturel, la Città della Luce",
+      "videoId": "bGmBYsl4-YU",
+      "blocks": [
+        {
+          "type": "image",
+          "variant": "left",
+          "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-1/Elturel.png",
+          "alt": "Elturel sotto il Compagno"
+        },
+        {
+          "type": "paragraph",
+          "text": "Davanti a voi si erge Elturel, distante pochi giorni nell’entroterra rispetto a Baldur’s Gate, lungo la Costa della Spada. Sorge sulle rive del fiume Chionthar, le cui acque scorrono profonde fino alle alte foreste degli Elfi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Questa è casa. Per alcuni lo è dalla nascita; per altri è diventata rifugio col passare degli anni. Le sue strade, le sue mura e le sue torri sono familiari. Ma ciò che davvero la distingue non è la pietra né il fiume."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sopra la città splende un sole artificiale: una sfera bianca, immobile nel cielo, che irradia luce sacra senza mai affievolirsi. Gli Elturiani lo chiamano <strong>il Compagno </strong>."
+        },
+        {
+          "type": "paragraph",
+          "text": "Da quasi cinquant’anni quella luce veglia su Elturel. È conoscenza comune che il Compagno sia apparso come risposta a un terribile attacco guidato da un Signore dei Vampiri, quando la città era stretta dall’ombra e dai non morti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Da allora, la sua luminosità consacrata ha scacciato le creature della notte. I non morti non possono prosperare sotto il suo bagliore. Elturel è rinata, protetta da una presenza che non conosce tramonto."
+        },
+        {
+          "type": "paragraph",
+          "text": "A custodire il miracolo vi è l’<strong>Ordine del Compagno</strong>, un ordine clericale che venera quella sfera luminosa come simbolo di salvezza e fede. Essi vegliano, pregano e difendono la promessa che il cielo stesso abbia scelto Elturel."
+        }
+      ]
+    },
+    {
+      "id": "nathan",
+      "title": "Nathan, Paladino del Dovere",
+      "videoId": "-0J3IWj3exk",
+      "blocks": [
+        {
+          "type": "image",
+          "variant": "left",
+          "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Party/NathanBig.png",
+          "alt": "Nathan"
+        },
+        {
+          "type": "paragraph",
+          "text": "Tra coloro che chiamano Elturel casa vi è Nathan. Umano di circa ventiquattro inverni, alto oltre la media ma senza imponenza ostentata, porta sul volto cicatrici ormai sbiadite dal tempo. Non sono ferite recenti, ma memorie incise nella carne."
+        },
+        {
+          "type": "paragraph",
+          "text": "I suoi capelli castani ricadono ordinati sul capo, mentre gli occhi azzurri osservano con attenzione vigile. Indossa una solida cotta di maglia, il metallo intrecciato che accompagna i suoi movimenti con un suono grave e rassicurante."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sul guanto d’arme che porta alla mano destra è dipinto un occhio. Non un semplice ornamento, ma un simbolo che osserva, giudica e non dimentica. Anche sotto la luce eterna del Compagno, qualcuno deve continuare a vigilare."
+        }
+      ]
+    },
+    {
+      "id": "tempio",
+      "title": "Il tempio delle divinità",
+      "videoId": "BVSm9TFJq78",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Un nuovo giorno si leva su Elturel. Nel grande Tempio delle Divinità, tra colonne imponenti e altari consacrati, Nathan apre gli occhi al mattino."
+        },
+        {
+          "type": "paragraph",
+          "text": "La prima figura che incontra è quella che da sempre considera una guida, una presenza paterna: Marcus. L’uomo è già raccolto in preghiera, inginocchiato davanti agli altari degli dèi, immerso in una devozione silenziosa e profonda."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan si avvicina senza interrompere il raccoglimento. Si inginocchia accanto a lui, dedicando anch’egli la propria preghiera del mattino alla divinità che venera. Le parole sono sussurrate, intime, ma cariche di convinzione."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il tempio è vasto e l’acustica amplifica ogni passo. Marcus percepisce l’arrivo del giovane. Apre appena un occhio, quasi impercettibilmente, poi torna a chiudersi nella sua preghiera. Dopo qualche istante traccia su di sé il segno sacro."
+        },
+        {
+          "type": "quote",
+          "text": "«Anche oggi hai intenzione di bighellonare,o finalmente ti occuperai dei tuoi doveri?»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan completa la propria preghiera, compie a sua volta il segno sacro e risponde con calma contenuta."
+        },
+        {
+          "type": "quote",
+          "text": "«Sono tornato da pochi giorni, e già iniziamo? Sai bene che non bighellono mai. E poi, fare l’avventuriero… tu come lo definiresti? Ognuno esprime la propria fede in modi diversi. Me lo hai insegnato tu.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Marcus scuote appena il capo. È un uomo anziano, legato a tradizioni più rigide, fedele ai dettami di Helm e della Chiesa. Ha visto altri giovani scegliere vie più stabili — servire la guardia cittadina, trovare uno scopo entro le mura sacre. Nathan, invece, ai suoi occhi appare inquieto."
+        },
+        {
+          "type": "quote",
+          "text": "«Non ti ho insegnato a vagare per il Faerûn. Tuo fratello ha trovato il suo posto. Tu, figlio mio… mi sembri perso.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Le parole non sono pronunciate con rabbia, ma con un peso antico. È un dialogo che si ripete da anni, una costante di ogni preghiera del mattino, del pomeriggio, della sera."
+        },
+        {
+          "type": "quote",
+          "text": "«Non sono perso. Non sono mai stato più certo della mia via. Ho salvato più persone in viaggio di quante ne avrei salvate restando fermo qui.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Marcus sospira. Non discutono mai con asprezza. Davanti agli dèi, anche il conflitto resta misurato. Dopo un lungo silenzio, l’uomo si rassegna con un semplice gesto, lasciando al giovane la libertà delle sue scelte."
+        },
+        {
+          "type": "paragraph",
+          "text": "Quando Nathan si allontana, vede Marcus tornare alle sue mansioni: sistemare i candelabri, riordinare gli altari, spolverare le superfici consacrate. È il suo modo di servire."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan invece esce dal tempio. Non verso la guardia, non verso la celebrazione delle cerimonie. Si dirige verso l’orfanotrofio, verso quelle piccole vite fragili che attendono qualcuno disposto a proteggerle."
+        }
+      ]
+    },
+    {
+      "id": "orfanotrofio",
+      "title": "L’Orfanotrofio di Marta",
+      "videoId": "ieahzqcpIDg",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Nathan esce dal Tempio. Anche oggi Elturel è avvolta da una splendida giornata, e il Compagno splende alto nel cielo, riversando sulla città la sua luce sacra, calda e purificante come un balsamo sulla pelle."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poco distante si trova l’Orfanotrofio. Il luogo in cui è cresciuto. Il luogo che custodisce la maggior parte dei suoi ricordi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nel cortile alcuni bambini giocano, lanciando sassolini contro bottiglie allineate su una staccionata. Ridono, si spingono, competono con la serietà tipica di chi considera ogni gioco una battaglia decisiva."
+        },
+        {
+          "type": "paragraph",
+          "text": "Quando Nathan si avvicina, i piccoli si voltano di scatto, temendo per un istante l’arrivo della severa governante — la stessa di quando lui era bambino. Nessuno conosce davvero la sua età. Sembra eterna quanto il Compagno."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma il timore svanisce subito."
+        },
+        {
+          "type": "quote",
+          "text": "«Nathan!»"
+        },
+        {
+          "type": "paragraph",
+          "text": "I bambini gli corrono incontro, abbracciandolo con entusiasmo. Lui ricambia, lasciandosi stringere, sorridendo come solo lì riesce a fare."
+        },
+        {
+          "type": "quote",
+          "text": "«Chi sta vincendo?»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Le accuse volano rapide: Olly bara. No, sono gli altri a essere delle schiappe. Linguacce, gomitate, risate."
+        },
+        {
+          "type": "paragraph",
+          "text": " Nathan scuote il capo con finta severità."
+        },
+        {
+          "type": "quote",
+          "text": "«Mi raccomando, fate i bravi. E quando finite, rimettete tutto a posto. Non fate arrabbiare la povera Marta… alla sua età.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Dopo qualche carezza sulla testa e una raccomandazione paterna, entra nell’edificio."
+        },
+        {
+          "type": "paragraph",
+          "text": "L’interno è un turbinio di vita: bambini che corrono su e giù per le scale, donne che preparano la colazione, richiami, risate, caos. Scene che Nathan ricorda fin troppo bene. Era lui, un tempo, il primo a scendere le scale di corsa. Bambino felice, nonostante tutto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Incontra le donne che lo hanno cresciuto, figure materne più che semplici tutrici."
+        },
+        {
+          "type": "quote",
+          "text": "«Nathan! Che piacere vederti. Sapevamo fossi tornato in città. Tutto bene?»"
+        },
+        {
+          "type": "paragraph",
+          "text": " Parole affettuose, stanchezza sincera, la solita lotta quotidiana contro l’energia incontenibile dei piccoli."
+        },
+        {
+          "type": "quote",
+          "text": "«Ogni generazione è più selvaggia della precedente.»"
+        },
+        {
+          "type": "paragraph",
+          "text": " Nathan ride piano. Anche lui, un tempo, era tra i più irrequieti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Gli viene offerta la possibilità di fermarsi per la colazione, ma scuote il capo con rammarico."
+        },
+        {
+          "type": "quote",
+          "text": "«Mi piacerebbe. Ma devo passare alla Gilda. Forse c’è bisogno di qualcuno.»"
+        },
+        {
+          "type": "paragraph",
+          "text": " È solo un saluto. Un ritorno breve, un promemoria di ciò che è stato."
+        },
+        {
+          "type": "paragraph",
+          "text": "Mentre si allontana, sente una voce gridare dietro di lui."
+        },
+        {
+          "type": "quote",
+          "text": "«Ehi! Metti giù quel colpasso!»"
+        },
+        {
+          "type": "paragraph",
+          "text": " Un altro inseguimento. Un’altra mattina rumorosa. Nathan sorride appena, poi si incammina verso la Gilda degli Avventurieri, sotto la luce eterna del Compagno."
+        }
+      ]
+    },
+    {
+      "id": "gilda",
+      "title": "La Gilda degli Avventurieri e l’incontro",
+      "videoId": "sYxXAAXrR6A",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": " Prima di raggiungere la Gilda, Nathan si ferma dal panettiere. Una piccola colazione veloce: un pezzo di pane ancora caldo, semplice, sufficiente."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le strade di Elturel sono tranquille. Nonostante sia una grande città, non vi è quell’afflusso continuo di avventurieri che si trova altrove, come a Baldur’s Gate."
+        },
+        {
+          "type": "paragraph",
+          "text": " La luce sacra del Compagno ha cambiato tutto. Nei dintorni della città, la presenza di non morti e mostri è drasticamente diminuita. Negli ultimi cinquant’anni, gli incidenti causati da creature delle tenebre  sono calati in modo netto. Elturel è diventata un luogo sicuro."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ed è proprio questa sicurezza a rendere la Gilda meno affollata di quanto ci si aspetterebbe. Molti degli incarichi vengono accettati da avventurieri esterni, viaggiatori di passaggio, uomini e donne che non hanno radici in città."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan apre la porta della Gilda. Il legno scricchiola leggermente sui cardini. All’interno riconosce alcuni volti familiari, individui già incontrati in passato, presenze abituali tra quelle mura."
+        },
+        {
+          "type": "paragraph",
+          "text": " Davanti alla bacheca degli annunci una figura attira la sua attenzione. Sta ferma, le mani sui fianchi, il corpo leggermente inclinato in avanti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Scruta con attenzione gli incarichi affissi, studiando ogni dettaglio come se stesse pesando il destino stesso. La luce che filtra dalle finestre illumina il profilo di quella presenza sconosciuta."
+        }
+      ]
+    },
+    {
+      "id": "aelar",
+      "title": "L'incontro con Aelar",
+      "videoId": "v1XMu2PkHTQ",
+      "blocks": [
+        {
+          "type": "image",
+          "variant": "left",
+          "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Party/AelarBig.png",
+          "alt": "Aelar"
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan si avvicina alla figura ferma davanti alla bacheca. Le mani sono posate sui fianchi, lo sguardo attento, concentrato sugli incarichi affissi."
+        },
+        {
+          "type": "paragraph",
+          "text": "È chiaramente di stirpe elfica. Le orecchie non lasciano dubbi. Non sembra uno straniero: si muove con naturalezza, conosce i volti, riconosce i nomi. È uno che appartiene a quel luogo."
+        },
+        {
+          "type": "paragraph",
+          "text": " Nathan lo osserva per un istante, poi gli si rivolge in elfico."
+        },
+        {
+          "type": "quote",
+          "text": "«Buongiorno. Anche voi cercate un incarico per oggi?»"
+        },
+        {
+          "type": "quote",
+          "text": " «Quando si è alla Gilda, di solito si attende un incarico. Per ora osservo. Se qualcuno avrà bisogno dei miei servigi, sarò pronto.»"
+        },
+        {
+          "type": "paragraph",
+          "text": " Non vi è arroganza nel tono, solo misura."
+        },
+        {
+          "type": "paragraph",
+          "text": " Nathan inclina leggermente il capo, intuendo una certa disciplina nell’altro."
+        },
+        {
+          "type": "quote",
+          "text": "«Piacere. Nathan. Non ricordo di avervi mai visto qui. Sono nato e cresciuto a Elturel.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "L’elfo tende la mano."
+        },
+        {
+          "type": "quote",
+          "text": "«Aelar. Sono tornato da poco. Ho viaggiato per il Faerûn. Suppongo si possa dire che anch’io sia un avventuriero.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Le loro strette di mano sono ferme, misurate. Non di sfida. Di riconoscimento."
+        },
+        {
+          "type": "paragraph",
+          "text": "È mattina presto. La Gilda non è ancora animata come nelle ore centrali. Vi è un piccolo punto di ristoro, ma la maggior parte degli avventori si limita a consultare gli annunci o ad allenarsi nella sala adiacente."
+        },
+        {
+          "type": "quote",
+          "text": "«Di solito passo a fare qualche tiro con l’arco nella sala di addestramento. Per scaldare i muscoli. Se vi interessa, possiamo incrociare qualche colpo.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan torna a guardare la bacheca, cercando tra i fogli affissi qualcosa che valga la giornata."
+        },
+        {
+          "type": "paragraph",
+          "text": "Due sconosciuti, sotto la luce eterna del Compagno, uniti dallo stesso silenzioso proposito: servire."
+        }
+      ]
+    },
+    {
+      "id": "missione",
+      "title": "La nostra prima missione",
+      "videoId": "V09x5WLn8gA",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Aelar stava già osservando la bacheca quando Nathan si avvicinò. Ora entrambi fissano lo stesso foglio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le altre missioni sono poco allettanti: compensi modesti, incarichi che non valgono una giornata intera. Ma una richiesta attira la loro attenzione."
+        },
+        {
+          "type": "paragraph",
+          "text": "Scorta per un erborista fuori città. Raccolta di erbe nei dintorni. Guardia durante il lavoro. Compenso: quaranta monete d’oro a testa. Fino a un massimo di tre persone."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il nome in calce è chiaro: <strong>Fernand Règlisse</strong>."
+        },
+        {
+          "type": "paragraph",
+          "text": " Una nota aggiuntiva specifica: se non si trova nella sua bottega, cercarlo alla <em>Chanson Rouge</em>."
+        },
+        {
+          "type": "quote",
+          "text": "«Interessante…» mormora Nathan. «Ben pagata per una semplice scorta. Non ho sentito di particolari avvistamenti ultimamente. Tu che ne pensi?»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Aelar riflette. La città è sicura sotto la luce del Compagno, ma fuori dalle mura le certezze si assottigliano."
+        },
+        {
+          "type": "quote",
+          "text": "«È una richiesta semplice. Potremmo accettarla.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Mancano ancora posti nel gruppo. Potrebbero attendere un terzo, oppure procedere subito."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan si avvicina al bancone della Gilda. La receptionist, colta quasi di sorpresa, sistema gli occhiali sul naso e consulta il registro."
+        },
+        {
+          "type": "quote",
+          "text": "«Sì, Fernand è venuto ieri a depositare la richiesta. È… noto per bere un po’ troppo, ma è una brava persona. Il negozio si trova nel distretto ovest. E se non lo trovate lì, probabilmente sarà alla Chanson Rouge.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Nessun altro si è ancora fatto avanti. Sono i primi. Buon segno."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan chiede che, nel caso qualcuno si presenti, venga indirizzato a loro. La ragazza annuisce, intinge la piuma nel calamaio, firma, timbra."
+        },
+        {
+          "type": "quote",
+          "text": "«Ufficialmente accettata.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Il contratto resta alla Gilda. Il compenso verrà erogato solo a incarico concluso, previa conferma dell’erborista."
+        },
+        {
+          "type": "paragraph",
+          "text": "I due escono insieme. Ora non sono più due sconosciuti davanti a una bacheca. Sono un gruppo."
+        },
+        {
+          "type": "quote",
+          "text": "«Io di solito avanzo in prima linea,» dice Nathan. «Tu lavori a distanza, immagino. Ho visto l’arco.»"
+        },
+        {
+          "type": "quote",
+          "text": "«Agisco meglio da solo, di solito. Ma non è male avere qualcuno con cui condividere la strada.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Le parole sono misurate, ma sincere."
+        },
+        {
+          "type": "paragraph",
+          "text": " Sotto la luce eterna del Compagno, Nathan e Aelar muovono i primi passi verso la loro prima missione insieme."
+        }
+      ]
+    },
+    {
+      "id": "papavero",
+      "title": "Il Seme di Papavero",
+      "videoId": "wL5lGNNAJQU",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Nathan e Aelar lasciano la Gilda e si incamminano tra le vie di Elturel. Strade strette si alternano ai viali principali, illuminate dalla luce costante del Compagno."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dopo alcuni minuti giungono davanti alla bottega. L’insegna di legno reca inciso il nome: <strong>Il Seme di Papavero</strong>."
+        },
+        {
+          "type": "paragraph",
+          "text": "L’esterno è sorprendentemente rigoglioso: vasi colmi di piante e fiori colorati, alte vetrate che permettono alla luce di filtrare all’interno, un piccolo sottotetto con travi a vista che conferisce un’aria accogliente e curata."
+        },
+        {
+          "type": "quote",
+          "text": "«Prego. Prima tu. Che la Fede ti assista.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan si avvicina alla porta, posa la mano sulla maniglia. È rigida. Prova a spingere. Nulla."
+        },
+        {
+          "type": "paragraph",
+          "text": "La bottega è chiusa."
+        },
+        {
+          "type": "quote",
+          "text": "«Signor Règlisse! È lei che ha affisso la richiesta? Siamo qui per la scorta!»"
+        },
+        {
+          "type": "paragraph",
+          "text": "La voce rimbalza sul legno e sulle vetrate, ma dall’interno non giunge risposta."
+        },
+        {
+          "type": "paragraph",
+          "text": "I due si sporgono leggermente, cercando di osservare attraverso le finestre. L’interno è deserto. Nessun movimento. Nessuna presenza."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan sospira."
+        },
+        {
+          "type": "quote",
+          "text": "«Ce l’avevano detto. Se non è qui, sarà alla taverna.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Poco distante, una vecchina sistema cassette di ortaggi. Minuta, curva, ma con occhi attenti."
+        },
+        {
+          "type": "quote",
+          "text": "«Buongiorno, giovani. Volete delle mele? Sono fresche, raccolte da mio marito.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan declina con un sorriso, poi chiede informazioni."
+        },
+        {
+          "type": "quote",
+          "text": "«Stavamo cercando il signor Fernand Règlisse. La bottega è chiusa. Sa dirci dove potremmo trovarlo?»"
+        },
+        {
+          "type": "paragraph",
+          "text": "La donna sbuffa appena."
+        },
+        {
+          "type": "quote",
+          "text": "«Sarà ancora in quella taverna. Non sarà nemmeno tornato stanotte. Non so come faccia a mandare avanti la sua proprietà.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Un mistero, a quanto pare, condiviso da tutto il quartiere."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ringraziata la donna, i due si rimettono in cammino. La meta è chiara: la <em>Chanson Rouge</em>."
+        },
+        {
+          "type": "paragraph",
+          "text": "La taverna non si trova nel cuore templare e burocratico della città, ma in una zona più periferica, popolare. Non è rinomata, ma è sempre animata."
+        },
+        {
+          "type": "paragraph",
+          "text": "Musica dal vivo, canti, clienti abituali. Un luogo dove il tempo scorre più lento, o forse viene dimenticato del tutto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan accelera leggermente il passo."
+        },
+        {
+          "type": "quote",
+          "text": "«Lui si diverte. Ma il tempo passa. E io oggi vorrei lavorare.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Quando la sagoma della taverna appare in vista, i due rallentano. Nathan osserva l’ingresso, cercando eventuali segni di attività: un buttafuori, clienti che entrano o escono, qualche indizio che confermi la presenza dell’erborista."
+        },
+        {
+          "type": "paragraph",
+          "text": "La loro prima missione li sta già mettendo alla prova — non con il pericolo, ma con la pazienza."
+        }
+      ]
+    },
+    {
+      "id": "rouge",
+      "title": "La Chanson Rouge",
+      "videoId": "BxxcdxS5YLY",
+      "blocks": [
+        {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-1/LaChansonRouge.png",
+          "alt": "La Chandon Rouge"
+        },
+        {
+          "type": "paragraph",
+          "text": "Ancor prima di vedere l’insegna della taverna, Nathan e Aelar ne riconoscono la presenza."
+        },
+        {
+          "type": "paragraph",
+          "text": "Una scia di corpi accasciati, uomini collassati contro i muri, altri riversi nei vicoli, come briciole di pane disseminate lungo il cammino, li conduce fino all’ingresso."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nessun buttafuori. Nessuna compostezza. Solo il residuo evidente di una notte di eccessi."
+        },
+        {
+          "type": "quote",
+          "text": "Speriamo sia ancora vivo."
+        },
+        {
+          "type": "paragraph",
+          "text": "La porta si apre. Un’ondata d’aria calda li investe: legno umido, fumo di tabacco, l’odore dolciastro del luppolo."
+        },
+        {
+          "type": "paragraph",
+          "text": "La sala è ampia e affollata. Tavoli massicci occupano quasi ogni spazio, carichi di mercanti, soldati cittadini e viaggiatori. Il brusio costante è interrotto solo dal tintinnio dei boccali."
+        },
+        {
+          "type": "paragraph",
+          "text": "Cameriere si muovono tra i tavoli con agilità sorprendente, scattanti come felini, evitando corpi addormentati a terra con una grazia che farebbe invidia a un guerriero addestrato."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sul fondo della sala, un piccolo palco rialzato. Tende color cremisi incorniciano la scena."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sopra di esso, una tiefling canta."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il suo portamento è elegante, la voce sinuosa, quasi ipnotica. Le parole scivolano tra i tavoli come una melodia che incanta. Alcuni avventori restano immobili, boccali sospesi a mezz’aria, incapaci perfino di bere."
+        },
+        {
+          "type": "paragraph",
+          "text": "Una cameriera li intercetta."
+        },
+        {
+          "type": "quote",
+          "text": "Buongiorno. Siamo ancora pieni dalla serata di ieri. Se non avete prenotato, temo dovrò chiedervi di uscire… a meno che non stiate cercando qualcuno."
+        },
+        {
+          "type": "quote",
+          "text": "Cerchiamo il signor Fernand Règlisse."
+        },
+        {
+          "type": "paragraph",
+          "text": "La ragazza si guarda intorno, poi indica verso destra."
+        },
+        {
+          "type": "quote",
+          "text": "Lì in fondo. Tavolo sulla destra. Quello con la salopette."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan si dirige immediatamente verso il tavolo. Aelar, prima di seguirlo, ordina con calma un idromele."
+        },
+        {
+          "type": "paragraph",
+          "text": "Mentre attraversano la sala, frammenti di conversazioni giungono alle loro orecchie."
+        },
+        {
+          "type": "quote",
+          "text": "Non posso credere che abbia più di sessant’anni."
+        },
+        {
+          "type": "quote",
+          "text": "Sessanta? Ma cosa dici?"
+        },
+        {
+          "type": "paragraph",
+          "text": "I commenti riguardano la tiefling sul palco. Aelar aggrotta leggermente la fronte."
+        },
+        {
+          "type": "paragraph",
+          "text": "Per quanto ne sappia, i tiefling hanno una vita non troppo diversa da quella umana. Cento anni sono già un’età considerevole. Sessanta non giustificherebbero certo quell’aspetto."
+        },
+        {
+          "type": "quote",
+          "text": "Un po’ giovane per averne il doppio, non trovi?",
+          "author": "Aelar"
+        },
+        {
+          "type": "quote",
+          "text": "Magari un talismano. O solo chiacchiere da ubriachi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le parole restano sospese. Forse pettegolezzi. Forse no."
+        },
+        {
+          "type": "paragraph",
+          "text": "Avanzare non è semplice. Non tanto per la distanza, quanto per la folla compatta."
+        },
+        {
+          "type": "paragraph",
+          "text": "Tra canti, risate e bicchieri levati in alto, i due si fanno strada verso il tavolo indicato."
+        },
+        {
+          "type": "paragraph",
+          "text": "Là, finalmente, siede l’uomo che ha dato inizio a tutto: Fernand Règlisse."
+        }
+      ]
+    },
+    {
+      "id": "fernand",
+      "title": "Fernand Règlisse",
+      "videoId": "ovJOHHJ9ZWA",
+      "blocks": [
+        {
+          "type": "image",
+          "variant": "left",
+          "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Alleati/FernandRèglisse.png",
+          "alt": "Fernand Règlisse"
+        },
+        {
+          "type": "paragraph",
+          "text": "Al tavolo in fondo siede l’uomo che cercano."
+        },
+        {
+          "type": "paragraph",
+          "text": "Avrà sui cinquant’anni, forse qualcuno in più — e se ne ha meno, li porta con sorprendente severità."
+        },
+        {
+          "type": "paragraph",
+          "text": "Davanti a lui un taccuino aperto, accanto un boccale di birra. Scrive. Beve. Torna a scrivere."
+        },
+        {
+          "type": "quote",
+          "text": "Signor Règlisse?"
+        },
+        {
+          "type": "paragraph",
+          "text": "L’uomo non alza subito lo sguardo."
+        },
+        {
+          "type": "quote",
+          "text": "Siamo qui per l’incarico di scorta. La richiesta alla Gilda."
+        },
+        {
+          "type": "paragraph",
+          "text": "Finalmente solleva il boccale, poi gli occhi."
+        },
+        {
+          "type": "quote",
+          "text": "Ah, sì? Ci avete messo poco."
+        },
+        {
+          "type": "paragraph",
+          "text": "La taverna, priva di vere finestre, è illuminata solo da candelabri e luci di scena. Entrare è come perdere il senso del tempo. Uscirne, un’incognita."
+        },
+        {
+          "type": "paragraph",
+          "text": "È mattina inoltrata. Eppure Fernand è lì, birra alla mano."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dalla tasca estrae alcune erbe, inizia a sminuzzarle con gesti esperti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aelar osserva con attenzione. Le riconosce: erbe utili contro il mal di testa, perfette per alleviare i postumi di una sbronza."
+        },
+        {
+          "type": "quote",
+          "text": "Ho quasi finito la mia scorta di erba mantide. Mi serve raccoglierne altra fuori città. L’ultima volta ho avuto problemi con dei lupi. Non intendo rischiare di nuovo."
+        },
+        {
+          "type": "paragraph",
+          "text": "L’erba mantide è nota per impacchi e rimedi terapeutici, usata nella medicina erborea. Nulla di oscuro. Nulla di raro."
+        },
+        {
+          "type": "quote",
+          "text": "Saremo di ritorno prima del tramonto. Poco fuori città."
+        },
+        {
+          "type": "paragraph",
+          "text": "Proprio in quel momento, la tiefling sul palco inizia a cantare."
+        },
+        {
+          "type": "paragraph",
+          "text": "La sua voce riempie la sala come una carezza sottile e irresistibile. Parla di Elturel, dei monti, delle valli, dei fiumi, dei Cavalieri Infernali, del Compagno."
+        },
+        {
+          "type": "paragraph",
+          "text": "È una melodia malinconica, ma la dolcezza della voce fa quasi dimenticare il peso delle parole."
+        },
+        {
+          "type": "quote",
+          "text": "Sublime…",
+          "author": "Fernand"
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi torna serio, osservando i due con occhio critico."
+        },
+        {
+          "type": "quote",
+          "text": "Di cosa siete capaci? Posso fidarmi?"
+        },
+        {
+          "type": "quote",
+          "text": "Se si tratta di lupi, goblin o non morti, me la cavo."
+        },
+        {
+          "type": "quote",
+          "text": "Non sarei venuto se non fossi in grado."
+        },
+        {
+          "type": "paragraph",
+          "text": "Gli infusi arrivano al tavolo. Aelar aggiunge il proprio miele personale, con gesto metodico."
+        },
+        {
+          "type": "paragraph",
+          "text": "La decisione è presa. Si parte oggi stesso."
+        },
+        {
+          "type": "paragraph",
+          "text": "Fernand si alza, chiedendo un braccio per sorreggersi. All’uscita, la luce del Compagno lo colpisce in pieno volto."
+        },
+        {
+          "type": "quote",
+          "text": "Ah! Maledetta luminosità…"
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan e Aelar lo accompagnano. Prima di lasciare il quartiere, Nathan mantiene una promessa: acquista alcune mele dalla vecchina del mercato."
+        },
+        {
+          "type": "paragraph",
+          "text": "La prima missione è ufficialmente iniziata. Quaranta monete d’oro a testa. Una cifra notevole."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sotto il sole artificiale che non tramonta, i tre si dirigono verso le porte della città."
+        }
+      ]
+    },
+    {
+      "id": "fuori-elturel",
+      "title": "Fuori da Elturel",
+      "videoId": "9ZqhV-E3-4s",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Tornano alla bottega. Qualche ultima compravendita con la vecchina degli ortaggi, qualche parola di circostanza."
+        },
+        {
+          "type": "paragraph",
+          "text": "Fernand Règlisse recupera il proprio equipaggiamento: una borsa colma di strumenti e sacchetti per le erbe, un taccuino, una pipa che accende con gesto abitudinario, e un cappellino che si sistema con cura."
+        },
+        {
+          "type": "quote",
+          "text": "Bene. Possiamo andare."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan prende posizione qualche passo davanti. Aelar rimane leggermente arretrato, osservando l’ambiente con discrezione, vigilando sui movimenti attorno."
+        },
+        {
+          "type": "paragraph",
+          "text": "Mentre si avviano verso le porte della città, Fernand rompe il silenzio."
+        },
+        {
+          "type": "quote",
+          "text": "Con chi ho il piacere di lavorare oggi? Non vi siete ancora presentati."
+        },
+        {
+          "type": "quote",
+          "text": "Nathan."
+        },
+        {
+          "type": "quote",
+          "text": "Aelar Thaedrim."
+        },
+        {
+          "type": "paragraph",
+          "text": "L’erborista annuisce, poi il suo sguardo si posa su un simbolo."
+        },
+        {
+          "type": "quote",
+          "text": "Quel marchio… Fate parte di quei tizi strani che ammazzano robe strane, vero?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan non si scompone."
+        },
+        {
+          "type": "quote",
+          "text": "Dovresti esserne contento. Ti facciamo da scorta."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aelar osserva in silenzio. Il simbolo non è noto ai più: un piccolo ordine interno alla città, addestrati a combattere ciò che non dovrebbe esistere. Non cavalieri infernali, non guardie ufficiali. Qualcosa di più discreto."
+        },
+        {
+          "type": "quote",
+          "text": "Non giudico. Siete solo… strani. Viaggiate di notte. Uccidete cose. Finché restano lontane da me, non ho nulla da dire."
+        },
+        {
+          "type": "quote",
+          "text": "Noi andiamo dove sono loro. Non sono loro a venire dove siamo noi."
+        },
+        {
+          "type": "quote",
+          "text": "Oh, lo spero. Altrimenti correrò più veloce che posso… per quanto la mia pancia me lo permetta."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le mura di Elturel si lasciano alle spalle. Il Compagno splende ancora alto, ma la sicurezza della città svanisce con ogni passo."
+        },
+        {
+          "type": "paragraph",
+          "text": "È quasi mezzogiorno quando superano i confini. Davanti a loro si apre la campagna: sentieri battuti, erba alta mossa dal vento, e il silenzio più autentico di quello delle vie cittadine."
+        },
+        {
+          "type": "paragraph",
+          "text": "La loro prima missione li conduce ora oltre la protezione delle mura, dove la luce sacra si fa meno rassicurante e le ombre tornano ad avere peso."
+        }
+      ]
+    },
+    {
+      "id": "aeren",
+      "title": "Aeren e la questione delle erbe",
+      "videoId": "0mZLUJ5UEac",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Dopo aver percorso mezzo miglio oltre le mura di Elturel, quando la città è ormai solo un profilo lontano sotto il Compagno, Aelar emette un fischio breve, sottile."
+        },
+        {
+          "type": "paragraph",
+          "text": "Per un istante non accade nulla. Poi, come evocato dall’aria stessa, un gufo dal piumaggio chiaro compare alle sue spalle e si posa con naturalezza sul suo braccio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan osserva la scena senza commentare. Il legame tra l’elfo e la creatura è evidente: uno sguardo, un sussurro appena udibile, e il gufo spicca il volo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sale alto, poi si allontana, fino a scomparire tra le correnti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Accompagnano Fernand Règlisse nel bosco per l’intero primo pomeriggio. L’erborista si muove tra le frasche con sorprendente sicurezza, cercando piante specifiche, chinandosi su funghi rari, infilando sacchetti nella borsa con cura metodica."
+        },
+        {
+          "type": "paragraph",
+          "text": "Per il momento, nessun pericolo. Solo il fruscio del vento tra le foglie e il canto lontano degli uccelli."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aelar, mentre vigila, non resiste alla tentazione. Riconosce alcune erbe utili. Si china, ne raccoglie qualcuna per sé."
+        },
+        {
+          "type": "quote",
+          "text": "Guarda che non ti pago per aiutarmi a raccoglierle, ma per proteggermi."
+        },
+        {
+          "type": "paragraph",
+          "text": "L’elfo solleva lo sguardo, impassibile."
+        },
+        {
+          "type": "quote",
+          "text": "Non vedo pericoli."
+        },
+        {
+          "type": "quote",
+          "text": "Potrebbero arrivare."
+        },
+        {
+          "type": "paragraph",
+          "text": "Fernand si avvicina, prende per sé le stesse erbe individuate da Aelar e le infila nella propria sacca."
+        },
+        {
+          "type": "paragraph",
+          "text": "Per un istante, lo sguardo dell’elfo si fa tagliente. Un pensiero silenzioso attraversa la sua mente."
+        },
+        {
+          "type": "paragraph",
+          "variant": "emphasis",
+          "text": "Umani."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan rimane vigile, osservando il perimetro, consapevole che la quiete del bosco è spesso solo una tregua."
+        }
+      ]
+    },
+    {
+      "id": "pericoli",
+      "title": "Pericoli e nuovi incontri",
+      "videoId": "_XmXkpmUtUc",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Nel mezzo di quella quiete tesa, mentre Fernand fruga tra le frasche, Aelar avverte qualcosa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non un suono. Non un movimento. Una connessione."
+        },
+        {
+          "type": "paragraph",
+          "text": "È Aeren. Il gufo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un impulso mentale, un’allerta improvvisa. Qualcuno è in difficoltà. Vicino. Entro trecento metri."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aelar solleva appena lo sguardo, poi si avvicina a Nathan e a Fernand."
+        },
+        {
+          "type": "quote",
+          "text": "C’è qualcuno qui vicino. Una creatura. Sembra in difficoltà… ma potrebbe essere un pericolo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il bosco attorno a loro è fitto, alberi antichi, sottobosco denso."
+        },
+        {
+          "type": "quote",
+          "text": "Io mi avvicino in silenzio. Restate qui."
+        },
+        {
+          "type": "paragraph",
+          "text": "Fernand sbianca."
+        },
+        {
+          "type": "quote",
+          "text": "No. Io senza di voi non resto nella foresta."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan rimane saldo. Il suo compito è proteggere l’erborista."
+        },
+        {
+          "type": "quote",
+          "text": "Se è un pericolo, è un pericolo anche per lui."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aelar si volta un’ultima volta verso Fernand."
+        },
+        {
+          "type": "quote",
+          "text": "Vuoi assumerti la responsabilità di essere colto di sorpresa?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Senza attendere risposta, si muove."
+        },
+        {
+          "type": "paragraph",
+          "text": "L’elfo si addentra tra gli alberi con passo leggero, guidato dall’alto dallo sguardo vigile di Aeren."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ogni ramo evitato, ogni foglia sfiorata senza rumore. Il sottobosco sembra accoglierlo senza tradire la sua presenza."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dietro di lui, a una ventina di metri, Nathan e Fernand avanzano con maggiore fatica."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi —"
+        },
+        {
+          "type": "paragraph",
+          "text": "Un rumore improvviso. Alberi che cedono. Fronde che si spezzano. Un suono innaturale, violento."
+        },
+        {
+          "type": "paragraph",
+          "text": "La quiete del bosco si frantuma."
+        },
+        {
+          "type": "paragraph",
+          "text": "Qualcosa si sta muovendo. E non è piccolo."
+        }
+      ]
+    },
+    {
+      "id": "goblin",
+      "title": "Goblin... all'attacco!",
+      "videoId": "poSIpR1TOgM",
+      "blocks": [
+        {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-1/BoschiElturel.png",
+          "alt": "Il bosco fuori elturel"
+        },
+        {
+          "type": "paragraph",
+          "text": "Aelar emerge silenzioso dal sottobosco e ciò che vede davanti a sé è tutt’altro che un semplice allarme."
+        },
+        {
+          "type": "paragraph",
+          "text": "Una figura è schiena al muro, premuta contro un grande masso. Impugna un pugnale sporco di sangue. Anche le sue mani sono macchiate."
+        },
+        {
+          "type": "paragraph",
+          "text": "Attorno a lei, un cerchio di goblin."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le creature la punzecchiano, cercano di colpirla, la stringono con movimenti nervosi e crudeli. La figura combatte con foga, ma sta faticando."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ancora nascosto tra le fronde, Aelar inspira lentamente. L’istinto prende il sopravvento."
+        },
+        {
+          "type": "paragraph",
+          "text": "Porta la balestra alla spalla, prende la mira."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il dardo parte."
+        },
+        {
+          "type": "paragraph",
+          "text": "Si conficca nella schiena di uno dei goblin con un suono secco."
+        },
+        {
+          "type": "paragraph",
+          "text": "La creatura urla, barcolla in avanti. Gli altri si voltano di scatto, sorpresi, cercando l’origine dell’attacco."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il silenzio del bosco è definitivamente spezzato."
+        },
+        {
+          "type": "paragraph",
+          "text": "La battaglia è iniziata."
+        }
+      ]
+    },
+    {
+      "id": "serio",
+      "title": "Finalmente si fa sul serio",
+      "videoId": "90xVXTW3Z3g",
+      "blocks": [
+        {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/Scontri/L'incontro_con_Kyran.png",
+          "alt": "morte"
+        },
+        {
+          "type": "paragraph",
+          "text": "I goblin si voltano verso Aelar, individuando finalmente la fonte dei dardi."
+        },
+        {
+          "type": "paragraph",
+          "text": "L’elfo ricarica con rapidità sorprendente, emerge solo quanto basta e scaglia un secondo colpo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il dardo colpisce ancora. Una delle creature cade a terra, priva di vita."
+        },
+        {
+          "type": "paragraph",
+          "text": "I superstiti reagiscono con rabbia. Una freccia sibila nell’aria, un’altra lama trova carne."
+        },
+        {
+          "type": "paragraph",
+          "text": "La figura contro il masso viene colpita duramente. Il sangue scorre. Ma non cede."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan si piazza davanti a Fernand, bloccando la visuale e l’accesso al suo datore di lavoro."
+        },
+        {
+          "type": "quote",
+          "text": "Tieni giù la testa. A questi pensiamo noi."
+        },
+        {
+          "type": "paragraph",
+          "text": "La sua arma cala, ma il goblin scarta di lato, rapido e infame."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il combattimento si fa serrato. Lame che fendono l’aria, respiri spezzati, passi nel fango."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aelar si muove come un’ombra. Un altro dardo parte. Un altro goblin cade."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan, ferito ma saldo, lancia un giavellotto con precisione brutale. L’arma attraversa l’aria e si conficca nel corpo della creatura in fuga, inchiodandola al terreno."
+        },
+        {
+          "type": "paragraph",
+          "text": "L’ultimo goblin tenta di disimpegnarsi, di scappare nel sottobosco."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma la distanza non basta."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un incantesimo sussurrato, una campana invisibile che vibra nell’anima. L’eco della morte lo raggiunge."
+        },
+        {
+          "type": "paragraph",
+          "text": "Quando tutto tace, restano solo i corpi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan si gira verso il bosco."
+        },
+        {
+          "type": "quote",
+          "text": "Puoi uscire. È finita."
+        },
+        {
+          "type": "paragraph",
+          "text": "Fernand riemerge lentamente dal suo nascondiglio, pallido ma intero."
+        },
+        {
+          "type": "paragraph",
+          "text": "La figura salvata, ancora ansimante contro il masso, osserva i due combattenti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il bosco torna silenzioso. Ma qualcosa è cambiato."
+        }
+      ]
+    },
+    {
+      "id": "antefatto",
+      "title": "Baldur’s Gate, quattro giorni prima",
+      "videoId": "nZtfJ61iAXA",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Molte miglia a ovest di Elturel, oltre fiumi e strade mercantili, oltre territori contesi e carovane in viaggio, sorge Baldur’s Gate."
+        },
+        {
+          "type": "paragraph",
+          "text": "In una magione nobiliare, tra marmi scuri e drappi rosso cremisi, un giovane uomo siede su una poltrona."
+        },
+        {
+          "type": "paragraph",
+          "text": "Alto, elegante, vestito con abiti raffinati tra il nero e il rosso. Capelli biondo pallido. Occhi cremisi che brillano nella penombra."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il suo nome è Araster. E questa è casa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un maggiordomo entra con passo composto."
+        },
+        {
+          "type": "quote",
+          "text": "Signor Araster, vostra madre desidera vedervi in salotto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il giovane si alza senza esitazione."
+        },
+        {
+          "type": "quote",
+          "text": "Non facciamo attendere mia madre."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nella sala trova entrambi i genitori. Il tavolo non è apparecchiato. L’atmosfera è tesa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il nome viene pronunciato con cautela: il Granduca Ulder Ravengard."
+        },
+        {
+          "type": "paragraph",
+          "text": "Partito per una missione diplomatica verso Elturel. Scomparso."
+        },
+        {
+          "type": "paragraph",
+          "text": "I rapporti tra Baldur’s Gate ed Elturel non sono mai stati semplici. E questo momento è inusuale. Pericoloso."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il padre prende parola."
+        },
+        {
+          "type": "quote",
+          "text": "Vogliamo che tu vada a Elturel. Tienici aggiornati sugli spostamenti del Granduca. Qualsiasi informazione potrà avvantaggiare la nostra famiglia."
+        },
+        {
+          "type": "paragraph",
+          "text": "La madre posa una mano su quella del marito. Gli occhi, però, tradiscono una preoccupazione sincera."
+        },
+        {
+          "type": "quote",
+          "text": "Ci fidiamo di te."
+        },
+        {
+          "type": "paragraph",
+          "text": "Araster si inchina leggermente."
+        },
+        {
+          "type": "quote",
+          "text": "Tra le spine veglia l’occhio. Se non siamo noi a portare ordine dall’ombra… chi lo farà?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Il padre annuisce, ma il suo sguardo resta fisso nel vuoto."
+        },
+        {
+          "type": "quote",
+          "text": "Ho un brutto presentimento."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le carrozze sono già pronte. Tutto è stato organizzato in anticipo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Prima della partenza, la madre lo abbraccia. Un gesto raro."
+        },
+        {
+          "type": "paragraph",
+          "text": "Gli consegna una sacca: ottanta monete d’oro."
+        },
+        {
+          "type": "quote",
+          "text": "Per qualsiasi evenienza."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le ruote della carrozza iniziano a girare."
+        },
+        {
+          "type": "paragraph",
+          "text": "Baldur’s Gate resta alle spalle."
+        },
+        {
+          "type": "paragraph",
+          "text": "Questo accade quattro giorni prima che le lame si incrocino nel bosco fuori Elturel."
+        }
+      ]
+    },
+    {
+      "id": "rientro",
+      "title": "Ultime erbe, ultimo sole",
+      "videoId": "d5_XzD_AgBA",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Fernand Règlisse termina di raccogliere le ultime erbe mentre il sole artificiale inizia a scendere verso l’orizzonte."
+        },
+        {
+          "type": "paragraph",
+          "text": "L’aria si fa più fresca. Le ombre si allungano tra i tronchi."
+        },
+        {
+          "type": "quote",
+          "text": "Direi che è quasi ora. Non vedo l’ora di farmi un’altra birra stasera."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sistema con cura le sacche, controlla che nulla manchi."
+        },
+        {
+          "type": "quote",
+          "text": "Queste sono per il mio mal di ossa. Uso terapeutico."
+        },
+        {
+          "type": "paragraph",
+          "text": "Lo sguardo di Aelar si posa sulle erbe. Potrebbero essere davvero comuni rimedi. O forse no."
+        },
+        {
+          "type": "paragraph",
+          "text": "Fernand solleva le mani in segno di resa."
+        },
+        {
+          "type": "quote",
+          "text": "Tranquilli. I soldi non li ho nemmeno io. Li ho già versati alla Gilda. Saranno loro a pagarvi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi lo sguardo dell’erborista si posa su Kyran."
+        },
+        {
+          "type": "quote",
+          "text": "E tu, ragazzina? Hai intenzione di tenerti quella maschera per tutto il tempo?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Gli occhi cremisi non tremano."
+        },
+        {
+          "type": "quote",
+          "text": "Finché non potrò fidarmi di chi c’è qui."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il silenzio che segue non è ostile. Ma non è nemmeno sereno."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il gruppo si rimette in cammino. Dietro di loro restano i corpi dei goblin. Davanti, le mura di Elturel illuminate dal Compagno."
+        }
+      ]
+    },
+    {
+      "id": "caduta",
+      "title": "La caduta di Elturel",
+      "videoId": "ozjAZ-bJoA4",
+      "blocks": [
+        {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-1/LaFineDiElturel.png",
+          "alt": "La fine di Elturel"
+        },
+        {
+          "type": "paragraph",
+          "text": "Mentre tornate verso la città, un’altra carrozza si avvicina al confine opposto."
+        },
+        {
+          "type": "paragraph",
+          "text": "I destini si intrecciano, ignari."
+        },
+        {
+          "type": "paragraph",
+          "text": "È tardo pomeriggio. Il Compagno splende alto sopra Elturel, in contrasto con le sfumature arancio e blu del tramonto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dalla collina, a quaranta minuti dalle mura, vedete la città cinta dalle sue difese, sicura, immobile."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dalla carrozza, Alaster osserva lo stesso spettacolo. Il vento gli muove i capelli, il sole artificiale brilla davanti ai suoi occhi cremisi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi — nuvole nere."
+        },
+        {
+          "type": "paragraph",
+          "text": "Compaiono sopra la città, si addensano, vorticano."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il vento si alza improvviso. Fulmini rossi fendono il cielo e colpiscono il Compagno."
+        },
+        {
+          "type": "paragraph",
+          "text": "La sfera esplode in lampi accecanti. Energia pura si scarica al suolo, frantumando edifici."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il suo colore muta. Dal bianco candido al nero pece."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un’eclissi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Attorno alla città, un muro di fuoco si innalza."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le urla giungono fino a voi, portate dal vento. Migliaia di voci."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il cielo si tinge di rosso. La terra trema."
+        },
+        {
+          "type": "paragraph",
+          "text": "E poi — la città si solleva."
+        },
+        {
+          "type": "paragraph",
+          "text": "Di metri. Sempre più in alto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sotto di essa si apre una voragine colossale, un abisso di fiamme."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un canto echeggia dalle profondità. Antico. Infernale."
+        },
+        {
+          "type": "paragraph",
+          "text": "Catene emergono dal sottosuolo, si agganciano al basamento della città, serrano la presa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Siete troppo lontani per intervenire. Abbastanza vicini da vedere ogni dettaglio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Edificio dopo edificio, Elturel viene trascinata verso il basso."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il Compagno, ormai nero, scompare insieme alla città."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il portale si richiude."
+        },
+        {
+          "type": "paragraph",
+          "text": "Silenzio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Tutto accade in pochi minuti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dove sorgeva la città del sole, ora resta soltanto un cratere immenso."
+        },
+        {
+          "type": "paragraph",
+          "text": "Elturel non c’è più."
+        },
+        {
+          "type": "paragraph",
+          "variant": "emphasis",
+          "text": "Fine della Sessione I."
+        }
+      ]
+    }
+  ]
+}

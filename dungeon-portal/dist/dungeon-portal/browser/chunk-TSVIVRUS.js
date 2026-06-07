@@ -1,0 +1,1 @@
+import{Cb as t,Db as m,Zb as o,fb as n}from"./chunk-5ZEWL7CD.js";var p=class a{static \u0275fac=function(e){return new(e||a)};static \u0275cmp=n({type:a,selectors:[["app-campagne-manager"]],decls:2,vars:0,template:function(e,s){e&1&&(t(0,"p"),o(1,"campagne-manager works!"),m())},encapsulation:2})};export{p as CampagneManagerComponent};

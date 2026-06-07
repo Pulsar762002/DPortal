@@ -1,0 +1,1 @@
+import{Cb as n,Db as o,Zb as a,fb as s}from"./chunk-5ZEWL7CD.js";var m=class t{static \u0275fac=function(e){return new(e||t)};static \u0275cmp=s({type:t,selectors:[["app-masters"]],decls:2,vars:0,template:function(e,p){e&1&&(n(0,"p"),a(1,"masters works!"),o())},encapsulation:2})};export{m as MastersComponent};

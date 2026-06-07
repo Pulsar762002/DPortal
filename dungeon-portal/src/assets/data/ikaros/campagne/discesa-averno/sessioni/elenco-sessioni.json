@@ -97,12 +97,12 @@
         {
           "label": "Sessione 18",
           "sessionNumber": 18,
-          "visible": false
+          "visible": true
         },
         {
           "label": "Sessione 19",
           "sessionNumber": 19,
-          "visible": false
+          "visible": true
         },
         {
           "label": "Sessione 20",
