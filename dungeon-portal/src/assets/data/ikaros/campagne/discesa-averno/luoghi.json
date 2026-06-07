@@ -1,0 +1,194 @@
+{
+  "$schema": "./luoghi.schema.json",
+  "campagna": "discesa-averno",
+  "ultimoAggiornamento": 1,
+  "luoghi": [
+    {
+      "id": "elturel",
+      "nome": "Elturel",
+      "tipo": "citta",
+      "luogoPadre": null,
+      "regione": "Costa della Spada, lungo il fiume Chionthar",
+      "immagine": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-1/Elturel.png",
+      "descrizione": "La Città della Luce, a pochi giorni di viaggio nell'entroterra da Baldur's Gate. Sorge sulle rive del Chionthar ed è vegliata dal Compagno, un sole artificiale che la rende sicura dai non morti. Custodita dall'Ordine del Compagno.",
+      "stato": "scomparso",
+      "abitantiNotabili": ["nathan", "aelar", "marcus", "marta", "fernand-reglisse", "tarina"],
+      "primaApparizione": 1,
+      "apparizioni": [1],
+      "note": [
+        { "sessione": 1, "testo": "Presentata come casa del gruppo: città sicura e luminosa, con scarsa affluenza di avventurieri proprio per via della sicurezza data dal Compagno." },
+        { "sessione": 1, "testo": "Alla fine della sessione viene inghiottita dall'Averno: il Compagno si annerisce, un muro di fuoco la circonda e la città sprofonda in una voragine, lasciando solo un cratere." }
+      ],
+      "misteri": [
+        "Cosa ha provocato la caduta di Elturel e il tradimento del Compagno?",
+        "Chi è sopravvissuto tra gli abitanti (Marcus, Marta, i bambini)?"
+      ]
+    },
+    {
+      "id": "il-compagno",
+      "nome": "Il Compagno",
+      "tipo": "landmark",
+      "luogoPadre": "elturel",
+      "regione": "Cielo di Elturel",
+      "immagine": null,
+      "descrizione": "Sole artificiale: una sfera bianca immobile nel cielo che irradia luce sacra senza mai affievolirsi. Apparso quasi cinquant'anni fa in risposta a un attacco di un Signore dei Vampiri, scaccia i non morti. Venerato dall'Ordine del Compagno.",
+      "stato": "distrutto",
+      "abitantiNotabili": [],
+      "primaApparizione": 1,
+      "apparizioni": [1],
+      "note": [
+        { "sessione": 1, "testo": "Durante la caduta viene colpito da fulmini rossi, muta dal bianco al nero pece e si spegne insieme alla città." }
+      ],
+      "misteri": [
+        "Qual è la vera natura e origine del Compagno?",
+        "Perché si è corrotto proprio ora?"
+      ]
+    },
+    {
+      "id": "tempio-divinita",
+      "nome": "Tempio delle Divinità",
+      "tipo": "tempio",
+      "luogoPadre": "elturel",
+      "regione": "Cuore templare di Elturel",
+      "immagine": null,
+      "descrizione": "Grande tempio con colonne imponenti e altari consacrati a più divinità. Acustica ampia che amplifica ogni passo. Qui Nathan vive e prega; Marcus vi officia.",
+      "stato": "scomparso",
+      "abitantiNotabili": ["nathan", "marcus"],
+      "primaApparizione": 1,
+      "apparizioni": [1],
+      "note": [
+        { "sessione": 1, "testo": "Scena d'apertura: confronto mattutino tra Nathan e Marcus sui doveri e sulla vita da avventuriero." }
+      ],
+      "misteri": []
+    },
+    {
+      "id": "orfanotrofio-marta",
+      "nome": "Orfanotrofio di Marta",
+      "tipo": "edificio",
+      "luogoPadre": "elturel",
+      "regione": "Elturel, poco distante dal Tempio",
+      "immagine": null,
+      "descrizione": "L'orfanotrofio dove Nathan è cresciuto, gestito dall'anziana e severa governante Marta. Cortile in cui i bambini giocano; interno pieno di vita e di ricordi per Nathan.",
+      "stato": "scomparso",
+      "abitantiNotabili": ["marta", "nathan"],
+      "primaApparizione": 1,
+      "apparizioni": [1],
+      "note": [
+        { "sessione": 1, "testo": "Nathan vi torna in visita: gioca con i bambini e saluta le tutrici." }
+      ],
+      "misteri": [
+        "Marta e i bambini sono sopravvissuti alla caduta della città?"
+      ]
+    },
+    {
+      "id": "gilda-avventurieri",
+      "nome": "Gilda degli Avventurieri",
+      "tipo": "edificio",
+      "luogoPadre": "elturel",
+      "regione": "Elturel",
+      "immagine": null,
+      "descrizione": "Sede degli incarichi per avventurieri, meno affollata del previsto per via della sicurezza cittadina. Ha una bacheca degli annunci, un punto di ristoro e una sala d'addestramento adiacente.",
+      "stato": "scomparso",
+      "abitantiNotabili": ["nathan", "aelar"],
+      "primaApparizione": 1,
+      "apparizioni": [1],
+      "note": [
+        { "sessione": 1, "testo": "Luogo dell'incontro tra Nathan e Aelar e dell'accettazione dell'incarico di scorta a Fernand." }
+      ],
+      "misteri": []
+    },
+    {
+      "id": "seme-di-papavero",
+      "nome": "Il Seme di Papavero",
+      "tipo": "bottega",
+      "luogoPadre": "elturel",
+      "regione": "Distretto ovest di Elturel",
+      "immagine": null,
+      "descrizione": "Bottega d'erboristeria di Fernand Règlisse: esterno rigoglioso con vasi di piante e fiori, alte vetrate e un piccolo sottotetto con travi a vista.",
+      "stato": "scomparso",
+      "abitantiNotabili": ["fernand-reglisse"],
+      "primaApparizione": 1,
+      "apparizioni": [1],
+      "note": [
+        { "sessione": 1, "testo": "Trovata chiusa: Fernand era alla taverna. Il gruppo vi torna per recuperare l'equipaggiamento prima di partire." }
+      ],
+      "misteri": []
+    },
+    {
+      "id": "chanson-rouge",
+      "nome": "La Chanson Rouge",
+      "tipo": "taverna",
+      "luogoPadre": "elturel",
+      "regione": "Zona periferica e popolare di Elturel",
+      "immagine": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-1/LaChansonRouge.png",
+      "descrizione": "Taverna sempre animata, priva di vere finestre e illuminata da candelabri e luci di scena: entrarvi fa perdere il senso del tempo. Ha un palco con tende cremisi dove si esibisce Tarina, la cantante tiefling.",
+      "stato": "scomparso",
+      "abitantiNotabili": ["tarina", "fernand-reglisse"],
+      "primaApparizione": 1,
+      "apparizioni": [1],
+      "note": [
+        { "sessione": 1, "testo": "Il gruppo vi trova Fernand reduce da una notte di eccessi. Si vocifera sull'età reale di Tarina." }
+      ],
+      "misteri": [
+        "Il legame tra Tarina e la taverna, e il mistero della sua età."
+      ]
+    },
+    {
+      "id": "boschi-elturel",
+      "nome": "Boschi fuori Elturel",
+      "tipo": "bosco",
+      "luogoPadre": null,
+      "regione": "Campagna oltre le mura di Elturel",
+      "immagine": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-1/BoschiElturel.png",
+      "descrizione": "Foresta fitta di alberi antichi e sottobosco denso oltre le mura, dove la sicurezza del Compagno si assottiglia. Sentieri battuti, erba alta, radure tra grandi massi.",
+      "stato": "intatto",
+      "abitantiNotabili": ["kyran", "goblin-bosco"],
+      "primaApparizione": 1,
+      "apparizioni": [1],
+      "note": [
+        { "sessione": 1, "testo": "Teatro della raccolta di erbe, dell'avvistamento di Aeren, della scoperta di Kyran e del primo scontro coi goblin." }
+      ],
+      "misteri": [
+        "Perché i goblin davano la caccia a Kyran in questi boschi?"
+      ]
+    },
+    {
+      "id": "cratere-elturel",
+      "nome": "Cratere di Elturel",
+      "tipo": "landmark",
+      "luogoPadre": null,
+      "regione": "Dove sorgeva Elturel",
+      "immagine": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-1/LaFineDiElturel.png",
+      "descrizione": "L'immensa voragine rimasta dopo che la città è stata trascinata nell'Averno: una cicatrice fumante di zolfo dove un tempo splendeva la Città della Luce.",
+      "stato": "intatto",
+      "abitantiNotabili": [],
+      "primaApparizione": 1,
+      "apparizioni": [1],
+      "note": [
+        { "sessione": 1, "testo": "Si forma alla fine della sessione, sotto gli occhi del gruppo dalla collina e di Alaster dalla carrozza opposta." }
+      ],
+      "misteri": [
+        "Cosa resta sul fondo della voragine? È un varco ancora aperto verso l'Averno?"
+      ]
+    },
+    {
+      "id": "baldurs-gate",
+      "nome": "Baldur's Gate",
+      "tipo": "citta",
+      "luogoPadre": null,
+      "regione": "Costa della Spada, molte miglia a ovest di Elturel",
+      "immagine": null,
+      "descrizione": "Grande città mercantile a ovest di Elturel, con cui i rapporti non sono mai stati semplici. Vi sorge la magione nobiliare della famiglia di Alaster, tra marmi scuri e drappi rosso cremisi.",
+      "stato": "intatto",
+      "abitantiNotabili": ["alaster", "genitori-alaster", "granduca-ravengard"],
+      "primaApparizione": 1,
+      "apparizioni": [1],
+      "note": [
+        { "sessione": 1, "testo": "Compare nel flashback 'quattro giorni prima': qui Alaster riceve dai genitori l'incarico di seguire il Granduca Ravengard." }
+      ],
+      "misteri": [
+        "Quali interessi muovono la famiglia di Alaster e la città nella vicenda del Granduca?"
+      ]
+    }
+  ]
+}

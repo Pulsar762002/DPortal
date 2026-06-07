@@ -1,0 +1,88 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://dungeon-portal/eventi.schema.json",
+  "title": "Registro degli eventi della campagna",
+  "description": "Cronologia degli eventi principali, popolata sessione dopo sessione. Ogni evento dice cosa succede e chi vi partecipa (id da personaggi.json).",
+  "type": "object",
+  "required": ["campagna", "eventi"],
+  "additionalProperties": false,
+  "properties": {
+    "$schema": { "type": "string" },
+    "campagna": {
+      "type": "string",
+      "description": "Slug della campagna (es. 'discesa-averno')."
+    },
+    "ultimoAggiornamento": {
+      "type": "integer",
+      "description": "Numero dell'ultima sessione riversata in questo file."
+    },
+    "eventi": {
+      "type": "array",
+      "items": { "$ref": "#/definitions/evento" }
+    }
+  },
+  "definitions": {
+    "evento": {
+      "type": "object",
+      "required": ["id", "sessione", "ordine", "titolo", "cosaSuccede", "partecipanti"],
+      "additionalProperties": false,
+      "properties": {
+        "id": {
+          "type": "string",
+          "description": "Identificativo univoco in kebab-case (es. 'scontro-goblin-bosco')."
+        },
+        "sessione": {
+          "type": "integer",
+          "description": "Numero della sessione in cui l'evento viene narrato."
+        },
+        "ordine": {
+          "type": "integer",
+          "description": "Ordine narrativo dell'evento nella campagna (come appare al lettore)."
+        },
+        "capitolo": {
+          "type": "string",
+          "description": "id del capitolo nel file session-<N>.json a cui l'evento corrisponde (tracciabilita)."
+        },
+        "titolo": {
+          "type": "string",
+          "description": "Titolo breve e chiaro dell'evento."
+        },
+        "cosaSuccede": {
+          "type": "string",
+          "description": "Descrizione chiara e sintetica di cosa accade."
+        },
+        "partecipanti": {
+          "type": "array",
+          "description": "id dei personaggi coinvolti (devono esistere in personaggi.json).",
+          "items": { "type": "string" }
+        },
+        "altriPartecipanti": {
+          "type": "array",
+          "description": "Comparse o gruppi non catalogati in personaggi.json (testo libero).",
+          "items": { "type": "string" }
+        },
+        "luogo": {
+          "type": "string",
+          "description": "Dove avviene l'evento."
+        },
+        "quando": {
+          "type": "string",
+          "description": "Momento narrativo (es. 'mattina', 'tardo pomeriggio', 'quattro giorni prima')."
+        },
+        "tipo": {
+          "type": "string",
+          "enum": ["incontro", "dialogo", "viaggio", "combattimento", "scoperta", "flashback", "evento-chiave"],
+          "description": "Categoria dell'evento."
+        },
+        "conseguenze": {
+          "type": "string",
+          "description": "Effetti dell'evento sulla trama o sui personaggi."
+        },
+        "note": {
+          "type": "string",
+          "description": "Annotazioni libere (es. discrepanze, ganci per il futuro)."
+        }
+      }
+    }
+  }
+}

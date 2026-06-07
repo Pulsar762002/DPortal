@@ -73,7 +73,7 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Un nuovo giorno si leva su Elturel. Nel grande Tempio delle Divinità, tra colonne imponenti e altari consacrati, Nathan apre gli occhi al mattino."
+          "text": "Un nuovo giorno si leva su Elturel — anche se qui, sotto il Compagno, il giorno non se ne è mai davvero andato. Nel grande Tempio delle Divinità, tra colonne imponenti e altari consacrati, Nathan apre gli occhi. L’incenso indugia ancora nell’aria, freddo e dolce, e la pietra trattiene il silenzio della notte."
         },
         {
           "type": "paragraph",
@@ -89,7 +89,7 @@
         },
         {
           "type": "quote",
-          "text": "«Anche oggi hai intenzione di bighellonare,o finalmente ti occuperai dei tuoi doveri?»"
+          "text": "«Anche oggi hai intenzione di bighellonare, o finalmente ti occuperai dei tuoi doveri?»"
         },
         {
           "type": "paragraph",
@@ -136,7 +136,7 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Nathan esce dal Tempio. Anche oggi Elturel è avvolta da una splendida giornata, e il Compagno splende alto nel cielo, riversando sulla città la sua luce sacra, calda e purificante come un balsamo sulla pelle."
+          "text": "Nathan varca la soglia del Tempio e la mattina lo accoglie. Anche oggi Elturel riposa sotto una luce senza una sola ombra: il Compagno splende immobile nel cielo, e il suo bagliore sacro scende sulla città tiepido e mite, come un balsamo posato sulla pelle."
         },
         {
           "type": "paragraph",
@@ -228,7 +228,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Un altro inseguimento. Un’altra mattina rumorosa. Nathan sorride appena, poi si incammina verso la Gilda degli Avventurieri, sotto la luce eterna del Compagno."
+          "text": "Un altro inseguimento. Un’altra mattina rumorosa. Nathan sorride appena, poi si incammina verso la Gilda degli Avventurieri, mentre il Compagno veglia immobile sui tetti di Elturel."
         }
       ]
     },
@@ -540,9 +540,10 @@
       "videoId": "BxxcdxS5YLY",
       "blocks": [
         {
-          "type": "image",
-          "variant": "left-big",
+          "type": "scene",
           "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-1/LaChansonRouge.png",
+          "title": "La Chanson Rouge",
+          "subtitle": "Elturel · quartiere popolare",
           "alt": "La Chanson Rouge"
         },
         {
@@ -797,7 +798,7 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Tornano alla bottega. Qualche ultima compravendita con la vecchina degli ortaggi, qualche parola di circostanza."
+          "text": "Il gruppo rifà a ritroso la strada fino alla bottega, dove l’insegna del Seme di Papavero attende immobile nella luce del mattino. Qualche ultima compravendita con la vecchina degli ortaggi, due parole di circostanza scambiate tra il profumo delle mele e quello della terra."
         },
         {
           "type": "paragraph",
@@ -960,7 +961,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Un impulso mentale, un’allerta improvvisa. Qualcuno è in difficoltà. Vicino. Entro trecento metri."
+          "text": "Un impulso mentale, un’allerta improvvisa. Qualcuno è in difficoltà. Vicino. Entro trecento passi."
         },
         {
           "type": "paragraph",
@@ -1016,7 +1017,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Dietro di lui, a una ventina di metri, Nathan e Fernand avanzano con maggiore fatica."
+          "text": "Dietro di lui, a una ventina di passi, Nathan e Fernand avanzano con maggiore fatica."
         },
         {
           "type": "paragraph",
@@ -1042,10 +1043,11 @@
       "videoId": "poSIpR1TOgM",
       "blocks": [
         {
-          "type": "image",
-          "variant": "left-big",
+          "type": "scene",
           "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-1/BoschiElturel.png",
-          "alt": "Il bosco fuori elturel"
+          "title": "I Boschi di Elturel",
+          "subtitle": "Oltre le mura",
+          "alt": "Il bosco fuori Elturel"
         },
         {
           "type": "paragraph",
@@ -1192,6 +1194,11 @@
       "videoId": "nZtfJ61iAXA",
       "blocks": [
         {
+          "type": "note",
+          "title": "Nota del Master",
+          "text": "Il racconto si ferma e torna indietro. Lasciamo per un momento il bosco fuori Elturel: quanto segue accade <strong>quattro giorni prima</strong>, lontano da qui, a Baldur’s Gate."
+        },
+        {
           "type": "paragraph",
           "text": "Molte miglia a ovest di Elturel, oltre fiumi e strade mercantili, oltre territori contesi e carovane in viaggio, sorge Baldur’s Gate."
         },
@@ -1312,7 +1319,7 @@
         },
         {
           "type": "paragraph",
-          "text": "L’aria si fa più fresca. Le ombre si allungano tra i tronchi."
+          "text": "L’aria si fa più fresca. Le ombre si allungano tra i tronchi, lunghe e oblique, come se anche la luce del Compagno faticasse a tenerle a bada."
         },
         {
           "type": "quote",
@@ -1370,9 +1377,10 @@
       "videoId": "ozjAZ-bJoA4",
       "blocks": [
         {
-          "type": "image",
-          "variant": "left-big",
+          "type": "scene",
           "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-1/LaFineDiElturel.png",
+          "title": "La Caduta di Elturel",
+          "subtitle": "Dalla collina, al tramonto",
           "alt": "La fine di Elturel"
         },
         {
@@ -1385,11 +1393,11 @@
         },
         {
           "type": "paragraph",
-          "text": "È tardo pomeriggio. Il Compagno splende alto sopra Elturel, in contrasto con le sfumature arancio e blu del tramonto."
+          "text": "È tardo pomeriggio. Il Compagno splende alto sopra Elturel, una macchia di luce bianca incastonata fra le sfumature arancio e blu del tramonto. Per un istante la città sembra sospesa fra il giorno che non muore e la notte che preme ai suoi confini."
         },
         {
           "type": "paragraph",
-          "text": "Dalla collina, a quaranta minuti dalle mura, vedete la città cinta dalle sue difese, sicura, immobile."
+          "text": "Dalla collina, a quaranta minuti dalle mura, vedete la città cinta dalle sue difese, sicura, immobile. Nient’altro che un giorno qualunque che si avvia a finire, come ne sono finiti cinquant’anni di seguito."
         },
         {
           "type": "paragraph",
@@ -1401,15 +1409,15 @@
         },
         {
           "type": "paragraph",
-          "text": "Compaiono sopra la città, si addensano, vorticano."
+          "text": "Compaiono sopra la città dal nulla, si addensano, vorticano come acqua sporca risucchiata in un gorgo. La luce del Compagno si fa più debole, ingoiata a poco a poco da quell’oscurità che non dovrebbe esistere a quest’ora."
         },
         {
           "type": "paragraph",
-          "text": "Il vento si alza improvviso. Fulmini rossi fendono il cielo e colpiscono il Compagno."
+          "text": "Il vento si alza improvviso e porta con sé un odore che non appartiene a questa terra: zolfo, cenere, qualcosa di bruciato. Fulmini rossi fendono il cielo e colpiscono il Compagno."
         },
         {
           "type": "paragraph",
-          "text": "La sfera esplode in lampi accecanti. Energia pura si scarica al suolo, frantumando edifici."
+          "text": "La sfera esplode in lampi accecanti. Energia pura si scarica al suolo, frantumando edifici, e un’ondata di calore vi raggiunge fin sulla collina, secca e improvvisa come l’apertura di una fornace."
         },
         {
           "type": "paragraph",
@@ -1421,15 +1429,15 @@
         },
         {
           "type": "paragraph",
-          "text": "Attorno alla città, un muro di fuoco si innalza."
+          "text": "Attorno alla città, un muro di fuoco si innalza, alto come le mura e poi più alto ancora."
         },
         {
           "type": "paragraph",
-          "text": "Le urla giungono fino a voi, portate dal vento. Migliaia di voci."
+          "text": "Le urla giungono fino a voi, portate dal vento insieme allo zolfo e alla cenere. Migliaia di voci, indistinte, che si fondono in un solo lungo lamento."
         },
         {
           "type": "paragraph",
-          "text": "Il cielo si tinge di rosso. La terra trema."
+          "text": "Il cielo si tinge di un rosso malato, lo stesso rosso che nessun tramonto conosce. La terra trema sotto i vostri piedi."
         },
         {
           "type": "paragraph",
@@ -1437,15 +1445,15 @@
         },
         {
           "type": "paragraph",
-          "text": "Di metri. Sempre più in alto."
+          "text": "Si stacca dalla terra, palmo a palmo, sempre più in alto, mentre le fondamenta gemono come una creatura ferita."
         },
         {
           "type": "paragraph",
-          "text": "Sotto di essa si apre una voragine colossale, un abisso di fiamme."
+          "text": "Sotto di essa si spalanca una voragine colossale: un abisso di fiamme da cui sale un fiato di zolfo e di calore, fino a voi, sulla collina."
         },
         {
           "type": "paragraph",
-          "text": "Un canto echeggia dalle profondità. Antico. Infernale."
+          "text": "Un canto echeggia dalle profondità, in una lingua che nessuno di voi conosce eppure riconosce nelle ossa. Antico. Infernale."
         },
         {
           "type": "paragraph",
@@ -1477,11 +1485,15 @@
         },
         {
           "type": "paragraph",
-          "text": "Dove sorgeva la città del sole, ora resta soltanto un cratere immenso."
+          "text": "Dove sorgeva la città del sole, ora resta soltanto un cratere immenso, e l’odore di zolfo che il vento porta lento verso di voi."
         },
         {
           "type": "paragraph",
           "text": "Elturel non c’è più."
+        },
+        {
+          "type": "divider",
+          "variant": "flourish"
         },
         {
           "type": "paragraph",

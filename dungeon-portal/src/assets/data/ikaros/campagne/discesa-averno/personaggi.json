@@ -1,0 +1,336 @@
+{
+  "$schema": "./personaggi.schema.json",
+  "campagna": "discesa-averno",
+  "ultimoAggiornamento": 1,
+  "personaggi": [
+    {
+      "id": "nathan",
+      "nome": "Nathan",
+      "categoria": "party",
+      "ruolo": "Paladino",
+      "razza": "Umano",
+      "eta": "Circa 24 anni",
+      "immagine": "assets/data/ikaros/campagne/discesa-averno/personaggi/Party/NathanBig.png",
+      "aspetto": "Alto, capelli castani ordinati, occhi azzurri vigili, cicatrici sbiadite sul volto. Indossa una cotta di maglia; sul guanto destro è dipinto un occhio.",
+      "personalita": "Devoto, protettivo, dal forte senso del dovere. Caloroso con i più deboli, calmo nei confronti, fermo nelle proprie convinzioni.",
+      "background": "Cresciuto nell'orfanotrofio di Marta a Elturel. Appartiene a un ordine discreto della città, addestrato a combattere ciò che non dovrebbe esistere (il marchio dell'occhio). Devoto a Helm.",
+      "stato": "vivo",
+      "primaApparizione": 1,
+      "apparizioni": [1],
+      "note": [
+        { "sessione": 1, "testo": "Tornato da pochi giorni a Elturel. Visita il Tempio, l'orfanotrofio e la Gilda; accetta la prima missione (scorta a Fernand) insieme ad Aelar." },
+        { "sessione": 1, "testo": "In battaglia combatte in prima linea: usa giavellotti e un incantesimo a campana che semina morte a distanza." }
+      ],
+      "misteri": [
+        "Chi è davvero il fratello che secondo Marcus 'ha trovato il suo posto'?",
+        "Quale ordine rappresenta il marchio dell'occhio sul guanto, e che legame ha con il motto di Alaster 'Tra le spine veglia l'occhio'?"
+      ],
+      "correlazioni": [
+        { "personaggio": "marcus", "tipo": "mentore", "descrizione": "Figura paterna e guida spirituale; rapporto affettuoso ma conflittuale sulla vita da avventuriero." },
+        { "personaggio": "marta", "tipo": "famiglia adottiva", "descrizione": "Governante dell'orfanotrofio in cui Nathan è cresciuto." },
+        { "personaggio": "aelar", "tipo": "compagno", "descrizione": "Conosciuto alla Gilda; insieme accettano e affrontano la prima missione." },
+        { "personaggio": "fernand-reglisse", "tipo": "datore di lavoro", "descrizione": "Erborista da scortare fuori città." },
+        { "personaggio": "fratello-di-nathan", "tipo": "famiglia", "descrizione": "Fratello menzionato da Marcus come esempio di vita 'stabile'." }
+      ]
+    },
+    {
+      "id": "aelar",
+      "nome": "Aelar Thaedrim",
+      "categoria": "party",
+      "ruolo": "Avventuriero / arciere",
+      "razza": "Elfo",
+      "eta": "Ignota",
+      "immagine": "assets/data/ikaros/campagne/discesa-averno/personaggi/Party/AelarBig.png",
+      "aspetto": "Di chiara stirpe elfica, orecchie a punta. Si muove con misura e disciplina; combatte con arco e balestra.",
+      "personalita": "Riservato, controllato, abituato a operare da solo. Distaccato verso gli umani (pensiero ricorrente: 'Umani.'). Senza arroganza, ma poco incline alla socialità.",
+      "background": "Nato a Elturel, ha viaggiato a lungo per il Faerûn ed è tornato da poco. Ha un legame profondo con il gufo Aeren, suo famiglio/compagno.",
+      "stato": "vivo",
+      "primaApparizione": 1,
+      "apparizioni": [1],
+      "note": [
+        { "sessione": 1, "testo": "Incontra Nathan alla Gilda davanti alla bacheca; accettano insieme la scorta a Fernand." },
+        { "sessione": 1, "testo": "Durante la missione il gufo Aeren segnala una creatura in difficoltà: Aelar interviene e apre lo scontro contro i goblin colpendone uno alla schiena." }
+      ],
+      "misteri": [
+        "Perché è tornato a Elturel dopo i suoi viaggi?"
+      ],
+      "correlazioni": [
+        { "personaggio": "aeren", "tipo": "famiglio", "descrizione": "Gufo legato ad Aelar; fa da esploratore e sentinella, comunica con lui mentalmente." },
+        { "personaggio": "nathan", "tipo": "compagno", "descrizione": "Conosciuto alla Gilda; primo compagno d'avventura." },
+        { "personaggio": "fernand-reglisse", "tipo": "datore di lavoro", "descrizione": "Erborista da scortare; rapporto tiepido per via delle erbe contese." }
+      ]
+    },
+    {
+      "id": "alaster",
+      "nome": "Alaster",
+      "categoria": "party",
+      "ruolo": "Nobile / agente della famiglia",
+      "razza": "Umano",
+      "eta": "Giovane",
+      "immagine": "assets/data/ikaros/campagne/discesa-averno/personaggi/Party/AlasterBig.png",
+      "aspetto": "Alto ed elegante, abiti raffinati tra il nero e il rosso. Capelli biondo pallido, occhi cremisi che brillano nella penombra.",
+      "personalita": "Composto, sicuro, fedele alla famiglia. Si muove nell'ombra: 'Tra le spine veglia l'occhio. Se non siamo noi a portare ordine dall'ombra… chi lo farà?'.",
+      "background": "Rampollo di una casata nobiliare di Baldur's Gate. Inviato a Elturel dai genitori per seguire gli spostamenti del Granduca Ulder Ravengard, scomparso durante una missione diplomatica. Parte con 80 monete d'oro.",
+      "stato": "vivo",
+      "primaApparizione": 1,
+      "apparizioni": [1],
+      "note": [
+        { "sessione": 1, "testo": "Introdotto nel flashback 'Baldur's Gate, quattro giorni prima'. Viaggia verso Elturel in carrozza." },
+        { "sessione": 1, "testo": "Dalla carrozza, in arrivo da un confine opposto, assiste in lontananza alla caduta di Elturel. Non ancora unito a Nathan e Aelar." }
+      ],
+      "misteri": [
+        "Gli occhi cremisi: tratto condiviso con Kyran — coincidenza, stirpe comune o altro?",
+        "Il motto 'Tra le spine veglia l'occhio' richiama il marchio dell'occhio di Nathan: stesso ordine/fazione?",
+        "Che fine ha fatto realmente il Granduca Ravengard?"
+      ],
+      "correlazioni": [
+        { "personaggio": "genitori-alaster", "tipo": "famiglia", "descrizione": "I genitori nobili che gli affidano la missione a Elturel." },
+        { "personaggio": "granduca-ravengard", "tipo": "obiettivo", "descrizione": "Granduca scomparso di cui Alaster deve tracciare gli spostamenti." },
+        { "personaggio": "kyran", "tipo": "sospetta", "descrizione": "Condividono gli occhi cremisi: possibile legame ancora da chiarire." }
+      ]
+    },
+    {
+      "id": "kyran",
+      "nome": "Kyran",
+      "categoria": "party",
+      "ruolo": "Sconosciuto",
+      "razza": "Ignota",
+      "eta": "Ignota",
+      "immagine": "assets/data/ikaros/campagne/discesa-averno/personaggi/Party/KyranBig.png",
+      "aspetto": "Figura mascherata. Occhi cremisi che non tremano. Combatte con un pugnale.",
+      "personalita": "Diffidente e guardinga: rifiuta di togliere la maschera 'finché non potrò fidarmi di chi c'è qui'.",
+      "background": "Incontrata nel bosco fuori Elturel mentre, schiena al masso, si difende da sola da un cerchio di goblin. Salvata dall'intervento di Aelar e Nathan. Chiamata 'ragazzina' da Fernand.",
+      "stato": "vivo",
+      "primaApparizione": 1,
+      "apparizioni": [1],
+      "note": [
+        { "sessione": 1, "testo": "Salvata dai goblin; resta diffidente e non rivela il volto. Si unisce idealmente al gruppo sulla via del ritorno a Elturel." }
+      ],
+      "misteri": [
+        "Chi è e perché era sola nel bosco circondata dai goblin?",
+        "Cosa nasconde la maschera?",
+        "Gli occhi cremisi la legano ad Alaster?"
+      ],
+      "correlazioni": [
+        { "personaggio": "goblin-bosco", "tipo": "nemici", "descrizione": "La accerchiavano nel bosco; lei si difendeva con un pugnale." },
+        { "personaggio": "nathan", "tipo": "salvata da", "descrizione": "Nathan e Aelar la liberano dall'assedio dei goblin." },
+        { "personaggio": "alaster", "tipo": "sospetta", "descrizione": "Stessi occhi cremisi: possibile legame da chiarire." }
+      ]
+    },
+    {
+      "id": "fernand-reglisse",
+      "nome": "Fernand Règlisse",
+      "categoria": "alleato",
+      "ruolo": "Erborista",
+      "razza": "Umano",
+      "eta": "Sui 50 anni, forse qualcuno in più",
+      "immagine": "assets/data/ikaros/campagne/discesa-averno/personaggi/Alleati/FernandRèglisse.png",
+      "aspetto": "Porta una salopette e un cappellino, fuma la pipa, gira con taccuino e sacchetti per le erbe.",
+      "personalita": "Bonario ma dedito al bere; pigro nel gestire la bottega, schietto e un po' pavido. Diffidente verso 'i tizi strani che ammazzano robe strane'.",
+      "background": "Proprietario della bottega d'erboristeria 'Il Seme di Papavero' nel distretto ovest di Elturel; frequentatore abituale della taverna Chanson Rouge. Ha affisso alla Gilda la richiesta di scorta per raccogliere erba mantide fuori città dopo problemi con dei lupi.",
+      "stato": "vivo",
+      "primaApparizione": 1,
+      "apparizioni": [1],
+      "note": [
+        { "sessione": 1, "testo": "Datore di lavoro della prima missione (40 mo a testa, fino a 3 persone). Già versato il compenso alla Gilda." },
+        { "sessione": 1, "testo": "Si nasconde durante lo scontro con i goblin; ne esce illeso." }
+      ],
+      "misteri": [
+        "Alcune delle erbe che raccoglie sono davvero solo rimedi terapeutici?"
+      ],
+      "correlazioni": [
+        { "personaggio": "nathan", "tipo": "scorta", "descrizione": "Lo assume per essere scortato fuori città." },
+        { "personaggio": "aelar", "tipo": "scorta", "descrizione": "Idem; piccolo attrito sulle erbe raccolte durante la missione." }
+      ]
+    },
+    {
+      "id": "aeren",
+      "nome": "Aeren",
+      "categoria": "alleato",
+      "ruolo": "Famiglio (gufo)",
+      "razza": "Gufo",
+      "eta": "Ignota",
+      "immagine": "assets/data/ikaros/campagne/discesa-averno/personaggi/Alleati/Aeren.png",
+      "aspetto": "Gufo dal piumaggio chiaro.",
+      "personalita": "Strumento di vigilanza e legame istintivo con Aelar.",
+      "background": "Famiglio di Aelar. Esplora dall'alto e lo avverte mentalmente dei pericoli.",
+      "stato": "vivo",
+      "primaApparizione": 1,
+      "apparizioni": [1],
+      "note": [
+        { "sessione": 1, "testo": "Segnala ad Aelar una creatura in difficoltà entro 300 metri: è Kyran, accerchiata dai goblin." }
+      ],
+      "misteri": [],
+      "correlazioni": [
+        { "personaggio": "aelar", "tipo": "famiglio", "descrizione": "Legato ad Aelar; comunicazione mentale e supporto in esplorazione." }
+      ]
+    },
+    {
+      "id": "marcus",
+      "nome": "Marcus",
+      "categoria": "secondario",
+      "ruolo": "Chierico anziano",
+      "razza": "Umano",
+      "eta": "Anziano",
+      "immagine": null,
+      "aspetto": "Uomo anziano, devoto, raccolto in preghiera agli altari.",
+      "personalita": "Tradizionalista e rigido, fedele ai dettami di Helm e della Chiesa; affettuoso ma critico verso le scelte di Nathan.",
+      "background": "Officia nel Tempio delle Divinità di Elturel; figura paterna per Nathan.",
+      "stato": "ignoto",
+      "primaApparizione": 1,
+      "apparizioni": [1],
+      "note": [
+        { "sessione": 1, "testo": "Probabilmente a Elturel al momento della caduta della città: destino sconosciuto." }
+      ],
+      "misteri": [
+        "È sopravvissuto alla caduta di Elturel?"
+      ],
+      "correlazioni": [
+        { "personaggio": "nathan", "tipo": "figlio adottivo/allievo", "descrizione": "Tratta Nathan come un figlio; rapporto affettuoso ma conflittuale." }
+      ]
+    },
+    {
+      "id": "marta",
+      "nome": "Marta",
+      "categoria": "secondario",
+      "ruolo": "Governante dell'orfanotrofio",
+      "razza": "Umana",
+      "eta": "Molto anziana ('eterna quanto il Compagno')",
+      "immagine": null,
+      "aspetto": "Anziana governante, severa di fama ma rispettata.",
+      "personalita": "Severa e instancabile; punto di riferimento di intere generazioni di orfani.",
+      "background": "Gestisce l'orfanotrofio di Elturel dove è cresciuto Nathan.",
+      "stato": "ignoto",
+      "primaApparizione": 1,
+      "apparizioni": [1],
+      "note": [
+        { "sessione": 1, "testo": "Non compare in scena: i bambini e le altre tutrici la nominano. Probabilmente a Elturel al momento della caduta." }
+      ],
+      "misteri": [
+        "È sopravvissuta alla caduta di Elturel insieme ai bambini?"
+      ],
+      "correlazioni": [
+        { "personaggio": "nathan", "tipo": "famiglia adottiva", "descrizione": "Ha cresciuto Nathan nell'orfanotrofio." }
+      ]
+    },
+    {
+      "id": "fratello-di-nathan",
+      "nome": "Fratello di Nathan",
+      "categoria": "secondario",
+      "ruolo": "Sconosciuto",
+      "razza": "Ignota",
+      "eta": "Ignota",
+      "immagine": null,
+      "aspetto": "Non descritto.",
+      "personalita": "Non descritta.",
+      "background": "Solo menzionato da Marcus come esempio di chi 'ha trovato il suo posto', in contrapposizione alla vita errante di Nathan.",
+      "stato": "ignoto",
+      "primaApparizione": 1,
+      "apparizioni": [1],
+      "note": [
+        { "sessione": 1, "testo": "Citato una sola volta; nessun nome né collocazione." }
+      ],
+      "misteri": [
+        "Chi è, dove si trova e che 'posto' ha trovato?"
+      ],
+      "correlazioni": [
+        { "personaggio": "nathan", "tipo": "famiglia", "descrizione": "Fratello di Nathan." }
+      ]
+    },
+    {
+      "id": "tarina",
+      "nome": "Tarina",
+      "categoria": "secondario",
+      "ruolo": "Cantante",
+      "razza": "Tiefling",
+      "eta": "Apparentemente giovane, ma si vocifera ben oltre i 60 anni",
+      "immagine": "assets/data/ikaros/campagne/discesa-averno/personaggi/Secondari/Tarina.jpg",
+      "aspetto": "Elegante, dal portamento raffinato; voce sinuosa, quasi ipnotica.",
+      "personalita": "Magnetica, capace di incantare la sala con il canto.",
+      "background": "Si esibisce sul palco della taverna Chanson Rouge a Elturel. Canta di Elturel, dei Cavalieri Infernali e del Compagno.",
+      "stato": "ignoto",
+      "primaApparizione": 1,
+      "apparizioni": [1],
+      "note": [
+        { "sessione": 1, "testo": "Gli avventori discutono della sua età: sembra molto più giovane di quanto dovrebbe. Si ipotizza un talismano." }
+      ],
+      "misteri": [
+        "Perché appare così giovane nonostante l'età vociferata? Un talismano? Magia?"
+      ],
+      "correlazioni": []
+    },
+    {
+      "id": "genitori-alaster",
+      "nome": "Genitori di Alaster",
+      "categoria": "secondario",
+      "ruolo": "Nobili di Baldur's Gate",
+      "razza": "Umani",
+      "eta": "Adulti",
+      "immagine": null,
+      "aspetto": "Non dettagliato.",
+      "personalita": "Il padre è pragmatico e attento agli interessi della famiglia, ma turbato da un 'brutto presentimento'; la madre è più apprensiva e affettuosa.",
+      "background": "Casata nobiliare di Baldur's Gate. Affidano ad Alaster la missione di seguire il Granduca Ravengard e gli consegnano 80 monete d'oro.",
+      "stato": "vivo",
+      "primaApparizione": 1,
+      "apparizioni": [1],
+      "note": [
+        { "sessione": 1, "testo": "Compaiono solo nel flashback a Baldur's Gate." }
+      ],
+      "misteri": [
+        "Qual è il vero interesse della famiglia nella scomparsa del Granduca?"
+      ],
+      "correlazioni": [
+        { "personaggio": "alaster", "tipo": "famiglia", "descrizione": "Genitori che inviano Alaster a Elturel." }
+      ]
+    },
+    {
+      "id": "granduca-ravengard",
+      "nome": "Granduca Roland Ravengard",
+      "categoria": "secondario",
+      "ruolo": "Granduca di Baldur's Gate",
+      "razza": "Umano",
+      "eta": "Ignota",
+      "immagine": "assets/data/ikaros/campagne/discesa-averno/personaggi/Secondari/Roland Revengar.png",
+      "aspetto": "Non descritto in questa sessione.",
+      "personalita": "Non descritta.",
+      "background": "Granduca di Baldur's Gate, partito per una missione diplomatica verso Elturel e poi scomparso. La sua sorte mette in tensione i rapporti tra le due città.",
+      "stato": "scomparso",
+      "primaApparizione": 1,
+      "apparizioni": [1],
+      "note": [
+        { "sessione": 1, "testo": "Solo menzionato. La sua scomparsa è il motore della missione di Alaster." },
+        { "sessione": 1, "testo": "Discrepanza nome: nel testo della sessione 1 è citato come 'Ulder Ravengard', mentre il ritratto è 'Roland Revengar'. Da uniformare." }
+      ],
+      "misteri": [
+        "Dov'è il Granduca e qual è il suo legame con la caduta di Elturel?"
+      ],
+      "correlazioni": [
+        { "personaggio": "alaster", "tipo": "obiettivo", "descrizione": "Alaster è incaricato di seguirne gli spostamenti." }
+      ]
+    },
+    {
+      "id": "goblin-bosco",
+      "nome": "Goblin del bosco",
+      "categoria": "avversario",
+      "ruolo": "Predoni",
+      "razza": "Goblin",
+      "eta": "—",
+      "immagine": null,
+      "aspetto": "Gruppo di goblin, rapidi e nervosi, armati di lame e archi.",
+      "personalita": "Crudeli e opportunisti; attaccano in gruppo.",
+      "background": "Incontrati nel bosco fuori Elturel mentre accerchiano Kyran.",
+      "stato": "morto",
+      "primaApparizione": 1,
+      "apparizioni": [1],
+      "note": [
+        { "sessione": 1, "testo": "Sterminati da Nathan e Aelar durante il primo scontro della campagna." }
+      ],
+      "misteri": [
+        "Perché stavano dando la caccia proprio a Kyran?"
+      ],
+      "correlazioni": [
+        { "personaggio": "kyran", "tipo": "nemici", "descrizione": "La avevano accerchiata nel bosco." }
+      ]
+    }
+  ]
+}
