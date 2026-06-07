@@ -1,7 +1,7 @@
 {
   "$schema": "./personaggi.schema.json",
   "campagna": "discesa-averno",
-  "ultimoAggiornamento": 1,
+  "ultimoAggiornamento": 6,
   "personaggi": [
     {
       "id": "nathan",
@@ -13,108 +13,343 @@
       "immagine": "assets/data/ikaros/campagne/discesa-averno/personaggi/Party/NathanBig.png",
       "aspetto": "Alto, capelli castani ordinati, occhi azzurri vigili, cicatrici sbiadite sul volto. Indossa una cotta di maglia; sul guanto destro è dipinto un occhio.",
       "personalita": "Devoto, protettivo, dal forte senso del dovere. Caloroso con i più deboli, calmo nei confronti, fermo nelle proprie convinzioni.",
-      "background": "Cresciuto nell'orfanotrofio di Marta a Elturel. Appartiene a un ordine discreto della città, addestrato a combattere ciò che non dovrebbe esistere (il marchio dell'occhio). Devoto a Helm.",
+      "background": "Cresciuto nell'orfanotrofio di Marta a Elturel. Appartiene a un ordine discreto della città, addestrato a combattere ciò che non dovrebbe esistere (il marchio dell'occhio). Devoto a Helm. Ex membro della Guardia Cittadina di Elturel.",
       "stato": "vivo",
       "primaApparizione": 1,
-      "apparizioni": [1],
+      "apparizioni": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
       "note": [
-        { "sessione": 1, "testo": "Tornato da pochi giorni a Elturel. Visita il Tempio, l'orfanotrofio e la Gilda; accetta la prima missione (scorta a Fernand) insieme ad Aelar." },
-        { "sessione": 1, "testo": "In battaglia combatte in prima linea: usa giavellotti e un incantesimo a campana che semina morte a distanza." }
+        {
+          "sessione": 1,
+          "testo": "Tornato da pochi giorni a Elturel. Visita il Tempio, l'orfanotrofio e la Gilda; accetta la prima missione (scorta a Fernand) insieme ad Aelar."
+        },
+        {
+          "sessione": 1,
+          "testo": "In battaglia combatte in prima linea: usa giavellotti e un incantesimo a campana che semina morte a distanza."
+        },
+        {
+          "sessione": 2,
+          "testo": "Tra le rovine si prodiga per salvare i feriti (estrae una bambina dalle macerie). Cerca invano aiuto da Fernand; si scontra moralmente con Alaster sulla 'buona morte'."
+        },
+        {
+          "sessione": 2,
+          "testo": "Pensa a Marcus e al Tempio, rimasti dentro le mura. Accetta a malincuore di partire verso Baldur's Gate."
+        },
+        {
+          "sessione": 3,
+          "testo": "A Baldur's Gate si presenta come ex Guardia Cittadina di Elturel. Cura Lian con l'imposizione delle mani e ferma una rissa coi pirati al Canto Elfico."
+        },
+        {
+          "sessione": 4,
+          "testo": "Arrestato coi compagni per gli omicidi alla locanda. In cella difende la propria fede ('non posso rinnegare me stesso'). Un cultista tenta di convertirlo a Bhaal; resiste invocando l'Osservatore (Helm)."
+        },
+        {
+          "sessione": 6,
+          "testo": "Al Tempio di Helm prega distratto, pensando a Marcus, a 'Jack' e a Elturel. Rischia di morire nell'incendio dell'Emporio, tratto in salvo da Elis."
+        }
       ],
       "misteri": [
         "Chi è davvero il fratello che secondo Marcus 'ha trovato il suo posto'?",
         "Quale ordine rappresenta il marchio dell'occhio sul guanto, e che legame ha con il motto di Alaster 'Tra le spine veglia l'occhio'?"
       ],
       "correlazioni": [
-        { "personaggio": "marcus", "tipo": "mentore", "descrizione": "Figura paterna e guida spirituale; rapporto affettuoso ma conflittuale sulla vita da avventuriero." },
-        { "personaggio": "marta", "tipo": "famiglia adottiva", "descrizione": "Governante dell'orfanotrofio in cui Nathan è cresciuto." },
-        { "personaggio": "aelar", "tipo": "compagno", "descrizione": "Conosciuto alla Gilda; insieme accettano e affrontano la prima missione." },
-        { "personaggio": "fernand-reglisse", "tipo": "datore di lavoro", "descrizione": "Erborista da scortare fuori città." },
-        { "personaggio": "fratello-di-nathan", "tipo": "famiglia", "descrizione": "Fratello menzionato da Marcus come esempio di vita 'stabile'." }
+        {
+          "personaggio": "marcus",
+          "tipo": "mentore",
+          "descrizione": "Figura paterna e guida spirituale; rapporto affettuoso ma conflittuale sulla vita da avventuriero."
+        },
+        {
+          "personaggio": "marta",
+          "tipo": "famiglia adottiva",
+          "descrizione": "Governante dell'orfanotrofio in cui Nathan è cresciuto."
+        },
+        {
+          "personaggio": "aelar",
+          "tipo": "compagno",
+          "descrizione": "Conosciuto alla Gilda; insieme accettano e affrontano la prima missione."
+        },
+        {
+          "personaggio": "fernand-reglisse",
+          "tipo": "datore di lavoro",
+          "descrizione": "Erborista da scortare fuori città."
+        },
+        {
+          "personaggio": "fratello-di-nathan",
+          "tipo": "famiglia",
+          "descrizione": "Fratello menzionato da Marcus come esempio di vita 'stabile'."
+        },
+        {
+          "personaggio": "alaster",
+          "tipo": "alleato",
+          "descrizione": "Alleati per necessità; in disaccordo sull'eutanasia dei morenti."
+        }
       ]
     },
     {
       "id": "aelar",
       "nome": "Aelar Thaedrim",
       "categoria": "party",
-      "ruolo": "Avventuriero / arciere",
+      "ruolo": "Cacciatore di sangue / arciere",
       "razza": "Elfo",
       "eta": "Ignota",
       "immagine": "assets/data/ikaros/campagne/discesa-averno/personaggi/Party/AelarBig.png",
       "aspetto": "Di chiara stirpe elfica, orecchie a punta. Si muove con misura e disciplina; combatte con arco e balestra.",
       "personalita": "Riservato, controllato, abituato a operare da solo. Distaccato verso gli umani (pensiero ricorrente: 'Umani.'). Senza arroganza, ma poco incline alla socialità.",
-      "background": "Nato a Elturel, ha viaggiato a lungo per il Faerûn ed è tornato da poco. Ha un legame profondo con il gufo Aeren, suo famiglio/compagno.",
+      "background": "Nato a Elturel, ha viaggiato a lungo per il Faerûn ed è tornato da poco. Ha un legame profondo con il gufo Aeren, suo famiglio/compagno. Sessione 2: si apprende che apparteneva a un'Accademia a Elturel, con compagni ('fratelli') e un maestro, ora dispersi nella caduta. Sessione 3: si rivela un cacciatore di sangue (usa rune e una Maledizione di Sangue, oltre a dardi di fuoco).",
       "stato": "vivo",
       "primaApparizione": 1,
-      "apparizioni": [1],
+      "apparizioni": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
       "note": [
-        { "sessione": 1, "testo": "Incontra Nathan alla Gilda davanti alla bacheca; accettano insieme la scorta a Fernand." },
-        { "sessione": 1, "testo": "Durante la missione il gufo Aeren segnala una creatura in difficoltà: Aelar interviene e apre lo scontro contro i goblin colpendone uno alla schiena." }
+        {
+          "sessione": 1,
+          "testo": "Incontra Nathan alla Gilda davanti alla bacheca; accettano insieme la scorta a Fernand."
+        },
+        {
+          "sessione": 1,
+          "testo": "Durante la missione il gufo Aeren segnala una creatura in difficoltà: Aelar interviene e apre lo scontro contro i goblin colpendone uno alla schiena."
+        },
+        {
+          "sessione": 2,
+          "testo": "Rifiuta di abbandonare Elturel: 'questa è la mia città'. Teme la scomparsa dell'Accademia e dei suoi fratelli. Stringe l'alleanza con Alaster."
+        },
+        {
+          "sessione": 2,
+          "testo": "Nell'assalto all'accampamento viene investito da un'esplosione e cade tra le fiamme; rialzato dalla cura di Kyran, abbatte un bandito con la balestra."
+        },
+        {
+          "sessione": 3,
+          "testo": "Caccia per sfamare la carovana. Scuote con durezza Lian dal suo proposito suicida. Nella rissa usa rune ('IGNI') e la Maledizione di Sangue."
+        },
+        {
+          "sessione": 4,
+          "testo": "Usa le arti dell'accademia: Crimson Rite, Maledizione del Sangue e medicina (salva Kyran). Propone di prendere con sé Cleiton."
+        },
+        {
+          "sessione": 5,
+          "testo": "All'Emporio Black si lascia sfuggire un dettaglio ('un altro emporio') che insospettisce Obaia. Nel Tempio di Myrkul combatte i non-morti e contribuisce a distruggere la statua."
+        }
       ],
       "misteri": [
-        "Perché è tornato a Elturel dopo i suoi viaggi?"
+        "Perché è tornato a Elturel dopo i suoi viaggi?",
+        "Cos'è l'Accademia di Elturel e che fine hanno fatto il maestro e i 'fratelli' di Aelar?"
       ],
       "correlazioni": [
-        { "personaggio": "aeren", "tipo": "famiglio", "descrizione": "Gufo legato ad Aelar; fa da esploratore e sentinella, comunica con lui mentalmente." },
-        { "personaggio": "nathan", "tipo": "compagno", "descrizione": "Conosciuto alla Gilda; primo compagno d'avventura." },
-        { "personaggio": "fernand-reglisse", "tipo": "datore di lavoro", "descrizione": "Erborista da scortare; rapporto tiepido per via delle erbe contese." }
+        {
+          "personaggio": "aeren",
+          "tipo": "famiglio",
+          "descrizione": "Gufo legato ad Aelar; fa da esploratore e sentinella, comunica con lui mentalmente."
+        },
+        {
+          "personaggio": "nathan",
+          "tipo": "compagno",
+          "descrizione": "Conosciuto alla Gilda; primo compagno d'avventura."
+        },
+        {
+          "personaggio": "fernand-reglisse",
+          "tipo": "datore di lavoro",
+          "descrizione": "Erborista da scortare; rapporto tiepido per via delle erbe contese."
+        },
+        {
+          "personaggio": "alaster",
+          "tipo": "alleato",
+          "descrizione": "Negozia e sigilla l'alleanza dopo la caduta."
+        }
       ]
     },
     {
       "id": "alaster",
-      "nome": "Alaster",
+      "nome": "Alaster Nodorovo",
       "categoria": "party",
-      "ruolo": "Nobile / agente della famiglia",
-      "razza": "Umano",
+      "ruolo": "Nobile stregone",
+      "razza": "Umano (apparente)",
       "eta": "Giovane",
       "immagine": "assets/data/ikaros/campagne/discesa-averno/personaggi/Party/AlasterBig.png",
       "aspetto": "Alto ed elegante, abiti raffinati tra il nero e il rosso. Capelli biondo pallido, occhi cremisi che brillano nella penombra.",
       "personalita": "Composto, sicuro, fedele alla famiglia. Si muove nell'ombra: 'Tra le spine veglia l'occhio. Se non siamo noi a portare ordine dall'ombra… chi lo farà?'.",
-      "background": "Rampollo di una casata nobiliare di Baldur's Gate. Inviato a Elturel dai genitori per seguire gli spostamenti del Granduca Ulder Ravengard, scomparso durante una missione diplomatica. Parte con 80 monete d'oro.",
+      "background": "Rampollo di una casata nobiliare di Baldur's Gate. Inviato a Elturel dai genitori per seguire gli spostamenti del Granduca Ulder Ravengard, scomparso durante una missione diplomatica. Parte con 80 monete d'oro. Sessione 2: rivela il cognome Nodorovo e una magia innata (non accademica). Perde la carrozza nel caos e stringe alleanza col gruppo per raggiungere Baldur's Gate.",
       "stato": "vivo",
       "primaApparizione": 1,
-      "apparizioni": [1],
+      "apparizioni": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
       "note": [
-        { "sessione": 1, "testo": "Introdotto nel flashback 'Baldur's Gate, quattro giorni prima'. Viaggia verso Elturel in carrozza." },
-        { "sessione": 1, "testo": "Dalla carrozza, in arrivo da un confine opposto, assiste in lontananza alla caduta di Elturel. Non ancora unito a Nathan e Aelar." }
+        {
+          "sessione": 1,
+          "testo": "Introdotto nel flashback 'Baldur's Gate, quattro giorni prima'. Viaggia verso Elturel in carrozza."
+        },
+        {
+          "sessione": 1,
+          "testo": "Dalla carrozza, in arrivo da un confine opposto, assiste in lontananza alla caduta di Elturel. Non ancora unito a Nathan e Aelar."
+        },
+        {
+          "sessione": 2,
+          "testo": "Assiste al disastro dalla carrozza, poi scende ad aiutare. È uno stregone: usa dardo acido e un assalto psichico letale; pratica la 'buona morte' verso i morenti consenzienti."
+        },
+        {
+          "sessione": 2,
+          "testo": "Propone un'alleanza paritaria (non un ingaggio) a Aelar, Nathan e Kyran: scorta fino a Baldur's Gate in cambio di accesso e informazioni sulla caduta di Elturel."
+        },
+        {
+          "sessione": 3,
+          "testo": "A Baldur's Gate sfrutta il proprio rango: ottiene udienza dal Capitano Zodge. Firma un contratto coi Pugni Fiammanti per la cittadinanza. In battaglia lancia Bane e acido."
+        },
+        {
+          "sessione": 4,
+          "testo": "In cella viene liberato dal fratello Dorian Nodorovo ('sei in debito'). Paga la cauzione di Cleiton. Nello scontro usa un assalto psichico (tre occhi) e acido. Emerge il nome del consigliere Gortash."
+        },
+        {
+          "sessione": 5,
+          "testo": "Al mercato nero incontra Clea, una donna misteriosa, presentandosi col falso nome 'Alaster Thorne'. All'Emporio Black tratta con Obaia Black."
+        },
+        {
+          "sessione": 6,
+          "testo": "Rivela poteri non umani: pelle squamosa e cangiante, mimetismo/invisibilità da camaleonte, e crea una rete telepatica tra i compagni. Li osserva pensando 'forse pedine': ambizione nascosta."
+        }
       ],
       "misteri": [
         "Gli occhi cremisi: tratto condiviso con Kyran — coincidenza, stirpe comune o altro?",
         "Il motto 'Tra le spine veglia l'occhio' richiama il marchio dell'occhio di Nathan: stesso ordine/fazione?",
-        "Che fine ha fatto realmente il Granduca Ravengard?"
+        "Che fine ha fatto realmente il Granduca Ravengard?",
+        "Qual è la vera natura di Alaster? La pelle squamosa e cangiante suggerisce che non sia (solo) umano."
       ],
       "correlazioni": [
-        { "personaggio": "genitori-alaster", "tipo": "famiglia", "descrizione": "I genitori nobili che gli affidano la missione a Elturel." },
-        { "personaggio": "granduca-ravengard", "tipo": "obiettivo", "descrizione": "Granduca scomparso di cui Alaster deve tracciare gli spostamenti." },
-        { "personaggio": "kyran", "tipo": "sospetta", "descrizione": "Condividono gli occhi cremisi: possibile legame ancora da chiarire." }
+        {
+          "personaggio": "genitori-alaster",
+          "tipo": "famiglia",
+          "descrizione": "I genitori nobili che gli affidano la missione a Elturel."
+        },
+        {
+          "personaggio": "granduca-ravengard",
+          "tipo": "obiettivo",
+          "descrizione": "Granduca scomparso di cui Alaster deve tracciare gli spostamenti."
+        },
+        {
+          "personaggio": "kyran",
+          "tipo": "sospetta",
+          "descrizione": "Condividono gli occhi cremisi: possibile legame ancora da chiarire."
+        },
+        {
+          "personaggio": "aelar",
+          "tipo": "alleato",
+          "descrizione": "Stringono l'alleanza dopo la caduta; rapporto pragmatico e un po' teso."
+        },
+        {
+          "personaggio": "nathan",
+          "tipo": "alleato",
+          "descrizione": "Visioni opposte sulla 'buona morte', ma alleati verso Baldur's Gate."
+        },
+        {
+          "personaggio": "kyran",
+          "tipo": "alleato",
+          "descrizione": "Kyran lo conduce al gruppo dopo l'assalto alla carrozza."
+        },
+        {
+          "personaggio": "dorian",
+          "tipo": "fratello",
+          "descrizione": "Fratello maggiore che lo fa scarcerare; rapporto di famiglia e debiti."
+        },
+        {
+          "personaggio": "clea",
+          "tipo": "interesse",
+          "descrizione": "Incontro ambiguo al mercato nero; Alaster usa lo pseudonimo 'Thorne'."
+        }
       ]
     },
     {
       "id": "kyran",
       "nome": "Kyran",
       "categoria": "party",
-      "ruolo": "Sconosciuto",
-      "razza": "Ignota",
+      "ruolo": "Warlock del Crepuscolo",
+      "razza": "Elfo",
       "eta": "Ignota",
       "immagine": "assets/data/ikaros/campagne/discesa-averno/personaggi/Party/KyranBig.png",
-      "aspetto": "Figura mascherata. Occhi cremisi che non tremano. Combatte con un pugnale.",
+      "aspetto": "Figura mascherata dagli occhi cremisi; sotto la maschera ha lineamenti elfici. La accompagna un'aura cupa, un 'crepuscolo personale'. Combatte con pugnale e magia.",
       "personalita": "Diffidente e guardinga: rifiuta di togliere la maschera 'finché non potrò fidarmi di chi c'è qui'.",
-      "background": "Incontrata nel bosco fuori Elturel mentre, schiena al masso, si difende da sola da un cerchio di goblin. Salvata dall'intervento di Aelar e Nathan. Chiamata 'ragazzina' da Fernand.",
+      "background": "Incontrata nel bosco fuori Elturel mentre, schiena al masso, si difende da sola da un cerchio di goblin. Salvata dall'intervento di Aelar e Nathan. Chiamata 'ragazzina' da Fernand. Sessione 2: si dichiara forestiera, non cittadina di Elturel. Sa curare con una parola, ma le sue preghiere non ricevono risposta divina. Sessione 3: davanti al Capitano Zodge toglie la maschera, rivelando i tratti elfici. È una warlock legata a un patrono (porta una collana/talismano): lancia Bless e dardi acidi.",
       "stato": "vivo",
       "primaApparizione": 1,
-      "apparizioni": [1],
+      "apparizioni": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
       "note": [
-        { "sessione": 1, "testo": "Salvata dai goblin; resta diffidente e non rivela il volto. Si unisce idealmente al gruppo sulla via del ritorno a Elturel." }
+        {
+          "sessione": 1,
+          "testo": "Salvata dai goblin; resta diffidente e non rivela il volto. Si unisce idealmente al gruppo sulla via del ritorno a Elturel."
+        },
+        {
+          "sessione": 2,
+          "testo": "Continua a non togliere la maschera. Cura Aelar in battaglia con una parola di guarigione, ma quando prega non riceve alcuna voce divina: solo un freddo isolamento."
+        },
+        {
+          "sessione": 2,
+          "testo": "Conduce Alaster dagli altri e accetta l'alleanza 'finché l'obiettivo è ritrovare la città'."
+        },
+        {
+          "sessione": 3,
+          "testo": "Costretta da Zodge a mostrare il volto: è un'elfa, avvolta da un'ombra innaturale. In combattimento invoca il suo patrono e cura i compagni."
+        },
+        {
+          "sessione": 4,
+          "testo": "Nello scontro col Culto evoca la 'benedizione del Twilight' (sfera di luce violacea). Una lama cultista sembra 'fatta apposta per lei': viene gravemente ferita e cade priva di sensi, salvata dalle cure di Aelar."
+        },
+        {
+          "sessione": 5,
+          "testo": "Mentre riposa ha una visione: una figura materna avvolta in un velo luminoso, in un crepuscolo nebbioso su uno specchio d'acqua, lo accarezza e poi svanisce. Al risveglio non ne parla con nessuno."
+        },
+        {
+          "sessione": 6,
+          "testo": "Di nascosto cattura l'essenza/anima di Flenner con il suo ciondolo a piuma argentata: dice che è 'un compito che mi è stato affidato'. Conferma un legame con un patrono che reclama le anime."
+        }
       ],
       "misteri": [
         "Chi è e perché era sola nel bosco circondata dai goblin?",
         "Cosa nasconde la maschera?",
-        "Gli occhi cremisi la legano ad Alaster?"
+        "Gli occhi cremisi la legano ad Alaster?",
+        "Perché le preghiere di Kyran restano senza risposta? A quale divinità è (o era) legata?",
+        "Chi è il patrono di Kyran e perché un'aura di tenebra la segue, soprattutto quando si parla di divinità della morte?",
+        "Perché le armi dei cultisti sembrano colpire Kyran con una vulnerabilità particolare?",
+        "Chi è la figura materna del crepuscolo che appare a Kyran? È il suo patrono?",
+        "Per conto di chi Kyran raccoglie le anime con la sua piuma?"
       ],
       "correlazioni": [
-        { "personaggio": "goblin-bosco", "tipo": "nemici", "descrizione": "La accerchiavano nel bosco; lei si difendeva con un pugnale." },
-        { "personaggio": "nathan", "tipo": "salvata da", "descrizione": "Nathan e Aelar la liberano dall'assedio dei goblin." },
-        { "personaggio": "alaster", "tipo": "sospetta", "descrizione": "Stessi occhi cremisi: possibile legame da chiarire." }
+        {
+          "personaggio": "goblin-bosco",
+          "tipo": "nemici",
+          "descrizione": "La accerchiavano nel bosco; lei si difendeva con un pugnale."
+        },
+        {
+          "personaggio": "nathan",
+          "tipo": "salvata da",
+          "descrizione": "Nathan e Aelar la liberano dall'assedio dei goblin."
+        },
+        {
+          "personaggio": "alaster",
+          "tipo": "sospetta",
+          "descrizione": "Stessi occhi cremisi: possibile legame da chiarire."
+        }
       ]
     },
     {
@@ -130,17 +365,38 @@
       "background": "Proprietario della bottega d'erboristeria 'Il Seme di Papavero' nel distretto ovest di Elturel; frequentatore abituale della taverna Chanson Rouge. Ha affisso alla Gilda la richiesta di scorta per raccogliere erba mantide fuori città dopo problemi con dei lupi.",
       "stato": "vivo",
       "primaApparizione": 1,
-      "apparizioni": [1],
+      "apparizioni": [
+        1,
+        2
+      ],
       "note": [
-        { "sessione": 1, "testo": "Datore di lavoro della prima missione (40 mo a testa, fino a 3 persone). Già versato il compenso alla Gilda." },
-        { "sessione": 1, "testo": "Si nasconde durante lo scontro con i goblin; ne esce illeso." }
+        {
+          "sessione": 1,
+          "testo": "Datore di lavoro della prima missione (40 mo a testa, fino a 3 persone). Già versato il compenso alla Gilda."
+        },
+        {
+          "sessione": 1,
+          "testo": "Si nasconde durante lo scontro con i goblin; ne esce illeso."
+        },
+        {
+          "sessione": 2,
+          "testo": "Ha perso bottega e scorte nella caduta. Si dichiara impotente di fronte a centinaia di feriti gravi; consegna a Nathan le sue ultime monete e promette solo di 'vedere cosa può fare'."
+        }
       ],
       "misteri": [
         "Alcune delle erbe che raccoglie sono davvero solo rimedi terapeutici?"
       ],
       "correlazioni": [
-        { "personaggio": "nathan", "tipo": "scorta", "descrizione": "Lo assume per essere scortato fuori città." },
-        { "personaggio": "aelar", "tipo": "scorta", "descrizione": "Idem; piccolo attrito sulle erbe raccolte durante la missione." }
+        {
+          "personaggio": "nathan",
+          "tipo": "scorta",
+          "descrizione": "Lo assume per essere scortato fuori città."
+        },
+        {
+          "personaggio": "aelar",
+          "tipo": "scorta",
+          "descrizione": "Idem; piccolo attrito sulle erbe raccolte durante la missione."
+        }
       ]
     },
     {
@@ -156,13 +412,27 @@
       "background": "Famiglio di Aelar. Esplora dall'alto e lo avverte mentalmente dei pericoli.",
       "stato": "vivo",
       "primaApparizione": 1,
-      "apparizioni": [1],
+      "apparizioni": [
+        1,
+        2
+      ],
       "note": [
-        { "sessione": 1, "testo": "Segnala ad Aelar una creatura in difficoltà entro 300 metri: è Kyran, accerchiata dai goblin." }
+        {
+          "sessione": 1,
+          "testo": "Segnala ad Aelar una creatura in difficoltà entro 300 metri: è Kyran, accerchiata dai goblin."
+        },
+        {
+          "sessione": 2,
+          "testo": "Perlustra il perimetro dopo la caduta e durante i turni di guardia; individua la carrozza in fuga e veglia sull'accampamento."
+        }
       ],
       "misteri": [],
       "correlazioni": [
-        { "personaggio": "aelar", "tipo": "famiglio", "descrizione": "Legato ad Aelar; comunicazione mentale e supporto in esplorazione." }
+        {
+          "personaggio": "aelar",
+          "tipo": "famiglio",
+          "descrizione": "Legato ad Aelar; comunicazione mentale e supporto in esplorazione."
+        }
       ]
     },
     {
@@ -178,15 +448,24 @@
       "background": "Officia nel Tempio delle Divinità di Elturel; figura paterna per Nathan.",
       "stato": "ignoto",
       "primaApparizione": 1,
-      "apparizioni": [1],
+      "apparizioni": [
+        1
+      ],
       "note": [
-        { "sessione": 1, "testo": "Probabilmente a Elturel al momento della caduta della città: destino sconosciuto." }
+        {
+          "sessione": 1,
+          "testo": "Probabilmente a Elturel al momento della caduta della città: destino sconosciuto."
+        }
       ],
       "misteri": [
         "È sopravvissuto alla caduta di Elturel?"
       ],
       "correlazioni": [
-        { "personaggio": "nathan", "tipo": "figlio adottivo/allievo", "descrizione": "Tratta Nathan come un figlio; rapporto affettuoso ma conflittuale." }
+        {
+          "personaggio": "nathan",
+          "tipo": "figlio adottivo/allievo",
+          "descrizione": "Tratta Nathan come un figlio; rapporto affettuoso ma conflittuale."
+        }
       ]
     },
     {
@@ -202,15 +481,24 @@
       "background": "Gestisce l'orfanotrofio di Elturel dove è cresciuto Nathan.",
       "stato": "ignoto",
       "primaApparizione": 1,
-      "apparizioni": [1],
+      "apparizioni": [
+        1
+      ],
       "note": [
-        { "sessione": 1, "testo": "Non compare in scena: i bambini e le altre tutrici la nominano. Probabilmente a Elturel al momento della caduta." }
+        {
+          "sessione": 1,
+          "testo": "Non compare in scena: i bambini e le altre tutrici la nominano. Probabilmente a Elturel al momento della caduta."
+        }
       ],
       "misteri": [
         "È sopravvissuta alla caduta di Elturel insieme ai bambini?"
       ],
       "correlazioni": [
-        { "personaggio": "nathan", "tipo": "famiglia adottiva", "descrizione": "Ha cresciuto Nathan nell'orfanotrofio." }
+        {
+          "personaggio": "nathan",
+          "tipo": "famiglia adottiva",
+          "descrizione": "Ha cresciuto Nathan nell'orfanotrofio."
+        }
       ]
     },
     {
@@ -226,15 +514,29 @@
       "background": "Solo menzionato da Marcus come esempio di chi 'ha trovato il suo posto', in contrapposizione alla vita errante di Nathan.",
       "stato": "ignoto",
       "primaApparizione": 1,
-      "apparizioni": [1],
+      "apparizioni": [
+        1
+      ],
       "note": [
-        { "sessione": 1, "testo": "Citato una sola volta; nessun nome né collocazione." }
+        {
+          "sessione": 1,
+          "testo": "Citato una sola volta; nessun nome né collocazione."
+        },
+        {
+          "sessione": 6,
+          "testo": "Possibile nome: nella preghiera di Nathan affiora 'Jack' accanto a Marcus ed Elturel. Da confermare se sia il fratello."
+        }
       ],
       "misteri": [
-        "Chi è, dove si trova e che 'posto' ha trovato?"
+        "Chi è, dove si trova e che 'posto' ha trovato?",
+        "'Jack' nominato da Nathan è il suo fratello perduto?"
       ],
       "correlazioni": [
-        { "personaggio": "nathan", "tipo": "famiglia", "descrizione": "Fratello di Nathan." }
+        {
+          "personaggio": "nathan",
+          "tipo": "famiglia",
+          "descrizione": "Fratello di Nathan."
+        }
       ]
     },
     {
@@ -245,17 +547,38 @@
       "razza": "Tiefling",
       "eta": "Apparentemente giovane, ma si vocifera ben oltre i 60 anni",
       "immagine": "assets/data/ikaros/campagne/discesa-averno/personaggi/Secondari/Tarina.jpg",
-      "aspetto": "Elegante, dal portamento raffinato; voce sinuosa, quasi ipnotica.",
+      "aspetto": "Tiefling/donna dai capelli rossi corti, carnagione chiara, braccia e collo coperti di tatuaggi marinareschi.",
       "personalita": "Magnetica, capace di incantare la sala con il canto.",
       "background": "Si esibisce sul palco della taverna Chanson Rouge a Elturel. Canta di Elturel, dei Cavalieri Infernali e del Compagno.",
-      "stato": "ignoto",
+      "stato": "vivo",
       "primaApparizione": 1,
-      "apparizioni": [1],
+      "apparizioni": [
+        1,
+        3,
+        4,
+        5
+      ],
       "note": [
-        { "sessione": 1, "testo": "Gli avventori discutono della sua età: sembra molto più giovane di quanto dovrebbe. Si ipotizza un talismano." }
+        {
+          "sessione": 1,
+          "testo": "Gli avventori discutono della sua età: sembra molto più giovane di quanto dovrebbe. Si ipotizza un talismano."
+        },
+        {
+          "sessione": 3,
+          "testo": "Una Tarina riappare a Baldur's Gate, nascosta alla Taverna del Canto Elfico (vecchia amica di Alan) e braccata da pirati/contrabbandieri. Forse la stessa cantante di Elturel."
+        },
+        {
+          "sessione": 4,
+          "testo": "Finalmente vista in volto: braccata dai pirati che 'la volevano per loro'. Messa in salvo, resta al Canto Elfico (Elis le paga la stanza)."
+        },
+        {
+          "sessione": 5,
+          "testo": "Rivela il suo passato: era nella ciurma dei pirati, ha rubato l'intero bottino dopo l'ultimo assalto ed è fuggita. Col capitano morto pensa che la ciurma salperà. Lascia un biglietto di ringraziamento a Elis e se ne va."
+        }
       ],
       "misteri": [
-        "Perché appare così giovane nonostante l'età vociferata? Un talismano? Magia?"
+        "Perché appare così giovane nonostante l'età vociferata? Un talismano? Magia?",
+        "La Tarina di Baldur's Gate è la stessa cantante tiefling di Elturel? E perché è braccata dai pirati?"
       ],
       "correlazioni": []
     },
@@ -272,15 +595,24 @@
       "background": "Casata nobiliare di Baldur's Gate. Affidano ad Alaster la missione di seguire il Granduca Ravengard e gli consegnano 80 monete d'oro.",
       "stato": "vivo",
       "primaApparizione": 1,
-      "apparizioni": [1],
+      "apparizioni": [
+        1
+      ],
       "note": [
-        { "sessione": 1, "testo": "Compaiono solo nel flashback a Baldur's Gate." }
+        {
+          "sessione": 1,
+          "testo": "Compaiono solo nel flashback a Baldur's Gate."
+        }
       ],
       "misteri": [
         "Qual è il vero interesse della famiglia nella scomparsa del Granduca?"
       ],
       "correlazioni": [
-        { "personaggio": "alaster", "tipo": "famiglia", "descrizione": "Genitori che inviano Alaster a Elturel." }
+        {
+          "personaggio": "alaster",
+          "tipo": "famiglia",
+          "descrizione": "Genitori che inviano Alaster a Elturel."
+        }
       ]
     },
     {
@@ -296,16 +628,32 @@
       "background": "Granduca di Baldur's Gate, partito per una missione diplomatica verso Elturel e poi scomparso. La sua sorte mette in tensione i rapporti tra le due città.",
       "stato": "scomparso",
       "primaApparizione": 1,
-      "apparizioni": [1],
+      "apparizioni": [
+        1
+      ],
       "note": [
-        { "sessione": 1, "testo": "Solo menzionato. La sua scomparsa è il motore della missione di Alaster." },
-        { "sessione": 1, "testo": "Discrepanza nome: nel testo della sessione 1 è citato come 'Ulder Ravengard', mentre il ritratto è 'Roland Revengar'. Da uniformare." }
+        {
+          "sessione": 1,
+          "testo": "Solo menzionato. La sua scomparsa è il motore della missione di Alaster."
+        },
+        {
+          "sessione": 1,
+          "testo": "Discrepanza nome: nel testo della sessione 1 è citato come 'Ulder Ravengard', mentre il ritratto è 'Roland Revengar'. Da uniformare."
+        },
+        {
+          "sessione": 2,
+          "testo": "La sessione 2 ribadisce nel testo il nome 'Ulder Ravengard' (block: 'Il Granduca Ulder Ravengard era diretto a Elturel'). Resta la discrepanza col ritratto 'Roland Revengar'."
+        }
       ],
       "misteri": [
         "Dov'è il Granduca e qual è il suo legame con la caduta di Elturel?"
       ],
       "correlazioni": [
-        { "personaggio": "alaster", "tipo": "obiettivo", "descrizione": "Alaster è incaricato di seguirne gli spostamenti." }
+        {
+          "personaggio": "alaster",
+          "tipo": "obiettivo",
+          "descrizione": "Alaster è incaricato di seguirne gli spostamenti."
+        }
       ]
     },
     {
@@ -321,15 +669,851 @@
       "background": "Incontrati nel bosco fuori Elturel mentre accerchiano Kyran.",
       "stato": "morto",
       "primaApparizione": 1,
-      "apparizioni": [1],
+      "apparizioni": [
+        1
+      ],
       "note": [
-        { "sessione": 1, "testo": "Sterminati da Nathan e Aelar durante il primo scontro della campagna." }
+        {
+          "sessione": 1,
+          "testo": "Sterminati da Nathan e Aelar durante il primo scontro della campagna."
+        }
       ],
       "misteri": [
         "Perché stavano dando la caccia proprio a Kyran?"
       ],
       "correlazioni": [
-        { "personaggio": "kyran", "tipo": "nemici", "descrizione": "La avevano accerchiata nel bosco." }
+        {
+          "personaggio": "kyran",
+          "tipo": "nemici",
+          "descrizione": "La avevano accerchiata nel bosco."
+        }
+      ]
+    },
+    {
+      "id": "bromas",
+      "nome": "Bromas Rultild",
+      "categoria": "alleato",
+      "ruolo": "Carovaniere",
+      "razza": "Umano",
+      "eta": "Maturo",
+      "immagine": "assets/data/ikaros/campagne/discesa-averno/personaggi/Alleati/BromasRultild.png",
+      "aspetto": "Uomo corpulento dal volto arrossato e baffi folti.",
+      "personalita": "Bonario e stanco, generoso: raccoglie profughi senza chiedere denaro.",
+      "background": "Mercante con la sua carovana, raccoglie i sopravvissuti lungo la strada per Baldur's Gate.",
+      "stato": "vivo",
+      "primaApparizione": 2,
+      "apparizioni": [
+        2,
+        3
+      ],
+      "note": [
+        {
+          "sessione": 2,
+          "testo": "Offre un passaggio al gruppo; condivide whisky e compagnia. La sua carrozza perde una ruota lungo la via."
+        },
+        {
+          "sessione": 3,
+          "testo": "Porta il gruppo fino a Baldur's Gate senza chiedere compenso ('aiuto i fratelli di Elturel'). Resta fuori dalle mura con i profughi."
+        }
+      ],
+      "misteri": [],
+      "correlazioni": [
+        {
+          "personaggio": "lian",
+          "tipo": "compagno di viaggio",
+          "descrizione": "Lian, falegname, ripara la ruota della sua carovana."
+        }
+      ]
+    },
+    {
+      "id": "gullivan",
+      "nome": "Gullivan Ardick",
+      "categoria": "alleato",
+      "ruolo": "Profugo",
+      "razza": "Halfling",
+      "eta": "Adulto",
+      "immagine": "assets/data/ikaros/campagne/discesa-averno/personaggi/Alleati/GullivanArdic.png",
+      "aspetto": "Halfling dai piedi nudi e dal sorriso eccessivo.",
+      "personalita": "Ciarliero e ridanciano; millanta sangue blu.",
+      "background": "Profugo a bordo della carovana di Bromas.",
+      "stato": "vivo",
+      "primaApparizione": 2,
+      "apparizioni": [
+        2,
+        3
+      ],
+      "note": [
+        {
+          "sessione": 2,
+          "testo": "Insinua di avere nobili origini, probabilmente falso."
+        },
+        {
+          "sessione": 3,
+          "testo": "Alla Porta del Basilisco si separa dal gruppo e sparisce nella folla della città esterna."
+        }
+      ],
+      "misteri": [],
+      "correlazioni": []
+    },
+    {
+      "id": "nue",
+      "nome": "Nue Hillstar",
+      "categoria": "alleato",
+      "ruolo": "Profuga",
+      "razza": "Umana",
+      "eta": "Adulta",
+      "immagine": "assets/data/ikaros/campagne/discesa-averno/personaggi/Alleati/NueHillstar.png",
+      "aspetto": "Donna dalla pelle scura e dallo sguardo composto.",
+      "personalita": "Lucida e attenta, forse la più assennata del gruppo di profughi.",
+      "background": "Profuga sulla carovana; tiene insieme il gruppo.",
+      "stato": "vivo",
+      "primaApparizione": 2,
+      "apparizioni": [
+        2,
+        3
+      ],
+      "note": [
+        {
+          "sessione": 2,
+          "testo": "Osserva tutti con attenzione; resta delusa quando Nathan non seppellisce i morti di stenti."
+        }
+      ],
+      "misteri": [],
+      "correlazioni": []
+    },
+    {
+      "id": "alyssa",
+      "nome": "Alyssa Tokker",
+      "categoria": "alleato",
+      "ruolo": "Profuga",
+      "razza": "Umana",
+      "eta": "Giovane adulta",
+      "immagine": "assets/data/ikaros/campagne/discesa-averno/personaggi/Alleati/AlyssaTokker.png",
+      "aspetto": "Donna incinta in stato avanzato.",
+      "personalita": "Provata ma tenace, stretta al marito.",
+      "background": "Scampata alle fiamme con il marito Darsus.",
+      "stato": "vivo",
+      "primaApparizione": 2,
+      "apparizioni": [
+        2,
+        3
+      ],
+      "note": [
+        {
+          "sessione": 3,
+          "testo": "Incinta, implora aiuto per entrare in città: 'qui fuori non è posto per far nascere un bambino'."
+        }
+      ],
+      "misteri": [],
+      "correlazioni": [
+        {
+          "personaggio": "darsus",
+          "tipo": "coniuge",
+          "descrizione": "Moglie di Darsus."
+        }
+      ]
+    },
+    {
+      "id": "darsus",
+      "nome": "Darsus Bell",
+      "categoria": "alleato",
+      "ruolo": "Agricoltore",
+      "razza": "Umano",
+      "eta": "Giovane adulto",
+      "immagine": "assets/data/ikaros/campagne/discesa-averno/personaggi/Alleati/DarsusBell.png",
+      "aspetto": "Agricoltore robusto.",
+      "personalita": "Protettivo verso la moglie.",
+      "background": "Agricoltore scampato alle fiamme di Elturel.",
+      "stato": "vivo",
+      "primaApparizione": 2,
+      "apparizioni": [
+        2,
+        3
+      ],
+      "note": [],
+      "misteri": [],
+      "correlazioni": [
+        {
+          "personaggio": "alyssa",
+          "tipo": "coniuge",
+          "descrizione": "Marito di Alyssa, in attesa di un figlio."
+        }
+      ]
+    },
+    {
+      "id": "mevil",
+      "nome": "Mevil Dhirder",
+      "categoria": "alleato",
+      "ruolo": "Profuga",
+      "razza": "Umana",
+      "eta": "Giovane",
+      "immagine": "assets/data/ikaros/campagne/discesa-averno/personaggi/Alleati/MevilDhirder.png",
+      "aspetto": "Robusta, dal volto quasi infantile.",
+      "personalita": "Semplice e domestica; cucina per il gruppo.",
+      "background": "Ha perso il padre fornaio; non aveva mai visto il mondo oltre le mura di Elturel.",
+      "stato": "vivo",
+      "primaApparizione": 2,
+      "apparizioni": [
+        2,
+        3
+      ],
+      "note": [
+        {
+          "sessione": 2,
+          "testo": "Prepara una zuppa che 'ha il sapore di casa' all'accampamento di fortuna."
+        }
+      ],
+      "misteri": [],
+      "correlazioni": []
+    },
+    {
+      "id": "lian",
+      "nome": "Lian Pei",
+      "categoria": "alleato",
+      "ruolo": "Falegname",
+      "razza": "Umano",
+      "eta": "Adulto",
+      "immagine": "assets/data/ikaros/campagne/discesa-averno/personaggi/Alleati/LianPei.png",
+      "aspetto": "Uomo segnato, lo sguardo spesso perso nel vuoto.",
+      "personalita": "Schiacciato dal lutto, ma capace di rialzarsi.",
+      "background": "Falegname che ha perso moglie e figlia nella caduta.",
+      "stato": "vivo",
+      "primaApparizione": 2,
+      "apparizioni": [
+        2,
+        3
+      ],
+      "note": [
+        {
+          "sessione": 2,
+          "testo": "Ripara la ruota della carovana. Alaster gli rivolge parole dure ma vere e lui smette di fissare il vuoto."
+        },
+        {
+          "sessione": 3,
+          "testo": "Crolla nel lutto e tenta il suicidio nel bosco; Nathan lo consola e lo cura, Aelar lo scuote con durezza. Torna con la carovana, meno isolato."
+        }
+      ],
+      "misteri": [],
+      "correlazioni": [
+        {
+          "personaggio": "alaster",
+          "tipo": "confortato da",
+          "descrizione": "Alaster lo scuote dal lutto con una verità semplice."
+        }
+      ]
+    },
+    {
+      "id": "cocchiere-alaster",
+      "nome": "Cocchiere di Alaster",
+      "categoria": "secondario",
+      "ruolo": "Servitore",
+      "razza": "Umano",
+      "eta": "Adulto",
+      "immagine": null,
+      "aspetto": "Non dettagliato.",
+      "personalita": "Fedele ma sopraffatto dagli eventi.",
+      "background": "Conduce la carrozza di Alaster da Baldur's Gate. Viene aggredito e la carrozza rubata.",
+      "stato": "vivo",
+      "primaApparizione": 2,
+      "apparizioni": [
+        2
+      ],
+      "note": [
+        {
+          "sessione": 2,
+          "testo": "Tramortito dai disperati che rubano la carrozza; sopravvive ma 'ha fallito'."
+        }
+      ],
+      "misteri": [],
+      "correlazioni": [
+        {
+          "personaggio": "alaster",
+          "tipo": "al servizio di",
+          "descrizione": "Cocchiere personale di Alaster."
+        }
+      ]
+    },
+    {
+      "id": "banditi-accampamento",
+      "nome": "Banda di predoni",
+      "categoria": "avversario",
+      "ruolo": "Predoni",
+      "razza": "Umani",
+      "eta": "—",
+      "immagine": null,
+      "aspetto": "Criminali armati di balestre, lame e ordigni incendiari improvvisati.",
+      "personalita": "Spietati: cercano panico più che bottino.",
+      "background": "Assaltano di notte l'accampamento dei profughi sulla via per Baldur's Gate.",
+      "stato": "morto",
+      "primaApparizione": 2,
+      "apparizioni": [
+        2
+      ],
+      "note": [
+        {
+          "sessione": 2,
+          "testo": "Quasi tutti uccisi dal gruppo in meno di mezzo minuto; uno catturato vivo, disarmato."
+        }
+      ],
+      "misteri": [
+        "Chi li manda e perché colpire profughi inermi?"
+      ],
+      "correlazioni": []
+    },
+    {
+      "id": "elis",
+      "nome": "Elis",
+      "categoria": "party",
+      "ruolo": "Informatore / devoto di Tyr",
+      "razza": "Tiefling",
+      "eta": "Adulto",
+      "immagine": "assets/data/ikaros/campagne/discesa-averno/personaggi/Party/ElisBig.png",
+      "aspetto": "Tiefling dalla pelle rossa, corna nere ricurve all'indietro, capelli scuri disordinati, mantella ampia. Sorriso costante e beffardo. Dalla sessione 6 la sua mano destra è di pura energia/luce (eterea), dono di Tyr.",
+      "personalita": "Ironico, scaltro, sopravvissuto; preferisce colpire a distanza e non fare da scudo.",
+      "background": "Informatore al soldo del Capitano Zodge, opera dalla Taverna del Canto Elfico. Ha mappato i movimenti del Culto dei Tre Morti.",
+      "stato": "vivo",
+      "primaApparizione": 3,
+      "apparizioni": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "note": [
+        {
+          "sessione": 3,
+          "testo": "Si unisce al gruppo per indagare sul Culto; indica un centro termale a nord come probabile covo. Nella rissa coi pirati combatte con stocco e arco."
+        },
+        {
+          "sessione": 4,
+          "testo": "Tenta (invano) di farsi contattare Zodge dalla guardia corrotta. Guida il gruppo di notte e affianca Tarina, pagandole la stanza."
+        },
+        {
+          "sessione": 6,
+          "testo": "Compie un Giuramento di Sangue: mozza la mano di Flenner, traccia il simbolo di Tyr e prega in infernale. Tyr risponde: la sua mano si dissolve ed è sostituita da una mano eterea (imitazione sacra del dio mutilato). Aprendo una tomba viene maledetto ('Non avresti dovuto. I morti riposano'). Salva Nathan dall'incendio."
+        }
+      ],
+      "misteri": [
+        "Quali altri segreti di Baldur's Gate conosce Elis?",
+        "In cosa consiste la maledizione che Elis si è attirato profanando la tomba?"
+      ],
+      "correlazioni": [
+        {
+          "personaggio": "zodge",
+          "tipo": "informatore di",
+          "descrizione": "Lavora (mal pagato) per il Capitano Zodge."
+        },
+        {
+          "personaggio": "alan",
+          "tipo": "ospite",
+          "descrizione": "Frequenta e alloggia al Canto Elfico di Alan."
+        },
+        {
+          "personaggio": "derek",
+          "tipo": "cliente",
+          "descrizione": "Aveva indirizzato i compagni dall'erborista Derek."
+        }
+      ]
+    },
+    {
+      "id": "zodge",
+      "nome": "Capitano Darmin Zodge",
+      "categoria": "secondario",
+      "ruolo": "Capitano dei Pugni Fiammanti",
+      "razza": "Umano",
+      "eta": "Maturo",
+      "immagine": "assets/data/ikaros/campagne/discesa-averno/personaggi/Secondari/Zodge.png",
+      "aspetto": "Ufficiale dallo sguardo duro, per metà cieco (letteralmente).",
+      "personalita": "Pragmatico, autoritario, mette l'ordine prima della compassione.",
+      "background": "Comandante dei Pugni Fiammanti alla Porta del Basilisco. Gestisce l'emergenza profughi a Baldur's Gate.",
+      "stato": "vivo",
+      "primaApparizione": 3,
+      "apparizioni": [
+        3,
+        5
+      ],
+      "note": [
+        {
+          "sessione": 3,
+          "testo": "Arruola il gruppo con un contratto: indagare e annientare il Culto dei Tre Morti in cambio della cittadinanza nella città bassa e 200 mo."
+        },
+        {
+          "sessione": 5,
+          "testo": "Assente: è nella Città Alta in consiglio con i Patriarchi per l'emergenza profughi. Il gruppo gli lascia una lettera."
+        }
+      ],
+      "misteri": [
+        "Informerà davvero il Granduca Ravengard, o nasconde qualcosa sulla sua assenza?"
+      ],
+      "correlazioni": [
+        {
+          "personaggio": "alaster",
+          "tipo": "datore di lavoro",
+          "descrizione": "Costringe anche il nobile Alaster a firmare il contratto."
+        }
+      ]
+    },
+    {
+      "id": "alan",
+      "nome": "Alan Alyth",
+      "categoria": "alleato",
+      "ruolo": "Locandiere",
+      "razza": "Elfo",
+      "eta": "Adulto",
+      "immagine": "assets/data/ikaros/campagne/discesa-averno/personaggi/Alleati/Alan_alyth.png",
+      "aspetto": "Elfo cordiale dietro il bancone, attento e misurato.",
+      "personalita": "Ospitale ma prudente; non vuole guai con la milizia.",
+      "background": "Ex forestiero, ora balduriano, proprietario della Taverna del Canto Elfico nella città bassa. Protegge la sua vecchia amica Tarina.",
+      "stato": "vivo",
+      "primaApparizione": 3,
+      "apparizioni": [
+        3,
+        4,
+        5
+      ],
+      "note": [
+        {
+          "sessione": 3,
+          "testo": "Indirizza il gruppo a Elis. La sua taverna viene devastata dall'irruzione dei pirati in cerca di Tarina."
+        },
+        {
+          "sessione": 4,
+          "testo": "Accusa il gruppo per i morti nella sua locanda; scopre ucciso il suo amico ogre Scona. Conferma comunque alla milizia la legittima difesa."
+        }
+      ],
+      "misteri": [],
+      "correlazioni": [
+        {
+          "personaggio": "tarina",
+          "tipo": "vecchia amica",
+          "descrizione": "La nasconde al Canto Elfico nonostante i debiti."
+        },
+        {
+          "personaggio": "elis",
+          "tipo": "ospite",
+          "descrizione": "Elis opera dal piano superiore della sua taverna."
+        },
+        {
+          "personaggio": "scona",
+          "tipo": "amico",
+          "descrizione": "L'ogre buttafuori della sua taverna, ucciso dai pirati."
+        }
+      ]
+    },
+    {
+      "id": "pirati-canto-elfico",
+      "nome": "Pirati del Canto Elfico",
+      "categoria": "avversario",
+      "ruolo": "Pirati / contrabbandieri",
+      "razza": "Umani",
+      "eta": "—",
+      "immagine": null,
+      "aspetto": "Banda di mare guidata da un capitano massiccio e brutale, dalla forza sovrumana.",
+      "personalita": "Violenti e arroganti; danno la caccia a Tarina.",
+      "background": "Irrompono al Canto Elfico per stanare Tarina, minacciando di bruciare la taverna.",
+      "stato": "morto",
+      "primaApparizione": 3,
+      "apparizioni": [
+        3
+      ],
+      "note": [
+        {
+          "sessione": 3,
+          "testo": "Il capo viene ucciso da Nathan; alcuni pirati fuggono. Un depistaggio di Elis li manda alla 'Locanda del Lupo Bianco'."
+        }
+      ],
+      "misteri": [
+        "Per chi lavorano davvero i pirati che cercano Tarina?"
+      ],
+      "correlazioni": []
+    },
+    {
+      "id": "culto-tre-morti",
+      "nome": "Culto dei Tre Morti",
+      "categoria": "avversario",
+      "ruolo": "Setta religiosa",
+      "razza": "Vari",
+      "eta": "—",
+      "immagine": null,
+      "aspetto": "Fanatici devoti agli dèi morti Bhaal, Myrkul e Bane (Assassinio, Morte, Tirannia).",
+      "personalita": "Spietati e organizzati; colpiscono in pieno giorno per terrorizzare.",
+      "background": "Antica piaga di Baldur's Gate, tornata ad agire approfittando della debolezza seguita alla caduta di Elturel.",
+      "stato": "vivo",
+      "primaApparizione": 3,
+      "apparizioni": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "note": [
+        {
+          "sessione": 3,
+          "testo": "Obiettivo dell'incarico di Zodge. Elis sospetta che il loro covo sia un centro termale nella zona nord."
+        },
+        {
+          "sessione": 4,
+          "testo": "Affrontato in un vicolo: mirkuliti che depredano i cadaveri per i riti (denti, organi). Usano artigli spettrali e veleno suicida. Indizio: una moneta d'osso col simbolo dei Tre Morti, vista all'Emporio Black."
+        },
+        {
+          "sessione": 5,
+          "testo": "Scoperto un loro tempio di Myrkul nascosto sotto l'Emporio Black, con non-morti animati da una statua del Signore delle Ossa. L'Alto Myrkulita Flenner viene ucciso e la statua distrutta."
+        },
+        {
+          "sessione": 6,
+          "testo": "Uccisi gli ultimi cultisti nel tempio e saccheggiata la Sala delle Offerte. Recuperati il Libro dei Morti (tomo rituale), una sfera magica nera, veleno di viverna e polvere d'ossa runica. Ma qualcuno incendia l'Emporio: il culto forse non è finito."
+        }
+      ],
+      "misteri": [
+        "Dov'è il covo del Culto e qual è il loro vero piano?",
+        "C'è un legame tra il Culto e la caduta di Elturel?"
+      ],
+      "correlazioni": []
+    },
+    {
+      "id": "pugni-fiammanti",
+      "nome": "Pugni Fiammanti",
+      "categoria": "secondario",
+      "ruolo": "Milizia cittadina",
+      "razza": "Vari",
+      "eta": "—",
+      "immagine": null,
+      "aspetto": "Soldati col simbolo del pugno avvolto dalle fiamme; lance e armature.",
+      "personalita": "Disciplinati e inflessibili; l'ordine prima della pietà.",
+      "background": "La milizia che mantiene l'ordine a Baldur's Gate, schierata alla Porta del Basilisco contro l'ondata di profughi.",
+      "stato": "vivo",
+      "primaApparizione": 3,
+      "apparizioni": [
+        3,
+        4
+      ],
+      "note": [
+        {
+          "sessione": 3,
+          "testo": "Comandati dal Capitano Zodge; tengono i rifugiati fuori dalla città bassa."
+        },
+        {
+          "sessione": 4,
+          "testo": "Arrestano il gruppo per gli omicidi alla locanda, applicando la legge alla lettera (ufficiale Darmian)."
+        }
+      ],
+      "misteri": [],
+      "correlazioni": [
+        {
+          "personaggio": "zodge",
+          "tipo": "comandante",
+          "descrizione": "Guidati dal Capitano Zodge."
+        }
+      ]
+    },
+    {
+      "id": "cleiton",
+      "nome": "Cleiton",
+      "categoria": "alleato",
+      "ruolo": "Inventore coboldo",
+      "razza": "Coboldo",
+      "eta": "Adulto",
+      "immagine": "assets/data/ikaros/campagne/discesa-averno/personaggi/Alleati/Kleyton.jpg",
+      "aspetto": "Coboldo minuto e scaglioso, mani artigliate, occhi vivaci di intelligenza irrequieta.",
+      "personalita": "Eccentrico, ciarliero, megalomane bonario; geniale quanto rozzo. Sogna ali di metallo.",
+      "background": "Inventore 'incompreso', incarcerato per essersi intrufolato nella fabbrica del consigliere Gortash. Liberato dal gruppo dietro cauzione, si unisce a loro come ingegnere.",
+      "stato": "vivo",
+      "primaApparizione": 4,
+      "apparizioni": [
+        4,
+        5,
+        6
+      ],
+      "note": [
+        {
+          "sessione": 4,
+          "testo": "Conosciuto in cella mentre costruisce una 'fionda automatica'. Aelar convince Alaster a pagarne la cauzione. Nello scontro col Culto lancia ampolle infuocate."
+        },
+        {
+          "sessione": 5,
+          "testo": "Fa da guida al mercato nero; nel Tempio capisce per primo che la statua di Myrkul alimenta i non-morti e la corrode con l'acido. NB: nel testo della sessione 5 è scritto 'Kleyton' (come il file immagine), mentre nella 4 era 'Cleiton'."
+        }
+      ],
+      "misteri": [
+        "Cosa cercava davvero nella fabbrica di Gortash?",
+        "Il nome corretto è 'Cleiton' o 'Kleyton'? Il testo oscilla tra le due grafie."
+      ],
+      "correlazioni": [
+        {
+          "personaggio": "aelar",
+          "tipo": "benefattore",
+          "descrizione": "Aelar propone di reclutarlo."
+        },
+        {
+          "personaggio": "gortash",
+          "tipo": "nemico",
+          "descrizione": "Si è intrufolato nella sua fabbrica."
+        }
+      ]
+    },
+    {
+      "id": "dorian",
+      "nome": "Dorian Nodorovo",
+      "categoria": "secondario",
+      "ruolo": "Ufficiale nobile",
+      "razza": "Umano",
+      "eta": "Adulto",
+      "immagine": "assets/data/ikaros/campagne/discesa-averno/personaggi/Secondari/Dorian Nodorovo.png",
+      "aspetto": "Lineamenti snelli, capelli neri mossi, sguardo penetrante, portamento militare e armatura impeccabile.",
+      "personalita": "Composto, autorevole, legato al senso del dovere familiare ('i Nodorovo pagano sempre i loro debiti').",
+      "background": "Fratello maggiore di Alaster, ufficiale di Baldur's Gate. Lo fa scarcerare dopo l'arresto.",
+      "stato": "vivo",
+      "primaApparizione": 4,
+      "apparizioni": [
+        4
+      ],
+      "note": [
+        {
+          "sessione": 4,
+          "testo": "Libera Alaster dalla prigione ricordandogli il debito verso la famiglia; sparisce poi nella città alta."
+        }
+      ],
+      "misteri": [],
+      "correlazioni": [
+        {
+          "personaggio": "alaster",
+          "tipo": "fratello",
+          "descrizione": "Fratello minore, che ha fatto scarcerare."
+        }
+      ]
+    },
+    {
+      "id": "darmian",
+      "nome": "Darmian",
+      "categoria": "secondario",
+      "ruolo": "Ufficiale dei Pugni Fiammanti",
+      "razza": "Umano",
+      "eta": "Adulto",
+      "immagine": null,
+      "aspetto": "Ufficiale dal mantello rifinito e piastra decorata.",
+      "personalita": "Inflessibile e legalista: applica la legge senza odio né eccezioni.",
+      "background": "Comanda la pattuglia dei Pugni Fiammanti che interviene alla locanda dopo la rissa coi pirati.",
+      "stato": "vivo",
+      "primaApparizione": 4,
+      "apparizioni": [
+        4
+      ],
+      "note": [
+        {
+          "sessione": 4,
+          "testo": "Pur riconoscendo la buona fede, arresta il gruppo per omicidio in attesa di processo."
+        },
+        {
+          "sessione": 4,
+          "testo": "Da chiarire: è un ufficiale distinto dal Capitano Darmin Zodge o un'incoerenza di nome?"
+        }
+      ],
+      "misteri": [
+        "Darmian e il Capitano Darmin Zodge sono la stessa persona o due ufficiali distinti?"
+      ],
+      "correlazioni": [
+        {
+          "personaggio": "pugni-fiammanti",
+          "tipo": "ufficiale",
+          "descrizione": "Comanda una pattuglia dei Pugni Fiammanti."
+        }
+      ]
+    },
+    {
+      "id": "scona",
+      "nome": "Scona",
+      "categoria": "secondario",
+      "ruolo": "Buttafuori",
+      "razza": "Ogre",
+      "eta": "Adulta",
+      "immagine": null,
+      "aspetto": "Ogre femmina massiccia, buttafuori del Canto Elfico.",
+      "personalita": "Sorvegliante silenziosa della taverna.",
+      "background": "Buttafuori e amica di Alan al Canto Elfico.",
+      "stato": "morto",
+      "primaApparizione": 4,
+      "apparizioni": [
+        4
+      ],
+      "note": [
+        {
+          "sessione": 4,
+          "testo": "Uccisa dai pirati all'ingresso della taverna durante l'irruzione; il suo corpo viene trovato dopo la rissa."
+        }
+      ],
+      "misteri": [],
+      "correlazioni": [
+        {
+          "personaggio": "alan",
+          "tipo": "amica",
+          "descrizione": "Lavorava per Alan al Canto Elfico."
+        }
+      ]
+    },
+    {
+      "id": "gortash",
+      "nome": "Consigliere Gortash",
+      "categoria": "secondario",
+      "ruolo": "Consigliere / industriale",
+      "razza": "Umano",
+      "eta": "Adulto",
+      "immagine": null,
+      "aspetto": "Non ancora visto.",
+      "personalita": "Reputato spietato e privo di clemenza.",
+      "background": "Influente consigliere di Baldur's Gate, proprietario di una fabbrica. Citato per la prima volta in relazione a Cleiton.",
+      "stato": "vivo",
+      "primaApparizione": 4,
+      "apparizioni": [
+        4,
+        5
+      ],
+      "note": [
+        {
+          "sessione": 4,
+          "testo": "Nome introdotto: Cleiton si era intrufolato nella sua fabbrica. 'Non è noto per la sua clemenza.'"
+        },
+        {
+          "sessione": 5,
+          "testo": "Cleiton riferisce che nella sua fabbrica si costruivano enormi armature a propulsione termica. Alaster lo descrive come politico in ascesa, di umili origini (mercanti di scarpe)."
+        }
+      ],
+      "misteri": [
+        "Che ruolo avrà il consigliere Gortash negli eventi di Baldur's Gate?"
+      ],
+      "correlazioni": [
+        {
+          "personaggio": "cleiton",
+          "tipo": "nemico",
+          "descrizione": "Cleiton ha violato la sua fabbrica."
+        }
+      ]
+    },
+    {
+      "id": "clea",
+      "nome": "Clea",
+      "categoria": "secondario",
+      "ruolo": "Sconosciuto",
+      "razza": "Sconosciuta",
+      "eta": "Apparentemente giovane",
+      "immagine": "assets/data/ikaros/campagne/discesa-averno/personaggi/Secondari/IncontroAlaster.png",
+      "aspetto": "Donna dagli occhi azzurri come ghiaccio, monili antichi e raffinati, avvolta da un profumo di sandalo, fiori e cannella, fuori posto tra i bassifondi.",
+      "personalita": "Enigmatica, sicura, tagliente; dice di aver 'visto cose ben più strane'.",
+      "background": "Incontrata da Alaster al mercato nero di Baldur's Gate. Non è della città; lascia intendere origini insolite.",
+      "stato": "vivo",
+      "primaApparizione": 5,
+      "apparizioni": [
+        5
+      ],
+      "note": [
+        {
+          "sessione": 5,
+          "testo": "Scambio ambiguo con Alaster (che si finge 'Alaster Thorne'). Se ne va promettendo di rivedersi 'non in un posto così'. I suoi monili sembrano già visti, ma Alaster non ricorda dove."
+        }
+      ],
+      "misteri": [
+        "Chi è davvero Clea e da dove proviene? Perché i suoi gioielli sembrano familiari ad Alaster?"
+      ],
+      "correlazioni": [
+        {
+          "personaggio": "alaster",
+          "tipo": "interesse",
+          "descrizione": "Incontro carico di sottintesi al mercato nero."
+        }
+      ]
+    },
+    {
+      "id": "obaia-black",
+      "nome": "Obaia Black",
+      "categoria": "avversario",
+      "ruolo": "Titolare dell'Emporio Black",
+      "razza": "Umano",
+      "eta": "Anziano",
+      "immagine": "assets/data/ikaros/campagne/discesa-averno/personaggi/Avversari/Obaja_Black.jpg",
+      "aspetto": "Vecchio pallido, occhi infossati, labbra sottili, voce roca.",
+      "personalita": "Freddo e calcolatore; nega ogni legame col Culto finché può.",
+      "background": "Gestisce l'Emporio Black, copertura del mercato nero legata al Culto dei Tre Morti: sul suo banco e sulla maniglia compare il simbolo dei Tre Morti.",
+      "stato": "ignoto",
+      "primaApparizione": 5,
+      "apparizioni": [
+        5
+      ],
+      "note": [
+        {
+          "sessione": 5,
+          "testo": "Insospettito da una frase di Aelar, si mette sulla difensiva; dietro il suo emporio si cela il passaggio per il Tempio di Myrkul."
+        }
+      ],
+      "misteri": [
+        "Che fine fa Obaia Black dopo lo smascheramento?"
+      ],
+      "correlazioni": [
+        {
+          "personaggio": "culto-tre-morti",
+          "tipo": "affiliato",
+          "descrizione": "Il suo emporio è una copertura del Culto."
+        }
+      ]
+    },
+    {
+      "id": "flenner",
+      "nome": "Flenner, Alto Myrkulita",
+      "categoria": "avversario",
+      "ruolo": "Alto sacerdote di Myrkul",
+      "razza": "Umano",
+      "eta": "Anziano",
+      "immagine": "assets/data/ikaros/campagne/discesa-averno/personaggi/Avversari/Flenner_Alto_Myrkulita.jpg",
+      "aspetto": "Vecchio sacerdote dal sorriso febbrile, avvolto nei poteri necrotici del Signore delle Ossa.",
+      "personalita": "Fanatico devoto a Myrkul; lancia raggi necrotici e anima non-morti.",
+      "background": "Alto sacerdote del tempio di Myrkul nascosto sotto l'Emporio Black, sostenuto da una statua rituale del Signore delle Ossa.",
+      "stato": "morto",
+      "primaApparizione": 5,
+      "apparizioni": [
+        5
+      ],
+      "note": [
+        {
+          "sessione": 5,
+          "testo": "I suoi non-morti sono invincibili finché regge la statua di Myrkul; distrutta la statua (acido di Cleiton), viene ucciso da Nathan e muore con sollievo: 'Finalmente… il silenzio.'"
+        }
+      ],
+      "misteri": [],
+      "correlazioni": [
+        {
+          "personaggio": "culto-tre-morti",
+          "tipo": "alto sacerdote",
+          "descrizione": "Guida la fazione mirkulita del Culto."
+        }
+      ]
+    },
+    {
+      "id": "derek",
+      "nome": "Derek",
+      "categoria": "alleato",
+      "ruolo": "Erborista forgiato",
+      "razza": "Forgiato",
+      "eta": "Indefinita",
+      "immagine": "assets/data/ikaros/campagne/discesa-averno/personaggi/Secondari/Derek.png",
+      "aspetto": "Automa di legno e metallo dalle giunture precise; porta un riccio sulla spalla.",
+      "personalita": "Metodico, cortese, schietto; parla per constatazioni.",
+      "background": "Gestisce l'erboristeria 'La Rosa Canina' nella Città Bassa, a nord presso la taverna. Esperto di sostanze organiche e veleni.",
+      "stato": "vivo",
+      "primaApparizione": 6,
+      "apparizioni": [
+        6
+      ],
+      "note": [
+        {
+          "sessione": 6,
+          "testo": "Identifica il veleno di Flenner come veleno di viverna e la polvere come ossa runiche legate ai morti; vende una pozione curativa. Indirizzato dal gruppo tramite Elis."
+        }
+      ],
+      "misteri": [],
+      "correlazioni": [
+        {
+          "personaggio": "elis",
+          "tipo": "cliente",
+          "descrizione": "Elis è un suo cliente abituale ('ha rotto una boccetta')."
+        }
       ]
     }
   ]

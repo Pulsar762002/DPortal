@@ -1,7 +1,7 @@
 {
   "$schema": "./eventi.schema.json",
   "campagna": "discesa-averno",
-  "ultimoAggiornamento": 1,
+  "ultimoAggiornamento": 6,
   "eventi": [
     {
       "id": "confronto-tempio-marcus",
@@ -10,7 +10,10 @@
       "capitolo": "tempio",
       "titolo": "Confronto al Tempio delle Divinità",
       "cosaSuccede": "Al risveglio nel Tempio, Nathan prega accanto a Marcus. Si ripete il loro vecchio dissidio: Marcus considera Nathan 'perso' nella vita errante da avventuriero, Nathan rivendica la propria via. Marcus si rassegna e lo lascia libero.",
-      "partecipanti": ["nathan", "marcus"],
+      "partecipanti": [
+        "nathan",
+        "marcus"
+      ],
       "luogo": "Tempio delle Divinità, Elturel",
       "quando": "Mattina",
       "tipo": "dialogo",
@@ -23,8 +26,14 @@
       "capitolo": "orfanotrofio",
       "titolo": "Ritorno all'orfanotrofio di Marta",
       "cosaSuccede": "Nathan visita l'orfanotrofio in cui è cresciuto. Gioca con i bambini, saluta le tutrici e rifiuta la colazione perché diretto alla Gilda.",
-      "partecipanti": ["nathan", "marta"],
-      "altriPartecipanti": ["I bambini dell'orfanotrofio (tra cui Olly)", "Le tutrici"],
+      "partecipanti": [
+        "nathan",
+        "marta"
+      ],
+      "altriPartecipanti": [
+        "I bambini dell'orfanotrofio (tra cui Olly)",
+        "Le tutrici"
+      ],
       "luogo": "Orfanotrofio di Marta, Elturel",
       "quando": "Mattina",
       "tipo": "incontro",
@@ -37,7 +46,10 @@
       "capitolo": "aelar",
       "titolo": "Incontro con Aelar alla Gilda",
       "cosaSuccede": "Alla Gilda degli Avventurieri, Nathan incontra Aelar davanti alla bacheca degli incarichi. Si presentano e si riconoscono come avventurieri.",
-      "partecipanti": ["nathan", "aelar"],
+      "partecipanti": [
+        "nathan",
+        "aelar"
+      ],
       "luogo": "Gilda degli Avventurieri, Elturel",
       "quando": "Mattina presto",
       "tipo": "incontro",
@@ -50,8 +62,13 @@
       "capitolo": "missione",
       "titolo": "Accettazione dell'incarico di scorta",
       "cosaSuccede": "I due scelgono dalla bacheca l'incarico di Fernand Règlisse: scortare un erborista fuori città per raccogliere erbe (40 mo a testa). La receptionist registra ufficialmente l'incarico.",
-      "partecipanti": ["nathan", "aelar"],
-      "altriPartecipanti": ["La receptionist della Gilda"],
+      "partecipanti": [
+        "nathan",
+        "aelar"
+      ],
+      "altriPartecipanti": [
+        "La receptionist della Gilda"
+      ],
       "luogo": "Gilda degli Avventurieri, Elturel",
       "quando": "Mattina",
       "tipo": "dialogo",
@@ -64,8 +81,13 @@
       "capitolo": "papavero",
       "titolo": "Ricerca di Fernand in città",
       "cosaSuccede": "Nathan e Aelar raggiungono la bottega 'Il Seme di Papavero', ma è chiusa. Una vecchina del mercato conferma che Fernand è alla taverna; i due si dirigono alla Chanson Rouge.",
-      "partecipanti": ["nathan", "aelar"],
-      "altriPartecipanti": ["La vecchina venditrice di ortaggi"],
+      "partecipanti": [
+        "nathan",
+        "aelar"
+      ],
+      "altriPartecipanti": [
+        "La vecchina venditrice di ortaggi"
+      ],
       "luogo": "Distretto ovest, Elturel",
       "quando": "Mattina inoltrata",
       "tipo": "viaggio",
@@ -78,7 +100,12 @@
       "capitolo": "fernand",
       "titolo": "Incontro con Fernand alla Chanson Rouge",
       "cosaSuccede": "Alla taverna Chanson Rouge i due trovano Fernand reduce da una notte di eccessi. Mentre Tarina, la cantante tiefling, si esibisce, Fernand verifica le loro capacità e accetta di partire subito.",
-      "partecipanti": ["nathan", "aelar", "fernand-reglisse", "tarina"],
+      "partecipanti": [
+        "nathan",
+        "aelar",
+        "fernand-reglisse",
+        "tarina"
+      ],
       "luogo": "Taverna Chanson Rouge, Elturel",
       "quando": "Mattina inoltrata",
       "tipo": "incontro",
@@ -92,7 +119,11 @@
       "capitolo": "fuori-elturel",
       "titolo": "Uscita dalla città e il marchio dell'occhio",
       "cosaSuccede": "Diretti alle porte, i tre si presentano (Aelar Thaedrim). Fernand riconosce sul gruppo il marchio di un ordine discreto che 'caccia cose strane'; Nathan minimizza. Superano le mura verso mezzogiorno.",
-      "partecipanti": ["nathan", "aelar", "fernand-reglisse"],
+      "partecipanti": [
+        "nathan",
+        "aelar",
+        "fernand-reglisse"
+      ],
       "luogo": "Porte di Elturel / campagna circostante",
       "quando": "Quasi mezzogiorno",
       "tipo": "viaggio",
@@ -105,7 +136,12 @@
       "capitolo": "aeren",
       "titolo": "Raccolta delle erbe e avvistamento di Aeren",
       "cosaSuccede": "Nel bosco Aelar richiama il suo famiglio, il gufo Aeren, e lo manda in avanscoperta. Fernand raccoglie erbe; piccolo attrito quando Aelar raccoglie a sua volta erbe per sé.",
-      "partecipanti": ["aelar", "nathan", "fernand-reglisse", "aeren"],
+      "partecipanti": [
+        "aelar",
+        "nathan",
+        "fernand-reglisse",
+        "aeren"
+      ],
       "luogo": "Bosco fuori Elturel",
       "quando": "Primo pomeriggio",
       "tipo": "viaggio",
@@ -118,7 +154,12 @@
       "capitolo": "pericoli",
       "titolo": "Allerta di Aeren e scoperta di Kyran",
       "cosaSuccede": "Aeren avverte Aelar di qualcuno in difficoltà entro trecento passi. Aelar avanza in silenzio e scopre una figura mascherata accerchiata da un cerchio di goblin.",
-      "partecipanti": ["aelar", "aeren", "kyran", "goblin-bosco"],
+      "partecipanti": [
+        "aelar",
+        "aeren",
+        "kyran",
+        "goblin-bosco"
+      ],
       "luogo": "Bosco fuori Elturel",
       "quando": "Pomeriggio",
       "tipo": "scoperta",
@@ -131,7 +172,13 @@
       "capitolo": "serio",
       "titolo": "Scontro con i goblin e salvataggio di Kyran",
       "cosaSuccede": "Primo combattimento: Aelar apre il fuoco con la balestra, Nathan protegge Fernand e abbatte i goblin con giavellotto e un incantesimo mortale. I goblin vengono sterminati e Kyran è salva.",
-      "partecipanti": ["nathan", "aelar", "kyran", "goblin-bosco", "fernand-reglisse"],
+      "partecipanti": [
+        "nathan",
+        "aelar",
+        "kyran",
+        "goblin-bosco",
+        "fernand-reglisse"
+      ],
       "luogo": "Bosco fuori Elturel",
       "quando": "Pomeriggio",
       "tipo": "combattimento",
@@ -144,7 +191,11 @@
       "capitolo": "antefatto",
       "titolo": "L'incarico di Alaster a Baldur's Gate",
       "cosaSuccede": "Flashback: nella magione di famiglia a Baldur's Gate, i genitori incaricano Alaster di recarsi a Elturel per seguire gli spostamenti del Granduca Ravengard, scomparso. Gli affidano 80 monete d'oro e Alaster parte.",
-      "partecipanti": ["alaster", "genitori-alaster", "granduca-ravengard"],
+      "partecipanti": [
+        "alaster",
+        "genitori-alaster",
+        "granduca-ravengard"
+      ],
       "luogo": "Baldur's Gate",
       "quando": "Quattro giorni prima",
       "tipo": "flashback",
@@ -158,7 +209,12 @@
       "capitolo": "rientro",
       "titolo": "Rientro e diffidenza di Kyran",
       "cosaSuccede": "Terminata la raccolta al calare del sole, Fernand chiede a Kyran di togliere la maschera; lei rifiuta finché non potrà fidarsi. Il gruppo riparte verso Elturel.",
-      "partecipanti": ["fernand-reglisse", "kyran", "nathan", "aelar"],
+      "partecipanti": [
+        "fernand-reglisse",
+        "kyran",
+        "nathan",
+        "aelar"
+      ],
       "luogo": "Bosco fuori Elturel",
       "quando": "Tramonto",
       "tipo": "dialogo",
@@ -171,12 +227,799 @@
       "capitolo": "caduta",
       "titolo": "La caduta di Elturel",
       "cosaSuccede": "Sulla via del ritorno, dalla collina, il gruppo assiste alla catastrofe: il Compagno viene colpito e annerito, un muro di fuoco circonda la città, una voragine infernale si apre e Elturel sprofonda trascinata da catene, lasciando solo un cratere. Da una carrozza opposta, anche Alaster vede tutto.",
-      "partecipanti": ["nathan", "aelar", "kyran", "fernand-reglisse", "alaster"],
+      "partecipanti": [
+        "nathan",
+        "aelar",
+        "kyran",
+        "fernand-reglisse",
+        "alaster"
+      ],
       "luogo": "Collina fuori Elturel",
       "quando": "Tardo pomeriggio",
       "tipo": "evento-chiave",
       "conseguenze": "Elturel scompare nell'Averno: è l'evento fondante della campagna e lega i destini del gruppo e di Alaster.",
       "note": "Fine della Sessione I."
+    },
+    {
+      "id": "soccorso-rovine",
+      "sessione": 2,
+      "ordine": 14,
+      "capitolo": "reazione",
+      "titolo": "Tra le rovine di Elturel",
+      "cosaSuccede": "Scesi dalla collina, il gruppo trova le fattorie fuori le mura in fiamme e i sopravvissuti nel panico. Nathan, Aelar e Kyran soccorrono i feriti; Alaster, sceso dalla carrozza, spegne fiamme e raccoglie testimonianze (luce rossa, catene, fuoco dal cielo).",
+      "partecipanti": [
+        "nathan",
+        "aelar",
+        "kyran",
+        "alaster",
+        "fernand-reglisse",
+        "aeren"
+      ],
+      "altriPartecipanti": [
+        "Sopravvissuti delle fattorie"
+      ],
+      "luogo": "Rovine fuori Elturel",
+      "quando": "Subito dopo la caduta",
+      "tipo": "scoperta",
+      "conseguenze": "Nessun residuo magico percepibile: solo un vuoto innaturale. Il gruppo capisce di non avere risposte."
+    },
+    {
+      "id": "salvataggio-bambina",
+      "sessione": 2,
+      "ordine": 15,
+      "capitolo": "bambina",
+      "titolo": "La bambina sotto le macerie",
+      "cosaSuccede": "Un padre disperato implora aiuto: la figlia è sepolta sotto una casa crollata. Nathan e Aelar sollevano travi e pietre e la estraggono viva.",
+      "partecipanti": [
+        "nathan",
+        "aelar"
+      ],
+      "altriPartecipanti": [
+        "La bambina e suo padre"
+      ],
+      "luogo": "Rovine fuori Elturel",
+      "quando": "Dopo la caduta",
+      "tipo": "scoperta",
+      "conseguenze": "Primo segno di speranza tra la devastazione."
+    },
+    {
+      "id": "assalto-carrozza",
+      "sessione": 2,
+      "ordine": 16,
+      "capitolo": "assalto",
+      "titolo": "Assalto alla carrozza di Alaster",
+      "cosaSuccede": "Quattro disperati aggrediscono il cocchiere per rubare la carrozza. Alaster colpisce due di loro con un dardo acido, ma gli altri fuggono col mezzo, sovraccarico di gente in fuga.",
+      "partecipanti": [
+        "alaster",
+        "kyran",
+        "cocchiere-alaster"
+      ],
+      "altriPartecipanti": [
+        "Quattro contadini disperati"
+      ],
+      "luogo": "Rovine fuori Elturel",
+      "quando": "Dopo la caduta",
+      "tipo": "combattimento",
+      "conseguenze": "Alaster resta senza carrozza: dovrà raggiungere Baldur's Gate via terra."
+    },
+    {
+      "id": "alaster-kyran-incontro",
+      "sessione": 2,
+      "ordine": 17,
+      "capitolo": "alaster-kyran",
+      "titolo": "Alaster e Kyran",
+      "cosaSuccede": "Alaster si presenta come Alaster Nodorovo, nobile di Baldur's Gate. Kyran, forestiera e mascherata, gli racconta della città scomparsa tra le catene e accetta di condurlo dai due avventurieri che l'hanno aiutata.",
+      "partecipanti": [
+        "alaster",
+        "kyran"
+      ],
+      "luogo": "Rovine fuori Elturel",
+      "quando": "Dopo la caduta",
+      "tipo": "dialogo",
+      "conseguenze": "Si stabilisce il primo contatto tra Alaster e il futuro gruppo."
+    },
+    {
+      "id": "alleanza-gruppo",
+      "sessione": 2,
+      "ordine": 18,
+      "capitolo": "alleanza",
+      "titolo": "Il gruppo si riunisce e nasce l'alleanza",
+      "cosaSuccede": "Alaster raggiunge Nathan e Aelar. Dopo un confronto teso, propone un'alleanza paritaria: scorta fino a Baldur's Gate in cambio di accesso e aiuto per capire la caduta. Aelar e Kyran accettano; Aeren si rivela come famiglio.",
+      "partecipanti": [
+        "nathan",
+        "aelar",
+        "alaster",
+        "kyran",
+        "aeren"
+      ],
+      "luogo": "Rovine fuori Elturel",
+      "quando": "Dopo la caduta",
+      "tipo": "evento-chiave",
+      "conseguenze": "Si forma il gruppo dei quattro protagonisti con un obiettivo comune."
+    },
+    {
+      "id": "fernand-impotente",
+      "sessione": 2,
+      "ordine": 19,
+      "capitolo": "nathan",
+      "titolo": "Fernand impotente",
+      "cosaSuccede": "Nathan ritrova Fernand tra le macerie e gli chiede di curare i feriti, ma l'erborista ha perso tutto e non può nulla contro ustioni e arti bruciati. Consegna a Nathan le sue ultime monete.",
+      "partecipanti": [
+        "nathan",
+        "fernand-reglisse"
+      ],
+      "luogo": "Rovine fuori Elturel",
+      "quando": "Dopo la caduta",
+      "tipo": "dialogo",
+      "conseguenze": "Nathan deve accettare che molti feriti non possono essere salvati."
+    },
+    {
+      "id": "buona-morte",
+      "sessione": 2,
+      "ordine": 20,
+      "capitolo": "mietitore",
+      "titolo": "La buona morte",
+      "cosaSuccede": "Senza cure possibili, Alaster concede la 'buona morte' ai morenti che la chiedono, risparmiando chi sceglie di vivere. Nathan lo scopre e ne è turbato: nasce un contrasto morale nel gruppo.",
+      "partecipanti": [
+        "alaster",
+        "nathan",
+        "kyran",
+        "aelar"
+      ],
+      "luogo": "Rovine fuori Elturel",
+      "quando": "Dopo la caduta",
+      "tipo": "evento-chiave",
+      "conseguenze": "Emerge la frattura etica tra Alaster (pragmatico) e Nathan (paladino)."
+    },
+    {
+      "id": "partenza-baldurs-gate",
+      "sessione": 2,
+      "ordine": 21,
+      "capitolo": "gate",
+      "titolo": "Partenza verso Baldur's Gate",
+      "cosaSuccede": "Senza cavalli né carrozze, il gruppo decide di raggiungere Baldur's Gate a piedi, costeggiando il Chionthar. Le scorte bastano pochi giorni; bisognerà cacciare. Si nominano i Campi della Morte, terre maledette da evitare.",
+      "partecipanti": [
+        "nathan",
+        "aelar",
+        "alaster",
+        "kyran"
+      ],
+      "luogo": "Strada lungo il Chionthar",
+      "quando": "Primo giorno di viaggio",
+      "tipo": "viaggio",
+      "conseguenze": "Inizia il viaggio di ~dieci giorni a piedi verso Baldur's Gate."
+    },
+    {
+      "id": "carovana-bromas",
+      "sessione": 2,
+      "ordine": 22,
+      "capitolo": "carovana",
+      "titolo": "La carovana di Bromas",
+      "cosaSuccede": "Il gruppo si unisce alla carovana di profughi di Bromas (Gullivan, Nue, Alyssa, Darsus, Mevil, Lian). Lian ripara una ruota rotta; si condivide una cena; Alaster conforta Lian. Lungo la via trovano morti di stenti e raggiungono un accampamento di una quarantina di profughi.",
+      "partecipanti": [
+        "nathan",
+        "aelar",
+        "alaster",
+        "kyran",
+        "bromas",
+        "gullivan",
+        "nue",
+        "alyssa",
+        "darsus",
+        "mevil",
+        "lian"
+      ],
+      "luogo": "Strada per Baldur's Gate",
+      "quando": "Giorni 2-6 di viaggio",
+      "tipo": "incontro",
+      "conseguenze": "Il gruppo non è più solo; raggiunge l'accampamento dei profughi."
+    },
+    {
+      "id": "assalto-accampamento",
+      "sessione": 2,
+      "ordine": 23,
+      "capitolo": "attacco",
+      "titolo": "Assalto all'accampamento",
+      "cosaSuccede": "Di notte una banda di predoni assalta l'accampamento con ordigni incendiari e balestre, cercando il panico. Nathan, Kyran, Aelar e Alaster reagiscono: Aelar cade tra le fiamme e viene curato da Kyran, Alaster uccide un bandito con un assalto psichico. La banda è annientata in meno di mezzo minuto; un bandito è catturato vivo.",
+      "partecipanti": [
+        "nathan",
+        "aelar",
+        "alaster",
+        "kyran",
+        "aeren",
+        "banditi-accampamento"
+      ],
+      "luogo": "Accampamento dei profughi",
+      "quando": "Notte, sesto giorno",
+      "tipo": "combattimento",
+      "conseguenze": "Resta un prigioniero da interrogare; l'accampamento è scosso.",
+      "note": "Fine della Sessione II."
+    },
+    {
+      "id": "interrogatorio-bandito",
+      "sessione": 3,
+      "ordine": 24,
+      "capitolo": "interrogatorio",
+      "titolo": "L'interrogatorio del bandito",
+      "cosaSuccede": "Il predone catturato viene interrogato nella carrozza. Nathan lo picchia, ma l'uomo non rivela il covo: accenna solo a un padrone potente e temuto, poi sfida tutti. Alaster lo scaraventa fuori tra i sopravvissuti.",
+      "partecipanti": [
+        "nathan",
+        "alaster",
+        "aelar",
+        "kyran",
+        "banditi-accampamento"
+      ],
+      "luogo": "Accampamento dei profughi",
+      "quando": "Alba",
+      "tipo": "dialogo",
+      "conseguenze": "Si intuisce che dietro i predoni c'è un signore del crimine; nessuna posizione del covo."
+    },
+    {
+      "id": "linciaggio-bandito",
+      "sessione": 3,
+      "ordine": 25,
+      "capitolo": "linciaggio",
+      "titolo": "Il linciaggio",
+      "cosaSuccede": "Gettato tra i profughi, il bandito viene linciato dalla folla in cerca di vendetta. Prima di morire cerca lo sguardo di Nathan e gli sussurra una sola frase: «Ci vediamo all'inferno».",
+      "partecipanti": [
+        "nathan",
+        "alaster",
+        "aelar",
+        "kyran"
+      ],
+      "altriPartecipanti": [
+        "I profughi dell'accampamento"
+      ],
+      "luogo": "Accampamento dei profughi",
+      "quando": "Alba",
+      "tipo": "evento-chiave",
+      "conseguenze": "La frase del bandito resta come un presagio per Nathan."
+    },
+    {
+      "id": "ripresa-viaggio-s3",
+      "sessione": 3,
+      "ordine": 26,
+      "capitolo": "viaggio1",
+      "titolo": "Si riprende il viaggio",
+      "cosaSuccede": "Il gruppo riparte con la carovana di Bromas verso Baldur's Gate. I profughi li guardano ormai con fiducia; un paio di notti trascorrono senza sangue.",
+      "partecipanti": [
+        "nathan",
+        "aelar",
+        "alaster",
+        "kyran",
+        "bromas",
+        "mevil",
+        "lian",
+        "darsus",
+        "nue"
+      ],
+      "luogo": "Strada lungo il Chionthar",
+      "quando": "Giorni di viaggio",
+      "tipo": "viaggio",
+      "conseguenze": "Mancano un paio di giorni a Baldur's Gate."
+    },
+    {
+      "id": "lian-bosco",
+      "sessione": 3,
+      "ordine": 27,
+      "capitolo": "lian",
+      "titolo": "Lian, dove sei?",
+      "cosaSuccede": "Lian sparisce nella notte; lo ritrovano nel bosco col coltello e i polsi feriti. Nathan lo consola e gli cura le ferite con l'imposizione delle mani; Aelar lo scuote con uno schiaffo e parole dure. Lian torna con loro.",
+      "partecipanti": [
+        "nathan",
+        "aelar",
+        "lian",
+        "aeren"
+      ],
+      "luogo": "Bosco lungo la strada",
+      "quando": "Notte / mattino",
+      "tipo": "evento-chiave",
+      "conseguenze": "Lian sceglie di andare avanti; resta segnato ma più vicino al gruppo."
+    },
+    {
+      "id": "arrivo-baldurs-gate",
+      "sessione": 3,
+      "ordine": 28,
+      "capitolo": "arrivo",
+      "titolo": "Arrivo a Baldur's Gate",
+      "cosaSuccede": "La carovana giunge in vista di Baldur's Gate: le mura oltre il Chionthar, il Ponte del Dragone e la città esterna fatta di baracche e miseria, gremita di profughi.",
+      "partecipanti": [
+        "nathan",
+        "aelar",
+        "alaster",
+        "kyran",
+        "bromas"
+      ],
+      "luogo": "Città esterna di Baldur's Gate",
+      "quando": "Giorno",
+      "tipo": "viaggio",
+      "conseguenze": "Il gruppo deve trovare il modo di entrare nella città bassa."
+    },
+    {
+      "id": "porta-basilisco",
+      "sessione": 3,
+      "ordine": 29,
+      "capitolo": "nonsientra",
+      "titolo": "Non tutti possono entrare",
+      "cosaSuccede": "Alla Porta del Basilisco i Pugni Fiammanti bloccano migliaia di profughi. Alaster sa che passeranno solo lui e pochi altri. Il gruppo saluta i compagni di viaggio; Gullivan si dilegua; i quattro avanzano al cancello.",
+      "partecipanti": [
+        "nathan",
+        "aelar",
+        "alaster",
+        "kyran",
+        "bromas",
+        "alyssa",
+        "nue",
+        "gullivan",
+        "pugni-fiammanti"
+      ],
+      "luogo": "Porta del Basilisco",
+      "quando": "Giorno",
+      "tipo": "dialogo",
+      "conseguenze": "I profughi restano fuori; il gruppo promette di aiutarli a entrare."
+    },
+    {
+      "id": "arruolamento-zodge",
+      "sessione": 3,
+      "ordine": 30,
+      "capitolo": "arruolamento",
+      "titolo": "Il Capitano Zodge e l'arruolamento",
+      "cosaSuccede": "Zodge interroga il gruppo sulla caduta di Elturel e fa togliere la maschera a Kyran (rivelata elfa). Li arruola con un contratto: indagare e annientare il Culto dei Tre Morti in cambio della cittadinanza e 200 monete d'oro.",
+      "partecipanti": [
+        "nathan",
+        "aelar",
+        "alaster",
+        "kyran",
+        "zodge",
+        "pugni-fiammanti"
+      ],
+      "luogo": "Tenda dei Pugni Fiammanti, Baldur's Gate",
+      "quando": "Giorno",
+      "tipo": "evento-chiave",
+      "conseguenze": "Il gruppo è ora al servizio dei Pugni Fiammanti; primo bersaglio: il Culto dei Tre Morti."
+    },
+    {
+      "id": "canto-elfico-elis",
+      "sessione": 3,
+      "ordine": 31,
+      "capitolo": "infoelis",
+      "titolo": "Alla Taverna del Canto Elfico: Elis",
+      "cosaSuccede": "Al Canto Elfico incontrano Alan e poi Elis, informatore tiefling di Zodge, che si unisce al gruppo e indica un centro termale nella zona nord come probabile covo del Culto. Per uscire inscenano un finto arresto.",
+      "partecipanti": [
+        "nathan",
+        "aelar",
+        "alaster",
+        "kyran",
+        "alan",
+        "elis"
+      ],
+      "luogo": "Taverna del Canto Elfico",
+      "quando": "Giorno",
+      "tipo": "incontro",
+      "conseguenze": "Elis entra nel gruppo; hanno una pista: le terme a nord.",
+      "note": "Elis si unisce stabilmente al party."
+    },
+    {
+      "id": "rissa-pirati",
+      "sessione": 3,
+      "ordine": 32,
+      "capitolo": "rissa",
+      "titolo": "L'arrivo dei pirati e la rissa",
+      "cosaSuccede": "Una banda di pirati irrompe al Canto Elfico cercando Tarina, nascosta da Alan. Aggrediscono il locandiere; il gruppo, con Elis, li affronta in una rissa furiosa e ne uccide il capo. I superstiti fuggono, depistati verso la 'Locanda del Lupo Bianco'.",
+      "partecipanti": [
+        "nathan",
+        "aelar",
+        "alaster",
+        "kyran",
+        "elis",
+        "alan",
+        "tarina",
+        "pirati-canto-elfico"
+      ],
+      "luogo": "Taverna del Canto Elfico",
+      "quando": "Giorno",
+      "tipo": "combattimento",
+      "conseguenze": "La taverna è salva, Tarina ancora nascosta; il gruppo ne esce ferito ma temibile.",
+      "note": "Fine della Sessione III."
+    },
+    {
+      "id": "resti-rissa",
+      "sessione": 4,
+      "ordine": 33,
+      "capitolo": "resti",
+      "titolo": "I resti della battaglia",
+      "cosaSuccede": "Dopo la rissa, Alan accusa il gruppo per i cadaveri nella sua locanda e scopre ucciso il suo amico ogre Scona. Aelar e Nathan ribattono che è stata legittima difesa.",
+      "partecipanti": [
+        "nathan",
+        "aelar",
+        "alaster",
+        "kyran",
+        "elis",
+        "alan",
+        "scona"
+      ],
+      "luogo": "Taverna del Canto Elfico",
+      "quando": "Notte",
+      "tipo": "dialogo",
+      "conseguenze": "La taverna è devastata; muore Scona; arriva la milizia."
+    },
+    {
+      "id": "arresto-tarina",
+      "sessione": 4,
+      "ordine": 34,
+      "capitolo": "giustizia",
+      "titolo": "L'arresto e Tarina",
+      "cosaSuccede": "I Pugni Fiammanti dell'ufficiale Darmian intervengono. Trovano e mettono in salvo Tarina (vista in volto: capelli rossi, tatuaggi marinareschi). Nonostante la legittima difesa e il rango di Alaster, il gruppo viene arrestato per omicidio.",
+      "partecipanti": [
+        "nathan",
+        "aelar",
+        "alaster",
+        "kyran",
+        "elis",
+        "alan",
+        "tarina",
+        "darmian",
+        "pugni-fiammanti"
+      ],
+      "luogo": "Taverna del Canto Elfico",
+      "quando": "Notte",
+      "tipo": "evento-chiave",
+      "conseguenze": "Il gruppo finisce in cella in attesa di processo."
+    },
+    {
+      "id": "prigioni-cleiton",
+      "sessione": 4,
+      "ordine": 35,
+      "capitolo": "Cleiton",
+      "titolo": "In cella: Cleiton il coboldo",
+      "cosaSuccede": "In una cella della milizia conoscono Cleiton, coboldo inventore. Discutono moralmente (Nathan vs Alaster) e sospettano di essere stati incarcerati apposta per rallentare l'indagine sul Culto.",
+      "partecipanti": [
+        "nathan",
+        "aelar",
+        "alaster",
+        "kyran",
+        "elis",
+        "cleiton"
+      ],
+      "luogo": "Avamposto della milizia",
+      "quando": "Notte",
+      "tipo": "dialogo",
+      "conseguenze": "Nasce il sospetto di un sabotaggio; Cleiton entra in scena."
+    },
+    {
+      "id": "dorian-libera",
+      "sessione": 4,
+      "ordine": 36,
+      "capitolo": "soccorsi",
+      "titolo": "Dorian libera Alaster",
+      "cosaSuccede": "Il fratello di Alaster, Dorian Nodorovo, fa scarcerare il gruppo ricordando il debito di famiglia. Pagano la cauzione di Cleiton, che si unisce a loro. Una guardia rivela che Cleiton si era intrufolato nella fabbrica del consigliere Gortash.",
+      "partecipanti": [
+        "alaster",
+        "dorian",
+        "nathan",
+        "aelar",
+        "kyran",
+        "elis",
+        "cleiton",
+        "gortash"
+      ],
+      "luogo": "Avamposto della milizia",
+      "quando": "Notte",
+      "tipo": "evento-chiave",
+      "conseguenze": "Il gruppo è libero (in sei, con Cleiton); emerge il nome di Gortash."
+    },
+    {
+      "id": "scontro-culto-vicolo",
+      "sessione": 4,
+      "ordine": 37,
+      "capitolo": "cultisti",
+      "titolo": "Agguato del Culto dei Tre Morti",
+      "cosaSuccede": "Diretti alle terme, trovano in un vicolo una donna sventrata dai cultisti. Vengono assaliti dai mirkuliti: scontro durissimo, Kyran cade priva di sensi e viene salvata da Aelar. Il cultista catturato si suicida col veleno. Su un corpo, una moneta d'osso col simbolo dei Tre Morti: Cleiton la collega all'Emporio Black.",
+      "partecipanti": [
+        "nathan",
+        "aelar",
+        "alaster",
+        "kyran",
+        "elis",
+        "cleiton",
+        "aeren",
+        "culto-tre-morti"
+      ],
+      "luogo": "Vicolo della Città Bassa",
+      "quando": "Notte",
+      "tipo": "combattimento",
+      "conseguenze": "Nuova pista: l'Emporio Black al mercato nero. Il gruppo, ferito, ripiega al Canto Elfico.",
+      "note": "Fine della Sessione IV."
+    },
+    {
+      "id": "notte-recupero-visione",
+      "sessione": 5,
+      "ordine": 38,
+      "capitolo": "visione",
+      "titolo": "Recupero al Canto Elfico e la visione di Kyran",
+      "cosaSuccede": "Il gruppo passa la notte al Canto Elfico per curarsi. Mentre dorme, Kyran ha una visione: una figura materna nel crepuscolo nebbioso lo accarezza e svanisce. Si decide il piano: prima Zodge, poi l'Emporio Black, infine le terme.",
+      "partecipanti": [
+        "nathan",
+        "aelar",
+        "alaster",
+        "kyran",
+        "elis",
+        "cleiton",
+        "alan"
+      ],
+      "luogo": "Taverna del Canto Elfico",
+      "quando": "Notte",
+      "tipo": "dialogo",
+      "conseguenze": "Kyran tiene per sé la visione; il gruppo ha un piano per l'indomani."
+    },
+    {
+      "id": "tarina-passato",
+      "sessione": 5,
+      "ordine": 39,
+      "capitolo": "tarina",
+      "titolo": "Il passato di Tarina",
+      "cosaSuccede": "Convinta da Elis a scendere, Tarina rivela di essere stata nella ciurma dei pirati: ha rubato l'intero bottino dopo l'ultimo assalto ed è fuggita. Col capitano morto, crede che la ciurma salperà. Ringrazia e se ne va, lasciando un biglietto.",
+      "partecipanti": [
+        "elis",
+        "tarina",
+        "nathan",
+        "aelar",
+        "alaster",
+        "kyran",
+        "cleiton",
+        "alan"
+      ],
+      "luogo": "Taverna del Canto Elfico",
+      "quando": "Notte",
+      "tipo": "dialogo",
+      "conseguenze": "Si chiarisce perché i pirati la cercavano; Tarina esce di scena (per ora)."
+    },
+    {
+      "id": "zodge-assente-giornale",
+      "sessione": 5,
+      "ordine": 40,
+      "capitolo": "zodge",
+      "titolo": "Zodge assente e l'Assassino degli Occhi di Rame",
+      "cosaSuccede": "Al mattino il gruppo cerca Zodge all'avamposto, ma è nella Città Alta in consiglio coi Patriarchi. Lasciano una lettera. Un giornalaio vende notizie sull'omicidio nel vicolo: la stampa parla di un 'Assassino degli Occhi di Rame' (le monete lasciate da Elis).",
+      "partecipanti": [
+        "nathan",
+        "aelar",
+        "alaster",
+        "kyran",
+        "elis",
+        "cleiton",
+        "zodge",
+        "pugni-fiammanti"
+      ],
+      "luogo": "Città Bassa di Baldur's Gate",
+      "quando": "Mattino",
+      "tipo": "viaggio",
+      "conseguenze": "L'indagine sul Culto procede da soli; nasce una leggenda urbana attorno al gesto di Elis."
+    },
+    {
+      "id": "incontro-clea",
+      "sessione": 5,
+      "ordine": 41,
+      "capitolo": "incontro",
+      "titolo": "L'incontro con Clea",
+      "cosaSuccede": "Al mercato nero Alaster incrocia Clea, una donna enigmatica fuori posto tra i bassifondi. Scambio ambiguo: lui si presenta come 'Alaster Thorne'. Lei se ne va promettendo di rivedersi altrove; i suoi monili gli sembrano stranamente familiari.",
+      "partecipanti": [
+        "alaster",
+        "clea",
+        "nathan",
+        "aelar",
+        "kyran",
+        "elis",
+        "cleiton"
+      ],
+      "luogo": "Mercato nero di Baldur's Gate",
+      "quando": "Mattino",
+      "tipo": "incontro",
+      "conseguenze": "Si apre il filo del mistero di Clea."
+    },
+    {
+      "id": "emporio-obaia",
+      "sessione": 5,
+      "ordine": 42,
+      "capitolo": "opaia",
+      "titolo": "All'Emporio Black: Obaia Black",
+      "cosaSuccede": "Il gruppo entra all'Emporio Black, sulla cui maniglia è inciso il simbolo dei Tre Morti. Il titolare Obaia Black nega ogni legame, ma una frase imprudente di Aelar lo insospettisce. Dietro il tendaggio qualcuno ascolta.",
+      "partecipanti": [
+        "nathan",
+        "aelar",
+        "alaster",
+        "kyran",
+        "elis",
+        "cleiton",
+        "obaia-black"
+      ],
+      "luogo": "Emporio Black",
+      "quando": "Mattino",
+      "tipo": "scoperta",
+      "conseguenze": "L'Emporio si rivela una copertura del Culto; Obaia si mette sulla difensiva."
+    },
+    {
+      "id": "passaggio-tre-porte",
+      "sessione": 5,
+      "ordine": 43,
+      "capitolo": "porta",
+      "titolo": "Il passaggio segreto e il rito delle tre porte",
+      "cosaSuccede": "Dietro l'Emporio il gruppo trova un passaggio segreto: la moneta d'osso è una chiave. Per proseguire compiono un rito alle tre divinità — il sangue di Nathan per Bhaal, l'inchino di Aelar per Bane, la magia di Kyran per Myrkul.",
+      "partecipanti": [
+        "nathan",
+        "aelar",
+        "alaster",
+        "kyran",
+        "elis",
+        "cleiton"
+      ],
+      "luogo": "Tempio di Myrkul",
+      "quando": "Mattino",
+      "tipo": "scoperta",
+      "conseguenze": "Si apre l'accesso al tempio sotterraneo del Culto."
+    },
+    {
+      "id": "scontro-flenner",
+      "sessione": 5,
+      "ordine": 44,
+      "capitolo": "scontro",
+      "titolo": "Il Tempio di Myrkul e lo scontro con Flenner",
+      "cosaSuccede": "Nel tempio sotterraneo affrontano l'Alto Myrkulita Flenner e i suoi non-morti, resi quasi invincibili da una statua del Signore delle Ossa. Cleiton la corrode con l'acido; distrutta la statua, Nathan uccide Flenner, che muore con sollievo.",
+      "partecipanti": [
+        "nathan",
+        "aelar",
+        "alaster",
+        "kyran",
+        "elis",
+        "cleiton",
+        "culto-tre-morti",
+        "flenner"
+      ],
+      "luogo": "Tempio di Myrkul",
+      "quando": "Giorno",
+      "tipo": "combattimento",
+      "conseguenze": "Sgominata la cellula mirkulita del Culto sotto l'Emporio Black.",
+      "note": "Fine della Sessione V."
+    },
+    {
+      "id": "essenza-flenner",
+      "sessione": 6,
+      "ordine": 45,
+      "capitolo": "essenza",
+      "titolo": "L'essenza di Flenner",
+      "cosaSuccede": "Morto Flenner, solo Kyran vede una scia azzurrina sollevarsi dal suo petto: la cattura di nascosto con il suo ciondolo a piuma argentata, parlando di 'un compito affidato'. Gli altri vedono solo gesti incomprensibili.",
+      "partecipanti": [
+        "kyran",
+        "nathan",
+        "aelar",
+        "alaster",
+        "elis",
+        "cleiton",
+        "flenner"
+      ],
+      "luogo": "Tempio di Myrkul",
+      "quando": "Dopo lo scontro",
+      "tipo": "evento-chiave",
+      "conseguenze": "Si intuisce che Kyran raccoglie anime per un patrono."
+    },
+    {
+      "id": "giuramento-elis-tyr",
+      "sessione": 6,
+      "ordine": 46,
+      "capitolo": "giuramento",
+      "titolo": "Il Giuramento di Sangue di Elis",
+      "cosaSuccede": "Elis mozza la mano di Flenner, traccia col sangue il simbolo di Tyr e prega in infernale. Tyr risponde: la sua mano si dissolve ed è sostituita da una mano eterea di luce, imitazione del dio mutilato. Si recuperano oggetti: veleno, polvere d'ossa, una sfera magica, l'amuleto del capo come prova.",
+      "partecipanti": [
+        "elis",
+        "nathan",
+        "aelar",
+        "alaster",
+        "kyran"
+      ],
+      "luogo": "Tempio di Myrkul",
+      "quando": "Dopo lo scontro",
+      "tipo": "evento-chiave",
+      "conseguenze": "Elis si rivela devoto di Tyr; ottiene una mano eterea."
+    },
+    {
+      "id": "libro-dei-morti",
+      "sessione": 6,
+      "ordine": 47,
+      "capitolo": "libro",
+      "titolo": "Il Libro dei Morti",
+      "cosaSuccede": "Sull'altare trovano il tomo di Flenner, rilegato in pelle e ossa: non un testo dottrinale ma un manuale di rituali di morte. Lo avvolgono in un sudario senza leggerlo, per consegnarlo come prova.",
+      "partecipanti": [
+        "aelar",
+        "nathan",
+        "alaster",
+        "kyran",
+        "elis"
+      ],
+      "luogo": "Tempio di Myrkul",
+      "quando": "Dopo lo scontro",
+      "tipo": "scoperta",
+      "conseguenze": "Acquisiscono un pericoloso libro necromantico da consegnare."
+    },
+    {
+      "id": "maledizione-tomba",
+      "sessione": 6,
+      "ordine": 48,
+      "capitolo": "ingenuita",
+      "titolo": "La tomba e la maledizione di Elis",
+      "cosaSuccede": "Elis apre una tomba sigillata; un fumo nero lo investe e una voce sussurra: 'Non avresti dovuto. I morti riposano'. Resta un malessere strisciante: una maledizione.",
+      "partecipanti": [
+        "elis",
+        "nathan",
+        "aelar",
+        "alaster",
+        "kyran",
+        "cleiton"
+      ],
+      "luogo": "Tempio di Myrkul",
+      "quando": "Dopo lo scontro",
+      "tipo": "evento-chiave",
+      "conseguenze": "Elis è colpito da una maledizione di origine ignota."
+    },
+    {
+      "id": "sala-offerte",
+      "sessione": 6,
+      "ordine": 49,
+      "capitolo": "offerte",
+      "titolo": "La Sala delle Offerte",
+      "cosaSuccede": "Uccisi gli ultimi due cultisti, aprono un muro-sigillo riproducendo il simbolo dei Tre Morti. Oltre, una camera con due statue e un tesoro: 300 monete d'oro, anelli, una perla nera e una spada magica.",
+      "partecipanti": [
+        "nathan",
+        "aelar",
+        "alaster",
+        "kyran",
+        "elis",
+        "cleiton",
+        "culto-tre-morti"
+      ],
+      "luogo": "Tempio di Myrkul",
+      "quando": "Dopo lo scontro",
+      "tipo": "combattimento",
+      "conseguenze": "Cellula del Culto smantellata; bottino e una spada magica recuperati."
+    },
+    {
+      "id": "incendio-emporio",
+      "sessione": 6,
+      "ordine": 50,
+      "capitolo": "usciamo",
+      "titolo": "L'incendio dell'Emporio Black",
+      "cosaSuccede": "Risalendo, qualcuno incendia l'Emporio Black con un ordigno. Nathan resta intrappolato tra le fiamme e viene salvato da Elis. Alaster sparisce: rivela una pelle squamosa e cangiante, mimetismo e telepatia, osservando i compagni come possibili pedine.",
+      "partecipanti": [
+        "nathan",
+        "aelar",
+        "alaster",
+        "kyran",
+        "elis",
+        "cleiton"
+      ],
+      "luogo": "Emporio Black",
+      "quando": "Pomeriggio",
+      "tipo": "evento-chiave",
+      "conseguenze": "Un ignoto ha tentato di ucciderli; emerge la natura non umana di Alaster."
+    },
+    {
+      "id": "derek-tempio-helm",
+      "sessione": 6,
+      "ordine": 51,
+      "capitolo": "tempio",
+      "titolo": "Da Derek e al Tempio di Helm",
+      "cosaSuccede": "Il gruppo si divide. Aelar e Kyran vanno dall'erborista forgiato Derek ('La Rosa Canina'): il veleno è di viverna, la polvere d'ossa è legata a riti di morte. Nathan ed Elis portano il Libro dei Morti al Tempio di Helm, dove terrorizza il chierico; il gran sacerdote accetta di riceverli sotto scorta.",
+      "partecipanti": [
+        "aelar",
+        "kyran",
+        "derek",
+        "nathan",
+        "elis"
+      ],
+      "luogo": "Città Bassa di Baldur's Gate",
+      "quando": "Pomeriggio",
+      "tipo": "incontro",
+      "conseguenze": "Si cercano risposte sul Culto; udienza imminente col gran sacerdote di Helm.",
+      "note": "Fine della Sessione VI."
     }
   ]
 }

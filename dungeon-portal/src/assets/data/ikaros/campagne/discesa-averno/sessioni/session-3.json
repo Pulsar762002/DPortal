@@ -604,7 +604,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Gullivans riprese i suoi discorsi altisonanti sulle presunte origini nobili, lanciando qualche frecciata ironica ad Alaster. Il tono era leggero, quasi necessario per alleggerire l’aria."
+          "text": "Gullivan riprese i suoi discorsi altisonanti sulle presunte origini nobili, lanciando qualche frecciata ironica ad Alaster. Il tono era leggero, quasi necessario per alleggerire l’aria."
         },
         {
           "type": "paragraph",
@@ -620,7 +620,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Non prese parte ad alcuna conversazione. Non reagì alle battute. Mangió lentamente, quasi meccanicamente."
+          "text": "Non prese parte ad alcuna conversazione. Non reagì alle battute. Mangiò lentamente, quasi meccanicamente."
         },
         {
           "type": "paragraph",
@@ -709,7 +709,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Aeren venne mandato avanti, volando basso tra i rami. Dopo qualche centinaio di metri, il gufo segnalò un movimento."
+          "text": "Aeren venne mandato avanti, volando basso tra i rami. Dopo qualche centinaio di passi, il gufo segnalò un movimento."
         },
         {
           "type": "paragraph",
@@ -1032,10 +1032,11 @@
       "videoId": "i42oS1q--zk",
       "blocks": [
         {
-          "type": "image",
-          "variant": "left-big",
+          "type": "scene",
           "src": "assets/data/ikaros/campagne/discesa-averno/eventi/Arrivo.png",
-          "alt": "Arrivo a Baldur’s Gate"
+          "title": "Le Mura sul Chionthar",
+          "subtitle": "Baldur’s Gate, Città Esterna",
+          "alt": "Le mura di Baldur’s Gate viste dal ponte sul Chionthar"
         },
         {
           "type": "paragraph",
@@ -1177,10 +1178,11 @@
       "videoId": "PXv5QSzGCNI",
       "blocks": [
         {
-          "type": "image",
-          "variant": "left-big",
+          "type": "scene",
           "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-3/LaPortaDelBasilisco.png",
-          "alt": "La porta del Basilisco"
+          "title": "La Porta del Basilisco",
+          "subtitle": "Soglia della Città Bassa",
+          "alt": "La Porta del Basilisco, l’arco fortificato tra la città esterna e la città bassa"
         },
         {
           "type": "paragraph",
@@ -1353,35 +1355,35 @@
           "type": "image",
           "variant": "left-big",
           "src": "assets/data/ikaros/campagne/discesa-averno/eventi/Non_tuti_possono_entrare.png",
-          "alt": "Non tutti possono entrare"
+          "alt": "I rifugiati premono contro la Porta del Basilisco"
         },
         {
           "type": "paragraph",
-          "text": "La folla davanti alla Porta del Basilisco è un organismo vivo."
+          "text": "La folla davanti alla Porta del Basilisco era un organismo vivo."
         },
         {
           "type": "paragraph",
-          "text": "Si muove, spinge, protesta. Le lance dei Pugni Fiammanti restano abbassate ma pronte. Basta poco. Basta un carro di troppo."
+          "text": "Si muoveva, spingeva, protestava. Le lance dei Pugni Fiammanti restavano abbassate, ma pronte. Bastava poco. Bastava un carro di troppo."
         },
         {
           "type": "paragraph",
-          "text": "Alaster osserva la situazione con sguardo freddo."
+          "text": "Alaster osservò la situazione con sguardo freddo, poi si rivolse a Nathan."
+        },
+        {
+          "type": "quote",
+          "text": "«Non capisci. Qui siamo in una situazione di possibile pericolo. Una cosa è far passare tre o quattro persone. Un’altra è far entrare un’intera carrozza con dieci individui.»"
         },
         {
           "type": "paragraph",
-          "text": "«Non capisci,» dice rivolgendosi a Nathan. «Qui siamo in una situazione di possibile pericolo. Una cosa è far passare tre o quattro persone. Un’altra è far entrare un’intera carrozza con dieci individui.»"
+          "text": "Indicò la massa accalcata contro i cancelli."
+        },
+        {
+          "type": "quote",
+          "text": "«Guarda questa folla. Centinaia, forse migliaia. Se facessero passare noi con il carro, si creerebbe il caos. Potrebbero persino negare il mio accesso, pur di sedare una rivolta.»"
         },
         {
           "type": "paragraph",
-          "text": "Indica la massa accalcata contro i cancelli."
-        },
-        {
-          "type": "paragraph",
-          "text": "«Guarda questa folla. Centinaia, forse migliaia. Se facessero passare noi con il carro, si creerebbe il caos. Potrebbero persino negare il mio accesso pur di sedare una rivolta.»"
-        },
-        {
-          "type": "paragraph",
-          "text": "Bromas lo guarda, sorpreso. Deluso."
+          "text": "Bromas lo guardò, sorpreso. Deluso."
         },
         {
           "type": "quote",
@@ -1389,7 +1391,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Alaster non alza la voce."
+          "text": "Alaster non alzò la voce."
         },
         {
           "type": "quote",
@@ -1397,23 +1399,23 @@
         },
         {
           "type": "paragraph",
-          "text": "Nathan interviene con tono più morbido."
+          "text": "Nathan intervenne con tono più morbido."
         },
         {
           "type": "quote",
-          "text": "«Forse si potremmo ripagarli in denaro per il passaggio che ci hanno concesso.»"
+          "text": "«Forse potremmo ripagarli in denaro, per il passaggio che ci hanno concesso.»"
         },
         {
           "type": "paragraph",
-          "text": "Quando Bromas sente parlare di soldi e di ricompensa scuote immediatamente la testa."
+          "text": "Ma appena Bromas sentì parlare di soldi e di ricompensa, scosse subito la testa."
         },
         {
           "type": "quote",
-          "text": "«No grazie, non posso accettare, vi avevo gia' garantito che non avrei preteso un compenso, sto aiutando i fratelli di Elturel nella disgrazia.»"
+          "text": "«No, grazie. Non posso accettare: vi avevo già garantito che non avrei preteso alcun compenso. Sto aiutando i fratelli di Elturel nella disgrazia.»"
         },
         {
           "type": "paragraph",
-          "text": "Si volta di nuovo verso la porta."
+          "text": "Si voltò di nuovo verso la porta."
         },
         {
           "type": "quote",
@@ -1421,15 +1423,15 @@
         },
         {
           "type": "paragraph",
-          "text": "Il silenzio pesa."
+          "text": "Il silenzio pesava."
         },
         {
           "type": "paragraph",
-          "text": "Le ruote della carrozza restano ferme. I cavalli scalpitano."
+          "text": "Le ruote della carrozza restavano ferme. I cavalli scalpitavano."
         },
         {
           "type": "paragraph",
-          "text": "Bromas sospira."
+          "text": "Bromas sospirò."
         },
         {
           "type": "quote",
@@ -1437,7 +1439,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Alaster incrocia lo sguardo del drappello di guardie di pantone davanti alla porta."
+          "text": "Alaster incrociò lo sguardo del drappello di guardie schierate davanti alla porta."
         },
         {
           "type": "quote",
@@ -1445,31 +1447,31 @@
         },
         {
           "type": "paragraph",
-          "text": "Aelar, sentendo i morsi della propria coscienza per l'impossibilita' di aiutare i propri fratelli si rivolge a Nathan ed Alaster."
+          "text": "Aelar, roso dai morsi della coscienza per l’impossibilità di aiutare i propri fratelli, si rivolse a Nathan e ad Alaster."
         },
         {
           "type": "quote",
-          "text": "«Magari Alaster, potresti usare la tua influenza per mettere una parola buona ed accelerare i tempi per loro. Una tua raccomandazione potrebbe fare la differenza.»"
+          "text": "«Magari tu, Alaster, potresti usare la tua influenza per mettere una buona parola e accelerare i tempi per loro. Una tua raccomandazione potrebbe fare la differenza.»"
         },
         {
           "type": "paragraph",
-          "text": "Alaster ricambia lo sguardo di Aelar."
+          "text": "Alaster ricambiò lo sguardo di Aelar."
         },
         {
           "type": "quote",
-          "text": "«Certamente, faro' tutto cio' che mi sara' possibile.»"
+          "text": "«Certamente. Farò tutto ciò che mi sarà possibile.»"
         },
         {
           "type": "paragraph",
-          "text": "Alla fine, la decisione viene presa senza formalità."
+          "text": "Alla fine, la decisione venne presa senza formalità."
         },
         {
           "type": "paragraph",
-          "text": "Scendono dalla carrozza."
+          "text": "Scesero dalla carrozza."
         },
         {
           "type": "paragraph",
-          "text": "Alyssa si avvicina per prima. Una mano poggiata sul ventre."
+          "text": "Alyssa si avvicinò per prima, una mano poggiata sul ventre."
         },
         {
           "type": "quote",
@@ -1477,7 +1479,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Nue stringe i denti."
+          "text": "Nue strinse i denti."
         },
         {
           "type": "quote",
@@ -1485,7 +1487,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Nathan li guarda uno per uno."
+          "text": "Nathan li guardò uno per uno."
         },
         {
           "type": "quote",
@@ -1493,11 +1495,11 @@
         },
         {
           "type": "paragraph",
-          "text": "Non è una promessa. È un impegno."
+          "text": "Non era una promessa. Era un impegno."
         },
         {
           "type": "paragraph",
-          "text": "Gullivar scende dalla carrozza con teatralità."
+          "text": "Gullivan scese dalla carrozza con teatralità."
         },
         {
           "type": "quote",
@@ -1505,7 +1507,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Si sistema il mantello."
+          "text": "Si sistemò il mantello."
         },
         {
           "type": "quote",
@@ -1513,27 +1515,27 @@
         },
         {
           "type": "paragraph",
-          "text": "Fa un cenno ironico con la mano, poi si perde tra le tende e la folla."
+          "text": "Fece un cenno ironico con la mano, poi si perse tra le tende e la folla."
         },
         {
           "type": "paragraph",
-          "text": "La carrozza resta indietro."
+          "text": "La carrozza restò indietro."
         },
         {
           "type": "paragraph",
-          "text": "I rifugiati restano fuori dalle mura."
+          "text": "I rifugiati restarono fuori dalle mura."
         },
         {
           "type": "paragraph",
-          "text": "E i quattro avanzano verso il cancello."
+          "text": "E i quattro avanzarono verso il cancello."
         },
         {
           "type": "paragraph",
-          "text": "Baldur’s Gate li osserva dall’alto."
+          "text": "Baldur’s Gate li osservava dall’alto."
         },
         {
           "type": "paragraph",
-          "text": "E decide chi può entrare."
+          "text": "E decideva chi poteva entrare."
         }
       ]
     },
@@ -1546,7 +1548,7 @@
           "type": "image",
           "variant": "left-small",
           "src": "assets/data/ikaros/campagne/discesa-averno/Stemmi/Pugni%20fiammanti.png",
-          "alt": "I pugni Fiammeggianti"
+          "alt": "Lo stemma dei Pugni Fiammanti: un pugno chiuso avvolto dalle fiamme"
         },
         {
           "type": "paragraph",
@@ -1643,7 +1645,7 @@
         },
         {
           "type": "paragraph",
-          "text": "La tenda militare oltre le mura era sobria e funzionale."
+          "text": "La tenda militare oltre le mura era sobria e funzionale. Odorava di cuoio, olio per le armi e tela inumidita dal fiume."
         },
         {
           "type": "paragraph",
@@ -1747,7 +1749,7 @@
         },
         {
           "type": "quote",
-          "text": "<strong>«La città non è stata distrutta. È stata strappata dal terreno. Rimane un cratere profondo almeno venti metri.»</strong>"
+          "text": "<strong>«La città non è stata distrutta. È stata strappata dal terreno. Rimane un cratere profondo almeno venti passi.»</strong>"
         },
         {
           "type": "paragraph",
@@ -1860,7 +1862,7 @@
           "type": "image",
           "variant": "left-big",
           "src": "assets/data/ikaros/campagne/discesa-averno/eventi/Arruolamento.png",
-          "alt": "Arruolamento"
+          "alt": "Il contratto di arruolamento offerto dal Capitano Zodge"
         },
         {
           "type": "paragraph",
@@ -2082,10 +2084,11 @@
       "videoId": "Tashd0rYUTM",
       "blocks": [
         {
-          "type": "image",
-          "variant": "left-big",
+          "type": "scene",
           "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-3/Locanda_Canto_Elfico.png",
-          "alt": "La taverna del Canto Elfico"
+          "title": "La Taverna del Canto Elfico",
+          "subtitle": "Città Bassa, Baldur’s Gate",
+          "alt": "L’insegna e la facciata della Taverna del Canto Elfico"
         },
         {
           "type": "quote",
@@ -2290,7 +2293,7 @@
           "type": "image",
           "variant": "left",
           "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Alleati/Alan_alyth.png",
-          "alt": "Alan"
+          "alt": "Alan, il proprietario elfo della Taverna del Canto Elfico"
         },
         {
           "type": "quote",
@@ -2357,8 +2360,12 @@
           "text": "«Alla salute.»"
         },
         {
+          "type": "paragraph",
+          "text": "Aelar sollevò il boccale."
+        },
+        {
           "type": "quote",
-          "text": "«Alla prosperità della tua locanda,» aggiunse Aelar."
+          "text": "«Alla prosperità della tua locanda.»"
         },
         {
           "type": "paragraph",
@@ -2588,8 +2595,12 @@
           "text": "Non era la prima volta che Baldur’s Gate si rivelava diversa da ciò che appariva."
         },
         {
+          "type": "paragraph",
+          "text": "Alaster prese la parola."
+        },
+        {
           "type": "quote",
-          "text": "«Siamo stati indirizzati qui per alcune informazioni,» disse Alaster."
+          "text": "«Siamo stati indirizzati qui per alcune informazioni.»"
         },
         {
           "type": "paragraph",
@@ -2764,7 +2775,7 @@
         },
         {
           "type": "paragraph",
-          "text": "La luce convergè su un edificio nella zona nord."
+          "text": "La luce convergeva su un edificio nella zona nord."
         },
         {
           "type": "quote",
@@ -3234,19 +3245,19 @@
         },
         {
           "type": "paragraph",
-          "text": "La mano del pirata è ancora piantata sul volto di Alan."
+          "text": "La mano del pirata era ancora piantata sul volto di Alan."
         },
         {
           "type": "paragraph",
-          "text": "Le dita affondano nella carne. Il locandiere cerca di respirare. Il piede gli scivola sul pavimento spezzato."
+          "text": "Le dita affondavano nella carne. Il locandiere cercava di respirare. Il piede gli scivolava sul pavimento spezzato."
         },
         {
           "type": "paragraph",
-          "text": "Nathan non aspetta oltre."
+          "text": "Nathan non aspettò oltre."
         },
         {
           "type": "paragraph",
-          "text": "Afferra il braccio dell’uomo e prova a strapparlo via con forza."
+          "text": "Afferrò il braccio dell’uomo e provò a strapparlo via con forza."
         },
         {
           "type": "quote",
@@ -3254,31 +3265,31 @@
         },
         {
           "type": "paragraph",
-          "text": "Il pirata si irrigidisce."
+          "text": "Il pirata si irrigidì."
         },
         {
           "type": "paragraph",
-          "text": "Per un istante sembra cedere."
+          "text": "Per un istante sembrò cedere."
         },
         {
           "type": "paragraph",
-          "text": "Poi stringe ancora di più."
+          "text": "Poi strinse ancora di più."
         },
         {
           "type": "paragraph",
-          "text": "La sua presa è solida. Dura. Come acciaio."
+          "text": "La sua presa era solida. Dura. Come acciaio."
         },
         {
           "type": "paragraph",
-          "text": "Nathan spinge. I muscoli delle braccia si tendono. Le vene sul collo si gonfiano."
+          "text": "Nathan spinse. I muscoli delle braccia si tesero. Le vene sul collo si gonfiarono."
         },
         {
           "type": "paragraph",
-          "text": "Ma l’uomo è più pesante. Più radicato. Più brutale."
+          "text": "Ma l’uomo era più pesante. Più radicato. Più brutale."
         },
         {
           "type": "paragraph",
-          "text": "Non arretra di un millimetro."
+          "text": "Non arretrò di un soffio."
         },
         {
           "type": "quote",
@@ -3290,7 +3301,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Nathan prova ancora."
+          "text": "Nathan provò ancora."
         },
         {
           "type": "paragraph",
@@ -3302,7 +3313,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Il pirata inclina appena il busto in avanti, avvicinando il volto a quello del paladino."
+          "text": "Il pirata inclinò appena il busto in avanti, avvicinando il volto a quello del paladino."
         },
         {
           "type": "quote",
@@ -3310,39 +3321,39 @@
         },
         {
           "type": "paragraph",
-          "text": "La presa non si allenta."
+          "text": "La presa non si allentò."
         },
         {
           "type": "paragraph",
-          "text": "Alan geme. Il legno sotto di lui scricchiola."
+          "text": "Alan gemette. Il legno sotto di lui scricchiolava."
         },
         {
           "type": "paragraph",
-          "text": "Aelar si muove di lato, cercando un angolo migliore."
+          "text": "Aelar si mosse di lato, cercando un angolo migliore."
         },
         {
           "type": "paragraph",
-          "text": "Kyran resta immobile, ma l’aria attorno a lei si fa più fredda."
+          "text": "Kyran restò immobile, ma l’aria attorno a lei si fece più fredda."
         },
         {
           "type": "paragraph",
-          "text": "Alaster osserva la distanza, le posizioni, le mani sulle armi."
+          "text": "Alaster misurò la distanza, le posizioni, le mani sulle armi."
         },
         {
           "type": "paragraph",
-          "text": "La situazione è a un filo dal precipizio."
+          "text": "La situazione era a un filo dal precipizio."
         },
         {
           "type": "paragraph",
-          "text": "Nathan non indietreggia."
+          "text": "Nathan non indietreggiò."
         },
         {
           "type": "paragraph",
-          "text": "Non alza la voce. Non insulta."
+          "text": "Non alzò la voce. Non insultò."
         },
         {
           "type": "paragraph",
-          "text": "Ma la tensione nei suoi occhi è evidente."
+          "text": "Ma la tensione nei suoi occhi era evidente."
         },
         {
           "type": "quote",
@@ -3350,7 +3361,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Il pirata ride ancora."
+          "text": "Il pirata rise ancora."
         },
         {
           "type": "paragraph",
@@ -3358,19 +3369,19 @@
         },
         {
           "type": "paragraph",
-          "text": "La presa resta salda."
+          "text": "La presa restò salda."
         },
         {
           "type": "paragraph",
-          "text": "E in quell’istante tutti nella taverna comprendono una cosa:"
+          "text": "E in quell’istante tutti, nella taverna, compresero una cosa:"
         },
         {
           "type": "paragraph",
-          "text": "non c’è più spazio per la diplomazia."
+          "text": "non c’era più spazio per la diplomazia."
         },
         {
           "type": "paragraph",
-          "text": "Il prossimo gesto sarà un colpo."
+          "text": "Il prossimo gesto sarebbe stato un colpo."
         }
       ]
     },
@@ -3428,8 +3439,12 @@
           "text": "Elis si mosse con precisione chirurgica, affondò lo stocco tra le maglie dell’armatura di un pirata, poi scivolò via prima che la risposta potesse arrivare."
         },
         {
+          "type": "paragraph",
+          "text": "Alaster gridò."
+        },
+        {
           "type": "quote",
-          "text": "«Non uccidete nessuno! Colpi non letali!» gridò Alaster."
+          "text": "«Non uccidete nessuno! Colpi non letali!»"
         },
         {
           "type": "paragraph",
@@ -3680,8 +3695,12 @@
           "text": "Kyran scagliò un fiotto d’acido."
         },
         {
+          "type": "paragraph",
+          "text": "Alan, disperato, si portò le mani ai capelli."
+        },
+        {
           "type": "quote",
-          "text": "«I tappeti!» urlò Alan disperato."
+          "text": "«I tappeti!»"
         },
         {
           "type": "paragraph",
@@ -3770,6 +3789,10 @@
         {
           "type": "paragraph",
           "text": "Ma pericolosa."
+        },
+        {
+          "type": "divider",
+          "variant": "flourish"
         },
         {
           "type": "paragraph",

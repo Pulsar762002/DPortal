@@ -1,7 +1,7 @@
 {
   "$schema": "./luoghi.schema.json",
   "campagna": "discesa-averno",
-  "ultimoAggiornamento": 1,
+  "ultimoAggiornamento": 6,
   "luoghi": [
     {
       "id": "elturel",
@@ -12,12 +12,27 @@
       "immagine": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-1/Elturel.png",
       "descrizione": "La Città della Luce, a pochi giorni di viaggio nell'entroterra da Baldur's Gate. Sorge sulle rive del Chionthar ed è vegliata dal Compagno, un sole artificiale che la rende sicura dai non morti. Custodita dall'Ordine del Compagno.",
       "stato": "scomparso",
-      "abitantiNotabili": ["nathan", "aelar", "marcus", "marta", "fernand-reglisse", "tarina"],
+      "abitantiNotabili": [
+        "nathan",
+        "aelar",
+        "marcus",
+        "marta",
+        "fernand-reglisse",
+        "tarina"
+      ],
       "primaApparizione": 1,
-      "apparizioni": [1],
+      "apparizioni": [
+        1
+      ],
       "note": [
-        { "sessione": 1, "testo": "Presentata come casa del gruppo: città sicura e luminosa, con scarsa affluenza di avventurieri proprio per via della sicurezza data dal Compagno." },
-        { "sessione": 1, "testo": "Alla fine della sessione viene inghiottita dall'Averno: il Compagno si annerisce, un muro di fuoco la circonda e la città sprofonda in una voragine, lasciando solo un cratere." }
+        {
+          "sessione": 1,
+          "testo": "Presentata come casa del gruppo: città sicura e luminosa, con scarsa affluenza di avventurieri proprio per via della sicurezza data dal Compagno."
+        },
+        {
+          "sessione": 1,
+          "testo": "Alla fine della sessione viene inghiottita dall'Averno: il Compagno si annerisce, un muro di fuoco la circonda e la città sprofonda in una voragine, lasciando solo un cratere."
+        }
       ],
       "misteri": [
         "Cosa ha provocato la caduta di Elturel e il tradimento del Compagno?",
@@ -35,9 +50,14 @@
       "stato": "distrutto",
       "abitantiNotabili": [],
       "primaApparizione": 1,
-      "apparizioni": [1],
+      "apparizioni": [
+        1
+      ],
       "note": [
-        { "sessione": 1, "testo": "Durante la caduta viene colpito da fulmini rossi, muta dal bianco al nero pece e si spegne insieme alla città." }
+        {
+          "sessione": 1,
+          "testo": "Durante la caduta viene colpito da fulmini rossi, muta dal bianco al nero pece e si spegne insieme alla città."
+        }
       ],
       "misteri": [
         "Qual è la vera natura e origine del Compagno?",
@@ -53,11 +73,19 @@
       "immagine": null,
       "descrizione": "Grande tempio con colonne imponenti e altari consacrati a più divinità. Acustica ampia che amplifica ogni passo. Qui Nathan vive e prega; Marcus vi officia.",
       "stato": "scomparso",
-      "abitantiNotabili": ["nathan", "marcus"],
+      "abitantiNotabili": [
+        "nathan",
+        "marcus"
+      ],
       "primaApparizione": 1,
-      "apparizioni": [1],
+      "apparizioni": [
+        1
+      ],
       "note": [
-        { "sessione": 1, "testo": "Scena d'apertura: confronto mattutino tra Nathan e Marcus sui doveri e sulla vita da avventuriero." }
+        {
+          "sessione": 1,
+          "testo": "Scena d'apertura: confronto mattutino tra Nathan e Marcus sui doveri e sulla vita da avventuriero."
+        }
       ],
       "misteri": []
     },
@@ -70,11 +98,19 @@
       "immagine": null,
       "descrizione": "L'orfanotrofio dove Nathan è cresciuto, gestito dall'anziana e severa governante Marta. Cortile in cui i bambini giocano; interno pieno di vita e di ricordi per Nathan.",
       "stato": "scomparso",
-      "abitantiNotabili": ["marta", "nathan"],
+      "abitantiNotabili": [
+        "marta",
+        "nathan"
+      ],
       "primaApparizione": 1,
-      "apparizioni": [1],
+      "apparizioni": [
+        1
+      ],
       "note": [
-        { "sessione": 1, "testo": "Nathan vi torna in visita: gioca con i bambini e saluta le tutrici." }
+        {
+          "sessione": 1,
+          "testo": "Nathan vi torna in visita: gioca con i bambini e saluta le tutrici."
+        }
       ],
       "misteri": [
         "Marta e i bambini sono sopravvissuti alla caduta della città?"
@@ -89,11 +125,19 @@
       "immagine": null,
       "descrizione": "Sede degli incarichi per avventurieri, meno affollata del previsto per via della sicurezza cittadina. Ha una bacheca degli annunci, un punto di ristoro e una sala d'addestramento adiacente.",
       "stato": "scomparso",
-      "abitantiNotabili": ["nathan", "aelar"],
+      "abitantiNotabili": [
+        "nathan",
+        "aelar"
+      ],
       "primaApparizione": 1,
-      "apparizioni": [1],
+      "apparizioni": [
+        1
+      ],
       "note": [
-        { "sessione": 1, "testo": "Luogo dell'incontro tra Nathan e Aelar e dell'accettazione dell'incarico di scorta a Fernand." }
+        {
+          "sessione": 1,
+          "testo": "Luogo dell'incontro tra Nathan e Aelar e dell'accettazione dell'incarico di scorta a Fernand."
+        }
       ],
       "misteri": []
     },
@@ -106,11 +150,18 @@
       "immagine": null,
       "descrizione": "Bottega d'erboristeria di Fernand Règlisse: esterno rigoglioso con vasi di piante e fiori, alte vetrate e un piccolo sottotetto con travi a vista.",
       "stato": "scomparso",
-      "abitantiNotabili": ["fernand-reglisse"],
+      "abitantiNotabili": [
+        "fernand-reglisse"
+      ],
       "primaApparizione": 1,
-      "apparizioni": [1],
+      "apparizioni": [
+        1
+      ],
       "note": [
-        { "sessione": 1, "testo": "Trovata chiusa: Fernand era alla taverna. Il gruppo vi torna per recuperare l'equipaggiamento prima di partire." }
+        {
+          "sessione": 1,
+          "testo": "Trovata chiusa: Fernand era alla taverna. Il gruppo vi torna per recuperare l'equipaggiamento prima di partire."
+        }
       ],
       "misteri": []
     },
@@ -123,11 +174,19 @@
       "immagine": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-1/LaChansonRouge.png",
       "descrizione": "Taverna sempre animata, priva di vere finestre e illuminata da candelabri e luci di scena: entrarvi fa perdere il senso del tempo. Ha un palco con tende cremisi dove si esibisce Tarina, la cantante tiefling.",
       "stato": "scomparso",
-      "abitantiNotabili": ["tarina", "fernand-reglisse"],
+      "abitantiNotabili": [
+        "tarina",
+        "fernand-reglisse"
+      ],
       "primaApparizione": 1,
-      "apparizioni": [1],
+      "apparizioni": [
+        1
+      ],
       "note": [
-        { "sessione": 1, "testo": "Il gruppo vi trova Fernand reduce da una notte di eccessi. Si vocifera sull'età reale di Tarina." }
+        {
+          "sessione": 1,
+          "testo": "Il gruppo vi trova Fernand reduce da una notte di eccessi. Si vocifera sull'età reale di Tarina."
+        }
       ],
       "misteri": [
         "Il legame tra Tarina e la taverna, e il mistero della sua età."
@@ -142,11 +201,19 @@
       "immagine": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-1/BoschiElturel.png",
       "descrizione": "Foresta fitta di alberi antichi e sottobosco denso oltre le mura, dove la sicurezza del Compagno si assottiglia. Sentieri battuti, erba alta, radure tra grandi massi.",
       "stato": "intatto",
-      "abitantiNotabili": ["kyran", "goblin-bosco"],
+      "abitantiNotabili": [
+        "kyran",
+        "goblin-bosco"
+      ],
       "primaApparizione": 1,
-      "apparizioni": [1],
+      "apparizioni": [
+        1
+      ],
       "note": [
-        { "sessione": 1, "testo": "Teatro della raccolta di erbe, dell'avvistamento di Aeren, della scoperta di Kyran e del primo scontro coi goblin." }
+        {
+          "sessione": 1,
+          "testo": "Teatro della raccolta di erbe, dell'avvistamento di Aeren, della scoperta di Kyran e del primo scontro coi goblin."
+        }
       ],
       "misteri": [
         "Perché i goblin davano la caccia a Kyran in questi boschi?"
@@ -163,9 +230,19 @@
       "stato": "intatto",
       "abitantiNotabili": [],
       "primaApparizione": 1,
-      "apparizioni": [1],
+      "apparizioni": [
+        1,
+        2
+      ],
       "note": [
-        { "sessione": 1, "testo": "Si forma alla fine della sessione, sotto gli occhi del gruppo dalla collina e di Alaster dalla carrozza opposta." }
+        {
+          "sessione": 1,
+          "testo": "Si forma alla fine della sessione, sotto gli occhi del gruppo dalla collina e di Alaster dalla carrozza opposta."
+        },
+        {
+          "sessione": 2,
+          "testo": "Da vicino è una mutilazione profonda (una quarantina di passi di sottosuolo strappati), non un abisso infinito. Le fattorie fuori le mura bruciano; tra i sopravvissuti dilaga l'anarchia."
+        }
       ],
       "misteri": [
         "Cosa resta sul fondo della voragine? È un varco ancora aperto verso l'Averno?"
@@ -177,17 +254,451 @@
       "tipo": "citta",
       "luogoPadre": null,
       "regione": "Costa della Spada, molte miglia a ovest di Elturel",
-      "immagine": null,
+      "immagine": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-3/BaldursGate.png",
       "descrizione": "Grande città mercantile a ovest di Elturel, con cui i rapporti non sono mai stati semplici. Vi sorge la magione nobiliare della famiglia di Alaster, tra marmi scuri e drappi rosso cremisi.",
       "stato": "intatto",
-      "abitantiNotabili": ["alaster", "genitori-alaster", "granduca-ravengard"],
+      "abitantiNotabili": [
+        "alaster",
+        "genitori-alaster",
+        "granduca-ravengard"
+      ],
       "primaApparizione": 1,
-      "apparizioni": [1],
+      "apparizioni": [
+        1,
+        2,
+        3
+      ],
       "note": [
-        { "sessione": 1, "testo": "Compare nel flashback 'quattro giorni prima': qui Alaster riceve dai genitori l'incarico di seguire il Granduca Ravengard." }
+        {
+          "sessione": 1,
+          "testo": "Compare nel flashback 'quattro giorni prima': qui Alaster riceve dai genitori l'incarico di seguire il Granduca Ravengard."
+        },
+        {
+          "sessione": 2,
+          "testo": "Diventa la meta del gruppo. Si apprende che il Granduca era diretto a Elturel: la città resterà nel caos senza di lui. I profughi vi si riverseranno."
+        },
+        {
+          "sessione": 3,
+          "testo": "Il gruppo vi arriva. È divisa in città esterna (baracche e profughi) e città bassa, separate dalla Porta del Basilisco e sorvegliate dai Pugni Fiammanti."
+        }
       ],
       "misteri": [
         "Quali interessi muovono la famiglia di Alaster e la città nella vicenda del Granduca?"
+      ]
+    },
+    {
+      "id": "campi-della-morte",
+      "nome": "Campi della Morte",
+      "tipo": "regione",
+      "luogoPadre": null,
+      "regione": "Tra Elturel e Baldur's Gate",
+      "immagine": null,
+      "descrizione": "Terre maledette e infestate lungo la via, ragione per cui in quelle zone non sorgono grandi città. Di notte attirano lupi e creature peggiori, soprattutto dove ci sono cadaveri.",
+      "stato": "intatto",
+      "abitantiNotabili": [],
+      "primaApparizione": 2,
+      "apparizioni": [
+        2
+      ],
+      "note": [
+        {
+          "sessione": 2,
+          "testo": "Citati come pericolo durante il viaggio: spingono il gruppo a non accamparsi presso il cratere e a tenersi al fiume."
+        }
+      ],
+      "misteri": [
+        "Cosa infesta davvero i Campi della Morte?"
+      ]
+    },
+    {
+      "id": "strada-chionthar",
+      "nome": "Strada lungo il Chionthar",
+      "tipo": "regione",
+      "luogoPadre": null,
+      "regione": "Valle del fiume Chionthar",
+      "immagine": null,
+      "descrizione": "Il percorso a piedi verso Baldur's Gate segue il fiume Chionthar, unica guida sicura per non perdersi. Costellato di piccoli villaggi agricoli, senza guaritori né forze organizzate.",
+      "stato": "intatto",
+      "abitantiNotabili": [
+        "bromas"
+      ],
+      "primaApparizione": 2,
+      "apparizioni": [
+        2
+      ],
+      "note": [
+        {
+          "sessione": 2,
+          "testo": "Il gruppo lo percorre con la carovana di Bromas; lungo la via trovano profughi e morti di stenti."
+        }
+      ],
+      "misteri": []
+    },
+    {
+      "id": "accampamento-profughi",
+      "nome": "Accampamento dei profughi",
+      "tipo": "struttura",
+      "luogoPadre": "strada-chionthar",
+      "regione": "Strada per Baldur's Gate",
+      "immagine": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-2/Accampamento.png",
+      "descrizione": "Cerchio imperfetto di carrozze e palizzate improvvisate dove una quarantina di profughi (contadini, artigiani, famiglie, nessun soldato) si raccoglie per passare le notti. Non una fortificazione: un tentativo.",
+      "stato": "danneggiato",
+      "abitantiNotabili": [
+        "bromas",
+        "lian",
+        "nue",
+        "mevil",
+        "gullivan",
+        "alyssa",
+        "darsus"
+      ],
+      "primaApparizione": 2,
+      "apparizioni": [
+        2
+      ],
+      "note": [
+        {
+          "sessione": 2,
+          "testo": "Assaltato di notte da una banda di predoni con ordigni incendiari; l'attacco è respinto dal gruppo."
+        }
+      ],
+      "misteri": [
+        "Chi ha organizzato l'assalto e perché?"
+      ]
+    },
+    {
+      "id": "citta-esterna-bg",
+      "nome": "Città esterna di Baldur's Gate",
+      "tipo": "struttura",
+      "luogoPadre": "baldurs-gate",
+      "regione": "Baldur's Gate, oltre il Ponte del Dragone",
+      "immagine": null,
+      "descrizione": "La fascia più povera della città, fuori dalle mura della città bassa: baracche di legno addossate alla pietra, fango e miseria, ora gremita di migliaia di profughi di Elturel.",
+      "stato": "intatto",
+      "abitantiNotabili": [
+        "bromas",
+        "gullivan"
+      ],
+      "primaApparizione": 3,
+      "apparizioni": [
+        3
+      ],
+      "note": [
+        {
+          "sessione": 3,
+          "testo": "I profughi della carovana restano qui, fuori dalla città bassa."
+        }
+      ],
+      "misteri": []
+    },
+    {
+      "id": "porta-del-basilisco",
+      "nome": "La Porta del Basilisco",
+      "tipo": "landmark",
+      "luogoPadre": "baldurs-gate",
+      "regione": "Baldur's Gate, tra città esterna e città bassa",
+      "immagine": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-3/LaPortaDelBasilisco.png",
+      "descrizione": "Imponente arco di pietra tra torri massicce, marchiato dagli arazzi dei Pugni Fiammanti (un pugno avvolto dalle fiamme). Costruito per dominare, non per accogliere: filtra chi può entrare nella città bassa.",
+      "stato": "intatto",
+      "abitantiNotabili": [
+        "zodge",
+        "pugni-fiammanti"
+      ],
+      "primaApparizione": 3,
+      "apparizioni": [
+        3
+      ],
+      "note": [
+        {
+          "sessione": 3,
+          "testo": "Migliaia di profughi vi premono contro; il gruppo passa solo grazie ad Alaster e all'arruolamento di Zodge."
+        }
+      ],
+      "misteri": []
+    },
+    {
+      "id": "taverna-canto-elfico",
+      "nome": "Taverna del Canto Elfico",
+      "tipo": "taverna",
+      "luogoPadre": "baldurs-gate",
+      "regione": "Città bassa di Baldur's Gate",
+      "immagine": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-3/Locanda_Canto_Elfico.png",
+      "descrizione": "Locanda robusta e sorprendentemente ordinata, in pietra e legno, con privé e un piano superiore per giocatori e armati. Sul palco un fantasma canta in elfico una ballata d'amore perduto.",
+      "stato": "danneggiato",
+      "abitantiNotabili": [
+        "alan",
+        "elis",
+        "tarina"
+      ],
+      "primaApparizione": 3,
+      "apparizioni": [
+        3,
+        4,
+        5
+      ],
+      "note": [
+        {
+          "sessione": 3,
+          "testo": "Qui il gruppo recluta Elis; viene poi devastata dall'assalto dei pirati in cerca di Tarina."
+        },
+        {
+          "sessione": 4,
+          "testo": "Devastata dalla rissa coi pirati; vi muore l'ogre Scona. Il gruppo vi torna a fine sessione per curarsi."
+        },
+        {
+          "sessione": 5,
+          "testo": "Il gruppo vi si rifugia per la notte; qui Tarina racconta il suo passato prima di andarsene."
+        }
+      ],
+      "misteri": []
+    },
+    {
+      "id": "terme-nord-bg",
+      "nome": "Centro termale della zona nord",
+      "tipo": "struttura",
+      "luogoPadre": "baldurs-gate",
+      "regione": "Città bassa di Baldur's Gate, zona nord",
+      "immagine": null,
+      "descrizione": "Un centro termale dove, secondo le indagini di Elis, convergono gli acquisti e i movimenti del Culto dei Tre Morti: probabile copertura del loro covo.",
+      "stato": "intatto",
+      "abitantiNotabili": [
+        "culto-tre-morti"
+      ],
+      "primaApparizione": 3,
+      "apparizioni": [
+        3
+      ],
+      "note": [
+        {
+          "sessione": 3,
+          "testo": "Individuato da Elis come probabile covo del Culto; meta della prossima indagine."
+        },
+        {
+          "sessione": 4,
+          "testo": "Meta verso cui il gruppo si dirige di notte, ma un agguato del Culto nel vicolo li ferma prima di arrivarci."
+        }
+      ],
+      "misteri": [
+        "Le terme nascondono davvero il covo del Culto dei Tre Morti?"
+      ]
+    },
+    {
+      "id": "avamposto-milizia",
+      "nome": "Avamposto della milizia",
+      "tipo": "struttura",
+      "luogoPadre": "baldurs-gate",
+      "regione": "Città bassa di Baldur's Gate",
+      "immagine": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-4/Prigioni.png",
+      "descrizione": "Struttura austera dei Pugni Fiammanti con un livello interrato adibito a celle: pietra umida, grate d'acciaio, una tubatura che gocciola di continuo.",
+      "stato": "intatto",
+      "abitantiNotabili": [
+        "darmian",
+        "cleiton"
+      ],
+      "primaApparizione": 4,
+      "apparizioni": [
+        4
+      ],
+      "note": [
+        {
+          "sessione": 4,
+          "testo": "Il gruppo vi è imprigionato dopo la rissa; viene liberato grazie a Dorian Nodorovo."
+        }
+      ],
+      "misteri": []
+    },
+    {
+      "id": "vicolo-tre-morti",
+      "nome": "Vicolo del Culto",
+      "tipo": "landmark",
+      "luogoPadre": "baldurs-gate",
+      "regione": "Città bassa di Baldur's Gate, zona nord",
+      "immagine": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-4/VicoloTreMorti.png",
+      "descrizione": "Stretto vicolo buio dal selciato umido dove i cultisti dei Tre Morti depredano le loro vittime per i riti.",
+      "stato": "intatto",
+      "abitantiNotabili": [
+        "culto-tre-morti"
+      ],
+      "primaApparizione": 4,
+      "apparizioni": [
+        4
+      ],
+      "note": [
+        {
+          "sessione": 4,
+          "testo": "Teatro dell'agguato dei mirkuliti al gruppo, sulla via per le terme."
+        }
+      ],
+      "misteri": []
+    },
+    {
+      "id": "emporio-black",
+      "nome": "Emporio Black",
+      "tipo": "struttura",
+      "luogoPadre": "baldurs-gate",
+      "regione": "Mercato nero di Baldur's Gate",
+      "immagine": null,
+      "descrizione": "Un emporio del mercato nero dove, secondo Cleiton, circolano le monete d'osso del Culto dei Tre Morti.",
+      "stato": "distrutto",
+      "abitantiNotabili": [
+        "obaia-black",
+        "culto-tre-morti"
+      ],
+      "primaApparizione": 4,
+      "apparizioni": [
+        4,
+        5,
+        6
+      ],
+      "note": [
+        {
+          "sessione": 4,
+          "testo": "Indicato come pista per risalire al Culto, grazie alla moneta d'osso trovata sui cultisti."
+        },
+        {
+          "sessione": 5,
+          "testo": "Visitato: è la copertura del Culto, col simbolo dei Tre Morti sulla maniglia. Dietro nasconde il passaggio per il Tempio di Myrkul."
+        },
+        {
+          "sessione": 6,
+          "testo": "Incendiato da un ignoto mentre il gruppo ne usciva: l'edificio brucia del tutto."
+        }
+      ],
+      "misteri": [
+        "Qual è il legame tra l'Emporio Black e il Culto dei Tre Morti?"
+      ]
+    },
+    {
+      "id": "mercato-nero-bg",
+      "nome": "Mercato nero",
+      "tipo": "struttura",
+      "luogoPadre": "baldurs-gate",
+      "regione": "Città Bassa di Baldur's Gate, zona meridionale (presso il porto)",
+      "immagine": null,
+      "descrizione": "Dedalo di vicoli stretti e svolte studiate per far perdere l'orientamento agli estranei. Niente insegne: gli affari veri si trattano dietro tende e bancarelle anonime.",
+      "stato": "intatto",
+      "abitantiNotabili": [
+        "obaia-black",
+        "clea"
+      ],
+      "primaApparizione": 5,
+      "apparizioni": [
+        5
+      ],
+      "note": [
+        {
+          "sessione": 5,
+          "testo": "Il gruppo lo attraversa per raggiungere l'Emporio Black; qui Alaster incontra Clea."
+        }
+      ],
+      "misteri": []
+    },
+    {
+      "id": "tempio-myrkul",
+      "nome": "Tempio di Myrkul",
+      "tipo": "tempio",
+      "luogoPadre": "emporio-black",
+      "regione": "Sotterranei dell'Emporio Black, Città Bassa",
+      "immagine": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-5/IngressoTempioMirkul.png",
+      "descrizione": "Cripta sotterranea consacrata a Myrkul, nascosta dietro l'Emporio Black. Vi si accede dal passaggio segreto e dal rito delle tre porte; al centro una statua del Signore delle Ossa anima i non-morti.",
+      "stato": "danneggiato",
+      "abitantiNotabili": [
+        "flenner",
+        "culto-tre-morti"
+      ],
+      "primaApparizione": 5,
+      "apparizioni": [
+        5,
+        6
+      ],
+      "note": [
+        {
+          "sessione": 5,
+          "testo": "Il gruppo vi affronta e uccide l'Alto Myrkulita Flenner e distrugge la statua rituale di Myrkul."
+        },
+        {
+          "sessione": 6,
+          "testo": "Saccheggiato: recuperati Libro dei Morti, una sfera magica, veleno e bottino dalla Sala delle Offerte (oltre un muro-sigillo). Una tomba profanata maledice Elis."
+        }
+      ],
+      "misteri": [
+        "Quante altre celle nascoste ha il Culto dei Tre Morti sotto Baldur's Gate?"
+      ]
+    },
+    {
+      "id": "citta-alta-bg",
+      "nome": "Città Alta di Baldur's Gate",
+      "tipo": "struttura",
+      "luogoPadre": "baldurs-gate",
+      "regione": "Baldur's Gate, dentro le mura interne",
+      "immagine": null,
+      "descrizione": "La parte alta e patrizia della città, sede dei Patriarchi e del potere. Difficile da raggiungere per chi non vi appartiene.",
+      "stato": "intatto",
+      "abitantiNotabili": [
+        "zodge",
+        "dorian"
+      ],
+      "primaApparizione": 5,
+      "apparizioni": [
+        5
+      ],
+      "note": [
+        {
+          "sessione": 5,
+          "testo": "Citata: Zodge vi è in consiglio coi Patriarchi per l'emergenza profughi; vi si dilegua anche Dorian."
+        }
+      ],
+      "misteri": []
+    },
+    {
+      "id": "rosa-canina",
+      "nome": "Erboristeria La Rosa Canina",
+      "tipo": "bottega",
+      "luogoPadre": "baldurs-gate",
+      "regione": "Città Bassa di Baldur's Gate, a nord presso la taverna",
+      "immagine": null,
+      "descrizione": "Erboristeria ordinata e profumata, gestita dal forgiato Derek: erbe essiccate, radici in liquidi ambrati, barattoli di polveri. Un riccio domestico vive sul bancone.",
+      "stato": "intatto",
+      "abitantiNotabili": [
+        "derek"
+      ],
+      "primaApparizione": 6,
+      "apparizioni": [
+        6
+      ],
+      "note": [
+        {
+          "sessione": 6,
+          "testo": "Aelar e Kyran vi fanno analizzare il veleno di viverna e la polvere d'ossa runica; comprano una pozione curativa."
+        }
+      ],
+      "misteri": []
+    },
+    {
+      "id": "tempio-helm",
+      "nome": "Tempio di Helm",
+      "tipo": "tempio",
+      "luogoPadre": "baldurs-gate",
+      "regione": "Baldur's Gate",
+      "immagine": null,
+      "descrizione": "Fortezza consacrata a Helm il Vigilante: scalinata, statua di un cavaliere con la spada puntata a terra, navate con scene del dio e guardie-soldato della fede.",
+      "stato": "intatto",
+      "abitantiNotabili": [
+        "nathan",
+        "elis"
+      ],
+      "primaApparizione": 6,
+      "apparizioni": [
+        6
+      ],
+      "note": [
+        {
+          "sessione": 6,
+          "testo": "Nathan ed Elis vi portano il Libro dei Morti: il chierico inorridisce e il gran sacerdote accetta di riceverli sotto scorta."
+        }
+      ],
+      "misteri": [
+        "Cosa rivelerà il gran sacerdote di Helm sul Libro dei Morti e sul Culto?"
       ]
     }
   ]
