@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/features/public/campagne/discesa-averno/personaggi/personaggi-page/personaggi-page.component.css"],
+  "sourcesContent": [".personaggi-page-container {\n  position: relative;\n  max-width: 1400px;\n  margin: 0 auto;\n  padding: 3rem 2rem;\n  color: #f1e6c8;\n}\n\n/* Overlay scuro elegante sopra la mappa */\n.personaggi-page-container::before {\n  content: '';\n  position: absolute;\n  inset: 0;\n  background: rgba(0, 0, 0, 0.65);\n  backdrop-filter: blur(2px);\n  z-index: 0;\n}\n\n.personaggi-page-container > * {\n  position: relative;\n  z-index: 1;\n}\n\n.page-title {\n  font-size: 2.3rem;\n  text-align: center;\n  margin-bottom: 3rem;\n  color: #d4af37;\n  letter-spacing: 1px;\n  text-shadow: 0 0 10px rgba(212, 175, 55, 0.5);\n}\n"],
+  "mappings": ";AAAA,CAAC;AACC,YAAU;AACV,aAAW;AACX,UAAQ,EAAE;AACV,WAAS,KAAK;AACd,SAAO;AACT;AAGA,CATC,yBASyB;AACxB,WAAS;AACT,YAAU;AACV,SAAO;AACP,cAAY,KAAK,CAAC,EAAE,CAAC,EAAE,CAAC,EAAE;AAC1B,2BAAiB,KAAK;AAAtB,mBAAiB,KAAK;AACtB,WAAS;AACX;AAEA,CAlBC,0BAkB0B,EAAE;AAC3B,YAAU;AACV,WAAS;AACX;AAEA,CAAC;AACC,aAAW;AACX,cAAY;AACZ,iBAAe;AACf,SAAO;AACP,kBAAgB;AAChB,eAAa,EAAE,EAAE,KAAK,KAAK,GAAG,EAAE,GAAG,EAAE,EAAE,EAAE;AAC3C;",
+  "names": []
+}

@@ -1,1 +1,0 @@
-import{Cb as a,Db as n,Zb as s,fb as t}from"./chunk-5ZEWL7CD.js";var r=class o{static \u0275fac=function(e){return new(e||o)};static \u0275cmp=t({type:o,selectors:[["app-dashboard"]],decls:2,vars:0,template:function(e,m){e&1&&(a(0,"p"),s(1,"dashboard works!"),n())},encapsulation:2})};export{r as DashboardComponent};

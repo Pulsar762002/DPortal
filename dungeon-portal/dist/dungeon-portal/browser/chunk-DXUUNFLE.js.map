@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/features/master/cronache-editor/cronache-editor.component.ts", "src/app/features/master/cronache-editor/cronache-editor.component.html"],
+  "sourcesContent": ["import { Component } from '@angular/core';\n\n@Component({\n  selector: 'app-cronache-editor',\n  imports: [],\n  templateUrl: './cronache-editor.component.html',\n  styleUrl: './cronache-editor.component.css',\n})\nexport class CronacheEditorComponent {\n\n}\n", "<p>cronache-editor works!</p>\n"],
+  "mappings": ";;;;;;;;;;;AAQM,IAAO,0BAAP,MAAO,yBAAuB;;qCAAvB,0BAAuB;EAAA;yEAAvB,0BAAuB,WAAA,CAAA,CAAA,qBAAA,CAAA,GAAA,OAAA,GAAA,MAAA,GAAA,UAAA,SAAA,iCAAA,IAAA,KAAA;AAAA,QAAA,KAAA,GAAA;ACRpC,MAAA,4BAAA,GAAA,GAAA;AAAG,MAAA,iBAAA,GAAA,wBAAA;AAAsB,MAAA,0BAAA;;;;;sEDQZ,yBAAuB,CAAA;UANnC;uBACW,uBAAqB,SACtB,CAAA,GAAE,UAAA,kCAAA,CAAA;;;;6EAIA,yBAAuB,EAAA,WAAA,2BAAA,UAAA,wEAAA,YAAA,EAAA,CAAA;AAAA,GAAA;",
+  "names": []
+}

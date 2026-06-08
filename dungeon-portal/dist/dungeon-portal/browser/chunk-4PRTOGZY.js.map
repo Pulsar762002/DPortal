@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/features/public/land/land.component.ts", "src/app/features/public/land/land.component.html"],
+  "sourcesContent": ["import { Component } from '@angular/core';\n\n@Component({\n  selector: 'app-land',\n  imports: [],\n  templateUrl: './land.component.html',\n  styleUrl: './land.component.css',\n})\nexport class LandComponent {\n\n}\n", "<p>land works!</p>\n"],
+  "mappings": ";;;;;;;;;;;AAQM,IAAO,gBAAP,MAAO,eAAa;;qCAAb,gBAAa;EAAA;yEAAb,gBAAa,WAAA,CAAA,CAAA,UAAA,CAAA,GAAA,OAAA,GAAA,MAAA,GAAA,UAAA,SAAA,uBAAA,IAAA,KAAA;AAAA,QAAA,KAAA,GAAA;ACR1B,MAAA,4BAAA,GAAA,GAAA;AAAG,MAAA,iBAAA,GAAA,aAAA;AAAW,MAAA,0BAAA;;;;;sEDQD,eAAa,CAAA;UANzB;uBACW,YAAU,SACX,CAAA,GAAE,UAAA,uBAAA,CAAA;;;;6EAIA,eAAa,EAAA,WAAA,iBAAA,UAAA,kDAAA,YAAA,EAAA,CAAA;AAAA,GAAA;",
+  "names": []
+}

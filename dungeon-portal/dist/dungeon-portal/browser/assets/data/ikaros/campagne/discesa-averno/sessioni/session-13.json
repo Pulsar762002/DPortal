@@ -13,7 +13,8 @@
           "type": "scene",
           "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-13/Citta' Alta di Giorno 2.png",
           "title": "La Città Alta",
-          "subtitle": "Baldur's Gate"
+          "subtitle": "Baldur's Gate",
+          "alt": "Veduta della Città Alta di Baldur's Gate al tramonto"
         },
         {
           "type": "divider",
@@ -27,7 +28,7 @@
           "type": "image",
           "variant": "left-big",
           "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-13/Citta' Alta di Giorno 2.png",
-          "alt": "Bottina nel tempio dei Mirkuliti"
+          "alt": "Veduta della Città Alta di Baldur's Gate al tramonto"
         },
         {
           "type": "paragraph",
@@ -51,7 +52,7 @@
         },
         {
           "type": "quote",
-          "text": "Uno stato nello stato. È un Vaticano, in pratica."
+          "text": "«Uno stato nello stato. Quasi un regno consacrato a sé stesso.»"
         },
         {
           "type": "paragraph",
@@ -67,7 +68,7 @@
         },
         {
           "type": "quote",
-          "text": "Beh, caro amico… finalmente conosceremo la tua famiglia."
+          "text": "«Beh, caro amico… finalmente conosceremo la tua famiglia.»"
         },
         {
           "type": "paragraph",
@@ -75,7 +76,7 @@
         },
         {
           "type": "quote",
-          "text": "Già. A tal proposito… vi chiedo di comportarvi bene quando vi farò entrare nella mia casa."
+          "text": "«Già. A tal proposito… vi chiedo di comportarvi bene quando vi farò entrare nella mia casa.»"
         },
         {
           "type": "paragraph",
@@ -83,19 +84,19 @@
         },
         {
           "type": "quote",
-          "text": "Ormai siamo dei compagni. Abbiamo affrontato molte peripezie… e molti pericoli insieme. Mi addolorerebbe allontanarvi per una vostra cattiva condotta."
+          "text": "«Ormai siamo dei compagni. Abbiamo affrontato molte peripezie… e molti pericoli insieme. Mi addolorerebbe allontanarvi per una vostra cattiva condotta.»"
         },
         {
           "type": "quote",
-          "text": "Addirittura?"
+          "text": "«Addirittura?»"
         },
         {
           "type": "quote",
-          "text": "Saremo buoni, non ti preoccupare."
+          "text": "«Saremo buoni, non ti preoccupare.»"
         },
         {
           "type": "quote",
-          "text": "Faremo il nostro dovere."
+          "text": "«Faremo il nostro dovere.»"
         },
         {
           "type": "paragraph",
@@ -103,15 +104,15 @@
         },
         {
           "type": "quote",
-          "text": "Tengo molto all’idea che la mia famiglia ha di me."
+          "text": "«Tengo molto all’idea che la mia famiglia ha di me.»"
         },
         {
           "type": "quote",
-          "text": "Dai, Alaster. Stai tranquillo, ci hai conosciuto."
+          "text": "«Dai, Alaster. Stai tranquillo, ci hai conosciuto.»"
         },
         {
           "type": "quote",
-          "text": "Appunto."
+          "text": "«Appunto.»"
         },
         {
           "type": "paragraph",
@@ -119,11 +120,11 @@
         },
         {
           "type": "quote",
-          "text": "Siete gli stessi che si sono messi a ruttare e scorreggiare dentro il negozio di vestiti."
+          "text": "«Siete gli stessi che si sono messi a ruttare e scorreggiare dentro il negozio di vestiti.»"
         },
         {
           "type": "quote",
-          "text": "E fare finta di fare un’orgia alle terme."
+          "text": "«E fare finta di fare un’orgia alle terme.»"
         },
         {
           "type": "paragraph",
@@ -139,11 +140,11 @@
         },
         {
           "type": "quote",
-          "text": "D’altronde ci è stato consigliato da una tua conoscenza… ci aspettiamo un gran lavoro."
+          "text": "«D’altronde ci è stato consigliato da una tua conoscenza… ci aspettiamo un gran lavoro.»"
         },
         {
           "type": "quote",
-          "text": "Come vi ho detto: conosco solo i migliori."
+          "text": "«Come vi ho detto: conosco solo i migliori.»"
         },
         {
           "type": "paragraph",
@@ -163,7 +164,7 @@
         },
         {
           "type": "quote",
-          "text": "Bene. Allora seguitemi."
+          "text": "«Bene. Allora seguitemi.»"
         },
         {
           "type": "paragraph",
@@ -224,7 +225,7 @@
           "type": "image",
           "variant": "left-big",
           "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-13/Dorian1.png",
-          "alt": "Bottina nel tempio dei Mirkuliti"
+          "alt": "Dorian Nodorovo avanza tra la folla della piazza"
         },
         {
           "type": "paragraph",
@@ -244,7 +245,7 @@
         },
         {
           "type": "quote",
-          "text": "Davanti a te? Fratellino."
+          "text": "«Davanti a te? Fratellino.»"
         },
         {
           "type": "paragraph",
@@ -252,7 +253,7 @@
         },
         {
           "type": "quote",
-          "text": "Felice di non ritrovarti di nuovo dentro le sbarre. Qual buon vento, fratello mio? Anche a quest’ora tarda ancora in giro?"
+          "text": "«Felice di non ritrovarti di nuovo dentro le sbarre. Qual buon vento, fratello mio? Anche a quest’ora tarda ancora in giro?»"
         },
         {
           "type": "paragraph",
@@ -268,11 +269,11 @@
         },
         {
           "type": "quote",
-          "text": "Sì. Ho terminato gli allenamenti di scherma e stavo tornando a casa. A un certo punto ho sentito… come una voce familiare tra gli echi di tutte le altre persone. Ed eccoti qui."
+          "text": "«Sì. Ho terminato gli allenamenti di scherma e stavo tornando a casa. A un certo punto ho sentito… come una voce familiare tra gli echi di tutte le altre persone. Ed eccoti qui.»"
         },
         {
           "type": "quote",
-          "text": "Potrei dire lo stesso di te. Ho avvertito una presenza… pungente."
+          "text": "«Potrei dire lo stesso di te. Ho avvertito una presenza… pungente.»"
         },
         {
           "type": "paragraph",
@@ -280,7 +281,7 @@
         },
         {
           "type": "quote",
-          "text": "Ho sentito alcune voci. Sembra che un gruppo di baldi eroi abbia sgominato il culto dei Tre Morti. Ne sai forse qualcosa?"
+          "text": "«Ho sentito alcune voci. Sembra che un gruppo di baldi eroi abbia sgominato il culto dei Tre Morti. Ne sai forse qualcosa?»"
         },
         {
           "type": "paragraph",
@@ -288,21 +289,21 @@
         },
         {
           "type": "quote",
-          "text": "Eccoci qua. Cosa di poco conto, in realtà, se devo dirlo."
+          "text": "«Eccoci qua. Cosa di poco conto, in realtà, se devo dirlo.»"
         },
         {
           "type": "image",
           "variant": "left-big",
           "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-13/Dorian2.png",
-          "alt": "Bottina nel tempio dei Mirkuliti"
+          "alt": "Dorian Nodorovo, il fratello maggiore di Alaster"
         },
         {
           "type": "quote",
-          "text": "Ma tu avevi le tue faccende da sbrigare, giusto? Dovevi allenarti. Mentre il tuo caro fratellino…"
+          "text": "«Ma tu avevi le tue faccende da sbrigare, giusto? Dovevi allenarti. Mentre il tuo caro fratellino…»"
         },
         {
           "type": "quote",
-          "text": "Stavamo facendo la stessa cosa, tra l’altro."
+          "text": "«Stavamo facendo la stessa cosa, tra l’altro.»"
         },
         {
           "type": "paragraph",
@@ -310,7 +311,7 @@
         },
         {
           "type": "quote",
-          "text": "Beh, si vede che è stato abbastanza facile sgominare questo culto fantomatico."
+          "text": "«Beh, si vede che è stato abbastanza facile sgominare questo culto fantomatico.»"
         },
         {
           "type": "paragraph",
@@ -322,7 +323,7 @@
         },
         {
           "type": "quote",
-          "text": "A quanto pare sembra tu… ti sia divertito. Sono sicuro che nostro padre vorrà sapere tutti i dettagli delle tue avventure al di fuori e dentro la città."
+          "text": "«A quanto pare sembra tu… ti sia divertito. Sono sicuro che nostro padre vorrà sapere tutti i dettagli delle tue avventure al di fuori e dentro la città.»"
         },
         {
           "type": "paragraph",
@@ -334,15 +335,15 @@
         },
         {
           "type": "quote",
-          "text": "Già. Effettivamente è già da un bel po’ che non vedo nostro padre."
+          "text": "«Già. Effettivamente è già da un bel po’ che non vedo nostro padre.»"
         },
         {
           "type": "quote",
-          "text": "Tranquillo. Gli ho detto che sei tornato in città. Ma non gli ho parlato… di quel tuo piccolo inconveniente al fresco."
+          "text": "«Tranquillo. Gli ho detto che sei tornato in città. Ma non gli ho parlato… di quel tuo piccolo inconveniente al fresco.»"
         },
         {
           "type": "quote",
-          "text": "Ah. Hai fatto bene. Avviserò io stesso nostro padre di quell’avvenimento increscioso. In fondo è stata colpa di ogni fiammeggiante errore… di certo non mia."
+          "text": "«Ah. Hai fatto bene. Avviserò io stesso nostro padre di quell’avvenimento increscioso. In fondo è stata colpa di ogni fiammeggiante errore… di certo non mia.»"
         },
         {
           "type": "paragraph",
@@ -354,7 +355,7 @@
         },
         {
           "type": "quote",
-          "text": "Ah. Ancora giri insieme a loro?"
+          "text": "«Ah. Ancora giri insieme a loro?»"
         },
         {
           "type": "paragraph",
@@ -362,7 +363,7 @@
         },
         {
           "type": "quote",
-          "text": "Beh, ho abbattuto, grazie a loro, il culto dei Tre Morti. Anzi, devo dire che probabilmente non ce l’avrei mai fatta da solo. Sono dei validi compagni."
+          "text": "«Beh, ho abbattuto, grazie a loro, il culto dei Tre Morti. Anzi, devo dire che probabilmente non ce l’avrei mai fatta da solo. Sono dei validi compagni.»"
         },
         {
           "type": "paragraph",
@@ -370,11 +371,11 @@
         },
         {
           "type": "quote",
-          "text": "Oh, non dipendenti. Non dipendenti… incredibile. Compagni. Caspita. Vedo che ti sei… come dire… plebizzato."
+          "text": "«Oh, non dipendenti. Non dipendenti… incredibile. Compagni. Caspita. Vedo che ti sei… come dire… plebizzato.»"
         },
         {
           "type": "quote",
-          "text": "O comunque vedo che ti sei ridotto a richiedere aiuti esterni. Beh… non che mi aspettassi nulla di diverso dal mio fratellino."
+          "text": "«O comunque vedo che ti sei ridotto a richiedere aiuti esterni. Beh… non che mi aspettassi nulla di diverso dal mio fratellino.»"
         },
         {
           "type": "paragraph",
@@ -386,7 +387,7 @@
         },
         {
           "type": "quote",
-          "text": "Beh. Io vi precedo. Ci vediamo a casa."
+          "text": "«Beh. Io vi precedo. Ci vediamo a casa.»"
         },
         {
           "type": "paragraph",
@@ -394,7 +395,7 @@
         },
         {
           "type": "quote",
-          "text": "Non fare tardi a cena. Sai… a mamma non piace aspettare."
+          "text": "«Non fare tardi a cena. Sai… a mamma non piace aspettare.»"
         },
         {
           "type": "paragraph",
@@ -406,7 +407,7 @@
         },
         {
           "type": "quote",
-          "text": "Ehm… Dorian, giusto? Non penso che ci saremo a cena. Non vieni con noi dai Patria?"
+          "text": "«Ehm… Dorian, giusto? Non penso che ci saremo a cena. Non vieni con noi dai Patriar?»"
         },
         {
           "type": "paragraph",
@@ -418,11 +419,11 @@
         },
         {
           "type": "quote",
-          "text": "Non mi avevi detto che erano anche dei comici i tuoi amici. Sono… esilaranti."
+          "text": "«Non mi avevi detto che erano anche dei comici i tuoi amici. Sono… esilaranti.»"
         },
         {
           "type": "quote",
-          "text": "Beh, non mi hai fatto finire la frase. Eri così tronfio mentre partivi… Volevo dirti questo, appunto. Siamo stati invitati a un galà con i Patria. Cioè, noi."
+          "text": "«Beh, non mi hai fatto finire la frase. Eri così tronfio mentre partivi… Volevo dirti questo, appunto. Siamo stati invitati a un galà con i Patriar. Cioè, noi.»"
         },
         {
           "type": "paragraph",
@@ -430,7 +431,7 @@
         },
         {
           "type": "quote",
-          "text": "A quanto pare, scelgo meglio io la compagnia con cui farmela, fratello mio."
+          "text": "«A quanto pare, scelgo meglio io la compagnia con cui farmela, fratello mio.»"
         },
         {
           "type": "paragraph",
@@ -438,19 +439,19 @@
         },
         {
           "type": "quote",
-          "text": "Da quanto tempo ti alleni? Tu puoi ricordare. D’altronde non mi hai ancora mai battuto con la spada."
+          "text": "«Da quanto tempo ti alleni? Tu puoi ricordare. D’altronde non mi hai ancora mai battuto con la spada.»"
         },
         {
           "type": "quote",
-          "text": "Ah no, con la spada no. E quanti inviti dei Patria hai ricevuto tu?"
+          "text": "«Ah no, con la spada no. E quanti inviti dei Patriar hai ricevuto tu?»"
         },
         {
           "type": "quote",
-          "text": "Alcuni."
+          "text": "«Alcuni.»"
         },
         {
           "type": "quote",
-          "text": "Ah. Intendi… le dimostrazioni pubbliche? Certo. O con nostro padre. Quelle le ricordo anch’io."
+          "text": "«Ah. Intendi… le dimostrazioni pubbliche? Certo. O con nostro padre. Quelle le ricordo anch’io.»"
         },
         {
           "type": "paragraph",
@@ -458,11 +459,11 @@
         },
         {
           "type": "quote",
-          "text": "Occhio, fratello."
+          "text": "«Occhio, fratello.»"
         },
         {
           "type": "quote",
-          "text": "Dai, su via. Ci vediamo a casa."
+          "text": "«Dai, su via. Ci vediamo a casa.»"
         },
         {
           "type": "paragraph",
@@ -486,7 +487,7 @@
         },
         {
           "type": "quote",
-          "text": "Bravo, Aelar."
+          "text": "«Bravo, Aelar.»"
         },
         {
           "type": "paragraph",
@@ -494,11 +495,11 @@
         },
         {
           "type": "quote",
-          "text": "Caro mio Alaster… vedo che c’è molta tranquillità tra te e tuo fratello. Siete molto uniti."
+          "text": "«Caro mio Alaster… vedo che c’è molta tranquillità tra te e tuo fratello. Siete molto uniti.»"
         },
         {
           "type": "quote",
-          "text": "Sì. In realtà ci vogliamo molto bene. Solo che ci piace un po’ stuzzicarci a vicenda. Sai… le classiche cose tra fratelli."
+          "text": "«Sì. In realtà ci vogliamo molto bene. Solo che ci piace un po’ stuzzicarci a vicenda. Sai… le classiche cose tra fratelli.»"
         },
         {
           "type": "paragraph",
@@ -506,7 +507,7 @@
         },
         {
           "type": "quote",
-          "text": "Con quali membri della tua famiglia dobbiamo comportarci… in che modo? Perché tuo fratello mi pare tranquillo. Un po’ arrogante, ma tranquillo."
+          "text": "«Con quali membri della tua famiglia dobbiamo comportarci… in che modo? Perché tuo fratello mi pare tranquillo. Un po’ arrogante, ma tranquillo.»"
         },
         {
           "type": "paragraph",
@@ -514,11 +515,11 @@
         },
         {
           "type": "quote",
-          "text": "Io vi dico solamente questo: comportatevi con il massimo rispetto davanti al padrone della villa. Ovvero mio padre. Vassander Nodorovo."
+          "text": "«Io vi dico solamente questo: comportatevi con il massimo rispetto davanti al padrone della villa. Ovvero mio padre. Vassander Nodorovo.»"
         },
         {
           "type": "quote",
-          "text": "E, ovviamente, rispettate anche mia madre. Penso che mia sorella, invece, vi troverà molto divertenti. Quasi quanto vi trovo io."
+          "text": "«E, ovviamente, rispettate anche mia madre. Penso che mia sorella, invece, vi troverà molto divertenti. Quasi quanto vi trovo io.»"
         },
         {
           "type": "paragraph",
@@ -540,10 +541,10 @@
       "videoId": "ZjSwgS5YCaE",
       "blocks": [
         {
-          "type": "image",
-          "variant": "left-big",
+          "type": "scene",
           "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-13/Entriamo nella villa Nodorovo.png",
-          "alt": "Bottina nel tempio dei Mirkuliti"
+          "title": "La Villa Nodorovo",
+          "subtitle": "Città Alta"
         },
         {
           "type": "paragraph",
@@ -579,11 +580,11 @@
         },
         {
           "type": "quote",
-          "text": "Bentornato, signorino."
+          "text": "«Bentornato, signorino.»"
         },
         {
           "type": "quote",
-          "text": "Suo padre la sta aspettando."
+          "text": "«Suo padre la sta aspettando.»"
         },
         {
           "type": "paragraph",
@@ -591,11 +592,11 @@
         },
         {
           "type": "quote",
-          "text": "Buonasera, Gregorio. Ti ringrazio."
+          "text": "«Buonasera, Gregorio. Ti ringrazio.»"
         },
         {
           "type": "quote",
-          "text": "Prego, venite. Queste sono le nostre guardie personali, non temete."
+          "text": "«Prego, venite. Queste sono le nostre guardie personali, non temete.»"
         },
         {
           "type": "paragraph",
@@ -603,15 +604,15 @@
         },
         {
           "type": "quote",
-          "text": "Beh, caro mio… queste sì che sono guardie. Complimenti."
+          "text": "«Beh, caro mio… queste sì che sono guardie. Complimenti.»"
         },
         {
           "type": "quote",
-          "text": "Non come quelle dei Pugni Fiammanti."
+          "text": "«Non come quelle dei Pugni Fiammanti.»"
         },
         {
           "type": "quote",
-          "text": "Esatto. Io qui non entrerei mai."
+          "text": "«Esatto. Io qui non entrerei mai.»"
         },
         {
           "type": "paragraph",
@@ -621,11 +622,11 @@
           "type": "image",
           "variant": "left-big",
           "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-13/Ingresso Villa Nodorovo.png",
-          "alt": "Bottina nel tempio dei Mirkuliti"
+          "alt": "L'ingresso interno della Villa Nodorovo"
         },
         {
           "type": "quote",
-          "text": "Il signorino Alaster è davvero convinto di voler far entrare questi popolani?"
+          "text": "«Il signorino Alaster è davvero convinto di voler far entrare questi popolani?»"
         },
         {
           "type": "paragraph",
@@ -637,7 +638,7 @@
         },
         {
           "type": "quote",
-          "text": "Sono ospiti. E soprattutto sono invitati al gala dei Patria. Quindi, se fossi in te, mi comporterei in maniera più rispettosa."
+          "text": "«Sono ospiti. E soprattutto sono invitati al gala dei Patriar. Quindi, se fossi in te, mi comporterei in maniera più rispettosa.»"
         },
         {
           "type": "paragraph",
@@ -645,11 +646,11 @@
         },
         {
           "type": "quote",
-          "text": "Chiedo perdono, signorino Nodorovo. Non volevo offendere né lei né i suoi compagni."
+          "text": "«Chiedo perdono, signorino Nodorovo. Non volevo offendere né lei né i suoi compagni.»"
         },
         {
           "type": "quote",
-          "text": "È facile confondersi. Prego, venite."
+          "text": "«È facile confondersi. Prego, venite.»"
         },
         {
           "type": "paragraph",
@@ -685,19 +686,19 @@
         },
         {
           "type": "quote",
-          "text": "Beh… qui certo si sta tranquilli, eh, Alaster? Non mi aspettavo tanta sorveglianza e una magione del genere. Complimenti."
+          "text": "«Beh… qui certo si sta tranquilli, eh, Alaster? Non mi aspettavo tanta sorveglianza e una magione del genere. Complimenti.»"
         },
         {
           "type": "quote",
-          "text": "Te l’ho detto. Noi siamo una piccola famiglia nobiliare, certo… ma siamo abbastanza influenti nei nostri campi."
+          "text": "«Te l’ho detto. Noi siamo una piccola famiglia nobiliare, certo… ma siamo abbastanza influenti nei nostri campi.»"
         },
         {
           "type": "quote",
-          "text": "Sinceramente, dopo i Pugni Fiammanti, non mi aspettavo tanto."
+          "text": "«Sinceramente, dopo i Pugni Fiammanti, non mi aspettavo tanto.»"
         },
         {
           "type": "quote",
-          "text": "E ovviamente sono davvero degli scalsacani questi… perché o sono tutti così benestanti qui, oppure…"
+          "text": "«E ovviamente sono davvero degli scalsacani questi… perché o sono tutti così benestanti qui, oppure…»"
         },
         {
           "type": "paragraph",
@@ -709,7 +710,7 @@
         },
         {
           "type": "quote",
-          "text": "Alaster… di cosa si occupa la tua famiglia?"
+          "text": "«Alaster… di cosa si occupa la tua famiglia?»"
         },
         {
           "type": "paragraph",
@@ -717,11 +718,11 @@
         },
         {
           "type": "quote",
-          "text": "Oh, ma in realtà… sai. Delle solite cose. Commercio di merce rara. Merce esotica, soprattutto."
+          "text": "«Oh, ma in realtà… sai. Delle solite cose. Commercio di merce rara. Merce esotica, soprattutto.»"
         },
         {
           "type": "quote",
-          "text": "Noi non siamo originari di Baldur’s Gate. Veniamo da una regione un pochino più distante, sulla Costa della Spada."
+          "text": "«Noi non siamo originari di Baldur’s Gate. Veniamo da una regione un pochino più distante, sulla Costa della Spada.»"
         },
         {
           "type": "paragraph",
@@ -729,15 +730,15 @@
         },
         {
           "type": "quote",
-          "text": "Hai mai sentito parlare del Cormyr?"
+          "text": "«Hai mai sentito parlare del Cormyr?»"
         },
         {
           "type": "quote",
-          "text": "Sentirne parlare, sì. Sapere dov’è su una mappa… no."
+          "text": "«Sentirne parlare, sì. Sapere dov’è su una mappa… no.»"
         },
         {
           "type": "quote",
-          "text": "Non credo che sia così semplice, sai. C’è la legge marziale lì. È difficile sia entrare che uscire."
+          "text": "«Non credo che sia così semplice, sai. C’è la legge marziale lì. È difficile sia entrare che uscire.»"
         },
         {
           "type": "paragraph",
@@ -745,7 +746,7 @@
         },
         {
           "type": "quote",
-          "text": "Beh, non vorrei mica andare a fare niente di male."
+          "text": "«Beh, non vorrei mica andare a fare niente di male.»"
         },
         {
           "type": "paragraph",
@@ -753,7 +754,7 @@
         },
         {
           "type": "quote",
-          "text": "È più complicata la situazione, ma… tornando a noi, benvenuti nella mia umile casa."
+          "text": "«È più complicata la situazione, ma… tornando a noi, benvenuti nella mia umile casa.»"
         },
         {
           "type": "paragraph",
@@ -765,7 +766,7 @@
         },
         {
           "type": "quote",
-          "text": "Se volete rinfrescarvi prima di conoscere la mia famiglia…"
+          "text": "«Se volete rinfrescarvi prima di conoscere la mia famiglia…»"
         },
         {
           "type": "paragraph",
@@ -789,7 +790,7 @@
         },
         {
           "type": "quote",
-          "text": "Bentornato a casa, signorino Alaster."
+          "text": "«Bentornato a casa, signorino Alaster.»"
         },
         {
           "type": "paragraph",
@@ -830,7 +831,7 @@
           "type": "image",
           "variant": "left-big",
           "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-13/Incontriamo Alyssandra.png",
-          "alt": "Bottina nel tempio dei Mirkuliti"
+          "alt": "Alyssandra Nodorovo corre incontro al fratello"
         },
         {
           "type": "paragraph",
@@ -846,11 +847,11 @@
         },
         {
           "type": "paragraph",
-          "text": "Alessandra Nodorovo."
+          "text": "Alyssandra Nodorovo."
         },
         {
           "type": "quote",
-          "text": "Alaster! Sei tornato!"
+          "text": "«Alaster! Sei tornato!»"
         },
         {
           "type": "paragraph",
@@ -878,11 +879,11 @@
         },
         {
           "type": "quote",
-          "text": "Guarda quanto sei cresciuta."
+          "text": "«Guarda quanto sei cresciuta.»"
         },
         {
           "type": "quote",
-          "text": "Sì! Sei mancato un sacco! Adesso ti arrivo quasi al petto!"
+          "text": "«Sì! Sei mancato un sacco! Adesso ti arrivo quasi al petto!»"
         },
         {
           "type": "paragraph",
@@ -890,11 +891,11 @@
         },
         {
           "type": "quote",
-          "text": "Come stai, Alessandra?"
+          "text": "«Come stai, Alyssandra?»"
         },
         {
           "type": "quote",
-          "text": "Mi annoio. Non c’è nessuno con cui giocare. Gli altri non sono così tanto disposti…"
+          "text": "«Mi annoio. Non c’è nessuno con cui giocare. Gli altri non sono così tanto disposti…»"
         },
         {
           "type": "paragraph",
@@ -902,7 +903,7 @@
         },
         {
           "type": "quote",
-          "text": "Beh, lo sai come funziona con la servitù. Non ti danno abbastanza agio nei tuoi giochi… nelle tue idee."
+          "text": "«Beh, lo sai come funziona con la servitù. Non ti danno abbastanza agio nei tuoi giochi… nelle tue idee.»"
         },
         {
           "type": "paragraph",
@@ -910,7 +911,7 @@
         },
         {
           "type": "quote",
-          "text": "Ma ho proprio qui una soluzione. Se vorrai…"
+          "text": "«Ma ho proprio qui una soluzione. Se vorrai…»"
         },
         {
           "type": "paragraph",
@@ -918,7 +919,7 @@
         },
         {
           "type": "quote",
-          "text": "Li vedi questi miei accompagnatori? Uno diventerà il tuo paggio. Uno diventerà…"
+          "text": "«Li vedi questi miei accompagnatori? Uno diventerà il tuo paggio. Uno diventerà…»"
         },
         {
           "type": "paragraph",
@@ -926,19 +927,19 @@
         },
         {
           "type": "paragraph",
-          "text": "Ma Alessandra, completamente ignara del pericolo diplomatico che stava per esplodere, sorrise con innocente entusiasmo."
+          "text": "Ma Alyssandra, completamente ignara del pericolo diplomatico che stava per esplodere, sorrise con innocente entusiasmo."
         },
         {
           "type": "quote",
-          "text": "Ciao! Io sono Alessandra! Voi come vi chiamate?"
+          "text": "«Ciao! Io sono Alyssandra! Voi come vi chiamate?»"
         },
         {
           "type": "quote",
-          "text": "Ciao, questa è la mia sorellina. Io sono Aelar."
+          "text": "«Ciao, questa è la mia sorellina. Io sono Aelar.»"
         },
         {
           "type": "quote",
-          "text": "Io sono Nathan."
+          "text": "«Io sono Nathan.»"
         },
         {
           "type": "paragraph",
@@ -946,11 +947,11 @@
         },
         {
           "type": "quote",
-          "text": "Lui è Kyran. È la più simpatica presenza oscura che conosca."
+          "text": "«Lui è Kyran. È la più simpatica presenza oscura che conosca.»"
         },
         {
           "type": "quote",
-          "text": "Proviene da una dinastia oscura. Hai mai sentito parlare dei tiefling? Te ne ho raccontato nelle storie."
+          "text": "«Proviene da una dinastia oscura. Hai mai sentito parlare dei tiefling? Te ne ho raccontato nelle storie.»"
         },
         {
           "type": "paragraph",
@@ -958,7 +959,7 @@
         },
         {
           "type": "quote",
-          "text": "Sì… ne avevo sentito parlare."
+          "text": "«Sì… ne avevo sentito parlare.»"
         },
         {
           "type": "paragraph",
@@ -974,19 +975,19 @@
         },
         {
           "type": "quote",
-          "text": "Bene. Dove si trovano nostra madre e nostro padre?"
+          "text": "«Bene. Dove si trovano nostra madre e nostro padre?»"
         },
         {
           "type": "quote",
-          "text": "Papà è giù, penso. E mamma sta facendo alcune cose. Ma sono sicura che ti stanno aspettando dentro."
+          "text": "«Papà è giù, penso. E mamma sta facendo alcune cose. Ma sono sicura che ti stanno aspettando dentro.»"
         },
         {
           "type": "paragraph",
-          "text": "Poi Alessandra sembrò ricordare qualcosa di assolutamente fondamentale."
+          "text": "Poi Alyssandra sembrò ricordare qualcosa di assolutamente fondamentale."
         },
         {
           "type": "quote",
-          "text": "Io devo andare a studiare! La maestra mi sta aspettando! Però abbiamo un sacco di cose di cui parlare! Ho tante storie da raccontarti!"
+          "text": "«Io devo andare a studiare! La maestra mi sta aspettando! Però abbiamo un sacco di cose di cui parlare! Ho tante storie da raccontarti!»"
         },
         {
           "type": "paragraph",
@@ -994,7 +995,7 @@
         },
         {
           "type": "quote",
-          "text": "…Mi hai portato un regalo, vero?"
+          "text": "«…Mi hai portato un regalo, vero?»"
         },
         {
           "type": "paragraph",
@@ -1018,11 +1019,11 @@
         },
         {
           "type": "quote",
-          "text": "Quando crescerai, questo potrebbe esserti molto utile. L’ho trovato nelle catacombe."
+          "text": "«Quando crescerai, questo potrebbe esserti molto utile. L’ho trovato nelle catacombe.»"
         },
         {
           "type": "quote",
-          "text": "Grazie, fratellone!"
+          "text": "«Grazie, fratellone!»"
         },
         {
           "type": "paragraph",
@@ -1042,15 +1043,15 @@
         },
         {
           "type": "quote",
-          "text": "Signorino, se desidera entrare, può rinfrescarsi insieme ai suoi ospiti."
+          "text": "«Signorino, se desidera entrare, può rinfrescarsi insieme ai suoi ospiti.»"
         },
         {
           "type": "quote",
-          "text": "Molto bene. Puoi dire a mio padre, se non è impegnato, che lo raggiungerò a breve."
+          "text": "«Molto bene. Puoi dire a mio padre, se non è impegnato, che lo raggiungerò a breve.»"
         },
         {
           "type": "quote",
-          "text": "Riferirò, padroncino."
+          "text": "«Riferirò, padroncino.»"
         },
         {
           "type": "paragraph",
@@ -1074,7 +1075,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Il padre. La madre. Dorian ancora giovane, quasi dell’età attuale di Alessandra. Un piccolo Alaster. E la madre che teneva in braccio un neonato: la stessa Alessandra, quando ancora era soltanto l’ultima arrivata della casata."
+          "text": "Il padre. La madre. Dorian ancora giovane, quasi dell’età attuale di Alyssandra. Un piccolo Alaster. E la madre che teneva in braccio un neonato: la stessa Alyssandra, quando ancora era soltanto l’ultima arrivata della casata."
         },
         {
           "type": "paragraph",
@@ -1103,7 +1104,7 @@
           "type": "image",
           "variant": "left-big",
           "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-13/Incontriamo Seraphine.png",
-          "alt": "Bottina nel tempio dei Mirkuliti"
+          "alt": "Seraphine Lirael Nodorovo, la padrona di casa"
         },
         {
           "type": "paragraph",
@@ -1131,7 +1132,7 @@
         },
         {
           "type": "quote",
-          "text": "Sapevo fossi tornato. Mi chiedevo quando saresti tornato a casa."
+          "text": "«Sapevo fossi tornato. Mi chiedevo quando saresti tornato a casa.»"
         },
         {
           "type": "paragraph",
@@ -1151,7 +1152,7 @@
         },
         {
           "type": "quote",
-          "text": "Madre. Purtroppo ho avuto degli intoppi con la guardia cittadina. Come sai, i Pugni Fiammanti sono davvero un’istituzione con molti problemi nel suo sistema…"
+          "text": "«Madre. Purtroppo ho avuto degli intoppi con la guardia cittadina. Come sai, i Pugni Fiammanti sono davvero un’istituzione con molti problemi nel suo sistema…»"
         },
         {
           "type": "paragraph",
@@ -1159,7 +1160,7 @@
         },
         {
           "type": "quote",
-          "text": "…ma ognuno fa andare le cose come può. E penso che loro quello sia il loro massimo."
+          "text": "«…ma ognuno fa andare le cose come può. E penso che loro quello sia il loro massimo.»"
         },
         {
           "type": "paragraph",
@@ -1167,7 +1168,7 @@
         },
         {
           "type": "quote",
-          "text": "Com’è andato il viaggio? Ti vedo… non in altezza, ma mi dai un’aria diversa. È successo qualcosa?"
+          "text": "«Com’è andato il viaggio? Ti vedo… non in altezza, ma mi dai un’aria diversa. È successo qualcosa?»"
         },
         {
           "type": "paragraph",
@@ -1175,11 +1176,11 @@
         },
         {
           "type": "quote",
-          "text": "Beh… non si può nascondere nulla a te, madre. Diciamo che nella sfortuna… penso che ormai sarà arrivata anche a voi la notizia di Elturel."
+          "text": "«Beh… non si può nascondere nulla a te, madre. Diciamo che nella sfortuna… penso che ormai sarà arrivata anche a voi la notizia di Elturel.»"
         },
         {
           "type": "quote",
-          "text": "Sì. Abbiamo saputo anche noi. Ammetto di essere stata in pena per te. Io e tuo padre molto preoccupati."
+          "text": "«Sì. Abbiamo saputo anche noi. Ammetto di essere stata in pena per te. Io e tuo padre molto preoccupati.»"
         },
         {
           "type": "paragraph",
@@ -1191,11 +1192,11 @@
         },
         {
           "type": "quote",
-          "text": "Fortunatamente il cocchiere ha fatto tardi ad arrivare… e purtroppo è deceduto. Ma d’altro canto… beh, come hai detto prima, sono cresciuto."
+          "text": "«Fortunatamente il cocchiere ha fatto tardi ad arrivare… e purtroppo è deceduto. Ma d’altro canto… beh, come hai detto prima, sono cresciuto.»"
         },
         {
           "type": "quote",
-          "text": "E grazie anche a questi ospiti che ti ho portato questa sera, posso dire di aver realizzato non pochi traguardi in così poco tempo."
+          "text": "«E grazie anche a questi ospiti che ti ho portato questa sera, posso dire di aver realizzato non pochi traguardi in così poco tempo.»"
         },
         {
           "type": "paragraph",
@@ -1203,7 +1204,7 @@
         },
         {
           "type": "quote",
-          "text": "Lo so. Si vede."
+          "text": "«Lo so. Si vede.»"
         },
         {
           "type": "paragraph",
@@ -1219,7 +1220,7 @@
         },
         {
           "type": "quote",
-          "text": "Io sono Seraphine Lirael Nodorovo. Piacere. È un onore conoscere i compagni di mio figlio. Spero siate stati accolti con i dovuti riguardi e che vi sentiate a vostro agio. Prego, fate come foste a casa vostra."
+          "text": "«Io sono Seraphine Lirael Nodorovo. Piacere. È un onore conoscere i compagni di mio figlio. Spero siate stati accolti con i dovuti riguardi e che vi sentiate a vostro agio. Prego, fate come foste a casa vostra.»"
         },
         {
           "type": "paragraph",
@@ -1227,7 +1228,7 @@
         },
         {
           "type": "quote",
-          "text": "Grazie mille. È un nostro onore essere accolti in questa famiglia. La ringraziamo dell’ospitalità."
+          "text": "«Grazie mille. È un nostro onore essere accolti in questa famiglia. La ringraziamo dell’ospitalità.»"
         },
         {
           "type": "paragraph",
@@ -1235,11 +1236,11 @@
         },
         {
           "type": "quote",
-          "text": "Il mio nome è Elis."
+          "text": "«Il mio nome è Elis.»"
         },
         {
           "type": "quote",
-          "text": "Oh sì, lo so. Elis, Aelar, Nathan… e poi c’è Kyran. Giusto?"
+          "text": "«Oh sì, lo so. Elis, Aelar, Nathan… e poi c’è Kyran. Giusto?»"
         },
         {
           "type": "paragraph",
@@ -1259,15 +1260,15 @@
         },
         {
           "type": "quote",
-          "text": "Particolare, la tua amica."
+          "text": "«Particolare, la tua amica.»"
         },
         {
           "type": "quote",
-          "text": "Già. Ed è anche molto potente, nonostante le apparenze."
+          "text": "«Già. Ed è anche molto potente, nonostante le apparenze.»"
         },
         {
           "type": "quote",
-          "text": "Sì. Lo percepisco. È di poche parole, vedo, ma pensa molto spesso a tante cose. Una tipa riflessiva."
+          "text": "«Sì. Lo percepisco. È di poche parole, vedo, ma pensa molto spesso a tante cose. Una tipa riflessiva.»"
         },
         {
           "type": "paragraph",
@@ -1275,27 +1276,27 @@
         },
         {
           "type": "quote",
-          "text": "Non temete. Mia madre è una maestra nell’indovinare le cose, nel dedurre e suggerire."
+          "text": "«Non temete. Mia madre è una maestra nell’indovinare le cose, nel dedurre e suggerire.»"
         },
         {
           "type": "quote",
-          "text": "Indovinare e dedurre è una questione. Sapere i nomi di quattro persone appena conosciute è un’altra."
+          "text": "«Indovinare e dedurre è una questione. Sapere i nomi di quattro persone appena conosciute è un’altra.»"
         },
         {
           "type": "quote",
-          "text": "Beh, avete incontrato mio fratello. Vi ricordate la prigione."
+          "text": "«Beh, avete incontrato mio fratello. Vi ricordate la prigione.»"
         },
         {
           "type": "quote",
-          "text": "Non mi sembra di avergli mai detto il mio nome."
+          "text": "«Non mi sembra di avergli mai detto il mio nome.»"
         },
         {
           "type": "quote",
-          "text": "Forse ricordi male."
+          "text": "«Forse ricordi male.»"
         },
         {
           "type": "quote",
-          "text": "Può essere."
+          "text": "«Può essere.»"
         },
         {
           "type": "paragraph",
@@ -1307,7 +1308,7 @@
         },
         {
           "type": "quote",
-          "text": "Vi fermate a cena da noi? Se volete posso far organizzare una cena un po’ più particolare per festeggiare il tuo ritorno a casa e la presenza dei tuoi ospiti."
+          "text": "«Vi fermate a cena da noi? Se volete posso far organizzare una cena un po’ più particolare per festeggiare il tuo ritorno a casa e la presenza dei tuoi ospiti.»"
         },
         {
           "type": "paragraph",
@@ -1319,11 +1320,11 @@
         },
         {
           "type": "quote",
-          "text": "Beh, mi piacerebbe molto, madre. Nonostante tutto, non ci vediamo da molto tempo. Ma abbiamo delle faccende più importanti per il momento. Ci hanno invitato i Patriar questa sera."
+          "text": "«Beh, mi piacerebbe molto, madre. Nonostante tutto, non ci vediamo da molto tempo. Ma abbiamo delle faccende più importanti per il momento. Ci hanno invitato i Patriar questa sera.»"
         },
         {
           "type": "quote",
-          "text": "Bene. La tua prima esperienza con le alte sfere. Sarà emozionante. La prima non si scorda mai."
+          "text": "«Bene. La tua prima esperienza con le alte sfere. Sarà emozionante. La prima non si scorda mai.»"
         },
         {
           "type": "paragraph",
@@ -1331,11 +1332,11 @@
         },
         {
           "type": "quote",
-          "text": "Vado a cercare tuo padre. Sarà sicuramente ansioso di rivederti e conoscere i dettagli delle tue avventure. Delle vostre avventure, ovviamente."
+          "text": "«Vado a cercare tuo padre. Sarà sicuramente ansioso di rivederti e conoscere i dettagli delle tue avventure. Delle vostre avventure, ovviamente.»"
         },
         {
           "type": "quote",
-          "text": "Mi è piaciuto avervi conosciuto."
+          "text": "«Mi è piaciuto avervi conosciuto.»"
         },
         {
           "type": "paragraph",
@@ -1351,7 +1352,7 @@
         },
         {
           "type": "quote",
-          "text": "Beh… quasi quasi rimango."
+          "text": "«Beh… quasi quasi rimango.»"
         },
         {
           "type": "paragraph",
@@ -1371,7 +1372,7 @@
         },
         {
           "type": "quote",
-          "text": "Me lo merito. Mi mancava casa mia. Tranquilli. Dopo l’incontro con mio padre potremo andare dai Patriar."
+          "text": "«Me lo merito. Mi mancava casa mia. Tranquilli. Dopo l’incontro con mio padre potremo andare dai Patriar.»"
         },
         {
           "type": "paragraph",
@@ -1412,7 +1413,7 @@
           "type": "image",
           "variant": "left-big",
           "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-13/Vassander Nodorovo.png",
-          "alt": "Bottina nel tempio dei Mirkuliti"
+          "alt": "Vassander Nodorovo, il capofamiglia"
         },
         {
           "type": "paragraph",
@@ -1436,7 +1437,7 @@
         },
         {
           "type": "quote",
-          "text": "Felice di averti a casa, figliolo."
+          "text": "«Felice di averti a casa, figliolo.»"
         },
         {
           "type": "paragraph",
@@ -1456,7 +1457,7 @@
         },
         {
           "type": "quote",
-          "text": "Padre."
+          "text": "«Padre.»"
         },
         {
           "type": "paragraph",
@@ -1464,7 +1465,7 @@
         },
         {
           "type": "quote",
-          "text": "Nuove amicizie. Sono contento che tu abbia esplorato nuovi orizzonti. Alzati."
+          "text": "«Nuove amicizie. Sono contento che tu abbia esplorato nuovi orizzonti. Alzati.»"
         },
         {
           "type": "paragraph",
@@ -1472,19 +1473,19 @@
         },
         {
           "type": "quote",
-          "text": "Ho saputo da tua madre che i tuoi amici hanno combattuto con te. Che avete vissuto delle avventure."
+          "text": "«Ho saputo da tua madre che i tuoi amici hanno combattuto con te. Che avete vissuto delle avventure.»"
         },
         {
           "type": "quote",
-          "text": "Beh…"
+          "text": "«Beh…»"
         },
         {
           "type": "quote",
-          "text": "Ho saputo anche che sei stato invitato a un ballo con i Patriar."
+          "text": "«Ho saputo anche che sei stato invitato a un ballo con i Patriar.»"
         },
         {
           "type": "quote",
-          "text": "È così, padre."
+          "text": "«È così, padre.»"
         },
         {
           "type": "paragraph",
@@ -1492,11 +1493,11 @@
         },
         {
           "type": "quote",
-          "text": "La mia domanda, in realtà, è un’altra."
+          "text": "«La mia domanda, in realtà, è un’altra.»"
         },
         {
           "type": "quote",
-          "text": "Perché non sei tornato subito a casa?"
+          "text": "«Perché non sei tornato subito a casa?»"
         },
         {
           "type": "paragraph",
@@ -1504,7 +1505,7 @@
         },
         {
           "type": "quote",
-          "text": "Avevi una missione. Eri fuori. Eppure, quando sei riuscito a rientrare in città, non ti sei sbrigato a tornare."
+          "text": "«Avevi una missione. Eri fuori. Eppure, quando sei riuscito a rientrare in città, non ti sei sbrigato a tornare.»"
         },
         {
           "type": "paragraph",
@@ -1512,15 +1513,15 @@
         },
         {
           "type": "quote",
-          "text": "Sì… ma dei cavilli legali mi impedivano di entrare subito nella Città Alta. E poi c’erano le questioni con il culto dei Tre Morti."
+          "text": "«Sì… ma dei cavilli legali mi impedivano di entrare subito nella Città Alta. E poi c’erano le questioni con il culto dei Tre Morti.»"
         },
         {
           "type": "quote",
-          "text": "Penso che Dorian e la notizia in generale si siano già sparse. Hai sentito di un gruppo che ha annientato parte del culto."
+          "text": "«Penso che Dorian e la notizia in generale si siano già sparse. Hai sentito di un gruppo che ha annientato parte del culto.»"
         },
         {
           "type": "quote",
-          "text": "Sì. Ho sentito. Non mi ha sorpreso più di tanto, in realtà."
+          "text": "«Sì. Ho sentito. Non mi ha sorpreso più di tanto, in realtà.»"
         },
         {
           "type": "paragraph",
@@ -1528,7 +1529,7 @@
         },
         {
           "type": "quote",
-          "text": "Sarebbe sciocco esaltarsi per una vittoria tanto piccola."
+          "text": "«Sarebbe sciocco esaltarsi per una vittoria tanto piccola.»"
         },
         {
           "type": "paragraph",
@@ -1536,15 +1537,15 @@
         },
         {
           "type": "quote",
-          "text": "E questi cavilli legali ti impedivano di scrivere una lettera?"
+          "text": "«E questi cavilli legali ti impedivano di scrivere una lettera?»"
         },
         {
           "type": "quote",
-          "text": "Di pagare un messaggero?"
+          "text": "«Di pagare un messaggero?»"
         },
         {
           "type": "quote",
-          "text": "O banalmente, visto che avevi incontrato tuo fratello… riferirgli ciò che avevi scoperto?"
+          "text": "«O banalmente, visto che avevi incontrato tuo fratello… riferirgli ciò che avevi scoperto?»"
         },
         {
           "type": "paragraph",
@@ -1552,11 +1553,11 @@
         },
         {
           "type": "quote",
-          "text": "Io… volevo…"
+          "text": "«Io… volevo…»"
         },
         {
           "type": "quote",
-          "text": "Evidentemente, queste cose non ti sono passate per la mente. Comprendo. La giovinezza è un’esperienza."
+          "text": "«Evidentemente, queste cose non ti sono passate per la mente. Comprendo. La giovinezza è un’esperienza.»"
         },
         {
           "type": "paragraph",
@@ -1564,7 +1565,7 @@
         },
         {
           "type": "quote",
-          "text": "Ma adesso sei qui."
+          "text": "«Ma adesso sei qui.»"
         },
         {
           "type": "paragraph",
@@ -1572,7 +1573,7 @@
         },
         {
           "type": "quote",
-          "text": "Sono contento di rivederti a casa, figliolo."
+          "text": "«Sono contento di rivederti a casa, figliolo.»"
         },
         {
           "type": "paragraph",
@@ -1580,7 +1581,7 @@
         },
         {
           "type": "quote",
-          "text": "Scusa, padre. Sono contento anch’io."
+          "text": "«Scusa, padre. Sono contento anch’io.»"
         },
         {
           "type": "paragraph",
@@ -1588,27 +1589,27 @@
         },
         {
           "type": "quote",
-          "text": "Vorrei solamente dire che sono dispiaciuto per la mia mancanza di rispetto nei tuoi riguardi, padre."
+          "text": "«Vorrei solamente dire che sono dispiaciuto per la mia mancanza di rispetto nei tuoi riguardi, padre.»"
         },
         {
           "type": "quote",
-          "text": "No. Non mi è mancato di rispetto."
+          "text": "«No. Non mi è mancato di rispetto.»"
         },
         {
           "type": "quote",
-          "text": "Volevo avvisarti di persona. Per questo ho aspettato e non ho parlato con mio fratello."
+          "text": "«Volevo avvisarti di persona. Per questo ho aspettato e non ho parlato con mio fratello.»"
         },
         {
           "type": "quote",
-          "text": "Tranquillo. Ora sei qui. L’importante è che tu sia sano e salvo, che sia a casa. E che tu rimedi il prima possibile a riferirmi ciò che hai scoperto."
+          "text": "«Tranquillo. Ora sei qui. L’importante è che tu sia sano e salvo, che sia a casa. E che tu rimedi il prima possibile a riferirmi ciò che hai scoperto.»"
         },
         {
           "type": "quote",
-          "text": "Certo. Potremmo andare nella sala lettura e parlarne?"
+          "text": "«Certo. Potremmo andare nella sala lettura e parlarne?»"
         },
         {
           "type": "quote",
-          "text": "Certo."
+          "text": "«Certo.»"
         }
       ]
     },
@@ -1659,7 +1660,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Conservò soltanto il necessario: la piccola sacchetta per gli incantesimi, ben nascosta sotto il gilet e il completo."
+          "text": "Conservò soltanto il necessario: la piccola sacchetta per gli incantesimi, ben nascosta sotto il panciotto e la giacca."
         },
         {
           "type": "paragraph",
@@ -1683,7 +1684,7 @@
         },
         {
           "type": "quote",
-          "text": "Edizione straordinaria! Un gruppo di eroi ha sventato il Culto dei Tre Morti! Baldur’s Gate è salva! È salva!"
+          "text": "«Edizione straordinaria! Un gruppo di eroi ha sventato il Culto dei Tre Morti! Baldur’s Gate è salva! È salva!»"
         },
         {
           "type": "paragraph",
@@ -1691,7 +1692,7 @@
         },
         {
           "type": "quote",
-          "text": "Culto dei Tre Morti sconfitto. Sarà la volta definitiva? La città è salva?"
+          "text": "«Culto dei Tre Morti sconfitto. Sarà la volta definitiva? La città è salva?»"
         },
         {
           "type": "paragraph",
@@ -1699,7 +1700,7 @@
         },
         {
           "type": "quote",
-          "text": "Cosa faremo di tutti i profughi di Elturel? Ci ruberanno il lavoro? O ci aiuteranno con l’economia?"
+          "text": "«Cosa faremo di tutti i profughi di Elturel? Ci ruberanno il lavoro? O ci aiuteranno con l’economia?»"
         },
         {
           "type": "paragraph",
@@ -1727,7 +1728,7 @@
         },
         {
           "type": "quote",
-          "text": "Altolà. Farsi riconoscere oppure presentare un permesso."
+          "text": "«Altolà. Farsi riconoscere oppure presentare un permesso.»"
         },
         {
           "type": "paragraph",
@@ -1739,11 +1740,11 @@
         },
         {
           "type": "quote",
-          "text": "Ah. L’invito al ballo di stasera. Comprendo. Lei per cosa l’ha ricevuto, se posso chiedere?"
+          "text": "«Ah. L’invito al ballo di stasera. Comprendo. Lei per cosa l’ha ricevuto, se posso chiedere?»"
         },
         {
           "type": "quote",
-          "text": "Puoi chiedere. Ma temo che i miei affari riguardino soltanto me."
+          "text": "«Puoi chiedere. Ma temo che i miei affari riguardino soltanto me.»"
         },
         {
           "type": "paragraph",
@@ -1751,11 +1752,11 @@
         },
         {
           "type": "quote",
-          "text": "Sono obbligato a insistere, signor…"
+          "text": "«Sono obbligato a insistere, signor…»"
         },
         {
           "type": "quote",
-          "text": "Sono qui per incontrare Ivanka."
+          "text": "«Sono qui per incontrare Ivanka.»"
         },
         {
           "type": "paragraph",
@@ -1763,7 +1764,7 @@
         },
         {
           "type": "quote",
-          "text": "Oh. Ehm…"
+          "text": "«Oh. Ehm…»"
         },
         {
           "type": "paragraph",
@@ -1771,7 +1772,7 @@
         },
         {
           "type": "quote",
-          "text": "Preferisci che chieda al signor Amrik di farti partecipare ai nostri colloqui di lavoro?"
+          "text": "«Preferisci che chieda al signor Amrik di farti partecipare ai nostri colloqui di lavoro?»"
         },
         {
           "type": "paragraph",
@@ -1783,15 +1784,15 @@
         },
         {
           "type": "quote",
-          "text": "No, assolutamente. Non ho alcuna intenzione di infastidire un collaboratore della famiglia della Duchessa. Devo solo segnare il suo nome d’ingresso. Lei è?"
+          "text": "«No, assolutamente. Non ho alcuna intenzione di infastidire un collaboratore della famiglia della Duchessa. Devo solo segnare il suo nome d’ingresso. Lei è?»"
         },
         {
           "type": "quote",
-          "text": "Silver Berianus."
+          "text": "«Silver Berianus.»"
         },
         {
           "type": "quote",
-          "text": "Silver Berianus. Invito al gala per incontrare i membri della famiglia Vanthampur. Prego. Può passare."
+          "text": "«Silver Berianus. Invito al gala per incontrare i membri della famiglia Vanthampur. Prego. Può passare.»"
         },
         {
           "type": "paragraph",
@@ -1851,7 +1852,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Immenso. Illuminato da luci magiche che salivano dal basso come riflettori invisibili, esaltandone l’altezza, la presenza, la volontà stessa di dominare."
+          "text": "Immenso. Illuminato da luci magiche che salivano dal basso come fari invisibili, esaltandone l’altezza, la presenza, la volontà stessa di dominare."
         },
         {
           "type": "paragraph",
@@ -1910,11 +1911,11 @@
         },
         {
           "type": "quote",
-          "text": "Andiamo, andiamo ragazzi. Qui ci aspettano. Dobbiamo far fare bella figura ad Alaster, mi raccomando."
+          "text": "«Andiamo, andiamo ragazzi. Qui ci aspettano. Dobbiamo far fare bella figura ad Alaster, mi raccomando.»"
         },
         {
           "type": "quote",
-          "text": "È il nostro lasciapassare per la nobiltà, quindi comportiamoci a modo."
+          "text": "«È il nostro lasciapassare per la nobiltà, quindi comportiamoci a modo.»"
         },
         {
           "type": "paragraph",
@@ -1942,7 +1943,7 @@
         },
         {
           "type": "quote",
-          "text": "Anche l’altro lo diceva…"
+          "text": "«Anche l’altro lo diceva…»"
         },
         {
           "type": "paragraph",
@@ -1950,7 +1951,7 @@
         },
         {
           "type": "quote",
-          "text": "È tornato per sé. È tornato per vendicarsi."
+          "text": "«È tornato per sé. È tornato per vendicarsi.»"
         },
         {
           "type": "paragraph",
@@ -1982,7 +1983,7 @@
         },
         {
           "type": "quote",
-          "text": "Signori, prego! Fate largo! Sono arrivati gli ospiti d’onore!"
+          "text": "«Signori, prego! Fate largo! Sono arrivati gli ospiti d’onore!»"
         },
         {
           "type": "paragraph",
@@ -2022,15 +2023,15 @@
         },
         {
           "type": "quote",
-          "text": "Ah, quindi sono loro."
+          "text": "«Ah, quindi sono loro.»"
         },
         {
           "type": "quote",
-          "text": "Aspetta… ma pensavo che quell’altro fosse più alto."
+          "text": "«Aspetta… ma pensavo che quell’altro fosse più alto.»"
         },
         {
           "type": "quote",
-          "text": "Però quello con le corna non è così male…"
+          "text": "«Però quello con le corna non è così male…»"
         },
         {
           "type": "paragraph",
@@ -2056,7 +2057,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Parquet lucente, lampadari di cristallo sospesi da un soffitto altissimo, luce calda e misurata, un’orchestra che riempiva l’aria senza mai dominarla, camerieri con calici, stuzzichini, formaggi, miele, e tutto ciò che rende una festa nobiliare sufficientemente elegante da sembrare irreale."
+          "text": "Pavimento di legno lucente, lampadari di cristallo sospesi da un soffitto altissimo, luce calda e misurata, un’orchestra che riempiva l’aria senza mai dominarla, camerieri con calici, stuzzichini, formaggi, miele, e tutto ciò che rende una festa nobiliare sufficientemente elegante da sembrare irreale."
         },
         {
           "type": "paragraph",
@@ -2064,11 +2065,11 @@
         },
         {
           "type": "quote",
-          "text": "Buonasera, signori. Mi è stato affidato l’onore e il compito di annunciare la vostra presenza."
+          "text": "«Buonasera, signori. Mi è stato affidato l’onore e il compito di annunciare la vostra presenza.»"
         },
         {
           "type": "quote",
-          "text": "Volete essere presentati in un modo particolare? Un nome per il vostro gruppo? O preferite singolarmente?"
+          "text": "«Volete essere presentati in un modo particolare? Un nome per il vostro gruppo? O preferite singolarmente?»"
         },
         {
           "type": "paragraph",
@@ -2076,7 +2077,7 @@
         },
         {
           "type": "quote",
-          "text": "Se volete accettare la proposta che vi ho consigliato l’ultima volta…"
+          "text": "«Se volete accettare la proposta che vi ho consigliato l’ultima volta…»"
         },
         {
           "type": "paragraph",
@@ -2088,7 +2089,7 @@
         },
         {
           "type": "quote",
-          "text": "Noi siamo… gli Extermina."
+          "text": "«Noi siamo… gli Extermina.»"
         },
         {
           "type": "paragraph",
@@ -2096,7 +2097,7 @@
         },
         {
           "type": "quote",
-          "text": "Come desiderate."
+          "text": "«Come desiderate.»"
         },
         {
           "type": "paragraph",
@@ -2108,7 +2109,7 @@
         },
         {
           "type": "quote",
-          "text": "Signore e signori, ho il piacere di annunciarvi i grandi ospiti di questa serata: i membri degli Extermina!"
+          "text": "«Signore e signori, ho il piacere di annunciarvi i grandi ospiti di questa serata: i membri degli Extermina!»"
         },
         {
           "type": "paragraph",
@@ -2174,7 +2175,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Come una carta da parati sacra. Come un paladino."
+          "text": "Come un arazzo sacro. Come un paladino."
         },
         {
           "type": "image",
@@ -2188,7 +2189,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Smoking elegante, dettagli viola, più raffinato del solito, più britannico del necessario, e soprattutto uno sguardo chiaramente a disagio."
+          "text": "Marsina elegante, dettagli viola, più raffinato del solito, più compito del necessario, e soprattutto uno sguardo chiaramente a disagio."
         },
         {
           "type": "paragraph",
@@ -2230,15 +2231,15 @@
         },
         {
           "type": "quote",
-          "text": "Godetevi la festa. Fate conoscenze. Ballate. Poi andremo a parlare con i Patriar."
+          "text": "«Godetevi la festa. Fate conoscenze. Ballate. Poi andremo a parlare con i Patriar.»"
         },
         {
           "type": "quote",
-          "text": "E mi raccomando: non rivelate troppo. Vi faranno domande sul vostro ceto sociale, sul vostro passato, sulle vostre capacità."
+          "text": "«E mi raccomando: non rivelate troppo. Vi faranno domande sul vostro ceto sociale, sul vostro passato, sulle vostre capacità.»"
         },
         {
           "type": "quote",
-          "text": "Beh… devo dire che Rome ha fatto proprio un bel lavoro con voi. Siate concisi. Per il resto… divertitevi."
+          "text": "«Beh… devo dire che il sarto ha fatto proprio un bel lavoro con voi. Siate concisi. Per il resto… divertitevi.»"
         },
         {
           "type": "paragraph",
@@ -2258,7 +2259,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Scomparire nella tappezzeria."
+          "text": "Scomparire tra gli arazzi."
         },
         {
           "type": "paragraph",
@@ -2268,13 +2269,13 @@
           "type": "image",
           "variant": "left-big",
           "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-13/Alaster ed Elis.png",
-          "alt": "Aelar elegante"
+          "alt": "Alaster ed Elis al gala"
         },
         {
           "type": "image",
           "variant": "left-big",
           "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-13/Aelar e Kyran.png",
-          "alt": "Aelar elegante"
+          "alt": "Aelar e Kyran in disparte al gala"
         },
         {
           "type": "paragraph",
@@ -2313,7 +2314,7 @@
     {
       "id": "sylvar",
       "title": "Sylvar si introduce",
-      "videoId":"ik9vUgMQJDM",
+      "videoId": "ik9vUgMQJDM",
       "blocks": [
         {
           "type": "image",
@@ -2762,7 +2763,7 @@
         },
         {
           "type": "quote",
-          "text": "«Piacere. Lucius Fowler.»"
+          "text": "«Piacere. Lucius Fauler.»"
         },
         {
           "type": "paragraph",
@@ -3511,7 +3512,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Best day ever."
+          "text": "Il giorno più bello di sempre."
         },
         {
           "type": "paragraph",
@@ -3623,7 +3624,7 @@
         },
         {
           "type": "quote",
-          "text": "«Ho un vecchio detto di una terra lontana che diceva: date a Cesare ciò che è di Cesare.\n\nIo l’ho un po’ modificato. Adattato alla città moderna.\n\nDate a Gortash ciò che è di Gortash.»"
+          "text": "«Ho un vecchio detto di una terra lontana che diceva: date al re ciò che è del re.\n\nIo l’ho un po’ modificato. Adattato a questa città.\n\nDate a Gortash ciò che è di Gortash.»"
         },
         {
           "type": "paragraph",

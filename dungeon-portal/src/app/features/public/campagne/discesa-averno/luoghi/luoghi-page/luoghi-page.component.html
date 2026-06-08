@@ -1,6 +1,22 @@
 <div class="luoghi-page-container">
 
-  <app-sessione-1></app-sessione-1>
-  <app-sessione-2></app-sessione-2>
-  <app-sessione-3></app-sessione-3>
+  <h1 class="page-title">
+    Luoghi – Le Cronache dell’Averno
+  </h1>
+
+  <section class="luoghi-sessione" *ngFor="let gruppo of gruppi$ | async">
+
+    <h2 class="section-title">
+      Sessione {{ gruppo.sessione }}
+    </h2>
+
+    <app-luogo-card
+      *ngFor="let l of gruppo.luoghi"
+      [nome]="l.nome"
+      [descrizione]="l.descrizione || '—'"
+      [immagine]="l.immagine || ''">
+    </app-luogo-card>
+
+  </section>
+
 </div>

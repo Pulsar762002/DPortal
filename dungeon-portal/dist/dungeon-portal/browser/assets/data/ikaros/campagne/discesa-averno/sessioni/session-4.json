@@ -10,14 +10,19 @@
       "videoId": "_D3qhT1pFRY",
       "blocks": [
         {
-          "type": "image",
-          "variant": "left-big",
+          "type": "scene",
           "src": "assets/data/ikaros/campagne/discesa-averno/eventi/I_resti.png",
-          "alt": "I resti della battaglia"
+          "title": "I Resti della Battaglia",
+          "subtitle": "La Locanda, dopo lo Scontro",
+          "alt": "La sala della locanda devastata dopo la battaglia, corpi a terra e sangue sul pavimento"
         },
         {
           "type": "paragraph",
           "text": "La battaglia è finita."
+        },
+        {
+          "type": "paragraph",
+          "text": "Resta il fumo delle lanterne rovesciate. Il crepitio del fuoco nel camino, ora troppo allegro per quella sala."
         },
         {
           "type": "paragraph",
@@ -33,19 +38,11 @@
         },
         {
           "type": "paragraph",
-          "text": "Si rialza lentamente."
+          "text": "Si rialza lentamente. Si sistema i capelli con un gesto nervoso, come se rimettere in ordine quel ciuffo potesse rimettere in ordine la stanza."
         },
         {
           "type": "paragraph",
-          "text": "Si sistema i capelli con un gesto nervoso."
-        },
-        {
-          "type": "paragraph",
-          "text": "Alan si guarda intorno. Un misto tra terrore e scoramento."
-        },
-        {
-          "type": "paragraph",
-          "text": "Si sistema i capelli nervosamente."
+          "text": "Alan si guarda intorno. Sul volto, un misto di terrore e scoramento."
         },
         {
           "type": "quote",
@@ -153,7 +150,7 @@
         },
         {
           "type": "quote",
-          "text": "«Scona… o caspita»"
+          "text": "«Scona… oh, no…»"
         },
         {
           "type": "paragraph",
@@ -583,7 +580,7 @@
         {
           "type": "image",
           "variant": "left",
-          "src": "assets/personaggi/Secondari/Tarina.jpg",
+          "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Secondari/Tarina.jpg",
           "alt": "Tarina"
         },
         {
@@ -636,43 +633,19 @@
         },
         {
           "type": "paragraph",
-          "text": "È la prima volta che la vedete."
+          "text": "È la prima volta che la vedete in volto."
         },
         {
           "type": "paragraph",
-          "text": "Carnagione chiara."
+          "text": "Carnagione chiara. Capelli rossi, corti, leggermente mossi."
         },
         {
           "type": "paragraph",
-          "text": "Capelli rossi, corti e leggermente mossi."
+          "text": "Le braccia e parte del collo sono coperte di tatuaggi: linee e simboli che parlano di mare, di porti, di un passato tutt’altro che tranquillo."
         },
         {
           "type": "paragraph",
-          "text": "Le braccia e parte del collo sono segnate da tatuaggi."
-        },
-        {
-          "type": "paragraph",
-          "text": "Linee e simboli che parlano di mare, di porti, di un passato tutt’altro che tranquillo."
-        },
-        {
-          "type": "paragraph",
-          "text": "La voce…"
-        },
-        {
-          "type": "paragraph",
-          "text": "Sì."
-        },
-        {
-          "type": "paragraph",
-          "text": "È quella che avevate sentito dietro la porta."
-        },
-        {
-          "type": "paragraph",
-          "text": "Ora più nitida."
-        },
-        {
-          "type": "paragraph",
-          "text": "Più reale."
+          "text": "E la voce. Sì. È quella che avevate sentito dietro la porta, ora più nitida. Più reale."
         },
         {
           "type": "paragraph",
@@ -945,10 +918,11 @@
       "videoId": "5fecfpwZ77s",
       "blocks": [
         {
-          "type": "image",
-          "variant": "left-big",
+          "type": "scene",
           "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-4/Prigioni.png",
-          "alt": "Prigioni"
+          "title": "Le Prigioni",
+          "subtitle": "Avamposto della Milizia, Città Bassa",
+          "alt": "Il livello interrato dell'avamposto, celle di pietra dietro grate d'acciaio"
         },
         {
           "type": "paragraph",
@@ -1376,15 +1350,15 @@
       ]
     },
     {
-      "id": "Cleiton",
-      "title": "Cleiton il coboldo",
+      "id": "Clayton",
+      "title": "Clayton il coboldo",
       "videoId": "CTCfj1uMgk8",
       "blocks": [
         {
           "type": "image",
           "variant": "left",
-          "src": "assets/personaggi/Alleati/Cleiton.jpg",
-          "alt": "Cleiton"
+          "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Alleati/Kleyton.jpg",
+          "alt": "Clayton"
         },
         {
           "type": "paragraph",
@@ -1436,11 +1410,11 @@
         },
         {
           "type": "quote",
-          "text": "«Io sono Cleiton. Inventore. Incompreso.»"
+          "text": "«Io sono Clayton. Inventore. Incompreso.»"
         },
         {
           "type": "paragraph",
-          "text": "È alto poco più di mezzo metro."
+          "text": "Gli arriva sì e no al fianco."
         },
         {
           "type": "paragraph",
@@ -1472,7 +1446,7 @@
         },
         {
           "type": "quote",
-          "text": "«Come mai sei qui dentro, Cleiton?»"
+          "text": "«Come mai sei qui dentro, Clayton?»"
         },
         {
           "type": "quote",
@@ -1487,8 +1461,8 @@
           "text": "«Sono nove giorni che sto qui. Più o meno.»"
         },
         {
-          "type": "paragraph",
-          "text": "Le guardie? Cosa fanno?"
+          "type": "quote",
+          "text": "«E le guardie? Cosa fanno?»"
         },
         {
           "type": "quote",
@@ -1528,7 +1502,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Cleiton inizia a lamentarsi."
+          "text": "Clayton inizia a lamentarsi."
         },
         {
           "type": "paragraph",
@@ -1544,7 +1518,7 @@
         },
         {
           "type": "quote",
-          "text": "«Cleiton! Stai zitto!»"
+          "text": "«Clayton! Stai zitto!»"
         },
         {
           "type": "paragraph",
@@ -1556,7 +1530,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Cleiton la stringe al petto."
+          "text": "Clayton la stringe al petto."
         },
         {
           "type": "quote",
@@ -1684,7 +1658,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Cleiton, nella cella accanto, continua a smontare."
+          "text": "Clayton, nella cella accanto, continua a smontare."
         },
         {
           "type": "paragraph",
@@ -1721,7 +1695,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Ascoltano Cleiton ridacchiare mentre perfeziona la sua “invenzione”."
+          "text": "Ascoltano Clayton ridacchiare mentre perfeziona la sua “invenzione”."
         },
         {
           "type": "paragraph",
@@ -1861,7 +1835,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Il piccolo Cleiton non crede ai propri occhi e non sa come agire per trarre vantaggio dagli eventi."
+          "text": "Il piccolo Clayton non crede ai propri occhi e non sa come agire per trarre vantaggio dagli eventi."
         },
         {
           "type": "quote",
@@ -1897,7 +1871,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Cleiton deglutisce."
+          "text": "Clayton deglutisce."
         },
         {
           "type": "quote",
@@ -1961,7 +1935,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Cleiton salta fuori."
+          "text": "Clayton salta fuori."
         },
         {
           "type": "paragraph",
@@ -2299,7 +2273,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Una cinquantina di metri più avanti, oltre una serie di vicoli intrecciati."
+          "text": "Una cinquantina di passi più avanti, oltre una serie di vicoli intrecciati."
         },
         {
           "type": "paragraph",
@@ -2335,7 +2309,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Dieci metri."
+          "text": "Dieci passi."
         },
         {
           "type": "paragraph",
@@ -2413,10 +2387,11 @@
       "videoId": "v4DIUMZlUzw",
       "blocks": [
         {
-          "type": "image",
-          "variant": "left-big",
+          "type": "scene",
           "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-4/VicoloTreMorti.png",
-          "alt": "Vicolo"
+          "title": "Il Culto dei Tre Morti",
+          "subtitle": "Un Vicolo della Città Bassa",
+          "alt": "Vicolo buio e stretto della Città Bassa, selciato umido e una figura riversa a terra"
         },
         {
           "type": "paragraph",
@@ -2699,7 +2674,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Cleiton, spaventato ma efficace, aiuta lanciando ampolle infuocate."
+          "text": "Clayton, spaventato ma efficace, aiuta lanciando ampolle infuocate."
         },
         {
           "type": "paragraph",
@@ -2901,7 +2876,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Cleiton trema."
+          "text": "Clayton trema."
         },
         {
           "type": "paragraph",
@@ -3229,7 +3204,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Cleiton si avvicina."
+          "text": "Clayton si avvicina."
         },
         {
           "type": "paragraph",

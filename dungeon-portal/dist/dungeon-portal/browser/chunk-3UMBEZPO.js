@@ -1,1 +1,0 @@
-import{Cb as o,Db as a,Zb as p,fb as t}from"./chunk-5ZEWL7CD.js";var i=class n{static \u0275fac=function(e){return new(e||n)};static \u0275cmp=t({type:n,selectors:[["app-land"]],decls:2,vars:0,template:function(e,s){e&1&&(o(0,"p"),p(1,"land works!"),a())},encapsulation:2})};export{i as LandComponent};

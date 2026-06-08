@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/features/public/masters/masters.component.ts", "src/app/features/public/masters/masters.component.html"],
+  "sourcesContent": ["import { Component } from '@angular/core';\n\n@Component({\n  selector: 'app-masters',\n  imports: [],\n  templateUrl: './masters.component.html',\n  styleUrl: './masters.component.css',\n})\nexport class MastersComponent {\n\n}\n", "<p>masters works!</p>\n"],
+  "mappings": ";;;;;;;;;;;AAQM,IAAO,mBAAP,MAAO,kBAAgB;;qCAAhB,mBAAgB;EAAA;yEAAhB,mBAAgB,WAAA,CAAA,CAAA,aAAA,CAAA,GAAA,OAAA,GAAA,MAAA,GAAA,UAAA,SAAA,0BAAA,IAAA,KAAA;AAAA,QAAA,KAAA,GAAA;ACR7B,MAAA,4BAAA,GAAA,GAAA;AAAG,MAAA,iBAAA,GAAA,gBAAA;AAAc,MAAA,0BAAA;;;;;sEDQJ,kBAAgB,CAAA;UAN5B;uBACW,eAAa,SACd,CAAA,GAAE,UAAA,0BAAA,CAAA;;;;6EAIA,kBAAgB,EAAA,WAAA,oBAAA,UAAA,wDAAA,YAAA,EAAA,CAAA;AAAA,GAAA;",
+  "names": []
+}

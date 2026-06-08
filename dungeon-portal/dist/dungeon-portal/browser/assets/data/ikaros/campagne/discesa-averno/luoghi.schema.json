@@ -1,0 +1,91 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://dungeon-portal/luoghi.schema.json",
+  "title": "Atlante dei luoghi della campagna",
+  "description": "Catalogo dei luoghi della campagna, popolato sessione dopo sessione. I luoghi possono annidarsi tramite luogoPadre.",
+  "type": "object",
+  "required": ["campagna", "luoghi"],
+  "additionalProperties": false,
+  "properties": {
+    "$schema": { "type": "string" },
+    "campagna": {
+      "type": "string",
+      "description": "Slug della campagna (es. 'discesa-averno')."
+    },
+    "ultimoAggiornamento": {
+      "type": "integer",
+      "description": "Numero dell'ultima sessione riversata in questo file."
+    },
+    "luoghi": {
+      "type": "array",
+      "items": { "$ref": "#/definitions/luogo" }
+    }
+  },
+  "definitions": {
+    "luogo": {
+      "type": "object",
+      "required": ["id", "nome", "tipo", "primaApparizione"],
+      "additionalProperties": false,
+      "properties": {
+        "id": {
+          "type": "string",
+          "description": "Identificativo univoco in kebab-case (es. 'tempio-divinita', 'chanson-rouge')."
+        },
+        "nome": { "type": "string" },
+        "tipo": {
+          "type": "string",
+          "enum": ["citta", "regione", "edificio", "tempio", "taverna", "bottega", "bosco", "landmark", "struttura"],
+          "description": "Categoria del luogo."
+        },
+        "luogoPadre": {
+          "type": ["string", "null"],
+          "description": "id del luogo che contiene questo (es. un edificio dentro una citta). null se di primo livello."
+        },
+        "regione": {
+          "type": "string",
+          "description": "Area geografica piu ampia (es. 'Costa della Spada')."
+        },
+        "immagine": {
+          "type": ["string", "null"],
+          "description": "Percorso dell'immagine del luogo, o null se non disponibile."
+        },
+        "descrizione": { "type": "string" },
+        "stato": {
+          "type": "string",
+          "enum": ["intatto", "danneggiato", "distrutto", "scomparso", "ignoto"],
+          "description": "Stato del luogo all'ultimo aggiornamento."
+        },
+        "abitantiNotabili": {
+          "type": "array",
+          "description": "id di personaggi (da personaggi.json) legati a questo luogo.",
+          "items": { "type": "string" }
+        },
+        "primaApparizione": {
+          "type": "integer",
+          "description": "Numero della sessione in cui il luogo compare per la prima volta."
+        },
+        "apparizioni": {
+          "type": "array",
+          "items": { "type": "integer" }
+        },
+        "note": {
+          "type": "array",
+          "description": "Annotazioni cronologiche sul luogo, sessione per sessione.",
+          "items": {
+            "type": "object",
+            "required": ["sessione", "testo"],
+            "additionalProperties": false,
+            "properties": {
+              "sessione": { "type": "integer" },
+              "testo": { "type": "string" }
+            }
+          }
+        },
+        "misteri": {
+          "type": "array",
+          "items": { "type": "string" }
+        }
+      }
+    }
+  }
+}

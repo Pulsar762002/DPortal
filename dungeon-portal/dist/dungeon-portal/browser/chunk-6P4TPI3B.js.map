@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/features/master/campagne-manager/campagne-manager.component.ts", "src/app/features/master/campagne-manager/campagne-manager.component.html"],
+  "sourcesContent": ["import { Component } from '@angular/core';\n\n@Component({\n  selector: 'app-campagne-manager',\n  imports: [],\n  templateUrl: './campagne-manager.component.html',\n  styleUrl: './campagne-manager.component.css',\n})\nexport class CampagneManagerComponent {\n\n}\n", "<p>campagne-manager works!</p>\n"],
+  "mappings": ";;;;;;;;;;;AAQM,IAAO,2BAAP,MAAO,0BAAwB;;qCAAxB,2BAAwB;EAAA;yEAAxB,2BAAwB,WAAA,CAAA,CAAA,sBAAA,CAAA,GAAA,OAAA,GAAA,MAAA,GAAA,UAAA,SAAA,kCAAA,IAAA,KAAA;AAAA,QAAA,KAAA,GAAA;ACRrC,MAAA,4BAAA,GAAA,GAAA;AAAG,MAAA,iBAAA,GAAA,yBAAA;AAAuB,MAAA,0BAAA;;;;;sEDQb,0BAAwB,CAAA;UANpC;uBACW,wBAAsB,SACvB,CAAA,GAAE,UAAA,mCAAA,CAAA;;;;6EAIA,0BAAwB,EAAA,WAAA,4BAAA,UAAA,0EAAA,YAAA,EAAA,CAAA;AAAA,GAAA;",
+  "names": []
+}

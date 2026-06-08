@@ -1,14 +1,20 @@
 import { Component } from '@angular/core';
-import {ZodgeComponent} from './zodge/zodge.component';
+import { CommonModule } from '@angular/common';
+import { Observable } from 'rxjs';
+import { PersonaggioCardComponent } from '../principali/personaggio-card/personaggio-card.component';
+import { CampagnaDataService, PersonaggioCardVM } from '../../campagna-data.service';
 
 @Component({
   selector: 'app-secondari',
-  imports: [
-    ZodgeComponent
-  ],
+  standalone: true,
+  imports: [CommonModule, PersonaggioCardComponent],
   templateUrl: './secondari.component.html',
   styleUrl: './secondari.component.css',
 })
 export class SecondariComponent {
+  personaggi$: Observable<PersonaggioCardVM[]>;
 
+  constructor(private dati: CampagnaDataService) {
+    this.personaggi$ = this.dati.getCardsByCategoria('secondario');
+  }
 }

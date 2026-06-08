@@ -14,6 +14,6 @@ export class PersonaggioCardComponent {
   @Input() specieClasse!: string;
   @Input() descrizione!: string;
   @Input() ruolo!: string;
-  @Input() immagine!: string;
+  @Input() immagine!: string | null;
 
 }

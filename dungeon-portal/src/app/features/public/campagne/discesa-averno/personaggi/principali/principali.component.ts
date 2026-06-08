@@ -1,16 +1,20 @@
 import { Component } from '@angular/core';
 import { CommonModule } from '@angular/common';
-import { AelarComponent } from './aelar/aelar.component';
-import {KyranComponent} from './kyran/kyran.component';
-import {NathanComponent} from './nathan/nathan.component';
-import {ElisComponent} from './elis/elis.component';
-import {AlasterComponent} from './alaster/alaster.component';
+import { Observable } from 'rxjs';
+import { PersonaggioCardComponent } from './personaggio-card/personaggio-card.component';
+import { CampagnaDataService, PersonaggioCardVM } from '../../campagna-data.service';
 
 @Component({
   selector: 'app-principali',
   standalone: true,
-  imports: [CommonModule, AelarComponent, KyranComponent, NathanComponent, ElisComponent, AlasterComponent],
+  imports: [CommonModule, PersonaggioCardComponent],
   templateUrl: './principali.component.html',
   styleUrl: './principali.component.css'
 })
-export class PrincipaliComponent { }
+export class PrincipaliComponent {
+  personaggi$: Observable<PersonaggioCardVM[]>;
+
+  constructor(private dati: CampagnaDataService) {
+    this.personaggi$ = this.dati.getCardsByCategoria('party');
+  }
+}

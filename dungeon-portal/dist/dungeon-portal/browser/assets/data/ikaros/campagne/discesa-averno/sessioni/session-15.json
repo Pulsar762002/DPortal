@@ -79,7 +79,7 @@
         },
         {
           "type": "quote",
-          "text": "Dai, ragazzi… siamo diventati famosi.",
+          "text": "«Dai, ragazzi… siamo diventati famosi.»",
           "variant": "normal"
         },
         {
@@ -100,7 +100,7 @@
         },
         {
           "type": "quote",
-          "text": "Mi sentite?",
+          "text": "«Mi sentite?»",
           "variant": "normal"
         },
         {
@@ -137,7 +137,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Davanti a lei soltanto un bicchiere da shot."
+          "text": "Davanti a lei soltanto un bicchierino di liquore."
         },
         {
           "type": "paragraph",
@@ -173,7 +173,7 @@
         },
         {
           "type": "quote",
-          "text": "Scusa.",
+          "text": "«Scusa.»",
           "variant": "normal"
         },
         {
@@ -194,7 +194,7 @@
         },
         {
           "type": "quote",
-          "text": "Perché sempre io?",
+          "text": "«Perché sempre io?»",
           "variant": "normal"
         },
         {
@@ -203,7 +203,7 @@
         },
         {
           "type": "quote",
-          "text": "Perché sei quello più ricco.",
+          "text": "«Perché sei quello più ricco.»",
           "variant": "normal"
         },
         {
@@ -212,7 +212,7 @@
         },
         {
           "type": "quote",
-          "text": "La ricchezza non si nasconde negli abiti.",
+          "text": "«La ricchezza non si nasconde negli abiti.»",
           "variant": "normal"
         },
         {
@@ -249,7 +249,7 @@
         },
         {
           "type": "quote",
-          "text": "Fermi.",
+          "text": "«Fermi.»",
           "variant": "normal"
         },
         {
@@ -258,12 +258,12 @@
         },
         {
           "type": "quote",
-          "text": "Qui non si entra armati.",
+          "text": "«Qui non si entra armati.»",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "Lasciate tutte le vostre armi fuori.",
+          "text": "«Lasciate tutte le vostre armi fuori.»",
           "variant": "normal"
         },
         {
@@ -288,7 +288,7 @@
         },
         {
           "type": "quote",
-          "text": "Bel modo di accogliere degli ospiti.",
+          "text": "«Bel modo di accogliere degli ospiti.»",
           "variant": "normal"
         },
         {
@@ -297,12 +297,12 @@
         },
         {
           "type": "quote",
-          "text": "È la prassi.",
+          "text": "«È la prassi.»",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "E il signor Vanthampur non ama aspettare.",
+          "text": "«E il signor Vanthampur non ama aspettare.»",
           "variant": "normal"
         },
         {
@@ -355,7 +355,7 @@
         },
         {
           "type": "quote",
-          "text": "Abbine cura. Ci tengo moltissimo.",
+          "text": "«Abbine cura. Ci tengo moltissimo.»",
           "variant": "normal"
         },
         {
@@ -364,7 +364,7 @@
         },
         {
           "type": "quote",
-          "text": "Tranquillo. Non la toccherò.",
+          "text": "«Tranquillo. Non la toccherò.»",
           "variant": "normal"
         },
         {
@@ -385,7 +385,7 @@
         },
         {
           "type": "quote",
-          "text": "Sembra che tu abbia dimenticato qualcosa.",
+          "text": "«Sembra che tu abbia dimenticato qualcosa.»",
           "variant": "normal"
         },
         {
@@ -410,7 +410,7 @@
         },
         {
           "type": "quote",
-          "text": "Prego.",
+          "text": "«Prego.»",
           "variant": "normal"
         },
         {
@@ -522,7 +522,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Fiend."
+          "text": "<em>Fiend.</em>"
         },
         {
           "type": "paragraph",
@@ -554,7 +554,7 @@
         },
         {
           "type": "quote",
-          "text": "Amici tuoi?",
+          "text": "«Amici tuoi?»",
           "variant": "normal"
         },
         {
@@ -563,12 +563,12 @@
         },
         {
           "type": "quote",
-          "text": "No.",
+          "text": "«No.»",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "Amici di amici.",
+          "text": "«Amici di amici.»",
           "variant": "normal"
         },
         {
@@ -581,12 +581,12 @@
         },
         {
           "type": "quote",
-          "text": "Benvenuti.",
+          "text": "«Benvenuti.»",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "Benvenuti tutti quanti.",
+          "text": "«Benvenuti tutti quanti.»",
           "variant": "normal"
         },
         {
@@ -595,7 +595,7 @@
         },
         {
           "type": "quote",
-          "text": "Lord Vanthampur.",
+          "text": "«Lord Vanthampur.»",
           "variant": "normal"
         },
         {
@@ -604,17 +604,17 @@
         },
         {
           "type": "quote",
-          "text": "Non siamo così formali.",
+          "text": "«Non siamo così formali.»",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "Non con voi, almeno.",
+          "text": "«Non con voi, almeno.»",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "Chiamatemi semplicemente Amrik.",
+          "text": "«Chiamatemi semplicemente Amrik.»",
           "variant": "normal"
         },
         {
@@ -623,12 +623,12 @@
         },
         {
           "type": "quote",
-          "text": "Prego. Sedetevi pure.",
+          "text": "«Prego. Sedetevi pure.»",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "Temo di non avere abbastanza poltrone per tutti.",
+          "text": "«Temo di non avere abbastanza poltrone per tutti.»",
           "variant": "normal"
         },
         {
@@ -665,17 +665,17 @@
         },
         {
           "type": "quote",
-          "text": "Ordinate pure ciò che desiderate.",
+          "text": "«Ordinate pure ciò che desiderate.»",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "Naturalmente offro io.",
+          "text": "«Naturalmente offro io.»",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "Non vorrei lasciare assetati i miei ospiti.",
+          "text": "«Non vorrei lasciare assetati i miei ospiti.»",
           "variant": "normal"
         },
         {
@@ -732,7 +732,7 @@
         },
         {
           "type": "quote",
-          "text": "Un Fairy Fire, grazie.",
+          "text": "«Un Fairy Fire, grazie.»",
           "variant": "normal"
         },
         {
@@ -761,17 +761,17 @@
         },
         {
           "type": "quote",
-          "text": "Porta ciò che hanno ordinato.",
+          "text": "«Porta ciò che hanno ordinato.»",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "E dite al barista di fare in fretta.",
+          "text": "«E dite al barista di fare in fretta.»",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "Non voglio che si sciolga il ghiaccio.",
+          "text": "«Non voglio che si sciolga il ghiaccio.»",
           "variant": "normal"
         },
         {
@@ -800,7 +800,7 @@
         },
         {
           "type": "quote",
-          "text": "Ora…",
+          "text": "«Ora…»",
           "variant": "normal"
         },
         {
@@ -809,7 +809,7 @@
         },
         {
           "type": "quote",
-          "text": "Se vogliamo rompere il ghiaccio…",
+          "text": "«Se vogliamo rompere il ghiaccio…»",
           "variant": "normal"
         }
       ]
@@ -837,7 +837,7 @@
         },
         {
           "type": "quote",
-          "text": "Vedo che trovate la mia compagnia… peculiare.",
+          "text": "«Vedo che trovate la mia compagnia… peculiare.»",
           "variant": "normal"
         },
         {
@@ -854,12 +854,12 @@
         },
         {
           "type": "quote",
-          "text": "Oh, non badateci.",
+          "text": "«Oh, non badateci.»",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "Sono soltanto… protezione.",
+          "text": "«Sono soltanto… protezione.»",
           "variant": "normal"
         },
         {
@@ -876,7 +876,7 @@
         },
         {
           "type": "quote",
-          "text": "Dei demoni?",
+          "text": "«Dei demoni?»",
           "variant": "normal"
         },
         {
@@ -889,22 +889,22 @@
         },
         {
           "type": "quote",
-          "text": "Beh… non sono io a giudicare.",
+          "text": "«Beh… non sono io a giudicare.»",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "Il loro compito è soltanto garantire la mia sicurezza e assicurarsi che nessuno tenti di appropriarsi di denaro che non gli appartiene.",
+          "text": "«Il loro compito è soltanto garantire la mia sicurezza e assicurarsi che nessuno tenti di appropriarsi di denaro che non gli appartiene.»",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "Sono qui esclusivamente a titolo di protezione.",
+          "text": "«Sono qui esclusivamente a titolo di protezione.»",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "Tranquilli.",
+          "text": "«Tranquilli.»",
           "variant": "normal"
         },
         {
@@ -945,7 +945,7 @@
         },
         {
           "type": "quote",
-          "text": "Quindi siete riuscito a… convincerli?",
+          "text": "«Quindi siete riuscito a… convincerli?»",
           "variant": "normal"
         },
         {
@@ -954,12 +954,12 @@
         },
         {
           "type": "quote",
-          "text": "Il nostro rapporto è basato sulla collaborazione.",
+          "text": "«Il nostro rapporto è basato sulla collaborazione.»",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "Ma obbediscono alle mie richieste.",
+          "text": "«Ma obbediscono alle mie richieste.»",
           "variant": "normal"
         },
         {
@@ -988,12 +988,12 @@
         },
         {
           "type": "quote",
-          "text": "Ma veniamo al dunque.",
+          "text": "«Ma veniamo al dunque.»",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "La voce degli eroi di Baldur’s Gate si è diffusa molto rapidamente su questa nave.",
+          "text": "«La voce degli eroi di Baldur’s Gate si è diffusa molto rapidamente su questa nave.»",
           "variant": "normal"
         },
         {
@@ -1002,7 +1002,7 @@
         },
         {
           "type": "quote",
-          "text": "Queste travi hanno orecchie.",
+          "text": "«Queste travi hanno orecchie.»",
           "variant": "normal"
         },
         {
@@ -1015,7 +1015,7 @@
         },
         {
           "type": "quote",
-          "text": "Quindi ci avete invitati soltanto per conoscerci?",
+          "text": "«Quindi ci avete invitati soltanto per conoscerci?»",
           "variant": "normal"
         },
         {
@@ -1024,17 +1024,17 @@
         },
         {
           "type": "quote",
-          "text": "Oh, assolutamente.",
+          "text": "«Oh, assolutamente.»",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "Ho sentito che avete eliminato il Culto dei Tre Morti.",
+          "text": "«Ho sentito che avete eliminato il Culto dei Tre Morti.»",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "I miei complimenti.",
+          "text": "«I miei complimenti.»",
           "variant": "normal"
         },
         {
@@ -1043,12 +1043,12 @@
         },
         {
           "type": "quote",
-          "text": "Pensavo di trovarmi davanti a un professionista.",
+          "text": "«Pensavo di trovarmi davanti a un professionista.»",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "Chiedere informazioni gratis, nel vostro mestiere, non è molto elegante.",
+          "text": "«Chiedere informazioni gratis, nel vostro mestiere, non è molto elegante.»",
           "variant": "normal"
         },
         {
@@ -1057,17 +1057,17 @@
         },
         {
           "type": "quote",
-          "text": "Signor Nodorovo, giusto?",
+          "text": "«Signor Nodorovo, giusto?»",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "La vostra famiglia è entrata da poco nelle alte sfere della città…",
+          "text": "«La vostra famiglia è entrata da poco nelle alte sfere della città…»",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "eppure vi siete adattato sorprendentemente in fretta.",
+          "text": "«eppure vi siete adattato sorprendentemente in fretta.»",
           "variant": "normal"
         },
         {
@@ -1080,12 +1080,12 @@
         },
         {
           "type": "quote",
-          "text": "Io presto denaro.",
+          "text": "«Io presto denaro.»",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "Non informazioni.",
+          "text": "«Non informazioni.»",
           "variant": "normal"
         },
         {
@@ -1094,12 +1094,12 @@
         },
         {
           "type": "quote",
-          "text": "Il mio era soltanto altruismo.",
+          "text": "«Il mio era soltanto altruismo.»",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "Avendo una linea diretta con uno dei Patriar, avrei potuto trasmettere eventuali informazioni molto più rapidamente delle normali vie burocratiche.",
+          "text": "«Avendo una linea diretta con uno dei Patriar, avrei potuto trasmettere eventuali informazioni molto più rapidamente delle normali vie burocratiche.»",
           "variant": "normal"
         },
         {
@@ -1108,12 +1108,12 @@
         },
         {
           "type": "quote",
-          "text": "Avremmo preferito riferire tutto direttamente ai Patriar durante il gala.",
+          "text": "«Avremmo preferito riferire tutto direttamente ai Patriar durante il gala.»",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "Ma non ne abbiamo visto nessuno.",
+          "text": "«Ma non ne abbiamo visto nessuno.»",
           "variant": "normal"
         },
         {
@@ -1130,12 +1130,12 @@
         },
         {
           "type": "quote",
-          "text": "Strano.",
+          "text": "«Strano.»",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "Dove si trovava vostra madre quella sera?",
+          "text": "«Dove si trovava vostra madre quella sera?»",
           "variant": "normal"
         },
         {
@@ -1144,12 +1144,12 @@
         },
         {
           "type": "quote",
-          "text": "Mia madre è una donna molto impegnata.",
+          "text": "«Mia madre è una donna molto impegnata.»",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "Così come gli altri Patriar, immagino.",
+          "text": "«Così come gli altri Patriar, immagino.»",
           "variant": "normal"
         },
         {
@@ -1158,7 +1158,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Il Kenku entrò trasportando i drink."
+          "text": "Il Kenku entrò trasportando le bevande."
         },
         {
           "type": "paragraph",
@@ -1178,12 +1178,12 @@
         },
         {
           "type": "quote",
-          "text": "Siamo sinceramente dispiaciuti per i danni subiti dalla vostra famiglia.",
+          "text": "«Siamo sinceramente dispiaciuti per i danni subiti dalla vostra famiglia.»",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "Dev’essere stato terribile scoprire che sotto le vostre terme si nascondeva un culto.",
+          "text": "«Dev’essere stato terribile scoprire che sotto le vostre terme si nascondeva un culto.»",
           "variant": "normal"
         },
         {
@@ -1196,22 +1196,22 @@
         },
         {
           "type": "quote",
-          "text": "Il marcio è ovunque.",
+          "text": "«Il marcio è ovunque.»",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "Perfino sotto il proprio naso.",
+          "text": "«Perfino sotto il proprio naso.»",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "Questa volta ha colpito la mia famiglia.",
+          "text": "«Questa volta ha colpito la mia famiglia.»",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "Ma sapremo rimetterci in piedi.",
+          "text": "«Ma sapremo rimetterci in piedi.»",
           "variant": "normal"
         },
         {
@@ -1220,7 +1220,7 @@
         },
         {
           "type": "quote",
-          "text": "Agli eroi di Baldur’s Gate.",
+          "text": "«Agli eroi di Baldur’s Gate.»",
           "variant": "normal"
         },
         {
@@ -1257,12 +1257,12 @@
         },
         {
           "type": "quote",
-          "text": "In realtà vi ho convocati qui per conto di un mio collaboratore.",
+          "text": "«In realtà vi ho convocati qui per conto di un mio collaboratore.»",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "O forse dovrei dire… qualcuno da cui dipendo leggermente.",
+          "text": "«O forse dovrei dire… qualcuno da cui dipendo leggermente.»",
           "variant": "normal"
         },
         {
@@ -1275,12 +1275,12 @@
         },
         {
           "type": "quote",
-          "text": "Dovreste averlo incontrato durante il gala in vostro onore.",
+          "text": "«Dovreste averlo incontrato durante il gala in vostro onore.»",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "Mi ha chiesto di recapitarvi questo invito.",
+          "text": "«Mi ha chiesto di recapitarvi questo invito.»",
           "variant": "normal"
         },
         {
@@ -1315,12 +1315,12 @@
     },
     {
       "id": "il-conte-fowler",
-      "title": "Il Conte Fowler",
+      "title": "Il Lord Fauler",
       "videoId": "xiVEWBpwy50",
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Il diavolo si fermò accanto a Sylvar."
+          "text": "Il diavolo si fermò accanto a Sylvar, e con lui calò un’ondata di calore secco."
         },
         {
           "type": "paragraph",
@@ -1348,7 +1348,7 @@
         },
         {
           "type": "quote",
-          "text": "E chi sarebbe costui?",
+          "text": "«E chi sarebbe costui?»",
           "variant": "normal"
         },
         {
@@ -1405,7 +1405,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Conte Fowler."
+          "text": "Lord Fauler."
         },
         {
           "type": "paragraph",
@@ -1413,7 +1413,7 @@
         },
         {
           "type": "quote",
-          "text": "Lo conoscete?",
+          "text": "«Lo conoscete?»",
           "variant": "normal"
         },
         {
@@ -1426,17 +1426,17 @@
         },
         {
           "type": "quote",
-          "text": "Il Conte Fowler è un benefattore.",
+          "text": "«Il Lord Fauler è un benefattore.»",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "Ha rapporti di lavoro con la mia famiglia da diverso tempo.",
+          "text": "«Ha rapporti di lavoro con la mia famiglia da diverso tempo.»",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "Dovreste considerarvi onorati di poter incontrare una persona tanto… squisita.",
+          "text": "«Dovreste considerarvi onorati di poter incontrare una persona tanto… squisita.»",
           "variant": "normal"
         },
         {
@@ -1445,12 +1445,12 @@
         },
         {
           "type": "quote",
-          "text": "Interessante.",
+          "text": "«Interessante.»",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "E di cosa si occupa questo benefattore?",
+          "text": "«E di cosa si occupa questo benefattore?»",
           "variant": "normal"
         },
         {
@@ -1471,17 +1471,17 @@
         },
         {
           "type": "quote",
-          "text": "Il Conte Fowler ha interessi in diversi settori.",
+          "text": "«Il Lord Fauler ha interessi in diversi settori.»",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "Ma non è mia abitudine fare domande ai miei benefattori.",
+          "text": "«Ma non è mia abitudine fare domande ai miei benefattori.»",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "Collabora con la mia famiglia per alcune questioni… delicate.",
+          "text": "«Collabora con la mia famiglia per alcune questioni… delicate.»",
           "variant": "normal"
         },
         {
@@ -1498,7 +1498,7 @@
         },
         {
           "type": "quote",
-          "text": "E riguardo la paga?",
+          "text": "«E riguardo la paga?»",
           "variant": "normal"
         },
         {
@@ -1507,27 +1507,27 @@
         },
         {
           "type": "quote",
-          "text": "Ah… finalmente una domanda concreta.",
+          "text": "«Ah… finalmente una domanda concreta.»",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "Se avete bisogno di denaro, la mia famiglia può essere estremamente generosa.",
+          "text": "«Se avete bisogno di denaro, la mia famiglia può essere estremamente generosa.»",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "Potrei offrirvi un prestito di centocinquanta monete d’oro.",
+          "text": "«Potrei offrirvi un prestito di centocinquanta monete d’oro.»",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "Dieci anni per restituirlo.",
+          "text": "«Dieci anni per restituirlo.»",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "Con un tasso assolutamente vantaggioso.",
+          "text": "«Con un tasso assolutamente vantaggioso.»",
           "variant": "normal"
         },
         {
@@ -1540,7 +1540,7 @@
         },
         {
           "type": "quote",
-          "text": "Complimenti per la vostra generosità.",
+          "text": "«Complimenti per la vostra generosità.»",
           "variant": "normal"
         },
         {
@@ -1557,7 +1557,7 @@
         },
         {
           "type": "quote",
-          "text": "La mia famiglia sa essere molto disponibile con chi se lo merita.",
+          "text": "«La mia famiglia sa essere molto disponibile con chi se lo merita.»",
           "variant": "normal"
         },
         {
@@ -1566,12 +1566,12 @@
         },
         {
           "type": "quote",
-          "text": "Le ricompense ci interessano relativamente.",
+          "text": "«Le ricompense ci interessano relativamente.»",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "Quello che ci interessa davvero è capire chi siano i nostri alleati.",
+          "text": "«Quello che ci interessa davvero è capire chi siano i nostri alleati.»",
           "variant": "normal"
         },
         {
@@ -1588,17 +1588,17 @@
         },
         {
           "type": "quote",
-          "text": "Gli alleati sono difficili da trovare.",
+          "text": "«Gli alleati sono difficili da trovare.»",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "È molto più facile crearsi dei nemici.",
+          "text": "«È molto più facile crearsi dei nemici.»",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "E vi assicuro che il Conte Fowler non è il genere di persona che vorreste avere contro.",
+          "text": "«E vi assicuro che il Lord Fauler non è il genere di persona che vorreste avere contro.»",
           "variant": "normal"
         },
         {
@@ -1619,17 +1619,17 @@
         },
         {
           "type": "quote",
-          "text": "Quindi… siete davvero sicuri di non avere altro da riferire?",
+          "text": "«Quindi… siete davvero sicuri di non avere altro da riferire?»",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "Avete trovato qualcosa di particolare?",
+          "text": "«Avete trovato qualcosa di particolare?»",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "Qualche persona sospetta?",
+          "text": "«Qualche persona sospetta?»",
           "variant": "normal"
         },
         {
@@ -1654,7 +1654,7 @@
         },
         {
           "type": "quote",
-          "text": "In realtà c’era una cosa che ci ha colpito parecchio.",
+          "text": "«In realtà c’era una cosa che ci ha colpito parecchio.»",
           "variant": "normal"
         },
         {
@@ -1699,17 +1699,17 @@
         },
         {
           "type": "quote",
-          "text": "Mia madre ha insistito perché ricevessi la migliore istruzione possibile.",
+          "text": "«Mia madre ha insistito perché ricevessi la migliore istruzione possibile.»",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "Ma temo di non poter rispondere alle vostre domande.",
+          "text": "«Ma temo di non poter rispondere alle vostre domande.»",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "Non facevo parte del culto.",
+          "text": "«Non facevo parte del culto.»",
           "variant": "normal"
         },
         {
@@ -1718,12 +1718,12 @@
         },
         {
           "type": "quote",
-          "text": "È stato lei a chiedermi se ci fosse qualcosa di strano.",
+          "text": "«È stato lei a chiedermi se ci fosse qualcosa di strano.»",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "Per me quella era una cosa decisamente strana.",
+          "text": "«Per me quella era una cosa decisamente strana.»",
           "variant": "normal"
         },
         {
@@ -1740,12 +1740,12 @@
         },
         {
           "type": "quote",
-          "text": "Intendevo dire se avete incontrato qualcuno fuori posto.",
+          "text": "«Intendevo dire se avete incontrato qualcuno fuori posto.»",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "Qualcuno che non avrebbe dovuto trovarsi lì.",
+          "text": "«Qualcuno che non avrebbe dovuto trovarsi lì.»",
           "variant": "normal"
         },
         {
@@ -1774,22 +1774,22 @@
         },
         {
           "type": "quote",
-          "text": "Abbiamo trovato dei cadaveri.",
+          "text": "«Abbiamo trovato dei cadaveri.»",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "Servitori.",
+          "text": "«Servitori.»",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "Nobili.",
+          "text": "«Nobili.»",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "E nell’ultima stanza ci siamo imbattuti in una donna molto alta.",
+          "text": "«E nell’ultima stanza ci siamo imbattuti in una donna molto alta.»",
           "variant": "normal"
         },
         {
@@ -1810,7 +1810,7 @@
         },
         {
           "type": "quote",
-          "text": "State pronti a qualsiasi cosa.",
+          "text": "«State pronti a qualsiasi cosa.»",
           "variant": "normal"
         },
         {
@@ -1831,12 +1831,12 @@
         },
         {
           "type": "quote",
-          "text": "Sono felice che siate riusciti a uscire vivi da quella situazione.",
+          "text": "«Sono felice che siate riusciti a uscire vivi da quella situazione.»",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "Dev’essere stato difficile affrontare tutti quei pazzi fanatici.",
+          "text": "«Dev’essere stato difficile affrontare tutti quei pazzi fanatici.»",
           "variant": "normal"
         },
         {
@@ -1849,7 +1849,7 @@
         },
         {
           "type": "quote",
-          "text": "Sono certo che Baldur’s Gate vi ricorderà come salvatori.",
+          "text": "«Sono certo che Baldur’s Gate vi ricorderà come salvatori.»",
           "variant": "normal"
         }
       ]
@@ -1885,7 +1885,7 @@
         },
         {
           "type": "quote",
-          "text": "Posso chiedervi anch’io qualcosa?",
+          "text": "«Posso chiedervi anch’io qualcosa?»",
           "variant": "normal"
         },
         {
@@ -1894,7 +1894,7 @@
         },
         {
           "type": "quote",
-          "text": "Naturalmente.",
+          "text": "«Naturalmente.»",
           "variant": "normal"
         },
         {
@@ -1907,17 +1907,17 @@
         },
         {
           "type": "quote",
-          "text": "Siamo stranieri in questa città.",
+          "text": "«Siamo stranieri in questa città.»",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "E voi fate parte di una delle famiglie più influenti di Baldur’s Gate.",
+          "text": "«E voi fate parte di una delle famiglie più influenti di Baldur’s Gate.»",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "Avete avuto notizie riguardo Elturel?",
+          "text": "«Avete avuto notizie riguardo Elturel?»",
           "variant": "normal"
         },
         {
@@ -1930,22 +1930,22 @@
         },
         {
           "type": "quote",
-          "text": "Elturel…",
+          "text": "«Elturel…»",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "Una tragedia terribile.",
+          "text": "«Una tragedia terribile.»",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "Tutti quei morti.",
+          "text": "«Tutti quei morti.»",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "La città inghiottita tra le fiamme… dev’essere stata una scena raccapricciante.",
+          "text": "«La città inghiottita tra le fiamme… dev’essere stata una scena raccapricciante.»",
           "variant": "normal"
         },
         {
@@ -1978,7 +1978,7 @@
         },
         {
           "type": "quote",
-          "text": "Avete descritto tutto perfettamente.",
+          "text": "«Avete descritto tutto perfettamente.»",
           "variant": "normal"
         },
         {
@@ -1987,12 +1987,12 @@
         },
         {
           "type": "quote",
-          "text": "Ho informatori affidabili.",
+          "text": "«Ho informatori affidabili.»",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "E le voci riguardo draghi, fiamme e portali erano troppo assurde per essere ignorate.",
+          "text": "«E le voci riguardo draghi, fiamme e portali erano troppo assurde per essere ignorate.»",
           "variant": "normal"
         },
         {
@@ -2021,7 +2021,7 @@
         },
         {
           "type": "quote",
-          "text": "Girano voci secondo cui la città sarebbe stata trascinata all’Inferno.",
+          "text": "«Girano voci secondo cui la città sarebbe stata trascinata all’Inferno.»",
           "variant": "normal"
         },
         {
@@ -2062,7 +2062,7 @@
         },
         {
           "type": "quote",
-          "text": "Sono certo che prima o poi emergerà la verità.",
+          "text": "«Sono certo che prima o poi emergerà la verità.»",
           "variant": "normal"
         },
         {
@@ -2071,12 +2071,12 @@
         },
         {
           "type": "quote",
-          "text": "Se doveste avere occasione di parlare con chiunque sia coinvolto in questa storia…",
+          "text": "«Se doveste avere occasione di parlare con chiunque sia coinvolto in questa storia…»",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "fategli sapere che stiamo cercando i nostri compagni.",
+          "text": "«fategli sapere che stiamo cercando i nostri compagni.»",
           "variant": "normal"
         },
         {
@@ -2089,7 +2089,7 @@
         },
         {
           "type": "quote",
-          "text": "Sono sicuro che otterrete delle risposte molto prima di quanto immaginiate.",
+          "text": "«Sono sicuro che otterrete delle risposte molto prima di quanto immaginiate.»",
           "variant": "normal"
         },
         {
@@ -2190,7 +2190,7 @@
         },
         {
           "type": "quote",
-          "text": "C’era una donna molto alta.",
+          "text": "«C’era una donna molto alta.»",
           "variant": "normal"
         },
         {
@@ -2203,22 +2203,22 @@
         },
         {
           "type": "quote",
-          "text": "Quando siamo arrivati, c’erano soltanto cadaveri.",
+          "text": "«Quando siamo arrivati, c’erano soltanto cadaveri.»",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "Cultisti morti.",
+          "text": "«Cultisti morti.»",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "Forse qualche servitore.",
+          "text": "«Forse qualche servitore.»",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "Difficile dirlo.",
+          "text": "«Difficile dirlo.»",
           "variant": "normal"
         },
         {
@@ -2235,12 +2235,12 @@
         },
         {
           "type": "quote",
-          "text": "Sono felice che siate riusciti a uscirne vivi.",
+          "text": "«Sono felice che siate riusciti a uscirne vivi.»",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "Affrontare tutti quei fanatici dev’essere stato… spiacevole.",
+          "text": "«Affrontare tutti quei fanatici dev’essere stato… spiacevole.»",
           "variant": "normal"
         },
         {
@@ -2265,17 +2265,17 @@
         },
         {
           "type": "quote",
-          "text": "Bene, signori.",
+          "text": "«Bene, signori.»",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "È stato un vero piacere.",
+          "text": "«È stato un vero piacere.»",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "Spero che i cocktail della Lanterna Bassa siano stati di vostro gradimento.",
+          "text": "«Spero che i cocktail della Lanterna Bassa siano stati di vostro gradimento.»",
           "variant": "normal"
         },
         {
@@ -2296,17 +2296,17 @@
         },
         {
           "type": "quote",
-          "text": "E mi raccomando…",
+          "text": "«E mi raccomando…»",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "non perdete l’invito del Conte Fowler.",
+          "text": "«non perdete l’invito del Lord Fauler.»",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "Consideratelo un consiglio da gentiluomo a gentiluomini.",
+          "text": "«Consideratelo un consiglio da gentiluomo a gentiluomini.»",
           "variant": "normal"
         },
         {
@@ -2315,7 +2315,7 @@
         },
         {
           "type": "quote",
-          "text": "Avremo molto di cui parlare, allora.",
+          "text": "«Avremo molto di cui parlare, allora.»",
           "variant": "normal"
         },
         {
@@ -2328,12 +2328,12 @@
         },
         {
           "type": "quote",
-          "text": "Oh, sì.",
+          "text": "«Oh, sì.»",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "Ne sono assolutamente certo.",
+          "text": "«Ne sono assolutamente certo.»",
           "variant": "normal"
         },
         {
@@ -2441,12 +2441,12 @@
         },
         {
           "type": "quote",
-          "text": "Voi siete quelli venuti da Elturel.",
+          "text": "«Voi siete quelli venuti da Elturel.»",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "Quelli che hanno sconfitto il Culto dei Tre Morti.",
+          "text": "«Quelli che hanno sconfitto il Culto dei Tre Morti.»",
           "variant": "normal"
         },
         {
@@ -2459,7 +2459,7 @@
         },
         {
           "type": "quote",
-          "text": "Nel caso fossimo noi?",
+          "text": "«Nel caso fossimo noi?»",
           "variant": "normal"
         },
         {
@@ -2468,12 +2468,12 @@
         },
         {
           "type": "quote",
-          "text": "È una domanda retorica.",
+          "text": "«È una domanda retorica.»",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "Conosco già la risposta.",
+          "text": "«Conosco già la risposta.»",
           "variant": "normal"
         },
         {
@@ -2502,7 +2502,7 @@
         },
         {
           "type": "quote",
-          "text": "Cosa vuoi da noi?",
+          "text": "«Cosa vuoi da noi?»",
           "variant": "normal"
         },
         {
@@ -2511,7 +2511,7 @@
         },
         {
           "type": "quote",
-          "text": "Controlla se senti presenze infernali nei dintorni.",
+          "text": "«Controlla se senti presenze infernali nei dintorni.»",
           "variant": "normal"
         },
         {
@@ -2560,12 +2560,12 @@
         },
         {
           "type": "quote",
-          "text": "Ci stanno osservando.",
+          "text": "«Ci stanno osservando.»",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "Due immondi sui tetti.",
+          "text": "«Due immondi sui tetti.»",
           "variant": "normal"
         },
         {
@@ -2578,7 +2578,7 @@
         },
         {
           "type": "quote",
-          "text": "Piacere.",
+          "text": "«Piacere.»",
           "variant": "normal"
         },
         {
@@ -2595,12 +2595,12 @@
         },
         {
           "type": "quote",
-          "text": "Non parlare apertamente.",
+          "text": "«Non parlare apertamente.»",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "Qualcuno ci sta ascoltando.",
+          "text": "«Qualcuno ci sta ascoltando.»",
           "variant": "normal"
         },
         {
@@ -2621,7 +2621,7 @@
         },
         {
           "type": "quote",
-          "text": "Ho bisogno del vostro aiuto.",
+          "text": "«Ho bisogno del vostro aiuto.»",
           "variant": "normal"
         },
         {
@@ -2638,7 +2638,7 @@
         },
         {
           "type": "quote",
-          "text": "Quello che è successo a Elturel non deve sparire nel silenzio.",
+          "text": "«Quello che è successo a Elturel non deve sparire nel silenzio.»",
           "variant": "normal"
         },
         {
@@ -2655,17 +2655,17 @@
         },
         {
           "type": "quote",
-          "text": "Facevo parte della guardia cittadina di Elturel.",
+          "text": "«Facevo parte della guardia cittadina di Elturel.»",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "Mi stavo allenando fuori città quando è successo il disastro.",
+          "text": "«Mi stavo allenando fuori città quando è successo il disastro.»",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "Quando sono tornata… ho trovato soltanto il cratere.",
+          "text": "«Quando sono tornata… ho trovato soltanto il cratere.»",
           "variant": "normal"
         },
         {
@@ -2674,7 +2674,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Il ricordo di Elturel che scompariva tra le catene e le fiamme tornò violento nella mente del gruppo."
+          "text": "Il ricordo di Elturel che scompariva tra le catene e le fiamme tornò violento nella mente del gruppo, e con esso quel rosso che nessun tramonto conosce."
         },
         {
           "type": "paragraph",
@@ -2690,7 +2690,7 @@
         },
         {
           "type": "quote",
-          "text": "Ma non è questo il punto.",
+          "text": "«Ma non è questo il punto.»",
           "variant": "normal"
         },
         {
@@ -2699,7 +2699,7 @@
         },
         {
           "type": "quote",
-          "text": "Credo che Thavius Kreeg sia qui a Baldur’s Gate.",
+          "text": "«Credo che Thavius Kreeg sia qui a Baldur’s Gate.»",
           "variant": "normal"
         },
         {
@@ -2724,7 +2724,7 @@
         },
         {
           "type": "quote",
-          "text": "Come lo sai?",
+          "text": "«Come lo sai?»",
           "variant": "normal"
         },
         {
@@ -2733,22 +2733,22 @@
         },
         {
           "type": "quote",
-          "text": "Non ne sono certa.",
+          "text": "«Non ne sono certa.»",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "Ma l’ho visto assieme a delle guardie legate ai Vanthampur.",
+          "text": "«Ma l’ho visto assieme a delle guardie legate ai Vanthampur.»",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "Ho cercato di seguirli.",
+          "text": "«Ho cercato di seguirli.»",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "Ed è così che ho origliato la vostra conversazione.",
+          "text": "«Ed è così che ho origliato la vostra conversazione.»",
           "variant": "normal"
         },
         {
@@ -2781,7 +2781,7 @@
         },
         {
           "type": "quote",
-          "text": "Pensi che Kreeg sappia cosa sia successo alla città?",
+          "text": "«Pensi che Kreeg sappia cosa sia successo alla città?»",
           "variant": "normal"
         },
         {
@@ -2790,7 +2790,7 @@
         },
         {
           "type": "quote",
-          "text": "Se qualcuno conosce la verità… è lui.",
+          "text": "«Se qualcuno conosce la verità… è lui.»",
           "variant": "normal"
         },
         {
@@ -2803,17 +2803,17 @@
         },
         {
           "type": "quote",
-          "text": "Pedinare i Vanthampur da sola è una pessima idea.",
+          "text": "«Pedinare i Vanthampur da sola è una pessima idea.»",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "La loro villa sarà piena di guardie.",
+          "text": "«La loro villa sarà piena di guardie.»",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "E se ti catturano, sparirai senza lasciare traccia.",
+          "text": "«E se ti catturano, sparirai senza lasciare traccia.»",
           "variant": "normal"
         },
         {
@@ -2822,12 +2822,12 @@
         },
         {
           "type": "quote",
-          "text": "Potrei restare con voi.",
+          "text": "«Potrei restare con voi.»",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "Ma attirerei soltanto altra attenzione.",
+          "text": "«Ma attirerei soltanto altra attenzione.»",
           "variant": "normal"
         },
         {
@@ -2840,7 +2840,7 @@
         },
         {
           "type": "quote",
-          "text": "Non sappiamo ancora se possiamo fidarci.",
+          "text": "«Non sappiamo ancora se possiamo fidarci.»",
           "variant": "normal"
         },
         {
@@ -2861,12 +2861,12 @@
         },
         {
           "type": "quote",
-          "text": "Quando avrete bisogno di me, distruggetela.",
+          "text": "«Quando avrete bisogno di me, distruggetela.»",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "Capirò che dovrò raggiungervi.",
+          "text": "«Capirò che dovrò raggiungervi.»",
           "variant": "normal"
         },
         {
@@ -2875,7 +2875,7 @@
         },
         {
           "type": "quote",
-          "text": "E se fossi tu ad avere bisogno d’aiuto?",
+          "text": "«E se fossi tu ad avere bisogno d’aiuto?»",
           "variant": "normal"
         },
         {
@@ -2884,7 +2884,7 @@
         },
         {
           "type": "quote",
-          "text": "Allora romperò la mia.",
+          "text": "«Allora romperò la mia.»",
           "variant": "normal"
         },
         {
@@ -2897,12 +2897,12 @@
         },
         {
           "type": "quote",
-          "text": "Non posso restare oltre.",
+          "text": "«Non posso restare oltre.»",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "Se scoprono che vi ho contattati, avrò addosso metà città.",
+          "text": "«Se scoprono che vi ho contattati, avrò addosso metà città.»",
           "variant": "normal"
         },
         {
@@ -2946,7 +2946,7 @@
         },
         {
           "type": "quote",
-          "text": "Buona fortuna.",
+          "text": "«Buona fortuna.»",
           "variant": "normal"
         },
         {
@@ -2987,7 +2987,7 @@
         },
         {
           "type": "quote",
-          "text": "Credo sia il caso di tornare in locanda.",
+          "text": "«Credo sia il caso di tornare in locanda.»",
           "variant": "normal"
         },
         {
@@ -3020,7 +3020,7 @@
         },
         {
           "type": "quote",
-          "text": "Tu invece no.",
+          "text": "«Tu invece no.»",
           "variant": "normal"
         },
         {
@@ -3029,7 +3029,7 @@
         },
         {
           "type": "quote",
-          "text": "Cosa c’è che non va?",
+          "text": "«Cosa c’è che non va?»",
           "variant": "normal"
         },
         {
@@ -3054,7 +3054,7 @@
         },
         {
           "type": "quote",
-          "text": "Possiamo fidarci di te?",
+          "text": "«Possiamo fidarci di te?»",
           "variant": "normal"
         },
         {
@@ -3063,7 +3063,7 @@
         },
         {
           "type": "quote",
-          "text": "Io sono la persona più affidabile che abbiate incontrato oggi.",
+          "text": "«Io sono la persona più affidabile che abbiate incontrato oggi.»",
           "variant": "normal"
         },
         {
@@ -3072,22 +3072,22 @@
         },
         {
           "type": "quote",
-          "text": "Capirai che, dal nostro punto di vista, la situazione appare… curiosa.",
+          "text": "«Capirai che, dal nostro punto di vista, la situazione appare… curiosa.»",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "Compari al gala.",
+          "text": "«Compari al gala.»",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "Poi ci ritroviamo invitati da un Vanthampur.",
+          "text": "«Poi ci ritroviamo invitati da un Vanthampur.»",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "E adesso scopriamo che hai contatti con persone che noi non conosciamo.",
+          "text": "«E adesso scopriamo che hai contatti con persone che noi non conosciamo.»",
           "variant": "normal"
         },
         {
@@ -3096,22 +3096,22 @@
         },
         {
           "type": "quote",
-          "text": "Io ero al gala per i miei motivi.",
+          "text": "«Io ero al gala per i miei motivi.»",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "E non conosco davvero Amrik.",
+          "text": "«E non conosco davvero Amrik.»",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "Ci ho parlato una volta sola.",
+          "text": "«Ci ho parlato una volta sola.»",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "Dovevo incontrare Lucius alla locanda, non certo ritrovarmi in mezzo a tutta questa follia.",
+          "text": "«Dovevo incontrare Lucius alla locanda, non certo ritrovarmi in mezzo a tutta questa follia.»",
           "variant": "normal"
         },
         {
@@ -3124,7 +3124,7 @@
         },
         {
           "type": "quote",
-          "text": "Che ne dite?",
+          "text": "«Che ne dite?»",
           "variant": "normal"
         },
         {
@@ -3133,12 +3133,12 @@
         },
         {
           "type": "quote",
-          "text": "Abbiamo appena affrontato un culto assassino.",
+          "text": "«Abbiamo appena affrontato un culto assassino.»",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "Non credo che il bardo sia il problema peggiore della serata.",
+          "text": "«Non credo che il bardo sia il problema peggiore della serata.»",
           "variant": "normal"
         },
         {
@@ -3147,7 +3147,7 @@
         },
         {
           "type": "quote",
-          "text": "Finalmente qualcuno con del buon senso.",
+          "text": "«Finalmente qualcuno con del buon senso.»",
           "variant": "normal"
         },
         {
@@ -3156,7 +3156,7 @@
         },
         {
           "type": "quote",
-          "text": "Da dove vieni davvero?",
+          "text": "«Da dove vieni davvero?»",
           "variant": "normal"
         },
         {
@@ -3165,7 +3165,7 @@
         },
         {
           "type": "quote",
-          "text": "Berdusk.",
+          "text": "«Berdusk.»",
           "variant": "normal"
         },
         {
@@ -3206,7 +3206,7 @@
         },
         {
           "type": "quote",
-          "text": "I nemici vanno tenuti più vicini degli amici.",
+          "text": "«I nemici vanno tenuti più vicini degli amici.»",
           "variant": "normal"
         },
         {
@@ -3215,7 +3215,7 @@
         },
         {
           "type": "quote",
-          "text": "Questa frase finirà malissimo.",
+          "text": "«Questa frase finirà malissimo.»",
           "variant": "normal"
         },
         {
@@ -3268,7 +3268,7 @@
         },
         {
           "type": "quote",
-          "text": "Sento un odore… familiare.",
+          "text": "«Sento un odore… familiare.»",
           "variant": "normal"
         },
         {
@@ -3277,12 +3277,12 @@
         },
         {
           "type": "quote",
-          "text": "Avete qualcosa che ci appartiene.",
+          "text": "«Avete qualcosa che ci appartiene.»",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "E sarebbe il caso di ridarcelo.",
+          "text": "«E sarebbe il caso di ridarcelo.»",
           "variant": "normal"
         },
         {
@@ -3295,7 +3295,7 @@
         },
         {
           "type": "quote",
-          "text": "E cosa vi apparterrebbe, esattamente?",
+          "text": "«E cosa vi apparterrebbe, esattamente?»",
           "variant": "normal"
         },
         {
@@ -3304,12 +3304,12 @@
         },
         {
           "type": "quote",
-          "text": "Odorate di tesoro.",
+          "text": "«Odorate di tesoro.»",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "Tesoro che appartiene al nostro ordine.",
+          "text": "«Tesoro che appartiene al nostro ordine.»",
           "variant": "normal"
         },
         {
@@ -3334,12 +3334,12 @@
         },
         {
           "type": "quote",
-          "text": "Il Culto del Drago.",
+          "text": "«Il Culto del Drago.»",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "Al servizio della Regina di Tutti i Draghi.",
+          "text": "«Al servizio della Regina di Tutti i Draghi.»",
           "variant": "normal"
         },
         {
@@ -3364,12 +3364,12 @@
         },
         {
           "type": "quote",
-          "text": "Beh, siete arrivati tardi.",
+          "text": "«Beh, siete arrivati tardi.»",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "Abbiamo già consegnato tutto a un uomo sulla nave.",
+          "text": "«Abbiamo già consegnato tutto a un uomo sulla nave.»",
           "variant": "normal"
         },
         {
@@ -3402,7 +3402,7 @@
         },
         {
           "type": "quote",
-          "text": "No.",
+          "text": "«No.»",
           "variant": "normal"
         },
         {
@@ -3423,12 +3423,12 @@
         },
         {
           "type": "quote",
-          "text": "Tu.",
+          "text": "«Tu.»",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "Tu hai qualcosa di molto più importante.",
+          "text": "«Tu hai qualcosa di molto più importante.»",
           "variant": "normal"
         },
         {
@@ -3453,7 +3453,7 @@
         },
         {
           "type": "quote",
-          "text": "Ridammi ciò che è nostro.",
+          "text": "«Ridammi ciò che è nostro.»",
           "variant": "normal"
         },
         {
@@ -3490,12 +3490,12 @@
         },
         {
           "type": "quote",
-          "text": "Ridateci ciò che appartiene al Culto.",
+          "text": "«Ridateci ciò che appartiene al Culto.»",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "E saremo lieti di andarcene.",
+          "text": "«E saremo lieti di andarcene.»",
           "variant": "normal"
         },
         {
@@ -3508,17 +3508,17 @@
         },
         {
           "type": "quote",
-          "text": "Piccolo umano.",
+          "text": "«Piccolo umano.»",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "Dammelo subito.",
+          "text": "«Dammelo subito.»",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "Oppure sarò costretto a strapparlo dal tuo cadavere ancora caldo.",
+          "text": "«Oppure sarò costretto a strapparlo dal tuo cadavere ancora caldo.»",
           "variant": "normal"
         }
       ]
@@ -3554,7 +3554,7 @@
         },
         {
           "type": "quote",
-          "text": "Possiamo restituirvi il tesoro.",
+          "text": "«Possiamo restituirvi il tesoro.»",
           "variant": "normal"
         },
         {
@@ -3571,12 +3571,12 @@
         },
         {
           "type": "quote",
-          "text": "Adesso che abbiamo capito chi siete.",
+          "text": "«Adesso che abbiamo capito chi siete.»",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "Ma magari vi interessa sapere anche chi vi ha derubati davvero.",
+          "text": "«Ma magari vi interessa sapere anche chi vi ha derubati davvero.»",
           "variant": "normal"
         },
         {
@@ -3589,12 +3589,12 @@
         },
         {
           "type": "quote",
-          "text": "Sappiamo benissimo chi ci ha sottratto il tesoro.",
+          "text": "«Sappiamo benissimo chi ci ha sottratto il tesoro.»",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "Quei maledetti del Culto dei Tre Morti.",
+          "text": "«Quei maledetti del Culto dei Tre Morti.»",
           "variant": "normal"
         },
         {
@@ -3603,12 +3603,12 @@
         },
         {
           "type": "quote",
-          "text": "No.",
+          "text": "«No.»",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "Non sono stati loro.",
+          "text": "«Non sono stati loro.»",
           "variant": "normal"
         },
         {
@@ -3633,7 +3633,7 @@
         },
         {
           "type": "quote",
-          "text": "Siete vendicativi, giusto?",
+          "text": "«Siete vendicativi, giusto?»",
           "variant": "normal"
         },
         {
@@ -3642,12 +3642,12 @@
         },
         {
           "type": "quote",
-          "text": "Facciamo ciò che la nostra dea ci ordina di fare.",
+          "text": "«Facciamo ciò che la nostra dea ci ordina di fare.»",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "Se ci ordinasse di radere al suolo questa città… lo faremmo.",
+          "text": "«Se ci ordinasse di radere al suolo questa città… lo faremmo.»",
           "variant": "normal"
         },
         {
@@ -3664,12 +3664,12 @@
         },
         {
           "type": "quote",
-          "text": "Non vogliamo altri nemici.",
+          "text": "«Non vogliamo altri nemici.»",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "E i veri responsabili di questa situazione sono altri.",
+          "text": "«E i veri responsabili di questa situazione sono altri.»",
           "variant": "normal"
         },
         {
@@ -3682,7 +3682,7 @@
         },
         {
           "type": "quote",
-          "text": "Restituiscilo.",
+          "text": "«Restituiscilo.»",
           "variant": "normal"
         },
         {
@@ -3695,7 +3695,7 @@
         },
         {
           "type": "quote",
-          "text": "Pseudo-drago.",
+          "text": "«Pseudo-drago.»",
           "variant": "normal"
         },
         {
@@ -3756,7 +3756,7 @@
         },
         {
           "type": "quote",
-          "text": "Per voi sono così importanti?",
+          "text": "«Per voi sono così importanti?»",
           "variant": "normal"
         },
         {
@@ -3765,12 +3765,12 @@
         },
         {
           "type": "quote",
-          "text": "Appartengono alla nostra regina.",
+          "text": "«Appartengono alla nostra regina.»",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "Possiedono proprietà che voi mortali non comprendete.",
+          "text": "«Possiedono proprietà che voi mortali non comprendete.»",
           "variant": "normal"
         },
         {
@@ -3779,7 +3779,7 @@
         },
         {
           "type": "quote",
-          "text": "Eppure non vi interessa sapere chi li ha rubati davvero.",
+          "text": "«Eppure non vi interessa sapere chi li ha rubati davvero.»",
           "variant": "normal"
         },
         {
@@ -3792,7 +3792,7 @@
         },
         {
           "type": "quote",
-          "text": "I Vanthampur.",
+          "text": "«I Vanthampur.»",
           "variant": "normal"
         },
         {
@@ -3809,17 +3809,17 @@
         },
         {
           "type": "quote",
-          "text": "Nobili di Baldur’s Gate.",
+          "text": "«Nobili di Baldur’s Gate.»",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "Persone viscide.",
+          "text": "«Persone viscide.»",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "Persone che potrebbero aver preso qualcosa che appartiene alla vostra dea.",
+          "text": "«Persone che potrebbero aver preso qualcosa che appartiene alla vostra dea.»",
           "variant": "normal"
         },
         {
@@ -3864,7 +3864,7 @@
         },
         {
           "type": "quote",
-          "text": "Tu parli la lingua della mia razza.",
+          "text": "«Tu parli la lingua della mia razza.»",
           "variant": "normal"
         },
         {
@@ -3873,17 +3873,17 @@
         },
         {
           "type": "quote",
-          "text": "Staresti bene tra le nostre fila.",
+          "text": "«Staresti bene tra le nostre fila.»",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "La dea potrebbe avere grandi progetti per te.",
+          "text": "«La dea potrebbe avere grandi progetti per te.»",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "Forse persino Arkhan potrebbe interessarsi a te.",
+          "text": "«Forse persino Arkhan potrebbe interessarsi a te.»",
           "variant": "normal"
         },
         {
@@ -3904,7 +3904,7 @@
         },
         {
           "type": "quote",
-          "text": "Allora forse possiamo aiutarci a vicenda.",
+          "text": "«Allora forse possiamo aiutarci a vicenda.»",
           "variant": "normal"
         },
         {
@@ -3913,17 +3913,17 @@
         },
         {
           "type": "quote",
-          "text": "Noi colpiremo i Vanthampur.",
+          "text": "«Noi colpiremo i Vanthampur.»",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "Li colpiremo nel luogo dove si sentono più sicuri.",
+          "text": "«Li colpiremo nel luogo dove si sentono più sicuri.»",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "Nella loro casa.",
+          "text": "«Nella loro casa.»",
           "variant": "normal"
         },
         {
@@ -3932,7 +3932,7 @@
         },
         {
           "type": "quote",
-          "text": "Preferiremmo agire insieme.",
+          "text": "«Preferiremmo agire insieme.»",
           "variant": "normal"
         },
         {
@@ -3945,7 +3945,7 @@
         },
         {
           "type": "quote",
-          "text": "Zorbat.",
+          "text": "«Zorbat.»",
           "variant": "normal"
         },
         {
@@ -3954,7 +3954,7 @@
         },
         {
           "type": "quote",
-          "text": "Alaster.",
+          "text": "«Alaster.»",
           "variant": "normal"
         },
         {
@@ -3971,17 +3971,17 @@
         },
         {
           "type": "quote",
-          "text": "Avete un giorno.",
+          "text": "«Avete un giorno.»",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "Noi faremo gli ultimi preparativi.",
+          "text": "«Noi faremo gli ultimi preparativi.»",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "Poi attaccheremo.",
+          "text": "«Poi attaccheremo.»",
           "variant": "normal"
         },
         {
@@ -4006,7 +4006,7 @@
         },
         {
           "type": "quote",
-          "text": "Voi siete completamente fuori di testa.",
+          "text": "«Voi siete completamente fuori di testa.»",
           "variant": "normal"
         },
         {
@@ -4015,7 +4015,7 @@
         },
         {
           "type": "quote",
-          "text": "E pensa che ci hai conosciuti solo oggi.",
+          "text": "«E pensa che ci hai conosciuti solo oggi.»",
           "variant": "normal"
         },
         {

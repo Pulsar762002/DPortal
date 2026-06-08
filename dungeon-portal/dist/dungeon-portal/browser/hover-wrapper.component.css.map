@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/shared/components/hover-wrapper/hover-wrapper.component.css"],
+  "sourcesContent": [":host { display: inline; }\n\n.character-name{\n  cursor:pointer;\n  color:inherit;\n  font-weight:inherit;\n}\n\n/* opzionale: per dare un minimo \"tooltip feeling\" */\n.character-name:hover{\n  text-decoration: underline;\n  text-underline-offset: 3px;\n}\n\n.hover-card {\n  position: fixed;\n  z-index: 99999;\n  isolation: isolate;\n  width: 900px;\n  max-width: 92vw;\n\n  background: #0f1422;   /* pieno, niente alpha */\n  backdrop-filter: none; /* \uD83D\uDD25 fondamentale */\n\n  border-radius: 18px;\n  padding: 35px;\n\n  border: 1px solid rgba(230,195,111,0.3);\n\n  box-shadow:\n    0 40px 100px rgba(0,0,0,0.9);\n}\n"],
+  "mappings": ";AAAA;AAAQ,WAAS;AAAQ;AAEzB,CAAC;AACC,UAAO;AACP,SAAM;AACN,eAAY;AACd;AAGA,CAPC,cAOc;AACb,mBAAiB;AACjB,yBAAuB;AACzB;AAEA,CAAC;AACC,YAAU;AACV,WAAS;AACT,aAAW;AACX,SAAO;AACP,aAAW;AAEX,cAAY;AACZ,2BAAiB;AAAjB,mBAAiB;AAEjB,iBAAe;AACf,WAAS;AAET,UAAQ,IAAI,MAAM,KAAK,GAAG,EAAC,GAAG,EAAC,GAAG,EAAC;AAEnC,cACE,EAAE,KAAK,MAAM,KAAK,CAAC,EAAC,CAAC,EAAC,CAAC,EAAC;AAC5B;",
+  "names": []
+}

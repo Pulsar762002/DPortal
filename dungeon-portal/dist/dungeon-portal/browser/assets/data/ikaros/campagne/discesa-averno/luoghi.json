@@ -1,0 +1,1581 @@
+{
+  "$schema": "./luoghi.schema.json",
+  "campagna": "discesa-averno",
+  "ultimoAggiornamento": 19,
+  "luoghi": [
+    {
+      "id": "elturel",
+      "nome": "Elturel",
+      "tipo": "citta",
+      "luogoPadre": null,
+      "regione": "Costa della Spada, lungo il fiume Chionthar",
+      "immagine": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-1/Elturel.png",
+      "descrizione": "La Città della Luce, a pochi giorni di viaggio nell'entroterra da Baldur's Gate. Sorge sulle rive del Chionthar ed è vegliata dal Compagno, un sole artificiale che la rende sicura dai non morti. Custodita dall'Ordine del Compagno.",
+      "stato": "scomparso",
+      "abitantiNotabili": [
+        "nathan",
+        "aelar",
+        "marcus",
+        "marta",
+        "fernand-reglisse",
+        "tarina"
+      ],
+      "primaApparizione": 1,
+      "apparizioni": [
+        1
+      ],
+      "note": [
+        {
+          "sessione": 1,
+          "testo": "Presentata come casa del gruppo: città sicura e luminosa, con scarsa affluenza di avventurieri proprio per via della sicurezza data dal Compagno."
+        },
+        {
+          "sessione": 1,
+          "testo": "Alla fine della sessione viene inghiottita dall'Averno: il Compagno si annerisce, un muro di fuoco la circonda e la città sprofonda in una voragine, lasciando solo un cratere."
+        }
+      ],
+      "misteri": [
+        "Cosa ha provocato la caduta di Elturel e il tradimento del Compagno?",
+        "Chi è sopravvissuto tra gli abitanti (Marcus, Marta, i bambini)?"
+      ]
+    },
+    {
+      "id": "il-compagno",
+      "nome": "Il Compagno",
+      "tipo": "landmark",
+      "luogoPadre": "elturel",
+      "regione": "Cielo di Elturel",
+      "immagine": null,
+      "descrizione": "Sole artificiale: una sfera bianca immobile nel cielo che irradia luce sacra senza mai affievolirsi. Apparso quasi cinquant'anni fa in risposta a un attacco di un Signore dei Vampiri, scaccia i non morti. Venerato dall'Ordine del Compagno.",
+      "stato": "distrutto",
+      "abitantiNotabili": [],
+      "primaApparizione": 1,
+      "apparizioni": [
+        1
+      ],
+      "note": [
+        {
+          "sessione": 1,
+          "testo": "Durante la caduta viene colpito da fulmini rossi, muta dal bianco al nero pece e si spegne insieme alla città."
+        }
+      ],
+      "misteri": [
+        "Qual è la vera natura e origine del Compagno?",
+        "Perché si è corrotto proprio ora?"
+      ]
+    },
+    {
+      "id": "tempio-divinita",
+      "nome": "Tempio delle Divinità",
+      "tipo": "tempio",
+      "luogoPadre": "elturel",
+      "regione": "Cuore templare di Elturel",
+      "immagine": null,
+      "descrizione": "Grande tempio con colonne imponenti e altari consacrati a più divinità. Acustica ampia che amplifica ogni passo. Qui Nathan vive e prega; Marcus vi officia.",
+      "stato": "scomparso",
+      "abitantiNotabili": [
+        "nathan",
+        "marcus"
+      ],
+      "primaApparizione": 1,
+      "apparizioni": [
+        1
+      ],
+      "note": [
+        {
+          "sessione": 1,
+          "testo": "Scena d'apertura: confronto mattutino tra Nathan e Marcus sui doveri e sulla vita da avventuriero."
+        }
+      ],
+      "misteri": []
+    },
+    {
+      "id": "orfanotrofio-marta",
+      "nome": "Orfanotrofio di Marta",
+      "tipo": "edificio",
+      "luogoPadre": "elturel",
+      "regione": "Elturel, poco distante dal Tempio",
+      "immagine": null,
+      "descrizione": "L'orfanotrofio dove Nathan è cresciuto, gestito dall'anziana e severa governante Marta. Cortile in cui i bambini giocano; interno pieno di vita e di ricordi per Nathan.",
+      "stato": "scomparso",
+      "abitantiNotabili": [
+        "marta",
+        "nathan"
+      ],
+      "primaApparizione": 1,
+      "apparizioni": [
+        1
+      ],
+      "note": [
+        {
+          "sessione": 1,
+          "testo": "Nathan vi torna in visita: gioca con i bambini e saluta le tutrici."
+        }
+      ],
+      "misteri": [
+        "Marta e i bambini sono sopravvissuti alla caduta della città?"
+      ]
+    },
+    {
+      "id": "gilda-avventurieri",
+      "nome": "Gilda degli Avventurieri",
+      "tipo": "edificio",
+      "luogoPadre": "elturel",
+      "regione": "Elturel",
+      "immagine": null,
+      "descrizione": "Sede degli incarichi per avventurieri, meno affollata del previsto per via della sicurezza cittadina. Ha una bacheca degli annunci, un punto di ristoro e una sala d'addestramento adiacente.",
+      "stato": "scomparso",
+      "abitantiNotabili": [
+        "nathan",
+        "aelar"
+      ],
+      "primaApparizione": 1,
+      "apparizioni": [
+        1
+      ],
+      "note": [
+        {
+          "sessione": 1,
+          "testo": "Luogo dell'incontro tra Nathan e Aelar e dell'accettazione dell'incarico di scorta a Fernand."
+        }
+      ],
+      "misteri": []
+    },
+    {
+      "id": "seme-di-papavero",
+      "nome": "Il Seme di Papavero",
+      "tipo": "bottega",
+      "luogoPadre": "elturel",
+      "regione": "Distretto ovest di Elturel",
+      "immagine": null,
+      "descrizione": "Bottega d'erboristeria di Fernand Règlisse: esterno rigoglioso con vasi di piante e fiori, alte vetrate e un piccolo sottotetto con travi a vista.",
+      "stato": "scomparso",
+      "abitantiNotabili": [
+        "fernand-reglisse"
+      ],
+      "primaApparizione": 1,
+      "apparizioni": [
+        1
+      ],
+      "note": [
+        {
+          "sessione": 1,
+          "testo": "Trovata chiusa: Fernand era alla taverna. Il gruppo vi torna per recuperare l'equipaggiamento prima di partire."
+        }
+      ],
+      "misteri": []
+    },
+    {
+      "id": "chanson-rouge",
+      "nome": "La Chanson Rouge",
+      "tipo": "taverna",
+      "luogoPadre": "elturel",
+      "regione": "Zona periferica e popolare di Elturel",
+      "immagine": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-1/LaChansonRouge.png",
+      "descrizione": "Taverna sempre animata, priva di vere finestre e illuminata da candelabri e luci di scena: entrarvi fa perdere il senso del tempo. Ha un palco con tende cremisi dove si esibisce Tarina, la cantante tiefling.",
+      "stato": "scomparso",
+      "abitantiNotabili": [
+        "tarina",
+        "fernand-reglisse"
+      ],
+      "primaApparizione": 1,
+      "apparizioni": [
+        1
+      ],
+      "note": [
+        {
+          "sessione": 1,
+          "testo": "Il gruppo vi trova Fernand reduce da una notte di eccessi. Si vocifera sull'età reale di Tarina."
+        }
+      ],
+      "misteri": [
+        "Il legame tra Tarina e la taverna, e il mistero della sua età."
+      ]
+    },
+    {
+      "id": "boschi-elturel",
+      "nome": "Boschi fuori Elturel",
+      "tipo": "bosco",
+      "luogoPadre": null,
+      "regione": "Campagna oltre le mura di Elturel",
+      "immagine": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-1/BoschiElturel.png",
+      "descrizione": "Foresta fitta di alberi antichi e sottobosco denso oltre le mura, dove la sicurezza del Compagno si assottiglia. Sentieri battuti, erba alta, radure tra grandi massi.",
+      "stato": "intatto",
+      "abitantiNotabili": [
+        "kyran",
+        "goblin-bosco"
+      ],
+      "primaApparizione": 1,
+      "apparizioni": [
+        1
+      ],
+      "note": [
+        {
+          "sessione": 1,
+          "testo": "Teatro della raccolta di erbe, dell'avvistamento di Aeren, della scoperta di Kyran e del primo scontro coi goblin."
+        }
+      ],
+      "misteri": [
+        "Perché i goblin davano la caccia a Kyran in questi boschi?"
+      ]
+    },
+    {
+      "id": "cratere-elturel",
+      "nome": "Cratere di Elturel",
+      "tipo": "landmark",
+      "luogoPadre": null,
+      "regione": "Dove sorgeva Elturel",
+      "immagine": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-1/LaFineDiElturel.png",
+      "descrizione": "L'immensa voragine rimasta dopo che la città è stata trascinata nell'Averno: una cicatrice fumante di zolfo dove un tempo splendeva la Città della Luce.",
+      "stato": "intatto",
+      "abitantiNotabili": [],
+      "primaApparizione": 1,
+      "apparizioni": [
+        1,
+        2
+      ],
+      "note": [
+        {
+          "sessione": 1,
+          "testo": "Si forma alla fine della sessione, sotto gli occhi del gruppo dalla collina e di Alaster dalla carrozza opposta."
+        },
+        {
+          "sessione": 2,
+          "testo": "Da vicino è una mutilazione profonda (una quarantina di passi di sottosuolo strappati), non un abisso infinito. Le fattorie fuori le mura bruciano; tra i sopravvissuti dilaga l'anarchia."
+        }
+      ],
+      "misteri": [
+        "Cosa resta sul fondo della voragine? È un varco ancora aperto verso l'Averno?"
+      ]
+    },
+    {
+      "id": "baldurs-gate",
+      "nome": "Baldur's Gate",
+      "tipo": "citta",
+      "luogoPadre": null,
+      "regione": "Costa della Spada, molte miglia a ovest di Elturel",
+      "immagine": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-3/BaldursGate.png",
+      "descrizione": "Grande città mercantile a ovest di Elturel, con cui i rapporti non sono mai stati semplici. Vi sorge la magione nobiliare della famiglia di Alaster, tra marmi scuri e drappi rosso cremisi.",
+      "stato": "intatto",
+      "abitantiNotabili": [
+        "alaster",
+        "genitori-alaster",
+        "granduca-ravengard"
+      ],
+      "primaApparizione": 1,
+      "apparizioni": [
+        1,
+        2,
+        3,
+        9,
+        14,
+        16
+      ],
+      "note": [
+        {
+          "sessione": 1,
+          "testo": "Compare nel flashback 'quattro giorni prima': qui Alaster riceve dai genitori l'incarico di seguire il Granduca Ravengard."
+        },
+        {
+          "sessione": 2,
+          "testo": "Diventa la meta del gruppo. Si apprende che il Granduca era diretto a Elturel: la città resterà nel caos senza di lui. I profughi vi si riverseranno."
+        },
+        {
+          "sessione": 3,
+          "testo": "Il gruppo vi arriva. È divisa in città esterna (baracche e profughi) e città bassa, separate dalla Porta del Basilisco e sorvegliate dai Pugni Fiammanti."
+        },
+        {
+          "sessione": 9,
+          "testo": "Di notte, sotto la pioggia, la citta si trasforma: serrande abbassate, strade vuote, passanti diffidenti. Il gruppo l'attraversa in silenzio per raggiungere le terme. Nell'ufficio dei Pugni Fiammanti emerge una talpa interna e si rafforza il sospetto sulla Duchessa Vanthampur."
+        },
+        {
+          "sessione": 14,
+          "testo": "Dopo la vittoria sul Culto la citta acclama gli Extermina come eroi, ma proprio per questo ogni loro movimento e ormai osservato. Scendendo dalla Citta Alta al porto, il cielo si fa nero dal mare e cade una pioggia fredda e salmastra: la citta, su piu livelli sopra antichi approdi di pirati, mostra il suo volto piu cupo."
+        },
+        {
+          "sessione": 16,
+          "testo": "Citta tesa e quasi sospesa in attesa della cena. Vi torna vivo Ulder Ravengard (confermato al tempio). Sullo sfondo: il massacro rituale della famiglia Jasso e la presenza diffusa di spie. Alaster vi raccoglie vecchie storie sul Culto del Drago."
+        }
+      ],
+      "misteri": [
+        "Quali interessi muovono la famiglia di Alaster e la città nella vicenda del Granduca?"
+      ]
+    },
+    {
+      "id": "campi-della-morte",
+      "nome": "Campi della Morte",
+      "tipo": "regione",
+      "luogoPadre": null,
+      "regione": "Tra Elturel e Baldur's Gate",
+      "immagine": null,
+      "descrizione": "Terre maledette e infestate lungo la via, ragione per cui in quelle zone non sorgono grandi città. Di notte attirano lupi e creature peggiori, soprattutto dove ci sono cadaveri.",
+      "stato": "intatto",
+      "abitantiNotabili": [],
+      "primaApparizione": 2,
+      "apparizioni": [
+        2
+      ],
+      "note": [
+        {
+          "sessione": 2,
+          "testo": "Citati come pericolo durante il viaggio: spingono il gruppo a non accamparsi presso il cratere e a tenersi al fiume."
+        }
+      ],
+      "misteri": [
+        "Cosa infesta davvero i Campi della Morte?"
+      ]
+    },
+    {
+      "id": "strada-chionthar",
+      "nome": "Strada lungo il Chionthar",
+      "tipo": "regione",
+      "luogoPadre": null,
+      "regione": "Valle del fiume Chionthar",
+      "immagine": null,
+      "descrizione": "Il percorso a piedi verso Baldur's Gate segue il fiume Chionthar, unica guida sicura per non perdersi. Costellato di piccoli villaggi agricoli, senza guaritori né forze organizzate.",
+      "stato": "intatto",
+      "abitantiNotabili": [
+        "bromas"
+      ],
+      "primaApparizione": 2,
+      "apparizioni": [
+        2
+      ],
+      "note": [
+        {
+          "sessione": 2,
+          "testo": "Il gruppo lo percorre con la carovana di Bromas; lungo la via trovano profughi e morti di stenti."
+        }
+      ],
+      "misteri": []
+    },
+    {
+      "id": "accampamento-profughi",
+      "nome": "Accampamento dei profughi",
+      "tipo": "struttura",
+      "luogoPadre": "strada-chionthar",
+      "regione": "Strada per Baldur's Gate",
+      "immagine": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-2/Accampamento.png",
+      "descrizione": "Cerchio imperfetto di carrozze e palizzate improvvisate dove una quarantina di profughi (contadini, artigiani, famiglie, nessun soldato) si raccoglie per passare le notti. Non una fortificazione: un tentativo.",
+      "stato": "danneggiato",
+      "abitantiNotabili": [
+        "bromas",
+        "lian",
+        "nue",
+        "mevil",
+        "gullivan",
+        "alyssa",
+        "darsus"
+      ],
+      "primaApparizione": 2,
+      "apparizioni": [
+        2
+      ],
+      "note": [
+        {
+          "sessione": 2,
+          "testo": "Assaltato di notte da una banda di predoni con ordigni incendiari; l'attacco è respinto dal gruppo."
+        }
+      ],
+      "misteri": [
+        "Chi ha organizzato l'assalto e perché?"
+      ]
+    },
+    {
+      "id": "citta-esterna-bg",
+      "nome": "Città esterna di Baldur's Gate",
+      "tipo": "struttura",
+      "luogoPadre": "baldurs-gate",
+      "regione": "Baldur's Gate, oltre il Ponte del Dragone",
+      "immagine": null,
+      "descrizione": "La fascia più povera della città, fuori dalle mura della città bassa: baracche di legno addossate alla pietra, fango e miseria, ora gremita di migliaia di profughi di Elturel.",
+      "stato": "intatto",
+      "abitantiNotabili": [
+        "bromas",
+        "gullivan"
+      ],
+      "primaApparizione": 3,
+      "apparizioni": [
+        3
+      ],
+      "note": [
+        {
+          "sessione": 3,
+          "testo": "I profughi della carovana restano qui, fuori dalla città bassa."
+        }
+      ],
+      "misteri": []
+    },
+    {
+      "id": "porta-del-basilisco",
+      "nome": "La Porta del Basilisco",
+      "tipo": "landmark",
+      "luogoPadre": "baldurs-gate",
+      "regione": "Baldur's Gate, tra città esterna e città bassa",
+      "immagine": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-3/LaPortaDelBasilisco.png",
+      "descrizione": "Imponente arco di pietra tra torri massicce, marchiato dagli arazzi dei Pugni Fiammanti (un pugno avvolto dalle fiamme). Costruito per dominare, non per accogliere: filtra chi può entrare nella città bassa.",
+      "stato": "intatto",
+      "abitantiNotabili": [
+        "zodge",
+        "pugni-fiammanti"
+      ],
+      "primaApparizione": 3,
+      "apparizioni": [
+        3
+      ],
+      "note": [
+        {
+          "sessione": 3,
+          "testo": "Migliaia di profughi vi premono contro; il gruppo passa solo grazie ad Alaster e all'arruolamento di Zodge."
+        }
+      ],
+      "misteri": []
+    },
+    {
+      "id": "taverna-canto-elfico",
+      "nome": "Taverna del Canto Elfico",
+      "tipo": "taverna",
+      "luogoPadre": "baldurs-gate",
+      "regione": "Città bassa di Baldur's Gate",
+      "immagine": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-3/Locanda_Canto_Elfico.png",
+      "descrizione": "Locanda robusta e sorprendentemente ordinata, in pietra e legno, con privé e un piano superiore per giocatori e armati. Sul palco un fantasma canta in elfico una ballata d'amore perduto.",
+      "stato": "intatto",
+      "abitantiNotabili": [
+        "alan",
+        "elis",
+        "tarina",
+        "clayton",
+        "sylvar"
+      ],
+      "primaApparizione": 3,
+      "apparizioni": [
+        3,
+        4,
+        5,
+        7,
+        16,
+        17
+      ],
+      "note": [
+        {
+          "sessione": 3,
+          "testo": "Qui il gruppo recluta Elis; viene poi devastata dall'assalto dei pirati in cerca di Tarina."
+        },
+        {
+          "sessione": 4,
+          "testo": "Devastata dalla rissa coi pirati; vi muore l'ogre Scona. Il gruppo vi torna a fine sessione per curarsi."
+        },
+        {
+          "sessione": 5,
+          "testo": "Il gruppo vi si rifugia per la notte; qui Tarina racconta il suo passato prima di andarsene."
+        },
+        {
+          "sessione": 7,
+          "testo": "Riparata e di nuovo affollata. Il gruppo vi si riunisce, mangia e pianifica; Alan racconta delle terme finanziate dalla Duchessa Vanthampur. Di notte Alaster vi affronta la muta e all'alba Aelar la seconda mutazione in una saletta riservata. Compare il dragonide goloso Clayton."
+        },
+        {
+          "sessione": 16,
+          "testo": "Di nuovo base del gruppo. Vi si pianifica la cena di Fauler e l'assalto alla villa Vanthampur, si discute l'alleanza col Culto del Drago e Sylvar chiarisce le sue intenzioni. Qui Sylvar dimostra i poteri druidici facendo crescere una piantina che Alan scambia per erba proibita ('la Maria')."
+        },
+        {
+          "sessione": 17,
+          "testo": "Il gruppo vi torna dopo la cena col 'Lord Fauler' e vi prepara l'assalto alla villa Vanthampur, discutendo equipaggiamento e tattiche."
+        }
+      ],
+      "misteri": []
+    },
+    {
+      "id": "terme-nord-bg",
+      "nome": "Centro termale della zona nord",
+      "tipo": "struttura",
+      "luogoPadre": "baldurs-gate",
+      "regione": "Città bassa di Baldur's Gate, zona nord",
+      "immagine": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-8/terme.png",
+      "descrizione": "Le terme della zona nord di Baldur's Gate, copertura del Culto dei Tre Morti. Edificio a un piano ma sontuoso: mura candide, portone di legno con ninfe danzanti, giardino con siepi scolpite e fontane di marmo da cui sgorga acqua calda viva, e una sala principale di marmo e colonne satura di vapore e profumi. Acque mantenute calde magicamente. Sotto la perfezione di facciata si nascondono stanze modificate e un passaggio segreto.",
+      "stato": "intatto",
+      "abitantiNotabili": [
+        "culto-tre-morti"
+      ],
+      "primaApparizione": 3,
+      "apparizioni": [
+        3,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "note": [
+        {
+          "sessione": 3,
+          "testo": "Individuato da Elis come probabile covo del Culto; meta della prossima indagine."
+        },
+        {
+          "sessione": 4,
+          "testo": "Meta verso cui il gruppo si dirige di notte, ma un agguato del Culto nel vicolo li ferma prima di arrivarci."
+        },
+        {
+          "sessione": 7,
+          "testo": "Secondo Alan sono chiuse da tempo per problemi strutturali e prossime alla riapertura; i lavori sono stati finanziati dalla Duchessa Vanthampur, che gestisce fogne e acqua di Baldur's Gate. Il gruppo valuta di introdursi sfruttando i contatti di Alaster."
+        },
+        {
+          "sessione": 8,
+          "testo": "Visitate dall'interno dal gruppo, fintosi clientela nobile. Dietro l'eleganza si celano stanze ristrutturate e ristrette, attivita notturne (figure che entrano dopo la chiusura) e un passaggio segreto azionato da un meccanismo dietro un vaso, in una stanza privata. Il gruppo individua l'accesso ma rimanda l'esplorazione alla notte. La struttura e finanziata dalla Duchessa Vanthampur."
+        },
+        {
+          "sessione": 9,
+          "testo": "Assaltate di notte dal gruppo. Deserte ma con le vasche ancora colme; nella stanza dei massaggi un'avanguardia di cultisti tende un'imboscata e viene eliminata in silenzio. Il meccanismo nascosto dietro il vaso, azionato con un tocco, apre un passaggio segreto verso un covo sotterraneo. Le terme appartengono alla Duchessa Vanthampur: si conferma facciata del Culto dei Tre Morti."
+        },
+        {
+          "sessione": 10,
+          "testo": "I sotterranei sotto le terme continuano a svelarsi: oltre il santuario delle tre porte si estendono stanze rituali, cripte funerarie e camere di tortura. La 'facciata' termale nasconde una vera e propria centrale del Culto dei Tre Morti dedicata alla schedatura delle famiglie cittadine."
+        }
+      ],
+      "misteri": [
+        "Le terme nascondono davvero il covo del Culto dei Tre Morti?",
+        "Che legame c'e tra le terme, la Duchessa Vanthampur e il Culto dei Tre Morti?",
+        "Dove conduce il passaggio segreto azionato dal meccanismo dietro il vaso?",
+        "Camilla e le altre presenze 'non umane' delle terme che ruolo hanno nel covo del Culto?"
+      ]
+    },
+    {
+      "id": "avamposto-milizia",
+      "nome": "Avamposto della milizia",
+      "tipo": "struttura",
+      "luogoPadre": "baldurs-gate",
+      "regione": "Città bassa di Baldur's Gate",
+      "immagine": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-4/Prigioni.png",
+      "descrizione": "Struttura austera dei Pugni Fiammanti con un livello interrato adibito a celle: pietra umida, grate d'acciaio, una tubatura che gocciola di continuo.",
+      "stato": "intatto",
+      "abitantiNotabili": [
+        "darmian",
+        "clayton"
+      ],
+      "primaApparizione": 4,
+      "apparizioni": [
+        4
+      ],
+      "note": [
+        {
+          "sessione": 4,
+          "testo": "Il gruppo vi è imprigionato dopo la rissa; viene liberato grazie a Dorian Nodorovo."
+        }
+      ],
+      "misteri": []
+    },
+    {
+      "id": "vicolo-tre-morti",
+      "nome": "Vicolo del Culto",
+      "tipo": "landmark",
+      "luogoPadre": "baldurs-gate",
+      "regione": "Città bassa di Baldur's Gate, zona nord",
+      "immagine": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-4/VicoloTreMorti.png",
+      "descrizione": "Stretto vicolo buio dal selciato umido dove i cultisti dei Tre Morti depredano le loro vittime per i riti.",
+      "stato": "intatto",
+      "abitantiNotabili": [
+        "culto-tre-morti"
+      ],
+      "primaApparizione": 4,
+      "apparizioni": [
+        4
+      ],
+      "note": [
+        {
+          "sessione": 4,
+          "testo": "Teatro dell'agguato dei mirkuliti al gruppo, sulla via per le terme."
+        }
+      ],
+      "misteri": []
+    },
+    {
+      "id": "emporio-black",
+      "nome": "Emporio Black",
+      "tipo": "struttura",
+      "luogoPadre": "baldurs-gate",
+      "regione": "Mercato nero di Baldur's Gate",
+      "immagine": null,
+      "descrizione": "Un emporio del mercato nero dove, secondo Clayton, circolano le monete d'osso del Culto dei Tre Morti.",
+      "stato": "distrutto",
+      "abitantiNotabili": [
+        "obaia-black",
+        "culto-tre-morti"
+      ],
+      "primaApparizione": 4,
+      "apparizioni": [
+        4,
+        5,
+        6
+      ],
+      "note": [
+        {
+          "sessione": 4,
+          "testo": "Indicato come pista per risalire al Culto, grazie alla moneta d'osso trovata sui cultisti."
+        },
+        {
+          "sessione": 5,
+          "testo": "Visitato: è la copertura del Culto, col simbolo dei Tre Morti sulla maniglia. Dietro nasconde il passaggio per il Tempio di Myrkul."
+        },
+        {
+          "sessione": 6,
+          "testo": "Incendiato da un ignoto mentre il gruppo ne usciva: l'edificio brucia del tutto."
+        }
+      ],
+      "misteri": [
+        "Qual è il legame tra l'Emporio Black e il Culto dei Tre Morti?"
+      ]
+    },
+    {
+      "id": "mercato-nero-bg",
+      "nome": "Mercato nero",
+      "tipo": "struttura",
+      "luogoPadre": "baldurs-gate",
+      "regione": "Città Bassa di Baldur's Gate, zona meridionale (presso il porto)",
+      "immagine": null,
+      "descrizione": "Dedalo di vicoli stretti e svolte studiate per far perdere l'orientamento agli estranei. Niente insegne: gli affari veri si trattano dietro tende e bancarelle anonime.",
+      "stato": "intatto",
+      "abitantiNotabili": [
+        "obaia-black",
+        "clea"
+      ],
+      "primaApparizione": 5,
+      "apparizioni": [
+        5
+      ],
+      "note": [
+        {
+          "sessione": 5,
+          "testo": "Il gruppo lo attraversa per raggiungere l'Emporio Black; qui Alaster incontra Clea."
+        }
+      ],
+      "misteri": []
+    },
+    {
+      "id": "tempio-myrkul",
+      "nome": "Tempio di Myrkul",
+      "tipo": "tempio",
+      "luogoPadre": "emporio-black",
+      "regione": "Sotterranei dell'Emporio Black, Città Bassa",
+      "immagine": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-5/IngressoTempioMirkul.png",
+      "descrizione": "Cripta sotterranea consacrata a Myrkul, nascosta dietro l'Emporio Black. Vi si accede dal passaggio segreto e dal rito delle tre porte; al centro una statua del Signore delle Ossa anima i non-morti.",
+      "stato": "danneggiato",
+      "abitantiNotabili": [
+        "flenner",
+        "culto-tre-morti"
+      ],
+      "primaApparizione": 5,
+      "apparizioni": [
+        5,
+        6
+      ],
+      "note": [
+        {
+          "sessione": 5,
+          "testo": "Il gruppo vi affronta e uccide l'Alto Myrkulita Flenner e distrugge la statua rituale di Myrkul."
+        },
+        {
+          "sessione": 6,
+          "testo": "Saccheggiato: recuperati Libro dei Morti, una sfera magica, veleno e bottino dalla Sala delle Offerte (oltre un muro-sigillo). Una tomba profanata maledice Elis."
+        }
+      ],
+      "misteri": [
+        "Quante altre celle nascoste ha il Culto dei Tre Morti sotto Baldur's Gate?"
+      ]
+    },
+    {
+      "id": "citta-alta-bg",
+      "nome": "Città Alta di Baldur's Gate",
+      "tipo": "struttura",
+      "luogoPadre": "baldurs-gate",
+      "regione": "Baldur's Gate, dentro le mura interne",
+      "immagine": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-12/La Citta' Alta.png",
+      "descrizione": "La parte alta e patrizia della città, sede dei Patriarchi e del potere. Difficile da raggiungere per chi non vi appartiene.",
+      "stato": "intatto",
+      "abitantiNotabili": [
+        "zodge",
+        "dorian",
+        "vassander-nodorovo",
+        "seraphine-nodorovo"
+      ],
+      "primaApparizione": 5,
+      "apparizioni": [
+        5,
+        12,
+        13,
+        14,
+        16,
+        17,
+        18,
+        19
+      ],
+      "note": [
+        {
+          "sessione": 5,
+          "testo": "Citata: Zodge vi è in consiglio coi Patriarchi per l'emergenza profughi; vi si dilegua anche Dorian."
+        },
+        {
+          "sessione": 12,
+          "testo": "Visitata per la prima volta dal gruppo: balconi fioriti, strade pulite, lampioni a fiamma perenne, nessun mendicante e guardie private. Qui i Pugni Fiammeggianti non hanno autorita: comandano le casate. Il solo nome di Alaster apre ogni porta. Vi si trova la bottega del sarto Romeo ('Il Filo di Romeo'). Il gruppo e atteso qui per la serata commemorativa in suo onore."
+        },
+        {
+          "sessione": 13,
+          "testo": "Esplorata a fondo: piazza centrale dove ogni sera i mercatini della Citta Bassa vengono espulsi ('uno stato nello stato'), cancelli sorvegliati che ammettono solo chi ha permessi o inviti, fontane, piazze-giardino e balconi fioriti. Qui sorgono la Villa Nodorovo e il palazzo della famiglia Vanthampur che ospita il gala dei Patriar. Sylvar vi entra spacciandosi per collaboratore della Duchessa."
+        },
+        {
+          "sessione": 14,
+          "testo": "Lasciata la Villa Nodorovo, il gruppo sosta nelle strade eleganti della Citta Alta e decide di dividersi prima di scendere al porto: Nathan ed Elis al tempio, gli altri a sbrigare affari e raccogliere informazioni. Alaster vi sparge discretamente la voce per vendere il bottino di gioielli senza i canali abituali di famiglia."
+        },
+        {
+          "sessione": 16,
+          "testo": "Elis tenta invano di entrarvi vantando gli 'Extermina' e Gortash: le guardie private lo respingono (serve permesso o accompagnamento nobiliare; mazzetta richiesta troppo alta). Emerge che qui non comandano i Pugni Fiammeggianti ma le casate, con guardie pagate per proteggere i ricchi."
+        },
+        {
+          "sessione": 17,
+          "testo": "Teatro delle ricognizioni: la magione Nodorovo, l'armeria di Ferroteso, la Torre di Ramazith e i vicoli dove Kyran e assalita da Kanbos. Zona sorvegliatissima, comandata dai nobili e dalle loro guardie, dove i Pugni Fiammanti non hanno autorita."
+        },
+        {
+          "sessione": 18,
+          "testo": "Teatro dei preparativi e dell'assalto: nei vicoli gli Extermina congedano le guardie dopo lo scontro coi demoni, rivendono componenti alla Torre di Ramazith, ritirano le armi dal fabbro Ferroteso e si riuniscono al tramonto nella piazza del mercato. Una casa cittadina presso la villa Vanthampur ospita il quartier generale temporaneo del Culto del Drago, da cui parte l'attacco notturno alla residenza."
+        },
+        {
+          "sessione": 19,
+          "testo": "Prosegue l'assalto notturno alla villa Vanthampur nel cuore patrizio della Citta Alta: il Culto del Drago tiene impegnate le guardie private della casata nel cortile mentre gli Extermina espugnano piano per piano la residenza."
+        }
+      ],
+      "misteri": []
+    },
+    {
+      "id": "rosa-canina",
+      "nome": "Erboristeria La Rosa Canina",
+      "tipo": "bottega",
+      "luogoPadre": "baldurs-gate",
+      "regione": "Città Bassa di Baldur's Gate, a nord presso la taverna",
+      "immagine": null,
+      "descrizione": "Erboristeria ordinata e profumata, gestita dal forgiato Derek: erbe essiccate, radici in liquidi ambrati, barattoli di polveri. Un riccio domestico vive sul bancone.",
+      "stato": "intatto",
+      "abitantiNotabili": [
+        "derek"
+      ],
+      "primaApparizione": 6,
+      "apparizioni": [
+        6
+      ],
+      "note": [
+        {
+          "sessione": 6,
+          "testo": "Aelar e Kyran vi fanno analizzare il veleno di viverna e la polvere d'ossa runica; comprano una pozione curativa."
+        }
+      ],
+      "misteri": []
+    },
+    {
+      "id": "tempio-helm",
+      "nome": "Tempio di Helm",
+      "tipo": "tempio",
+      "luogoPadre": "baldurs-gate",
+      "regione": "Baldur's Gate",
+      "immagine": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-7/Il_Tempio_Di_Helm.png",
+      "descrizione": "Fortezza consacrata a Helm il Vigilante: scalinata, statua di un cavaliere con la spada puntata a terra, navate con scene del dio e guardie-soldato della fede.",
+      "stato": "intatto",
+      "abitantiNotabili": [
+        "nathan",
+        "elis",
+        "david-norman",
+        "roland-revengar-templare"
+      ],
+      "primaApparizione": 6,
+      "apparizioni": [
+        6,
+        7,
+        14
+      ],
+      "note": [
+        {
+          "sessione": 6,
+          "testo": "Nathan ed Elis vi portano il Libro dei Morti: il chierico inorridisce e il gran sacerdote accetta di riceverli sotto scorta."
+        },
+        {
+          "sessione": 7,
+          "testo": "Visto dall'interno: fortezza sacra con colonne di marmo, drappi col guanto di Helm e una gigantesca statua del Guardiano con la spada puntata a terra. Nella sacrestia il vescovo David Norman e il Gran Templare Roland Revengar ricevono Nathan ed Elis: purificano il libro dei mirkuliti e Nathan vi pronuncia il suo giuramento."
+        },
+        {
+          "sessione": 14,
+          "testo": "Nathan, Elis e Kyran vi tornano (qui chiamato 'tempio di Helm') poco prima di mezzogiorno. Il vescovo David Orman/Norman e cinque sacerdoti vi purificano la spada maledetta, poi celebrano il rituale che libera Elis dalla maledizione della tomba (la melma nera espulsa evapora sul pavimento). NB DA-RISOLVERE punto 7: 'tempio di Helm' (S14) e lo stesso 'Tempio di Helm' (S7); id riusato."
+        }
+      ],
+      "misteri": [
+        "Cosa rivelerà il gran sacerdote di Helm sul Libro dei Morti e sul Culto?"
+      ]
+    },
+    {
+      "id": "sacrestia-helm",
+      "nome": "Sacrestia del Tempio di Helm",
+      "tipo": "struttura",
+      "luogoPadre": "tempio-helm",
+      "regione": "Baldur's Gate",
+      "immagine": null,
+      "descrizione": "Stanza appartata dietro la navata principale, isolata da pesanti porte. Marmo bianco, drappi sacri, scaffali con antichi testi e un piccolo altare di pietra. Qui le autorita del tempio ricevono i visitatori lontano dagli sguardi dei fedeli.",
+      "stato": "intatto",
+      "abitantiNotabili": [
+        "david-norman",
+        "roland-revengar-templare",
+        "nathan",
+        "elis"
+      ],
+      "primaApparizione": 7,
+      "apparizioni": [
+        7
+      ],
+      "note": [
+        {
+          "sessione": 7,
+          "testo": "Teatro dell'intera vicenda al tempio: purificazione del libro dei mirkuliti, giuramento di Nathan come Sentinella di Helm e le confidenze di Elis sull'ombra perduta."
+        }
+      ],
+      "misteri": []
+    },
+    {
+      "id": "covo-tre-morti",
+      "nome": "Covo dei Tre Morti",
+      "tipo": "struttura",
+      "luogoPadre": "terme-nord-bg",
+      "regione": "Sotterranei delle terme della zona nord, Baldur's Gate",
+      "immagine": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-9/Accesso Al Covo.png",
+      "descrizione": "Labirinto sotterraneo allagato sotto le terme della zona nord, raggiungibile da un passaggio segreto azionato da un meccanismo dietro un vaso. Gallerie strette e diramate, travi marce, acqua stagnante che lambisce le caviglie e riflette ombre distorte; un buio 'antico' che pare osservare. Vi si apre un santuario con le tre porte di Bhaal, Bane e Myrkul, una sala con un altare di Bhaal ricoperto di viscere, un arazzo che cela spore vive, e stanze con sarcofagi e cultisti non-morti. Piu che un luogo di culto, una 'macchina' del Culto dei Tre Morti.",
+      "stato": "danneggiato",
+      "abitantiNotabili": [
+        "culto-tre-morti"
+      ],
+      "primaApparizione": 9,
+      "apparizioni": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "note": [
+        {
+          "sessione": 9,
+          "testo": "Scoperto e parzialmente esplorato dal gruppo: eliminata un'avanguardia di cultisti, trovati l'altare di Bhaal con un corpo giustiziato (morto da due giorni), l'arazzo del sacrificio a Myrkul con spore vive e cultisti non-morti di Myrkul. Il covo e stranamente quasi deserto: 'preparato' e in attesa. Oltre l'ultima porta, un corridoio profondo conduce verso il cuore del culto."
+        },
+        {
+          "sessione": 10,
+          "testo": "Esplorazione approfondita: nelle gallerie allagate il gruppo affronta una cultista della Mano (Bhaal) e un Console di Ferro di Bane a guardia di un prigioniero, poi Flenner tornato non-morto coi suoi zombie. Oltre si aprono una stanza rituale, una cripta con nicchie funerarie violate e altari dall'odore solforato 'quasi infernale', e una stanza di tortura insanguinata. Il covo si rivela una macchina per estorcere informazioni alle famiglie nobili e mercantili della citta. Restano un corridoio interno e i livelli piu profondi, dove 'qualcosa di pesante si trascina sulla pietra'."
+        },
+        {
+          "sessione": 11,
+          "testo": "Esplorazione ulteriore: oltre le tre porte iniziali il gruppo trova una cripta col sarcofago colmo di sangue, un corridoio teatro dell'imboscata degli accoliti, una sala col sarcofago-tavolo da gioco e un passaggio segreto (azionato da una base per torcia) che scende a un passaggio allagato. Li si combattono cultisti, un gigante alleato della Duchessa Vanthampur (Mortlock) e la mutaforma Orin Pugnasangue. Il covo si conferma una radice che sale fino al cuore politico di Baldur's Gate."
+        },
+        {
+          "sessione": 12,
+          "testo": "Saccheggiato e abbandonato: spartito il bottino dei culti e svuotati i forzieri (tesoro per oltre 2600 mo, due fiale di Respiro di Fuoco, maschera di drago, corona delle cinque cromie). Nella sala rituale tre statue consacrate di Bhaal, Bane e Myrkul resistono a fuoco e sangue ed emanano una presenza divina. Il gruppo lascia il luogo ai Pugni Fiammeggianti, che bruciano i cadaveri; resta una stanza inesplorata da cui il Master fa intendere uno scontro insostenibile."
+        }
+      ],
+      "misteri": [
+        "Dove sono finiti i cultisti che dovrebbero affollare il covo?",
+        "Chi ha giustiziato il cultista di Bhaal e perche il sarcofago di Myrkul e vuoto?",
+        "Cosa attende il gruppo oltre la biforcazione, nel cuore del culto?",
+        "Cosa si trascina sulla pietra nei livelli piu profondi del covo?",
+        "Dove conduce la porta chiusa del passaggio allagato e cosa si trova oltre, nei livelli ancora piu profondi?"
+      ]
+    },
+    {
+      "id": "cripta-funeraria-covo",
+      "nome": "Cripta funeraria del covo",
+      "tipo": "struttura",
+      "luogoPadre": "covo-tre-morti",
+      "regione": "Livelli profondi del covo sotterraneo, sotto le terme della zona nord, Baldur's Gate",
+      "immagine": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-10/Resti e Tombe.png",
+      "descrizione": "Rete di corridoi e camere asciutte oltre la zona allagata del covo. Ospita un altare di pietra circondato da ossa, teschi anneriti e candele consumate, da cui emana un odore acre e solforato 'quasi infernale' che intontisce chi vi si avvicina, e una cripta con nicchie funerarie e tombe in parte violate o crollate. In una nicchia piu curata giace il corpo di una donna in abiti aristocratici d'altri tempi: l'epitaffio reca il nome 'Helena', graffiato come per cancellarne il ricordo, e tra le sue mani un diario.",
+      "stato": "danneggiato",
+      "abitantiNotabili": [],
+      "primaApparizione": 10,
+      "apparizioni": [
+        10
+      ],
+      "note": [
+        {
+          "sessione": 10,
+          "testo": "Il gruppo la attraversa dopo aver distrutto Flenner non-morto. Vi recupera il diario di Helena, che rivela una storia di incesto e infanticidio. L'odore infernale dell'altare suggerisce una corruzione piu antica e profonda del semplice culto della morte."
+        }
+      ],
+      "misteri": [
+        "Chi era Helena e perche il suo nome e stato graffiato via dall'epitaffio?",
+        "Da cosa proviene l'odore 'quasi infernale' che impregna l'altare della cripta?"
+      ]
+    },
+    {
+      "id": "stanza-tortura-covo",
+      "nome": "Stanza di tortura del covo",
+      "tipo": "struttura",
+      "luogoPadre": "covo-tre-morti",
+      "regione": "Livelli profondi del covo sotterraneo, sotto le terme della zona nord, Baldur's Gate",
+      "immagine": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-10/AltraSuperstite.png",
+      "descrizione": "Camera dalle pareti e dal pavimento macchiati di sangue antico e fresco. Ai muri pendono prigionieri incatenati; al centro una sedia di legno con una frusta insanguinata e, accanto, un secchio di sale. Qui i cultisti torturano le vittime per estorcere informazioni sulle famiglie nobili e mercantili di Baldur's Gate: la sofferenza e mezzo, rituale e piacere insieme.",
+      "stato": "danneggiato",
+      "abitantiNotabili": [
+        "vendetta-cress",
+        "culto-tre-morti"
+      ],
+      "primaApparizione": 10,
+      "apparizioni": [
+        10
+      ],
+      "note": [
+        {
+          "sessione": 10,
+          "testo": "Il gruppo vi trova due prigionieri: un vecchio cocchiere ormai morto e la mercante tiefling Vendetta Cress, ancora viva. Da lei apprende lo scopo della rete di tortura (dati economici e logistici sulle famiglie) e il gancio su qualcosa di pesante che si trascina nei livelli piu profondi."
+        }
+      ],
+      "misteri": []
+    },
+    {
+      "id": "cripta-sarcofago-covo",
+      "nome": "Cripta del sarcofago insanguinato",
+      "tipo": "struttura",
+      "luogoPadre": "covo-tre-morti",
+      "regione": "Covo sotterraneo dei Tre Morti, sotto le terme della zona nord, Baldur's Gate",
+      "immagine": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-11/IlSangueDeiDimenticati.png",
+      "descrizione": "Cripta parzialmente crollata, una delle tre porte del covo. Macerie ammucchiate lungo le pareti e, al centro, un sarcofago aperto colmo di sangue fino all'orlo, con rivoli scarlatti colati sul pavimento. Sulle pareti, graffi profondi come di dita disperate che tentavano di scavare una via di fuga. Tra le ossa, un dito umano mozzato con una semplice fede nuziale incisa 'K + A, per sempre insieme'.",
+      "stato": "danneggiato",
+      "abitantiNotabili": [
+        "culto-tre-morti"
+      ],
+      "primaApparizione": 11,
+      "apparizioni": [
+        11
+      ],
+      "note": [
+        {
+          "sessione": 11,
+          "testo": "Il gruppo vi trova il sarcofago insanguinato, il topo che rosicchia un dito mozzato e l'anello della coppia 'K + A'. Qui Alice riceve il messaggio di Zodge: l'estrazione esterna e compromessa."
+        }
+      ],
+      "misteri": [
+        "Chi erano la coppia 'K + A' e che fine hanno fatto nel sarcofago insanguinato?"
+      ]
+    },
+    {
+      "id": "sala-tavolo-morti-covo",
+      "nome": "Sala del tavolo dei morti",
+      "tipo": "struttura",
+      "luogoPadre": "covo-tre-morti",
+      "regione": "Covo sotterraneo dei Tre Morti, sotto le terme della zona nord, Baldur's Gate",
+      "immagine": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-11/Passaggio Segreto.png",
+      "descrizione": "Stanza oltre il corridoio dell'imboscata: un grande sarcofago di pietra usato come tavolo da gioco, con carte e quindici monete d'argento di una partita interrotta. Una stanza adiacente ospita un altro sarcofago decorato e vecchie ossa; vi si cela una base per torcia che, tirata, aziona un passaggio segreto verso una scala discendente.",
+      "stato": "danneggiato",
+      "abitantiNotabili": [
+        "culto-tre-morti"
+      ],
+      "primaApparizione": 11,
+      "apparizioni": [
+        11
+      ],
+      "note": [
+        {
+          "sessione": 11,
+          "testo": "Qui Kyran scopre gli assi nascosti nella manica di un cultista baro e Aelar individua la lanterna-meccanismo che apre il passaggio segreto verso il passaggio allagato."
+        }
+      ],
+      "misteri": []
+    },
+    {
+      "id": "passaggio-allagato-covo",
+      "nome": "Passaggio allagato del covo",
+      "tipo": "struttura",
+      "luogoPadre": "covo-tre-morti",
+      "regione": "Livelli profondi del covo sotterraneo, sotto le terme della zona nord, Baldur's Gate",
+      "immagine": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-11/Incontriamo Motlock.png",
+      "descrizione": "Tunnel allagato largo appena tre passi, sorretto da vecchie travi di legno che reggono per abitudine piu che per solidita. Acqua stagnante che riflette ombre distorte, una porta chiusa sulla destra e una curva che restringe la visuale. Teatro dello scontro col gigante alleato, coi cultisti e con la mutaforma Orin Pugnasangue.",
+      "stato": "danneggiato",
+      "abitantiNotabili": [
+        "motlock",
+        "orin-pugnasangue",
+        "orin-cultista",
+        "culto-tre-morti"
+      ],
+      "primaApparizione": 11,
+      "apparizioni": [
+        11
+      ],
+      "note": [
+        {
+          "sessione": 11,
+          "testo": "Raggiunto tramite la scala segreta. Qui il gruppo incontra il gigante Mortlock, affronta i cultisti e la mutaforma Orin Pugnasangue (nube nera, sdoppiamento di Nathan), poi interroga e libera il cultista ferito Orin, che indica la Lanterna Bassa."
+        }
+      ],
+      "misteri": [
+        "Cosa attende il gruppo oltre la porta chiusa del passaggio allagato?"
+      ]
+    },
+    {
+      "id": "lanterna-bassa",
+      "nome": "La Lanterna Bassa",
+      "tipo": "taverna",
+      "luogoPadre": "porto-baldurs-gate",
+      "regione": "Molo di Baldur's Gate",
+      "immagine": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-14/Lanterna_1.png",
+      "descrizione": "Ex nave incastrata al molo e trasformata ormai da anni in una locanda stabile. Abbastanza sporca da ospitare segreti, abbastanza anonima da farli sembrare normali. Indicata dal cultista Orin come nodo da sciogliere nella trama legata alla Duchessa Vanthampur.",
+      "stato": "intatto",
+      "abitantiNotabili": [
+        "leroy-tandret",
+        "gullivan",
+        "sylvar"
+      ],
+      "primaApparizione": 11,
+      "apparizioni": [
+        11,
+        14,
+        15
+      ],
+      "note": [
+        {
+          "sessione": 11,
+          "testo": "Citata dal cultista ferito Orin durante l'interrogatorio come luogo chiave per risalire alla Duchessa Vanthampur. Non ancora visitata dal gruppo."
+        },
+        {
+          "sessione": 14,
+          "testo": "VISITATA per la prima volta: vecchia nave mercantile a tre alberi senza vele, ormeggiata sul lato orientale del porto e trasformata in taverna e bisca aperta a ogni ora; lanterne oscillanti, scafo segnato dalle mareggiate, due corvi appostati sotto la pioggia. Il ponte esterno e deserto per il maltempo; sotto coperta la sala comune e affollata di marinai, giocatori e mercenari, sorvegliata da guardie nei colori della locanda. Dietro il bancone l'oste Leroy Tandret ('il Capitano'), col suo granchio-pirata; tra i tavoli serve un kenku e siede un duergar silenzioso. Si scopre che il 'signor Vanthampur' (fratello di Mortlock/Mortlock) offre credito ai giocatori indebitati e controlla di fatto il locale; una porta sorvegliata e delle scale conducono ai piani inferiori, dove il signor Vanthampur attende gli Extermina."
+        },
+        {
+          "sessione": 15,
+          "testo": "Esplorata ai piani inferiori: una scala scende a un salone-specchio di quello superiore, ma piu stretto e pesante, sorvegliato da guardie e da un kenku al bancone. Qui si concludono affari illeciti e si scende a parlare lontano da orecchie indiscrete. In fondo, una porta sorvegliata da un mercenario professionista (che disarma gli ospiti, smascherando le lame nascoste con una sfera-rivelatrice bluastra) introduce alla stanza privata di Amrik Vanthampur. Dopo l'incontro il gruppo riavvile le armi ed esce nel porto."
+        }
+      ],
+      "misteri": [
+        "Quale segreto custodisce la Lanterna Bassa e come si lega alla Duchessa Vanthampur?",
+        "Cosa nasconde la Lanterna Bassa ai piani inferiori, dove il signor Vanthampur ha convocato gli Extermina?",
+        "Quanto in profondita arrivano gli affari infernali dei Vanthampur condotti nei piani inferiori della Lanterna Bassa?"
+      ]
+    },
+    {
+      "id": "filo-di-romeo",
+      "nome": "Il Filo di Romeo",
+      "tipo": "bottega",
+      "luogoPadre": "citta-alta-bg",
+      "regione": "Città Alta di Baldur's Gate",
+      "immagine": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-12/Romeo.png",
+      "descrizione": "Raffinata sartoria dell'Alta Citta, annunciata da una campanella all'ingresso. Bottega di fiducia delle maggiori casate, dove il sarto Romeo Ravenshade veste i nobili e, all'occorrenza, compie miracoli sartoriali nei tempi piu impossibili.",
+      "stato": "intatto",
+      "abitantiNotabili": [
+        "romeo"
+      ],
+      "primaApparizione": 12,
+      "apparizioni": [
+        12
+      ],
+      "note": [
+        {
+          "sessione": 12,
+          "testo": "Alaster vi porta il gruppo per farsi preparare gli abiti per la serata nell'Alta Citta. Romeo accetta la sfida di cinque abiti in cinque ore adattando capi esistenti e mobilitando l'atelier."
+        }
+      ],
+      "misteri": []
+    },
+    {
+      "id": "villa-nodorovo",
+      "nome": "Villa Nodorovo",
+      "tipo": "edificio",
+      "luogoPadre": "citta-alta-bg",
+      "regione": "Citta Alta di Baldur's Gate",
+      "immagine": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-13/Entriamo nella villa Nodorovo.png",
+      "descrizione": "Residenza-fortezza della casata Nodorovo nella Citta Alta, piu cattedrale privata che casa. Mura eleganti e severe, grande cancello in ferro battuto col simbolo di famiglia (un occhio in un cerchio spinato, sorvegliato da due serpenti intrecciati). Interno sospeso tra gotico e vittoriano: vetrate colorate, archi sottili, colonne severe, soffitti altissimi. Sorvegliata da guardie personali disciplinate (almeno una quindicina). Nel salotto principale, un grande ritratto di famiglia e i calici dell'Excelsior, il vino di casa.",
+      "stato": "intatto",
+      "abitantiNotabili": [
+        "vassander-nodorovo",
+        "seraphine-nodorovo",
+        "alessandra-nodorovo",
+        "dorian",
+        "alaster",
+        "taddeus",
+        "sylvar"
+      ],
+      "primaApparizione": 13,
+      "apparizioni": [
+        13,
+        14,
+        17
+      ],
+      "note": [
+        {
+          "sessione": 13,
+          "testo": "Il gruppo vi e accolto come ospite di Alaster: incontra la sorellina Alyssandra, la madre Seraphine e infine il padre Vassander, che compare senza rumore abbassando luci e fuoco. Il maggiordomo Taddeus li accompagna nel salotto col grande ritratto di famiglia. Emerge che i Nodorovo commerciano merce rara/esotica e provengono da Arabell, presso il Cormyr."
+        },
+        {
+          "sessione": 14,
+          "testo": "Il mattino dopo il gala il gruppo (e gli ospiti, tra cui Sylvar) vi si risveglia: colazione formale servita dalla servitu, con Seraphine, Alyssandra e il fratello di Alaster a tavola, il patriarca Vassander assente. Vi viene pronunciato il motto di casata 'Tra le spine veglia l'occhio'. Poi il gruppo lascia la dimora, diretto alla Lanterna Bassa."
+        },
+        {
+          "sessione": 17,
+          "testo": "Il gruppo vi si ferma per procurarsi abiti dai maggiordomi (Aurelius e Taddeus) e studiare una mappa della citta. Alaster affronta il padre Vassander nello studio; Nathan duella in sparring col capo delle guardie nel cortile. NB in S17 e chiamata 'magione Nodorovo'."
+        }
+      ],
+      "misteri": [
+        "Cosa nasconde davvero la Villa Nodorovo dietro la sua sorveglianza eccessiva e il suo simbolo (occhio spinato e serpenti)?"
+      ]
+    },
+    {
+      "id": "palazzo-vanthampur-gala",
+      "nome": "Palazzo del Gala (Vanthampur)",
+      "tipo": "edificio",
+      "luogoPadre": "citta-alta-bg",
+      "regione": "Citta Alta di Baldur's Gate",
+      "immagine": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-13/La sala del Gala.png",
+      "descrizione": "Immenso palazzo della Citta Alta, illuminato da luci magiche che salgono dal basso, con una grande rotonda d'ingresso e un tappeto rosso. Il salone del gala ha pavimento di legno lucente, lampadari di cristallo, un'orchestra discreta e camerieri con calici e stuzzichini. Vi si tiene la serata commemorativa dei Patriar in onore degli Extermina, vincitori del Culto dei Tre Morti. Legato alla famiglia Vanthampur (Sylvar vi entra spacciandosi per loro collaboratore).",
+      "stato": "intatto",
+      "abitantiNotabili": [
+        "gortash",
+        "farah-claydon",
+        "adam-whitburn",
+        "lucius-fowler",
+        "sylvar",
+        "oliver-gala"
+      ],
+      "primaApparizione": 13,
+      "apparizioni": [
+        13
+      ],
+      "note": [
+        {
+          "sessione": 13,
+          "testo": "Gli Extermina vi sono annunciati come ospiti d'onore. Alaster discute affari con Adam Whitburn e balla con Farah Claydon; Nathan ed Elis socializzano; Aelar e Kyran si rifugiano in disparte. Sylvar vi si introduce con un invito altrui e vi incontra Lucius Fauler. Il Consigliere Gortash fa il suo ingresso trionfale annunciato dalle trombe."
+        }
+      ],
+      "misteri": [
+        "Che ruolo ha esattamente la famiglia Vanthampur dietro il palazzo che ospita il gala dei Patriar?"
+      ]
+    },
+    {
+      "id": "porto-baldurs-gate",
+      "nome": "Porto di Baldur's Gate",
+      "tipo": "struttura",
+      "luogoPadre": "baldurs-gate",
+      "regione": "Baldur's Gate, a livello del mare",
+      "immagine": null,
+      "descrizione": "Il molo di Baldur's Gate, costruito sopra antichi approdi e vecchi insediamenti di pirati, vive quasi a livello del mare, dominato dall'alto dalla Citta Alta. Qui la nebbia salmastra si trattiene piu a lungo, come se l'oceano volesse inghiottire ogni cosa. Vi e ormeggiata permanentemente la nave-taverna Lanterna Bassa.",
+      "stato": "intatto",
+      "abitantiNotabili": [],
+      "primaApparizione": 14,
+      "apparizioni": [
+        14,
+        15
+      ],
+      "note": [
+        {
+          "sessione": 14,
+          "testo": "Gli Extermina vi scendono dalla Citta Alta sotto un cielo che si fa nero e una pioggia sottile, per raggiungere la Lanterna Bassa: tavoli vuoti, panche bagnate, corde delle vele che cigolano, e due corvi immobili che osservano il gruppo."
+        },
+        {
+          "sessione": 15,
+          "testo": "Uscendo dalla Lanterna Bassa, sotto una pioggerellina sottile, il gruppo incontra fuori la sopravvissuta di Elturel (con due 'immondi' camuffati da corvi che osservano dai tetti). Piu avanti, tra i pontili e i magazzini, il Culto del Drago tende loro un agguato: qui Alaster restituisce gli artefatti e stringe il patto con Zorbat."
+        }
+      ],
+      "misteri": []
+    },
+    {
+      "id": "stanza-amrik-lanterna",
+      "nome": "Stanza di Amrik (Lanterna Bassa)",
+      "tipo": "struttura",
+      "luogoPadre": "lanterna-bassa",
+      "regione": "Piani inferiori della Lanterna Bassa, Porto di Baldur's Gate",
+      "immagine": null,
+      "descrizione": "Stanza privata oltre la porta sorvegliata in fondo al salone inferiore della Lanterna Bassa. Non grande, ma trasuda una ricchezza sporca e discreta: legno lucido, dettagli dorati ostentati, lanterne calde. Qui Amrik Vanthampur riceve gli ospiti seduto in poltrona, affiancato da due diavoli, prestando denaro a usura e concludendo affari che non devono vedere la luce del sole.",
+      "stato": "intatto",
+      "abitantiNotabili": [
+        "amrik-vanthampur",
+        "diavoli-amrik"
+      ],
+      "primaApparizione": 15,
+      "apparizioni": [
+        15
+      ],
+      "note": [
+        {
+          "sessione": 15,
+          "testo": "Il gruppo, disarmato all'ingresso, vi e ricevuto da Amrik Vanthampur tra due diavoli infernali. Vi vengono offerti cocktail elaborati, recapitato l'invito del Lord Fauler e proposto un prestito a usura; vi affiorano i nomi di Thurstwell (forse vivo) e si conferma che i Vanthampur sanno della caduta di Elturel piu di quanto ammettano."
+        }
+      ],
+      "misteri": [
+        "Quali altri affari infernali si concludono nella stanza segreta di Amrik?"
+      ]
+    },
+    {
+      "id": "biblioteca-citta-bassa",
+      "nome": "Biblioteca della Citta Bassa",
+      "tipo": "edificio",
+      "luogoPadre": "baldurs-gate",
+      "regione": "Citta bassa di Baldur's Gate",
+      "immagine": null,
+      "descrizione": "Biblioteca popolare ma fornita di testi rari, frequentata da studenti, copisti, anziani studiosi e apprendisti maghi. Silenziosa e calda, impregnata dell'odore di carta antica e inchiostro; al bancone una bibliotecaria gestisce registri e volumi con magia minore, facendoli fluttuare e sfogliare da soli.",
+      "stato": "intatto",
+      "abitantiNotabili": [
+        "bibliotecaria-citta-bassa",
+        "volo-geddarm"
+      ],
+      "primaApparizione": 16,
+      "apparizioni": [
+        16
+      ],
+      "note": [
+        {
+          "sessione": 16,
+          "testo": "Elis vi cerca testi su fratture e viaggi planari: la bibliotecaria lo indirizza al settore F12 (secondo piano) e al volume 'Viaggi Interplanari'. Al secondo piano incontra il narratore Volothamp Geddarm ('Volo') che firma autografi e parla dei portali. Elis porta via in consultazione due volumi rari ('Viaggi Interplanari' e 'Creature del Multiverso - Vol. 1') del valore di quattrocento monete d'oro."
+        }
+      ],
+      "misteri": []
+    },
+    {
+      "id": "villa-fowler",
+      "nome": "Villa di Fauler",
+      "tipo": "edificio",
+      "luogoPadre": null,
+      "regione": "Fuori Baldur's Gate, una tenuta isolata tra gli alberi",
+      "immagine": null,
+      "descrizione": "Enorme tenuta isolata fuori citta, circondata da alberi e spazio verde, 'quasi una contea privata'. Costruita per mostrare ricchezza e per impedire agli ospiti di capire chi li osservi. All'interno, una sala da pranzo gotica in marmo grigio con un grande camino abitato da un elementale di lava che mantiene il fuoco eternamente acceso, decorazioni di demoni e diavoli, un organo e un pianoforte. Vi servono imp invisibili e un maggiordomo alato.",
+      "stato": "intatto",
+      "abitantiNotabili": [
+        "lucius-fowler",
+        "maggiordomo-fowler"
+      ],
+      "primaApparizione": 16,
+      "apparizioni": [
+        16
+      ],
+      "note": [
+        {
+          "sessione": 16,
+          "testo": "Il gruppo vi e condotto in una carrozza chiusa e senza finestre (con Aeren abbattuto durante il tragitto) dopo circa mezz'ora di viaggio cieco. All'ingresso il maggiordomo alato impone i contratti di sangue; nella sala da pranzo Fauler mette in scena la 'cena infernale' a portate (ostriche, Lacrime di Stige, la portata principale a forma di angelo/divinita, il dessert al sangue). Qui Fauler rivela che Elturel e nell'Averno sotto Zariel e affida l'incarico dello scudo dei Vanthampur. La villa e volutamente disegnata per disorientare e non far ritrovare la strada del ritorno."
+        }
+      ],
+      "misteri": [
+        "Dove sorge esattamente la villa di Fauler, e perche e costruita per impedire ogni orientamento?"
+      ]
+    },
+    {
+      "id": "candlekeep",
+      "nome": "Candlekeep",
+      "tipo": "citta",
+      "luogoPadre": null,
+      "regione": "Costa della Spada",
+      "immagine": null,
+      "descrizione": "Leggendaria 'citta dei mille libri', fortezza-biblioteca della Costa della Spada. Citata da Volo come l'unico luogo capace di fornire vere risposte sui crocevia planari e i viaggi tra i piani.",
+      "stato": "ignoto",
+      "abitantiNotabili": [],
+      "primaApparizione": 16,
+      "apparizioni": [
+        16
+      ],
+      "note": [
+        {
+          "sessione": 16,
+          "testo": "Solo citata: Volo consiglia a Elis di recarvisi per studiare davvero le fratture planari. Il nome resta impresso come possibile meta futura; il gruppo non vi si reca."
+        }
+      ],
+      "misteri": []
+    },
+    {
+      "id": "armeria-ferroteso",
+      "nome": "Armeria di Ferroteso",
+      "tipo": "bottega",
+      "luogoPadre": "citta-alta-bg",
+      "regione": "Costa della Spada",
+      "immagine": null,
+      "descrizione": "La forgia del mastro fabbro nano Ferroteso nella Citta Alta di Baldur's Gate. Odore di metallo rovente e carbone, il martello che batte come un cuore di ferro; vapore e olio rovente. Vi si forgiano armi di pregio, comprese armi argentate efficaci contro i diavoli.",
+      "stato": "intatto",
+      "abitantiNotabili": [
+        "ferroteso",
+        "bryn"
+      ],
+      "primaApparizione": 17,
+      "apparizioni": [
+        17,
+        18
+      ],
+      "note": [
+        {
+          "sessione": 17,
+          "testo": "PRIMA APPARIZIONE (in scena): il gruppo vi recupera le armi commissionate. Alaster provoca Ferroteso fino a fargli accettare di consegnarle in giornata, per ottanta monete d'oro extra a testa."
+        },
+        {
+          "sessione": 18,
+          "testo": "Il gruppo vi passa a ritirare le armi commissionate prima dell'assalto: Ferroteso le consegna lamentandosi, ma le nuove lame sono eccellenti."
+        }
+      ],
+      "misteri": []
+    },
+    {
+      "id": "torre-ramazith",
+      "nome": "Torre di Ramazith",
+      "tipo": "struttura",
+      "luogoPadre": "citta-alta-bg",
+      "regione": "Costa della Spada",
+      "immagine": null,
+      "descrizione": "Gigantesca torre che domina la Citta Alta di Baldur's Gate come un monumento alla magia, padronanza del mago Lorroakan. Undici piani, ma solo i primi sei realmente agibili: i livelli superiori, abbandonati e mai bonificati, restano sigillati da anni. All'interno libri che fluttuano, pergamene animate, oggetti magici e artefatti esposti come merci da mercato, in parte in vendita tramite le assistenti.",
+      "stato": "intatto",
+      "abitantiNotabili": [
+        "lorroakan",
+        "marosin"
+      ],
+      "primaApparizione": 17,
+      "apparizioni": [
+        17,
+        18
+      ],
+      "note": [
+        {
+          "sessione": 17,
+          "testo": "PRIMA APPARIZIONE: il gruppo vi acquista pozioni di cura, pergamene di Jump e supporti magici per l'assalto, trattando con l'assistente Marosin ('Mary'). Vi si custodiscono, a detta della stessa Mary, 'artefatti ben peggiori' dei grimori necromantici."
+        },
+        {
+          "sessione": 18,
+          "testo": "Gli Extermina vi rivendono i componenti estratti dai demoni di Kanbos (un cuore infernale per cento monete, una coppia di corna per cinquanta) e vi completano gli ultimi acquisti per l'assalto alla villa Vanthampur."
+        }
+      ],
+      "misteri": [
+        "Cosa nascondono i cinque piani superiori abbandonati e sigillati della Torre di Ramazith?"
+      ]
+    },
+    {
+      "id": "villa-vanthampur",
+      "nome": "Villa Vanthampur",
+      "tipo": "edificio",
+      "luogoPadre": "citta-alta-bg",
+      "regione": "Costa della Spada",
+      "immagine": null,
+      "descrizione": "La residenza fortificata della famiglia Vanthampur nella Citta Alta di Baldur's Gate, obiettivo dell'assalto del gruppo. Due piani, un grande giardino interno, una scuderia entro le mura con una piccola fucina spenta, e un alto muro di cinta (almeno quattro passi). Sorvegliata da una trentina di guardie in ronda continua, senza punti ciechi. Le fogne sotto la villa sono state deliberatamente distrutte e isolate, ma uno scarico della scuderia offre un accesso sotterraneo.",
+      "stato": "danneggiato",
+      "abitantiNotabili": [
+        "duchessa-vanthampur",
+        "stalliere-vanthampur",
+        "maggiordomo-vanthampur",
+        "imp-vanthampur",
+        "thurstwell-vanthampur",
+        "guardie-vanthampur",
+        "servitu-vanthampur",
+        "tressym-vanthampur",
+        "helmed-horror-vanthampur"
+      ],
+      "primaApparizione": 17,
+      "apparizioni": [
+        17,
+        18,
+        19
+      ],
+      "note": [
+        {
+          "sessione": 17,
+          "testo": "PRIMA APPARIZIONE (ricognizione): Aeren la sorvola e Sylvar (in forma di topo) ne raggiunge la scuderia dalle fogne. Si rivela una vera fortezza: ronde continue, muro di cinta, fogne fatte saltare. L'unico accesso individuato e uno scarico fognario che sbocca nella scuderia interna."
+        },
+        {
+          "sessione": 18,
+          "testo": "ASSALTO: il Culto del Drago la attacca frontalmente come diversivo mentre gli Extermina si infiltrano dal retro scavalcando il muro presso le stalle e forzando un portone barricato. All'interno scoprono un elegante ingresso con la statua di Thalamra Vanthampur, una sala da pranzo dai motivi infernali, tre imp in agguato e un maggiordomo (ucciso da Aelar). Sotto la villa si estendono un complesso sotterraneo sorvegliato (cani infernali, imp, guardie) e segrete piene di prigionieri torturati da un diavolo."
+        },
+        {
+          "sessione": 19,
+          "testo": "ASSALTO (prosegue): gli Extermina conquistano il piano inferiore (cucine, alloggi e servitu barricata, lasciata indisturbata) e poi il piano superiore, espugnando la guarnigione d'elite della casata. Vi trovano gli appartamenti di Thurstwell Vanthampur (ucciso), una libreria/studio difeso da un Helmed Horror, camere lussuose e un balcone affacciato sul cortile da cui osservano il Culto del Drago ancora in lotta con le guardie. Un ingresso nascosto ai sotterranei, riservato alla famiglia, si apre presso le cucine. Restano da esplorare alcune porte chiuse e gli appartamenti della Duchessa."
+        }
+      ],
+      "misteri": [
+        "Perche i Vanthampur hanno fatto distruggere e isolare le fogne sotto la propria villa? Cosa nascondono nel sottosuolo?",
+        "Dove si trovano i Vanthampur mentre il Culto del Drago assalta la loro villa?"
+      ]
+    },
+    {
+      "id": "fogne-baldurs-gate",
+      "nome": "Fogne di Baldur's Gate",
+      "tipo": "struttura",
+      "luogoPadre": "baldurs-gate",
+      "regione": "Costa della Spada",
+      "immagine": null,
+      "descrizione": "Il vasto sottosuolo di Baldur's Gate: un labirinto umido e soffocante di canali, gallerie e condotti dove anche orientarsi e difficile, abitato da topi e blatte. I Vanthampur ne controllano gran parte delle infrastrutture; sotto la loro villa intere sezioni risultano deliberatamente crollate e isolate dal resto della rete.",
+      "stato": "danneggiato",
+      "abitantiNotabili": [],
+      "primaApparizione": 17,
+      "apparizioni": [
+        17,
+        18
+      ],
+      "note": [
+        {
+          "sessione": 17,
+          "testo": "PRIMA APPARIZIONE: Sylvar, in forma di topo, vi esplora la rete sotto la Citta Alta, scoprendo le sezioni distrutte e isolate sotto la villa Vanthampur e seguendo un grande scarico fino alla scuderia della villa."
+        },
+        {
+          "sessione": 18,
+          "testo": "Sylvar, in forma di topo, vi prosegue la ricognizione e oltre una fessura raggiunge la sezione isolata sotto la villa Vanthampur, sbarrata da massicce inferriate: non un'area abbandonata, ma un complesso sotterraneo sorvegliato da creature infernali e guardie, collegato alle segrete e alla villa."
+        }
+      ],
+      "misteri": [
+        "Quanto si estende la rete infernale che i Vanthampur hanno isolato sotto la Citta Alta?"
+      ]
+    },
+    {
+      "id": "complesso-sotterraneo-vanthampur",
+      "nome": "Complesso sotterraneo dei Vanthampur",
+      "tipo": "struttura",
+      "luogoPadre": "fogne-baldurs-gate",
+      "regione": "Costa della Spada",
+      "immagine": null,
+      "descrizione": "Sezione delle fogne sotto la villa Vanthampur deliberatamente isolata dal resto della rete da massicce sbarre di ferro: non un'area abbandonata ma una zona sorvegliata e protetta. Cunicoli di pietra umida e canali di scolo immersi in un persistente odore di marcio, illuminati a tratti da una luce verdognola pulsante. Pattugliato da cani infernali, imp e guardie umane (alcune con turiboli d'incenso), con nicchie nelle pareti perfette per nascondersi. Collega le fogne all'interno della villa.",
+      "stato": "intatto",
+      "abitantiNotabili": [
+        "cane-infernale-vanthampur",
+        "imp-vanthampur",
+        "diavolo-aguzzino-vanthampur"
+      ],
+      "primaApparizione": 18,
+      "apparizioni": [
+        18
+      ],
+      "note": [
+        {
+          "sessione": 18,
+          "testo": "PRIMA APPARIZIONE: Sylvar, in forma di topo, vi si insinua oltre una fessura. Scopre un'area sorvegliata da un cane infernale, da pattuglie di uomini con imp e turiboli, e collegata a segrete piene di prigionieri. Le sbarre di ferro impediscono il passaggio a chiunque non sia minuscolo."
+        }
+      ],
+      "misteri": [
+        "Cosa custodiscono i Vanthampur nel complesso sotterraneo sotto la propria villa, e fin dove si estende?"
+      ]
+    },
+    {
+      "id": "segrete-vanthampur",
+      "nome": "Segrete dei Vanthampur",
+      "tipo": "struttura",
+      "luogoPadre": "complesso-sotterraneo-vanthampur",
+      "regione": "Costa della Spada",
+      "immagine": null,
+      "descrizione": "Le prigioni del complesso sotterraneo dei Vanthampur: celle e stanze di tortura nascoste sotto la villa. Una sala e illuminata solo da una lanterna verdognola sospesa al soffitto, dove un diavolo aguzzino frusta i prigionieri incatenati mentre altri attendono nell'oscurita. Un luogo di sofferenza al servizio degli interessi infernali della casata.",
+      "stato": "intatto",
+      "abitantiNotabili": [
+        "diavolo-aguzzino-vanthampur"
+      ],
+      "primaApparizione": 18,
+      "apparizioni": [
+        18
+      ],
+      "note": [
+        {
+          "sessione": 18,
+          "testo": "PRIMA APPARIZIONE: Sylvar, sbirciando sotto una porta, vi vede un diavolo torturare a frustate un uomo incatenato e molti altri prigionieri nell'ombra. Riferira la scoperta agli Extermina, ponendo la questione del loro salvataggio prima che il Culto del Drago li trovi."
+        }
+      ],
+      "misteri": [
+        "Chi sono i prigionieri delle segrete dei Vanthampur e perche vengono torturati?"
+      ]
+    },
+    {
+      "id": "interni-villa-vanthampur",
+      "nome": "Interni della villa Vanthampur",
+      "tipo": "struttura",
+      "luogoPadre": "villa-vanthampur",
+      "regione": "Costa della Spada",
+      "immagine": null,
+      "descrizione": "L'interno della residenza Vanthampur: un elegante ingresso nobiliare con scalinata al piano superiore, pesanti tendaggi, quadri e mobilio raffinato. A sinistra un salotto lussuoso; di fronte una grande sala da pranzo con tavolo di quercia nera, sedie dai motivi infernali e candelabri monumentali. Nell'atrio domina una statua a grandezza naturale di Thalamra Vanthampur, raffigurata con un gatto alato che stringe un topo tra i denti.",
+      "stato": "danneggiato",
+      "abitantiNotabili": [
+        "duchessa-vanthampur",
+        "maggiordomo-vanthampur",
+        "imp-vanthampur"
+      ],
+      "primaApparizione": 18,
+      "apparizioni": [
+        18,
+        19
+      ],
+      "note": [
+        {
+          "sessione": 18,
+          "testo": "PRIMA APPARIZIONE: gli Extermina vi entrano abbattendo la porta posteriore e infrangendo una finestra, sotto la copertura del caos. Trovano l'ingresso e la sala da pranzo apparentemente deserti, la statua di Thalamra Vanthampur, tre imp invisibili in agguato (eliminati) e l'anziano maggiordomo, ucciso da Aelar. Sylvar saccheggia l'argenteria."
+        },
+        {
+          "sessione": 19,
+          "testo": "Esplorazione completata: oltre l'ingresso e la sala da pranzo, gli Extermina ispezionano corridoi con tappeti e arazzi di pregio (saccheggiati nella Bag of Holding), gli alloggi della servitu (quattro letti, un grembiule) e le cucine. Eliminati altri imp che infestano i corridoi. Da qui il gruppo risale al piano superiore."
+        }
+      ],
+      "misteri": [
+        "Dove sono i Vanthampur mentre il Culto attacca, e cosa nascondono ai piani superiori della villa?"
+      ]
+    },
+    {
+      "id": "casa-sicura-culto-drago",
+      "nome": "Casa sicura del Culto del Drago",
+      "tipo": "edificio",
+      "luogoPadre": "citta-alta-bg",
+      "regione": "Costa della Spada",
+      "immagine": null,
+      "descrizione": "Modesta abitazione cittadina nei pressi della villa Vanthampur, all'apparenza una semplice casa, in realta quartier generale temporaneo del Culto del Drago. All'interno decine di cultisti (soldati e devoti col pendente del drago) si armano per l'assalto, mentre Zorbat studia su un tavolo coperto di mappe la pianta della villa.",
+      "stato": "intatto",
+      "abitantiNotabili": [
+        "zorbat",
+        "culto-drago"
+      ],
+      "primaApparizione": 18,
+      "apparizioni": [
+        18
+      ],
+      "note": [
+        {
+          "sessione": 18,
+          "testo": "PRIMA APPARIZIONE: un emissario vi conduce gli Extermina. Qui Zorbat fissa il piano d'assalto congiunto (Culto al fronte, gruppo dal retro), chiarisce il disinteresse della dea per lo scudo e chiede di lasciare vivo un Vanthampur. Da qui parte la carica al grido 'Per Tiamat!'."
+        }
+      ],
+      "misteri": []
+    },
+    {
+      "id": "cucine-villa-vanthampur",
+      "nome": "Cucine della villa Vanthampur",
+      "tipo": "struttura",
+      "luogoPadre": "villa-vanthampur",
+      "regione": "Costa della Spada",
+      "immagine": null,
+      "descrizione": "Le cucine del piano inferiore della villa Vanthampur, abbandonate in fretta a meta lavorazione: aria densa di spezie, grasso e pane caldo, tre grandi tavoli coperti di utensili, coltelli e ingredienti, resti di un pollo crudo. Vi gironzola il tressym sovrappeso di casa. Sul lato si aprono porte verso magazzini e alloggi della servitu (alcune barricate dall'interno) e, secondo la guardia superstite, un ingresso nascosto ai sotterranei accessibile solo con le chiavi della famiglia.",
+      "stato": "danneggiato",
+      "abitantiNotabili": [
+        "tressym-vanthampur",
+        "servitu-vanthampur"
+      ],
+      "primaApparizione": 19,
+      "apparizioni": [
+        19
+      ],
+      "note": [
+        {
+          "sessione": 19,
+          "testo": "PRIMA APPARIZIONE: il gruppo le ispeziona trovando una cena interrotta, il tressym goloso e, sul lato, gli alloggi della servitu e porte barricate da domestici terrorizzati. Le chiavi del maggiordomo non aprono i sotterranei riservati ai Vanthampur. La guardia superstite rivelera poi che proprio qui si trova l'ingresso nascosto ai livelli inferiori."
+        }
+      ],
+      "misteri": [
+        "Dove si apre esattamente l'ingresso nascosto ai sotterranei dei Vanthampur presso le cucine, e quali chiavi lo aprono?"
+      ]
+    },
+    {
+      "id": "piano-superiore-villa-vanthampur",
+      "nome": "Piano superiore della villa Vanthampur",
+      "tipo": "struttura",
+      "luogoPadre": "villa-vanthampur",
+      "regione": "Costa della Spada",
+      "immagine": null,
+      "descrizione": "Il livello nobiliare della villa, raggiunto risalendo la scalinata principale: corridoi presidiati da guardie d'elite, gli appartamenti reclusi di Thurstwell Vanthampur (stanza modesta con bambola-troll, abiti fuori misura, un forziere col cilindro infernale), camere lussuose con specchi e forzieri, uno studio-libreria difeso da un Helmed Horror e un balcone affacciato sul cortile dove infuria ancora lo scontro tra Culto del Drago e guardie. Da qualche parte si aprono anche gli appartamenti della Duchessa, ancora inesplorati.",
+      "stato": "danneggiato",
+      "abitantiNotabili": [
+        "thurstwell-vanthampur",
+        "guardie-vanthampur",
+        "guardia-superstite-vanthampur",
+        "helmed-horror-vanthampur",
+        "imp-vanthampur"
+      ],
+      "primaApparizione": 19,
+      "apparizioni": [
+        19
+      ],
+      "note": [
+        {
+          "sessione": 19,
+          "testo": "PRIMA APPARIZIONE: teatro di tre scontri (la guarnigione d'elite sulle scale, Thurstwell coi suoi imp, l'Helmed Horror dello studio). Vi vengono saccheggiati uno specchio prezioso e due forzieri, trovati il tomo 'Apocalipto', un cilindro-rompicapo infernale e un anello col motto di casa. Dal balcone il gruppo verifica che il Culto del Drago tiene ancora impegnate le difese. Esausti, gli Extermina interrompono qui l'esplorazione: restano porte chiuse e gli appartamenti della Duchessa."
+        }
+      ],
+      "misteri": [
+        "Cosa custodiscono le porte ancora chiuse e gli appartamenti della Duchessa al piano superiore?"
+      ]
+    }
+  ]
+}

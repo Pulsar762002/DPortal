@@ -1,1 +1,0 @@
-import{Cb as n,Db as r,Zb as a,fb as t}from"./chunk-5ZEWL7CD.js";var c=class o{static \u0275fac=function(e){return new(e||o)};static \u0275cmp=t({type:o,selectors:[["app-cronache-editor"]],decls:2,vars:0,template:function(e,m){e&1&&(n(0,"p"),a(1,"cronache-editor works!"),r())},encapsulation:2})};export{c as CronacheEditorComponent};

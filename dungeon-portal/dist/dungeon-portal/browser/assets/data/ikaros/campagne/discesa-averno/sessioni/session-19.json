@@ -1,0 +1,846 @@
+{
+  "$schema": "./session.schema.json",
+  "id": 19,
+  "title": "Sessione 19",
+  "videoId": "",
+  "chapters": [
+    {
+      "id": "ci-addentriamo-nella-villa",
+      "title": "Ci addentriamo nella villa",
+      "videoId": "",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Il silenzio che seguì l'uccisione del maggiordomo fu più pesante di qualsiasi combattimento affrontato fino a quel momento. Nathan rimase per alcuni istanti immobile a fissare il corpo riverso a terra. Il volto teso, lo sguardo perso tra rabbia e delusione. Quando infine si riscosse, si voltò verso Aelar e gli rivolse parole che non lasciavano spazio a interpretazioni."
+        },
+        {
+          "type": "quote",
+          "text": "«Questa cosa non rimarrà impunita. Te lo dico. Adesso ci sono altre priorità, ma ne riparleremo quando questa storia sarà finita.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Passandogli accanto, Nathan gli assestò una spallata deliberata. Non abbastanza forte da provocare uno scontro, ma sufficiente a rendere chiaro il proprio giudizio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nonostante le tensioni interne, gli Extermina continuarono l'esplorazione della Villa Vanthampur. Dopo aver eliminato altri imp che infestavano i corridoi della dimora, il gruppo raggiunse una zona impreziosita da tappeti e arazzi di evidente valore. Gli oggetti finirono rapidamente all'interno della borsa conservata da Elis, ormai diventata il deposito ufficiale di qualunque bene recuperato durante le missioni."
+        },
+        {
+          "type": "paragraph",
+          "text": "Mentre gli altri si preparavano a proseguire, Sylvar prese una decisione diversa. Dopo aver osservato il gruppo allontanarsi di alcuni passi, rimase fermo nell'ombra del corridoio. Quando fu certo che nessuno lo avrebbe seguito, si voltò e si separò dagli altri."
+        },
+        {
+          "type": "quote",
+          "text": "«Vai a salvare i prigionieri. Provaci almeno.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Fu l'unica cosa che Aelar riuscì a dirgli prima che il compagno si allontanasse. Sylvar rispose soltanto con un cenno del capo e sparì nei corridoi della villa, diretto verso i sotterranei e le celle che sperava di trovare."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il resto del gruppo proseguì nell'atrio della residenza. Alaster continuava a muoversi invisibile, esplorando le stanze più avanti rispetto agli altri. Una delle porte venne aperta e rivelò una camera semplice ma ben tenuta."
+        },
+        {
+          "type": "paragraph",
+          "text": "All'interno si trovavano quattro letti singoli, alcuni comodini e un tavolo. A differenza delle sale decorate della villa, quella stanza appariva sorprendentemente modesta. I letti erano rifatti con cura, anche se qualche sedia fuori posto e alcuni cuscini disordinati suggerivano che gli occupanti l'avessero lasciata in fretta."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le camicie appese e un grembiule da cucina confermarono rapidamente ciò che tutti sospettavano: si trattava degli alloggi della servitù."
+        },
+        {
+          "type": "paragraph",
+          "text": "Una breve perquisizione dei cassetti non portò a scoperte rilevanti. Vestiti, biancheria e una vecchia lettera consumata dal tempo, scritta da un servitore soddisfatto della propria vita presso la villa. Nulla che potesse aiutare gli Extermina nella loro missione."
+        },
+        {
+          "type": "paragraph",
+          "text": "Lasciata la camera alle spalle, il gruppo si spostò verso le cucine. L'aria era ancora densa degli odori della cena interrotta: spezie, grasso, pane caldo lasciato a raffreddare. Tre grandi tavoli occupavano il centro della stanza, coperti di utensili, coltelli e ingredienti abbandonati a metà lavorazione."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dietro uno dei tavoli, però, qualcosa si muoveva."
+        },
+        {
+          "type": "paragraph",
+          "text": "Tra i resti di un pollo crudo, una creatura pelosa armeggiava indisturbata. A prima vista sembrava un normale gatto, ma le ali piumate che spuntavano dai fianchi rivelavano la sua vera natura."
+        },
+        {
+          "type": "paragraph",
+          "text": "Grazie alle proprie conoscenze, Aelar riconobbe immediatamente la creatura come un tressym: un raro gatto alato spesso allevato come animale da compagnia dalle famiglie nobiliari. Sebbene insolito, non rappresentava alcuna minaccia reale."
+        },
+        {
+          "type": "quote",
+          "text": "«Tranquilli. È solo un gatto da compagnia. Un po' particolare, ma innocuo.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "La creatura, tuttavia, presentava una caratteristica impossibile da ignorare: era enormemente sovrappeso."
+        },
+        {
+          "type": "paragraph",
+          "text": "Quando Aelar fece cadere il pollo sul pavimento, gli occhi del tressym si spalancarono dalla gioia. Pochi istanti dopo il grosso felino gli si avvicinò facendo le fusa e strofinandosi contro le sue gambe con evidente gratitudine."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il Blood Hunter si abbassò per accarezzarlo, mentre gli altri osservavano la scena con espressioni che oscillavano tra il divertimento e l'incredulità."
+        },
+        {
+          "type": "quote",
+          "text": "«Vedi? Puoi anche essere gentile, a volte.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Non tutti però condividevano la stessa prospettiva sul nuovo amico peloso."
+        },
+        {
+          "type": "quote",
+          "text": "«Secondo me sarebbe buono da mangiare.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Ignorando commenti tanto discutibili quanto poco opportuni, il gruppo completò una rapida ispezione della cucina. Tutto lasciava pensare che il personale avesse abbandonato il proprio lavoro all'improvviso, probabilmente quando l'assalto alla villa era iniziato."
+        },
+        {
+          "type": "paragraph",
+          "text": "Con le stanze del piano ormai quasi del tutto esplorate, gli Extermina si prepararono a proseguire la perlustrazione della dimora, avvicinandosi sempre di più ai segreti custoditi dalla famiglia Vanthampur."
+        }
+      ]
+    },
+    {
+      "id": "la-servitu-nascosta",
+      "title": "La servitù nascosta",
+      "videoId": "",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Dopo aver completato l'ispezione delle cucine, gli Extermina rivolsero la propria attenzione alle porte che si aprivano lungo il lato della stanza. Kyran provò ad aprirne una, ma si accorse immediatamente che qualcosa la stava bloccando dall'interno. Non era chiusa a chiave: sembrava piuttosto che qualcuno avesse ammassato mobili o altri oggetti contro l'ingresso."
+        },
+        {
+          "type": "paragraph",
+          "text": "Una seconda porta presentava la stessa situazione. Una terza, invece, risultò semplicemente chiusa a chiave. Le chiavi recuperate dal maggiordomo vennero provate una dopo l'altra, ma nessuna riuscì ad aprire la serratura."
+        },
+        {
+          "type": "quote",
+          "text": "«Mi sa che hanno bloccato la porta. Potrebbe essere la servitù.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Per alcuni istanti il gruppo valutò la possibilità di sfondare l'ingresso. Nathan e Kyran discussero persino se tentare insieme di abbattere una delle porte con la forza. Tuttavia il rischio di attirare ulteriormente l'attenzione dei difensori della villa rese l'idea poco allettante."
+        },
+        {
+          "type": "paragraph",
+          "text": "Prima di procedere, Nathan decise di tentare un approccio diverso. Bussò con decisione e cercò di rassicurare chiunque potesse trovarsi dall'altra parte."
+        },
+        {
+          "type": "quote",
+          "text": "«Se c'è qualcuno lì dentro, fatecelo sapere. Non siamo qui per voi. Restate nascosti e non fate rumore.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Per diversi secondi non arrivò alcuna risposta. Poi Nathan colse un lieve movimento oltre il legno della porta: un sussurro soffocato, qualcuno che intimava silenzio agli altri presenti nella stanza."
+        },
+        {
+          "type": "paragraph",
+          "text": "La conferma era evidente. Alcuni membri della servitù si erano barricati all'interno, terrorizzati dall'assalto che stava sconvolgendo la villa. Poco dopo si udì persino il rumore di altri oggetti trascinati contro l'ingresso, nel tentativo disperato di rafforzare la barricata."
+        },
+        {
+          "type": "paragraph",
+          "text": "Soddisfatto di aver compreso la situazione, Nathan rinunciò a forzare l'accesso. Quei servitori non rappresentavano una minaccia e non erano il motivo per cui gli Extermina si trovavano lì."
+        },
+        {
+          "type": "paragraph",
+          "text": "Mentre il gruppo discuteva sul da farsi, nelle cucine il grosso tressym continuava indisturbato a divorare il pollo abbandonato sul pavimento. Ad ogni boccone sembrava diventare ancora più rotondo, suscitando commenti poco caritatevoli e qualche sguardo affamato da parte dei compagni."
+        },
+        {
+          "type": "paragraph",
+          "text": "Alla fine gli avventurieri conclusero che le stanze della servitù e i magazzini annessi non avrebbero offerto informazioni utili. Decisero quindi di abbandonare il piano inferiore e dirigersi verso i livelli superiori della Villa Vanthampur, dove probabilmente si nascondevano i veri artefici di quanto stava accadendo."
+        }
+      ]
+    },
+    {
+      "id": "il-piano-superiore-della-villa-guardie",
+      "title": "Il piano superiore della villa",
+      "videoId": "",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Lasciate alle spalle le cucine e la servitù barricata nelle proprie stanze, gli Extermina risalirono la scalinata principale della Villa Vanthampur. Dall'esterno, attutito dalle mura, arrivava ancora l'eco dello scontro tra i cultisti del Drago e le guardie di casa. L'assenza di Aeren, però, si faceva sentire: senza gli occhi del gufo spettrale a guidarli, ogni corridoio e ogni angolo della dimora restavano un'incognita."
+        },
+        {
+          "type": "paragraph",
+          "text": "Alaster continuò ad avanzare invisibile in avanscoperta. Fu lui a individuare per primo il pericolo. Davanti a una delle porte del piano superiore sostavano diverse guardie armate, uomini scelti della famiglia Vanthampur. Non semplici servitori o soldati improvvisati, ma combattenti ben equipaggiati con armature, scudi e spade."
+        },
+        {
+          "type": "paragraph",
+          "text": "Attraverso il legame con Elis, Alaster trasmise rapidamente le informazioni raccolte. Il gruppo comprese immediatamente che lo scontro era inevitabile."
+        },
+        {
+          "type": "quote",
+          "text": "«Abbiamo compagnia. Almeno cinque guardie.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Gli Extermina si prepararono in silenzio. Nathan avanzò verso la testa della formazione, pronto a reggere l'urto. Aelar tese il proprio arco cercando una linea di tiro favorevole. Kyran si preparò a intervenire appena fosse scoppiato il combattimento. Alaster, ancora invisibile, osservava tutto dall'ombra."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non appena il gruppo si mosse per guadagnare posizione, le guardie reagirono. Le armi vennero estratte quasi simultaneamente e il corridoio della villa si trasformò in un campo di battaglia."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan fu il primo a lanciarsi all'attacco. Estrasse la spada e caricò la guardia più vicina, colpendola con forza al braccio. L'uomo vacillò ma riuscì a mantenere la posizione, dimostrando subito di essere più resistente della maggior parte degli avversari affrontati fino a quel momento."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poco dietro, Aelar individuò un'apertura e tentò un tiro particolarmente potente. Tendendo l'arco al limite delle sue capacità cercò di abbattere rapidamente uno dei nemici, ma l'eccessiva forza impressa al colpo compromise la precisione. La freccia sibilò lungo il corridoio senza trovare il bersaglio."
+        },
+        {
+          "type": "paragraph",
+          "text": "La risposta delle guardie fu immediata. Uno degli uomini si lanciò contro Nathan tentando addirittura di scaraventarlo giù dalle scale con un violento calcio. Il paladino, però, piantò saldamente i piedi a terra e intercettò il colpo con lo scudo, respingendo l'avversario e mantenendo la posizione."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un altro soldato si inginocchiò per prendere la mira con una balestra. Il dardo partì con forza, ma mancò completamente Kyran e si perse nel corridoio alle spalle del gruppo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Elis sfruttò il momento di distrazione. Con la consueta rapidità estrasse uno dei suoi coltelli e lo scagliò contro una delle guardie. La lama superò le difese del nemico e si conficcò tra le piastre dell'armatura, provocando una ferita significativa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Mentre il combattimento infuriava sulle scale, Alaster rimase fedele alla propria natura. Invisibile e indisturbato, osservò brevemente la situazione, valutò che i compagni stessero reggendo bene lo scontro e decise di proseguire oltre le linee nemiche. Aprì una porta più avanti e scomparve ancora una volta nei misteri della villa, lasciando gli altri a gestire il combattimento."
+        },
+        {
+          "type": "paragraph",
+          "text": "La battaglia per il controllo del piano superiore era appena iniziata. Dietro quelle porte chiuse si nascondevano ancora i segreti della famiglia Vanthampur, e ogni minuto trascorso a combattere rischiava di concedere ai loro nemici il tempo necessario per prepararsi."
+        }
+      ]
+    },
+    {
+      "id": "alaster-gira-per-le-stanze-e-noi-combattiamo",
+      "title": "Alaster gira per le stanze e noi combattiamo",
+      "videoId": "",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Mentre il resto degli Extermina continuava a combattere nel corridoio del piano superiore, Alaster proseguiva indisturbato la propria esplorazione. Invisibile e libero di muoversi tra le stanze della villa, osservava gli eventi da una prospettiva completamente diversa rispetto ai suoi compagni."
+        },
+        {
+          "type": "paragraph",
+          "text": "Una delle guardie si accorse improvvisamente di una porta che si apriva e si richiudeva apparentemente da sola. Convinto di aver individuato un intruso, caricò con violenza l'ingresso e lo sfondò con una spallata, trovandosi però davanti soltanto una stanza vuota. Alaster, già nascosto all'interno, riuscì a scansarsi all'ultimo istante e osservò l'uomo aggirarsi confuso senza trovare alcuna traccia dell'invisibile nobile."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nel corridoio, intanto, il combattimento proseguiva. Nathan mantenne saldamente la linea difensiva, impedendo alle guardie di avanzare verso gli altri membri del gruppo. Aelar sfruttò ogni apertura possibile per colpire con la spada, mentre Elis continuava a comparire e sparire tra le ombre, trasformando ogni lancio di pugnale in una ferita dolorosa per i difensori della villa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le guardie dimostrarono di essere guerrieri addestrati. Diverse di loro pronunciarono formule rituali che fecero ardere le lame di fiamme magiche. Le spade infuocate illuminarono il corridoio mentre i soldati tentavano di abbattere Nathan e Kyran con una pioggia di colpi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan resistette con ostinazione, bloccando attacchi, deviazioni e spinte che avrebbero mandato al tappeto combattenti ben meno esperti. Le guardie tentarono più volte di scaraventarlo giù dalle scale, ma il paladino rimase saldo come una muraglia."
+        },
+        {
+          "type": "paragraph",
+          "text": "Kyran divenne invece il bersaglio di una tattica decisamente più insolita. Una delle guardie lasciò cadere scudo e spada e cercò addirittura di afferrarlo per immobilizzarlo. Il tentativo terminò con una gomitata ben assestata che costrinse il soldato a mollare immediatamente la presa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pochi istanti dopo, sfruttando la confusione dello scontro, Kyran caricò con lo scudo e travolse il proprio avversario. La spinta fu talmente potente che il soldato perse l'equilibrio, precipitò oltre la balaustra e si schiantò al piano inferiore. La caduta lo lasciò stordito e prono sul pavimento sottostante."
+        },
+        {
+          "type": "paragraph",
+          "text": "Elis continuava a essere una minaccia costante. Appariva alle spalle delle guardie, colpiva con precisione chirurgica e si ritirava prima che qualcuno riuscisse a reagire. Uno dei soldati cadde sotto una raffica di pugnali mentre il tiefling recuperava persino gli strani occhialini indossati dagli uomini della Vanthampur come trofeo improvvisato."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nel frattempo Alaster esplorò una nuova stanza. L'ambiente era arredato in modo semplice e conteneva un letto, un grosso forziere, alcuni abiti di taglia insolitamente grande e una gigantesca bambola di pezza raffigurante un troll."
+        },
+        {
+          "type": "paragraph",
+          "text": "All'interno del forziere trovò soltanto una vecchia clava spezzata e un disegno infantile raffigurante una donna insieme a due bambini. Uno dei piccoli era stato rappresentato molto più grande del normale, con abiti troppo stretti e una grossa pancia scoperta. Tutto lasciava pensare che quella fosse la stanza di Thurstwell Vanthampur o di qualche altro membro della famiglia con particolari problemi di crescita."
+        },
+        {
+          "type": "paragraph",
+          "text": "Deluso dalla scoperta, Alaster abbandonò rapidamente la stanza e tornò a osservare da lontano il combattimento, lasciando ancora una volta i compagni a gestire la situazione."
+        },
+        {
+          "type": "paragraph",
+          "text": "Lo scontro, intanto, stava ormai volgendo a favore degli Extermina. Una guardia dopo l'altra cadeva sotto i colpi combinati del gruppo. I soldati superstiti cominciarono a comprendere che la situazione era disperata, ma continuarono comunque a combattere con ostinazione."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aelar tentò persino di convincerli a deporre le armi e arrendersi, ma l'intimidazione non ebbe alcun effetto. Gli uomini della famiglia Vanthampur preferivano morire piuttosto che tradire i propri padroni."
+        },
+        {
+          "type": "paragraph",
+          "text": "Quando anche gli ultimi difensori rimasti furono ridotti a pochi passi dalla sconfitta, uno di loro comprese finalmente l'inutilità della resistenza. Ferito, circondato e senza alcuna speranza di vittoria, lasciò cadere ogni intenzione di continuare a combattere."
+        },
+        {
+          "type": "quote",
+          "text": "«Mi arrendo.»"
+        }
+      ]
+    },
+    {
+      "id": "interroghiamo-lunico-superstite",
+      "title": "Interroghiamo l'unico superstite",
+      "videoId": "",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Con il combattimento finalmente concluso, l'unica guardia ancora in vita venne immediatamente immobilizzata. Nathan la costrinse a terra e la ammanettò, assicurandosi che non potesse tentare alcuna fuga o gesto disperato."
+        },
+        {
+          "type": "paragraph",
+          "text": "L'uomo non oppose resistenza. Dopo aver assistito alla sorte dei propri compagni, aveva ormai compreso che continuare a combattere sarebbe stato inutile."
+        },
+        {
+          "type": "quote",
+          "text": "«Vi prego... lasciatemi andare. Nessuna moneta d'oro vale la vita.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Gli Extermina approfittarono immediatamente della situazione. Domanda dopo domanda, iniziarono a raccogliere informazioni sulla villa e sui suoi occupanti."
+        },
+        {
+          "type": "paragraph",
+          "text": "La guardia spiegò che il gruppo di soldati incontrato al piano superiore costituiva l'intera guarnigione presente in quella zona della residenza. Gli altri uomini erano stati richiamati altrove o si trovavano nei livelli inferiori, in aree alle quali neppure le guardie comuni avevano accesso."
+        },
+        {
+          "type": "quote",
+          "text": "«Noi sorvegliamo soltanto la villa. I sotterranei sono riservati alla signora Vanthampur.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Interrogato sull'accesso ai livelli inferiori, l'uomo rivelò l'esistenza di un ingresso nascosto nei pressi delle cucine. Tuttavia le chiavi necessarie per aprirlo erano custodite esclusivamente dai membri della famiglia Vanthampur."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le domande si spostarono quindi sugli occupanti della villa. Dopo qualche esitazione, la guardia ammise che nel piano superiore si trovava ancora Thurstwell Vanthampur, il primogenito della famiglia, e indicò approssimativamente la zona in cui si trovavano i suoi alloggi e la libreria personale della matriarca."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le informazioni fornite dall'uomo vennero confrontate con quanto Alaster aveva già scoperto durante la sua esplorazione invisibile. La strana stanza con la gigantesca bambola di troll e gli abiti fuori misura trovava finalmente una spiegazione plausibile."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aelar colse l'occasione per approfondire un'altra questione che lo tormentava da tempo. Cercò di capire se la guardia sapesse qualcosa riguardo alla scomparsa di Elturel o ai rapporti della famiglia Vanthampur con gli eventi che avevano sconvolto la regione."
+        },
+        {
+          "type": "quote",
+          "text": "«So soltanto che Elturel è scomparsa. Questo è tutto ciò che ho sentito.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Osservandolo attentamente, Aelar non colse alcun segno di menzogna. L'uomo sembrava sinceramente ignaro delle questioni più profonde che coinvolgevano la famiglia per cui lavorava."
+        },
+        {
+          "type": "paragraph",
+          "text": "Quando le domande terminarono, il gruppo si consultò rapidamente sul destino del prigioniero. Alcuni proposero di lasciarlo andare, altri di rinchiuderlo. Alla fine prevalse una soluzione più pragmatica."
+        },
+        {
+          "type": "paragraph",
+          "text": "Mentre Kyran lo accompagnava verso la stanza di Thurstwell, Aelar si avvicinò alle sue spalle e gli assestò un colpo secco alla nuca. La guardia crollò immediatamente a terra priva di sensi."
+        },
+        {
+          "type": "paragraph",
+          "text": "L'uomo venne trascinato all'interno della stanza e lasciato svenuto accanto alla gigantesca bambola di troll, lontano dai combattimenti e dagli orrori che ancora attendevano nelle profondità della villa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Con l'ultimo difensore neutralizzato, gli Extermina si prepararono a proseguire l'esplorazione. Le indicazioni ricevute puntavano verso gli alloggi di Thurstwell Vanthampur e verso la libreria privata della famiglia. Prima di affrontare ciò che li attendeva, Kyran approfittò della breve pausa per curare le proprie ferite e recuperare le forze."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pochi istanti dopo, il gruppo si schierò nuovamente davanti a una porta chiusa. Armi impugnate, incantesimi pronti e nervi tesi. Nathan avanzò per primo e posò la mano sulla maniglia, preparandosi ad aprire la strada verso il prossimo segreto custodito dalla Villa Vanthampur."
+        }
+      ]
+    },
+    {
+      "id": "il-primogenito-vanthampur",
+      "title": "Il primogenito Vanthampur",
+      "videoId": "",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Con le indicazioni ottenute dalla guardia superstite, gli Extermina raggiunsero finalmente gli appartamenti del primogenito della famiglia Vanthampur. Tutti si aspettavano di trovarsi davanti un nobile arrogante, un comandante militare o un pericoloso cospiratore."
+        },
+        {
+          "type": "paragraph",
+          "text": "La realtà si rivelò molto diversa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Quando la porta si aprì, davanti a loro comparve una figura fragile e malaticcia. Un uomo dall'aspetto miserabile, piegato su sé stesso, con il corpo deformato dagli anni e dalla malattia. Le spalle curve, le mani rachitiche strette al petto e un volto scavato che sembrava appartenere a qualcuno molto più anziano dei suoi quarantadue anni."
+        },
+        {
+          "type": "paragraph",
+          "text": "La stanza che lo ospitava era sorprendentemente modesta rispetto al resto della villa. Tende dai colori sbiaditi coprivano parte delle pareti. Vi erano un letto, un pesante forziere di ferro chiuso da un lucchetto, una vasca da bagno sorretta da piedistalli scolpiti a forma di artigli e un camino acceso che contribuiva a riscaldare l'ambiente."
+        },
+        {
+          "type": "paragraph",
+          "text": "Quell'uomo era Thurstwell Vanthampur, il primogenito della Duchessa Thalamra Vanthampur."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma la sua apparente debolezza non lo rendeva innocuo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Consapevole del caos che stava devastando la villa, Thurstwell era già pronto. Non appena vide gli avventurieri irrompere nella stanza, sollevò le mani e scagliò immediatamente un raggio di energia contro Nathan."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il paladino riuscì a evitare il colpo all'ultimo istante, mentre Alaster, alle sue spalle, si spostò con riflessi altrettanto rapidi. L'incantesimo si infranse contro la parete senza colpire nessuno."
+        },
+        {
+          "type": "quote",
+          "text": "«Dannazione!»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Capendo di non poter affrontare il gruppo apertamente, Thurstwell pronunciò immediatamente una seconda formula arcana e si avvolse nella protezione di un incantesimo di Santuario."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aelar ed Elis reagirono d'istinto. Entrambi scattarono in avanti per immobilizzarlo prima che potesse tentare la fuga, ma la magia distorse le loro intenzioni. Per un attimo le loro menti rifiutarono l'idea di aggredire il fragile nobile e i due finirono quasi per ostacolarsi a vicenda invece di raggiungere il bersaglio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Approfittando di quell'esitazione, Thurstwell si rifugiò dietro il proprio letto e vi si rannicchiò accanto come un animale braccato. La sua figura tremava visibilmente mentre osservava gli intrusi che avevano ormai conquistato il piano superiore della villa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Per un istante persino gli Extermina rimasero colpiti da quanto fosse decaduto il primogenito dei Vanthampur. Davanti a loro non c'era l'immagine di un potente nobile di Baldur's Gate, ma quella di un uomo consumato dalla paura, dalla debolezza e da anni di isolamento."
+        },
+        {
+          "type": "quote",
+          "text": "«Guardate come si è ridotto il primogenito dei Vanthampur...»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan ed Elis gli chiusero ogni possibile via di fuga, mentre Aelar lo teneva sotto osservazione. Il nobile era ormai in trappola."
+        },
+        {
+          "type": "quote",
+          "text": "«Arrenditi. Dacci la chiave.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Thurstwell sollevò lo sguardo verso gli avventurieri. Terrorizzato, umiliato e con le spalle al muro, sembrava ormai consapevole che la sorte della sua famiglia stava rapidamente precipitando verso il disastro."
+        }
+      ]
+    },
+    {
+      "id": "aiutanti-infernali-del-vanthampur",
+      "title": "Gli aiutanti infernali del Vanthampur",
+      "videoId": "",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Gli Extermina avevano appena circondato Thurstwell Vanthampur quando il fragile nobile rivelò di non essere affatto indifeso. Mentre il gruppo cercava di convincerlo ad arrendersi, un improvviso fruscio provenne dal camino della stanza."
+        },
+        {
+          "type": "paragraph",
+          "text": "Kyran fu il primo a percepire il pericolo. Dalle ombre annerite del camino emerse uno sciame di piccoli diavoli alati. Uno dopo l'altro gli imp si materializzarono nella stanza, abbandonando la propria invisibilità e lanciandosi immediatamente all'attacco."
+        },
+        {
+          "type": "quote",
+          "text": "«Cinque imp!»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Le creature infernali si dispersero rapidamente nella stanza, proteggendo il proprio padrone e cercando di sopraffare gli avventurieri con la superiorità numerica."
+        },
+        {
+          "type": "paragraph",
+          "text": "Uno degli imp si lanciò immediatamente contro Alaster, cogliendolo di sorpresa e affondando il pungiglione nella sua carne prima che il nobile potesse reagire. Altri due si riversarono su Kyran, colpendolo con una rapidità tale da annullare in pochi istanti le cure appena ricevute."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aelar e Nathan si trovarono anch'essi circondati da quelle creature fastidiose. Sebbene fisicamente deboli, i piccoli diavoli compensavano con velocità, veleno e continui movimenti che rendevano difficile abbatterli rapidamente."
+        },
+        {
+          "type": "paragraph",
+          "text": "Thurstwell osservava la scena dal proprio rifugio dietro il letto. Protetto dal Santuario e dai suoi servitori infernali, sembrava aver ritrovato un minimo di coraggio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Alaster decise di eliminare immediatamente una delle minacce. Canalizzando le ultime riserve di energia magica, scagliò un Guiding Bolt potenziato contro uno degli imp. Il raggio di luce sacra attraversò la stanza e investì in pieno la creatura, che esplose in una pioggia di scintille radianti."
+        },
+        {
+          "type": "quote",
+          "text": "«Tu sei il prossimo.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "La minaccia era chiaramente rivolta a Thurstwell."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan e Kyran continuarono a combattere fianco a fianco. Il paladino falciava i diavoli con ampie arcate della spada, mentre Kyran utilizzava scudo e lama per mantenere il controllo dello spazio ristretto della stanza."
+        },
+        {
+          "type": "paragraph",
+          "text": "Anche Elis si dimostrò letale come sempre. Comparendo tra i compagni e le creature infernali, colpiva con precisione chirurgica e spariva nuovamente prima che gli imp riuscissero a reagire."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aelar contribuì con la propria magia e con attacchi mirati, indebolendo progressivamente le creature infernali e lasciandole esposte ai colpi dei compagni."
+        },
+        {
+          "type": "paragraph",
+          "text": "Uno dopo l'altro gli imp vennero abbattuti. Alcuni furono tagliati a metà dalla lama di Nathan, altri trafitti o disintegrati dalla magia del gruppo. Nel giro di pochi istanti il numero degli avversari si ridusse drasticamente."
+        },
+        {
+          "type": "paragraph",
+          "text": "L'ultimo imp tentò disperatamente di frapporsi tra gli Extermina e Thurstwell, cercando di fare da scudo vivente al proprio padrone. Fu un gesto tanto coraggioso quanto inutile."
+        },
+        {
+          "type": "paragraph",
+          "text": "La creatura venne eliminata quasi immediatamente, lasciando il primogenito dei Vanthampur completamente solo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Quando l'eco dell'ultimo scontro si spense, nella stanza rimase soltanto Thurstwell. Rannicchiato dietro il letto, tremante e ormai privo di ogni protezione, osservava gli avventurieri che avanzavano verso di lui."
+        },
+        {
+          "type": "paragraph",
+          "text": "I suoi servitori infernali erano stati annientati. Il Santuario stava per diventare l'unica cosa che ancora lo separava dal destino che gli Extermina avevano riservato alla sua famiglia."
+        }
+      ]
+    },
+    {
+      "id": "interroghiamo-il-vanthampur",
+      "title": "Interroghiamo Thurstwell Vanthampur",
+      "videoId": "",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Con gli imp finalmente eliminati e Thurstwell rimasto solo, gli Extermina chiusero definitivamente il cerchio attorno al primogenito dei Vanthampur. Il fragile nobile, ancora rannicchiato vicino al letto, sputò ai piedi di Aelar con tutto il disprezzo che riusciva a raccogliere."
+        },
+        {
+          "type": "quote",
+          "text": "«Non meritate nulla.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "La protezione del Santuario rendeva ancora difficile agire direttamente contro di lui, ma ormai il vantaggio tattico apparteneva completamente agli avventurieri. Mentre Nathan ed Elis continuavano a tenerlo sotto controllo, Kyran si dedicò al forziere chiuso che occupava un angolo della stanza."
+        },
+        {
+          "type": "paragraph",
+          "text": "Thurstwell osservò con crescente agitazione il tiefling armeggiare con il lucchetto. Il suo nervosismo aumentò a ogni secondo che passava."
+        },
+        {
+          "type": "quote",
+          "text": "«No! Non puoi! È mio! È il mio tesoro!»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Con uno scatto metallico, la serratura cedette. Fu in quel momento che Thurstwell perse completamente il controllo. Dimenticando ogni prudenza e persino la protezione del proprio Santuario, tentò disperatamente di lanciarsi verso il forziere."
+        },
+        {
+          "type": "paragraph",
+          "text": "La fuga durò meno di un istante. Nathan e Aelar lo intercettarono immediatamente, lo trascinarono a terra e lo immobilizzarono senza alcuna difficoltà. L'incantesimo protettivo svanì e il primogenito dei Vanthampur si ritrovò ammanettato e inerme."
+        },
+        {
+          "type": "paragraph",
+          "text": "All'interno del forziere il gruppo trovò diversi oggetti di valore: monete, una pozione di guarigione, un tomo intitolato <em>Apocalipto</em> e soprattutto uno strano cilindro metallico decorato con rune rosse e dettagli dorati. L'oggetto emanava un'inconfondibile aura infernale."
+        },
+        {
+          "type": "paragraph",
+          "text": "Thurstwell fissò immediatamente quel manufatto con occhi pieni di paura e ossessione."
+        },
+        {
+          "type": "quote",
+          "text": "«Mia madre me l'ha affidato. Dovevo risolvere l'enigma. È impossibile. Nemmeno io ci sono riuscito.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "La scoperta attirò immediatamente l'attenzione del gruppo. Qualunque fosse il segreto custodito da quella scatola infernale, era evidente che Thalamra Vanthampur le attribuiva grande importanza."
+        },
+        {
+          "type": "paragraph",
+          "text": "L'interrogatorio riprese con maggiore intensità. Aelar insistette sulle attività della famiglia, su Elturel e sul coinvolgimento dei Vanthampur negli eventi che avevano sconvolto la Costa della Spada."
+        },
+        {
+          "type": "quote",
+          "text": "«Quello che so non ha molta importanza. Presto anche Baldur's Gate finirà all'inferno. E voi non potrete fermarlo.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Quelle parole fecero calare il silenzio nella stanza. Per la prima volta gli Extermina ottennero una conferma diretta che il destino di Baldur's Gate fosse legato agli stessi eventi che avevano distrutto Elturel."
+        },
+        {
+          "type": "paragraph",
+          "text": "Quando Thurstwell continuò a rifiutarsi di collaborare, il tono dell'interrogatorio cambiò. Aelar lo afferrò per il volto e lo costrinse a guardarlo negli occhi."
+        },
+        {
+          "type": "quote",
+          "text": "«Credimi. Se non ci darai le informazioni che cerchiamo su tua madre, sullo scudo e su quello che state organizzando in questa villa, la morte sarà l'ultimo dei tuoi problemi.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Per la prima volta il primogenito dei Vanthampur mostrò una paura autentica. Le minacce, il sangue, la sconfitta e l'umiliazione finirono per spezzare la fragile maschera che aveva mantenuto fino a quel momento."
+        },
+        {
+          "type": "paragraph",
+          "text": "L'uomo iniziò a piangere. Lacrime, muco e singhiozzi gli scesero lungo il volto mentre ripeteva ossessivamente che sua madre lo avrebbe ucciso se avesse parlato."
+        },
+        {
+          "type": "quote",
+          "text": "«Mia madre mi ucciderà... ve lo dico... mia madre mi ucciderà...»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Fu allora che la discussione si spostò dal prigioniero alla giustizia stessa. Nathan, fedele a Helm, si trovò davanti a un dilemma morale. Da una parte vi era un criminale coinvolto in un complotto infernale che minacciava un'intera città. Dall'altra vi erano i principi di legge e ordine che avevano sempre guidato il suo cammino."
+        },
+        {
+          "type": "paragraph",
+          "text": "Per lunghi istanti il paladino rimase in silenzio, osservando Thurstwell inginocchiato e sconfitto davanti a lui."
+        },
+        {
+          "type": "paragraph",
+          "text": "Alla fine prese la propria decisione."
+        },
+        {
+          "type": "quote",
+          "text": "«Io, Nathan, protettore di Helm, ti condanno a morte.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Thurstwell sollevò lo sguardo un'ultima volta. Tentò ancora di proclamare che nessuno sarebbe riuscito a fermare ciò che stava per accadere. Poi la lama di Nathan scese."
+        },
+        {
+          "type": "paragraph",
+          "text": "Per un istante l'acciaio sembrò brillare di una luce tenue. Subito dopo il colpo si abbatté con precisione letale."
+        },
+        {
+          "type": "paragraph",
+          "text": "La testa del primogenito dei Vanthampur rotolò sul pavimento della stanza fino a fermarsi accanto alla vasca da bagno. Il corpo rimase immobile dove era caduto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Con la morte di Thurstwell, gli Extermina avevano eliminato un altro membro della famiglia Vanthampur. Ma le sue ultime parole continuavano a riecheggiare nelle loro menti: Baldur's Gate sarebbe finita all'inferno. E il tempo per impedirlo stava rapidamente scadendo."
+        }
+      ]
+    },
+    {
+      "id": "elis-rischia-grosso-ed-esploriamo-il-piano-superiore",
+      "title": "Elis rischia grosso",
+      "videoId": "",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Mentre gli altri concludevano l'interrogatorio e si occupavano di Thurstwell Vanthampur, Elis aveva dedicato quasi tutta la propria attenzione al misterioso cilindro infernale recuperato dal forziere."
+        },
+        {
+          "type": "paragraph",
+          "text": "L'oggetto si presentava come un complesso rompicapo metallico lungo poco più di un palmo. Acciaio scuro, inserti ossei, rune infernali incise in rosso e oro. Nonostante la conoscenza della lingua infernale, il tiefling non riusciva a comprendere né il funzionamento né lo scopo del manufatto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Mentre cercava di studiarlo, Elis ebbe la sensazione di essere vicino a cogliere qualche dettaglio importante. Le incisioni sembravano quasi voler comunicare qualcosa, come se il rompicapo attendesse soltanto la giusta intuizione."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi arrivò il dolore."
+        },
+        {
+          "type": "paragraph",
+          "text": "Una fitta psichica violentissima gli attraversò il cranio. Per un istante il mondo sembrò deformarsi, l'aria si fece calda come davanti a una fornace aperta e una risata infernale riecheggiò nella sua mente. Il sangue iniziò a colargli dagli occhi e dalle orecchie mentre crollava quasi a terra sotto l'intensità dell'attacco."
+        },
+        {
+          "type": "quote",
+          "text": "«È quella roba! È stata quella roba! È come se qualcosa mi fosse entrato nella testa!»"
+        },
+        {
+          "type": "paragraph",
+          "text": "L'intero gruppo comprese immediatamente che il cilindro non era un semplice oggetto meccanico. Qualunque segreto custodisse, era protetto da potenti difese infernali."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dopo aver curato le ferite più gravi e consumato alcune pozioni, gli Extermina decisero saggiamente di interrompere ogni tentativo di aprire il rompicapo sul posto. Il manufatto venne riposto con cura nella borsa del gruppo, in attesa di trovare qualcuno più preparato per studiarlo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Terminata la pausa, gli avventurieri ripresero l'esplorazione del piano superiore della villa. Una nuova stanza attirò la loro attenzione."
+        },
+        {
+          "type": "paragraph",
+          "text": "A differenza degli alloggi di Thurstwell, l'ambiente era elegante e raffinato. Tende pregiate decoravano le pareti, un grande letto occupava la parte centrale della stanza e una vasca da bagno in ferro battuto, sorretta da zampe artigliate, testimoniava il lusso a cui erano abituati i membri della famiglia Vanthampur."
+        },
+        {
+          "type": "paragraph",
+          "text": "L'oggetto più appariscente era però un enorme specchio a figura intera. Alto quasi quanto una persona e incorniciato da elaborate decorazioni laccate, rappresentava probabilmente uno degli elementi più preziosi dell'arredamento."
+        },
+        {
+          "type": "paragraph",
+          "text": "Naturalmente Elis individuò immediatamente il valore commerciale dello specchio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dopo aver verificato che non si trattasse di un passaggio segreto o di un oggetto magico particolarmente pericoloso, lo smontò con sorprendente naturalezza e lo fece sparire nella borsa conservatrice insieme al resto del bottino recuperato nella villa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un secondo forziere si rivelò molto meno protetto di quello appartenuto a Thurstwell. Bastarono pochi istanti perché Elis ne forzasse la serratura."
+        },
+        {
+          "type": "paragraph",
+          "text": "All'interno il gruppo trovò cinquanta monete d'oro, quindici monete d'argento e un anello dorato recante il motto della famiglia Vanthampur."
+        },
+        {
+          "type": "quote",
+          "text": "«I cuori di pietra non sanguinano mai.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Una frase che, alla luce degli eventi della giornata, appariva quasi ironica."
+        },
+        {
+          "type": "paragraph",
+          "text": "Continuando l'esplorazione, gli Extermina raggiunsero infine un piccolo balcone affacciato sul cortile principale della villa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Da quella posizione poterono osservare il combattimento che infuriava ancora all'esterno. I cultisti del Drago continuavano a scontrarsi con le guardie private della famiglia Vanthampur. L'assalto non era ancora terminato e gran parte dell'attenzione dei difensori risultava ancora concentrata all'esterno della residenza."
+        },
+        {
+          "type": "quote",
+          "text": "«Ottimo. Abbiamo ancora tempo.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Con il piano superiore ormai quasi completamente esplorato, rimanevano ancora alcune porte chiuse e soprattutto gli appartamenti della Duchessa Thalamra Vanthampur. Gli Extermina si prepararono quindi ad avanzare verso il cuore della villa, sempre più vicini alla vera mente dietro il complotto che minacciava Baldur's Gate."
+        }
+      ]
+    },
+    {
+      "id": "non-aprite-quella-porta",
+      "title": "Non aprite quella porta",
+      "videoId": "",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Dopo aver completato l'esplorazione delle camere del piano superiore, gli Extermina individuarono un'ultima porta ancora chiusa. Considerando quanto facilmente avevano avuto ragione delle precedenti minacce, nessuno si aspettava che dietro quell'ingresso si celasse uno degli avversari più pericolosi incontrati fino a quel momento."
+        },
+        {
+          "type": "paragraph",
+          "text": "La porta si aprì."
+        },
+        {
+          "type": "paragraph",
+          "text": "All'interno si trovava uno studio elegantemente arredato. Una scrivania di quercia occupava il centro della stanza, circondata da librerie e mobili raffinati. Ma ciò che attirò immediatamente l'attenzione del gruppo fu l'armatura nera posta in fondo alla sala."
+        },
+        {
+          "type": "paragraph",
+          "text": "L'armatura era immobile. Completa, lucida e minacciosa. Un elmo cilindrico copriva completamente il volto e una spada lunga riposava al suo fianco."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi gli occhi si illuminarono."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nello stesso istante due spade fluttuanti si sollevarono dal pavimento e iniziarono a orbitare lentamente attorno al cavaliere come predatori in attesa di colpire."
+        },
+        {
+          "type": "quote",
+          "text": "«Chiudi la porta!»"
+        },
+        {
+          "type": "paragraph",
+          "text": "L'ordine arrivò troppo tardi. La creatura si era già attivata."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan ed Aelar reagirono immediatamente, mentre Kyran benediceva i compagni con la magia divina e Alaster, ancora debilitato dagli scontri precedenti, decise prudentemente di arretrare e bere una pozione lontano dalla linea del fronte."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aelar fu il primo a colpire. Una freccia potenziata dal proprio sangue trafisse l'armatura vivente, confermando che la creatura poteva essere danneggiata. Tuttavia il costrutto non sembrò minimamente impressionato dall'attacco."
+        },
+        {
+          "type": "paragraph",
+          "text": "Con un gesto lento e innaturale, il cavaliere puntò la propria spada verso gli intrusi. Le due lame fluttuanti risposero immediatamente al comando e si lanciarono in avanti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Una delle spade si scagliò contro Nathan. Il paladino riuscì quasi a distruggerla con un poderoso colpo di reazione, ma la lama continuò ugualmente la propria corsa. Solo una delle due riuscì a colpirlo, ma il danno fu sufficiente a ricordare a tutti che non stavano affrontando un semplice costrutto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Mentre la battaglia proseguiva, il gruppo comprese gradualmente la natura dell'avversario. Non si trattava di una normale armatura animata, bensì di un Helmed Horror, un guardiano magico costruito per proteggere luoghi e segreti importanti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Elis tentò di sfruttare la propria agilità per abbattere rapidamente le spade fluttuanti, ma la precisione innaturale delle lame e la robustezza del costrutto resero l'impresa molto più difficile del previsto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Quando una delle spade venne finalmente distrutta, il cavaliere avanzò personalmente. I suoi passi metallici riecheggiarono nel corridoio mentre si avvicinava con calma terrificante."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan si trovò direttamente sulla sua strada."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il colpo della creatura fu devastante. La spada del costrutto si abbatté sul paladino con una forza sovrumana, seguita immediatamente da un secondo fendente. Nathan crollò a terra privo di sensi davanti agli occhi dei compagni."
+        },
+        {
+          "type": "paragraph",
+          "text": "Per alcuni istanti la situazione sembrò precipitare. Kyran aveva quasi esaurito le proprie risorse divine, Alaster disponeva di pochissima magia e persino Aelar stava consumando rapidamente le proprie energie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Fu allora che Alaster intervenne. Uscendo dal proprio rifugio, evocò un Guiding Bolt che attraversò il corridoio e investì in pieno la seconda spada fluttuante, distruggendola in un'esplosione di luce radiante."
+        },
+        {
+          "type": "paragraph",
+          "text": "La distruzione delle lame non bastò però a fermare il guardiano. L'Helmed Horror sfondò una porta con una singola spallata e continuò la caccia agli intrusi, costringendo il gruppo a una battaglia di logoramento lungo il corridoio della villa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aelar continuò a tempestarlo di frecce intrise di sangue e fuoco. Nathan riuscì a rialzarsi e a tornare in combattimento nonostante le ferite. Kyran mantenne in vita il gruppo con le ultime energie rimaste. Elis colpiva ogni volta che individuava un'apertura."
+        },
+        {
+          "type": "paragraph",
+          "text": "Lentamente, pezzo dopo pezzo, il costrutto iniziò a cedere."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le frecce avevano perforato l'armatura. Le lame avevano lasciato profonde crepe sul metallo. Gli incantesimi avevano consumato la magia che lo teneva in vita."
+        },
+        {
+          "type": "paragraph",
+          "text": "Infine fu Elis a infliggere il colpo decisivo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Con una serie di affondi precisi, il tiefling colpì i punti più danneggiati della corazza. L'armatura si riempì di squarci e fori mentre la magia che la animava collassava definitivamente."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il gigantesco guardiano vacillò."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi crollò sulle ginocchia."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un istante dopo l'Helmed Horror si abbatté sul pavimento con un fragore metallico che riecheggiò per tutta la villa. Il guardiano della stanza era stato distrutto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Esausti, feriti e quasi privi di risorse, gli Extermina decisero di interrompere l'esplorazione per il momento. Le profondità della Villa Vanthampur li attendevano ancora, ma quella battaglia aveva ricordato a tutti che i veri segreti della famiglia erano protetti da forze ben più pericolose di semplici guardie o servitori infernali."
+        }
+      ]
+    }
+  ]
+}
