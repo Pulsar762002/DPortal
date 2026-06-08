@@ -13,7 +13,7 @@
           "type": "image",
           "variant": "left-big",
           "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-10/PrimoIncontro.png",
-          "alt": "Massaggiatrice delle terme"
+          "alt": "Primo incontro con i cultisti nelle terme sommerse"
         },
         {
           "type": "paragraph",
@@ -29,7 +29,7 @@
         },
         {
           "type": "quote",
-          "text": "Capo… abbiamo respinto degli intrusi."
+          "text": "«Capo… abbiamo respinto degli intrusi.»"
         },
         {
           "type": "paragraph",
@@ -37,7 +37,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Su una breve rampa di gradini, fuori dalla zona allagata, stavano due figure: una donna robusta, avvolta in stracci rossi sopra un’armatura leggera, marchiata dal simbolo della mano; accanto a lei, un uomo imponente, alto oltre due metri, rivestito di armatura nera e con un elmo cilindrico. Nella sua mano brillava una spada ancora macchiata di sangue fresco."
+          "text": "Su una breve rampa di gradini, fuori dalla zona allagata, stavano due figure: una donna robusta, avvolta in stracci rossi sopra un’armatura leggera, marchiata dal simbolo della mano; accanto a lei, un uomo imponente, che la sovrastava di tutta la testa, rivestito di armatura nera e con un elmo cilindrico. Nella sua mano brillava una spada ancora macchiata di sangue fresco."
         },
         {
           "type": "paragraph",
@@ -49,7 +49,7 @@
         },
         {
           "type": "quote",
-          "text": "Cinque secondi e si va in scena. Inizio io."
+          "text": "«Cinque secondi e si va in scena. Inizio io.»"
         },
         {
           "type": "paragraph",
@@ -86,7 +86,7 @@
           "type": "image",
           "variant": "left-big",
           "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-10/Scontro.png",
-          "alt": "Massaggiatrice delle terme"
+          "alt": "Lo scontro contro la cultista della Mano e il Console di Ferro di Bane"
         },
         {
           "type": "paragraph",
@@ -98,7 +98,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Nathan avanzò subito dopo, invocando il potere divino. Una arma spirituale prese forma davanti al cavaliere in armatura nera: una mazza spettrale, luminosa, sospesa nell’aria come il giudizio degli dèi."
+          "text": "Nathan avanzò subito dopo, invocando il potere divino. Un’arma spirituale prese forma davanti al cavaliere in armatura nera: una mazza spettrale, luminosa, sospesa nell’aria come il giudizio degli dèi."
         },
         {
           "type": "paragraph",
@@ -106,7 +106,7 @@
         },
         {
           "type": "quote",
-          "text": "Lascia la tua arma. E non osare attaccarmi."
+          "text": "«Lascia la tua arma. E non osare attaccarmi.»"
         },
         {
           "type": "paragraph",
@@ -215,7 +215,7 @@
           "type": "image",
           "variant": "left-big",
           "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-10/Il Superstite.png",
-          "alt": "Massaggiatrice delle terme"
+          "alt": "Il prigioniero incatenato, unico superstite della stanza"
         },
         {
           "type": "paragraph",
@@ -255,7 +255,7 @@
         },
         {
           "type": "quote",
-          "text": "Sono morto…? Che succede? Chi siete?"
+          "text": "«Sono morto…? Che succede? Chi siete?»"
         },
         {
           "type": "paragraph",
@@ -275,7 +275,7 @@
         },
         {
           "type": "quote",
-          "text": "Non ha senso. Un nobile nudo, appeso a delle catene, quasi morto… e non sa perché si trova qui?"
+          "text": "«Non ha senso. Un nobile nudo, appeso a delle catene, quasi morto… e non sa perché si trova qui?»"
         },
         {
           "type": "paragraph",
@@ -311,7 +311,7 @@
         },
         {
           "type": "quote",
-          "text": "Cinque… quattro… tre… due…"
+          "text": "«Cinque… quattro… tre… due…»"
         },
         {
           "type": "paragraph",
@@ -319,7 +319,7 @@
         },
         {
           "type": "quote",
-          "text": "Ho sentito la donna dire… che l’altra era stata più collaborativa."
+          "text": "«Ho sentito la donna dire… che l’altra era stata più collaborativa.»"
         },
         {
           "type": "paragraph",
@@ -351,7 +351,7 @@
         },
         {
           "type": "quote",
-          "text": "Cosa ti hanno chiesto?"
+          "text": "«Cosa ti hanno chiesto?»"
         },
         {
           "type": "paragraph",
@@ -392,11 +392,11 @@
           "type": "image",
           "variant": "left-big",
           "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-10/AltroAltareMirkulita.png",
-          "alt": "Massaggiatrice delle terme"
+          "alt": "Un altro altare myrkulita nelle profondità delle terme"
         },
         {
           "type": "paragraph",
-          "text": "Dopo aver lasciato il superstite alle proprie sorti, il gruppo si ricompattò nel corridoio umido delle terme sotterranee."
+          "text": "Dopo aver lasciato il superstite alle proprie sorti, il gruppo si ricompattò nel corridoio umido delle terme sotterranee. L’aria sapeva di pietra bagnata e di marcio, e ogni passo sollevava un eco che sembrava non spegnersi mai."
         },
         {
           "type": "paragraph",
@@ -404,7 +404,7 @@
         },
         {
           "type": "quote",
-          "text": "Se appartiene davvero a una famiglia nobile… potrebbe essere stato un errore lasciarlo andare."
+          "text": "«Se appartiene davvero a una famiglia nobile… potrebbe essere stato un errore lasciarlo andare.»"
         },
         {
           "type": "paragraph",
@@ -416,7 +416,7 @@
         },
         {
           "type": "quote",
-          "text": "Piano. Andiamo avanti piano. Ci sono ancora altre stanze."
+          "text": "«Piano. Andiamo avanti piano. Ci sono ancora altre stanze.»"
         },
         {
           "type": "paragraph",
@@ -432,7 +432,7 @@
         },
         {
           "type": "quote",
-          "text": "Riportami…"
+          "text": "«Riportami…»"
         },
         {
           "type": "paragraph",
@@ -500,7 +500,7 @@
         },
         {
           "type": "quote",
-          "text": "Riportami…"
+          "text": "«Riportami…»"
         },
         {
           "type": "paragraph",
@@ -537,7 +537,7 @@
           "type": "image",
           "variant": "left-big",
           "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-10/ScontroConFlenner.png",
-          "alt": "Massaggiatrice delle terme"
+          "alt": "Lo scontro contro Flenner, tornato come non morto"
         },
         {
           "type": "paragraph",
@@ -601,7 +601,7 @@
         },
         {
           "type": "quote",
-          "text": "Rivela la tua anima, schifoso abominio."
+          "text": "«Rivela la tua anima, schifoso abominio.»"
         },
         {
           "type": "paragraph",
@@ -621,7 +621,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Il tiefling arretrò sotto il peso dell’assalto, ma riuscì comunque a colpire con precisione letale, facendo a pezzi i topi e trovando spazio per ferire anche i non morti."
+          "text": "Il tiefling arretrò sotto il peso dell’assalto, ma riuscì comunque a colpire con precisione letale, facendo a pezzi i ratti e trovando spazio per ferire anche i non morti."
         },
         {
           "type": "paragraph",
@@ -738,7 +738,7 @@
           "type": "image",
           "variant": "left-big",
           "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-10/Resti e Tombe.png",
-          "alt": "Massaggiatrice delle terme"
+          "alt": "Resti e tombe violate lungo i corridoi funerari delle terme"
         },
         {
           "type": "paragraph",
@@ -758,7 +758,7 @@
         },
         {
           "type": "quote",
-          "text": "Quindi c’è un’altra persona…"
+          "text": "«Quindi c’è un’altra persona…»"
         },
         {
           "type": "paragraph",
@@ -790,7 +790,7 @@
         },
         {
           "type": "quote",
-          "text": "Non avresti dovuto tornare in vita, schifoso."
+          "text": "«Non avresti dovuto tornare in vita, schifoso.»"
         },
         {
           "type": "paragraph",
@@ -939,7 +939,7 @@
           "type": "image",
           "variant": "left-big",
           "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-10/Altra Superstite.png",
-          "alt": "Massaggiatrice delle terme"
+          "alt": "Alaster davanti alla strana tomba di Helena"
         },
         {
           "type": "paragraph",
@@ -966,7 +966,9 @@
           "text": "Il nome inciso, seppur rovinato dal tempo e dall’umidità, era ancora leggibile."
         },
         {
-          "type": "quote",
+          "type": "paragraph",
+          "variant": "emphasis",
+          "style": "italic",
           "text": "Helena"
         },
         {
@@ -1031,7 +1033,7 @@
         },
         {
           "type": "quote",
-          "text": "Credo sia una delle cose più orripilanti di questo mondo."
+          "text": "«Credo sia una delle cose più orripilanti di questo mondo.»"
         },
         {
           "type": "paragraph",
@@ -1132,7 +1134,7 @@
           "type": "image",
           "variant": "left-big",
           "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-10/AltraSuperstite.png",
-          "alt": "Massaggiatrice delle terme"
+          "alt": "Vendetta Cress, l'altra superstite liberata dalle catene"
         },
         {
           "type": "paragraph",
@@ -1184,7 +1186,7 @@
         },
         {
           "type": "quote",
-          "text": "Mi chiamo… Vendetta Cress."
+          "text": "«Mi chiamo… Vendetta Cress.»"
         },
         {
           "type": "paragraph",
@@ -1268,7 +1270,7 @@
         },
         {
           "type": "quote",
-          "text": "Quando la donna andava di là… sentivo qualcosa trascinarsi. Come pietra sul pavimento."
+          "text": "«Quando la donna andava di là… sentivo qualcosa trascinarsi. Come pietra sul pavimento.»"
         },
         {
           "type": "paragraph",
@@ -1293,6 +1295,9 @@
         {
           "type": "paragraph",
           "text": "Prima di separarsi, la tiefling riuscì perfino a sorridere debolmente a Elis, promettendogli una cassa di vino della famiglia Oathone come ricompensa."
+        },
+        {
+          "type": "divider"
         },
         {
           "type": "paragraph",

@@ -1,7 +1,7 @@
 {
   "$schema": "./session.schema.json",
   "id": 19,
-  "title": "",
+  "title": "Sessione 19",
   "videoId": "",
   "chapters": [
     {
@@ -15,7 +15,7 @@
         },
         {
           "type": "quote",
-          "text": "Questa cosa non rimarrà impunita. Te lo dico. Adesso ci sono altre priorità, ma ne riparleremo quando questa storia sarà finita."
+          "text": "«Questa cosa non rimarrà impunita. Te lo dico. Adesso ci sono altre priorità, ma ne riparleremo quando questa storia sarà finita.»"
         },
         {
           "type": "paragraph",
@@ -31,7 +31,7 @@
         },
         {
           "type": "quote",
-          "text": "Vai a salvare i prigionieri. Provaci almeno."
+          "text": "«Vai a salvare i prigionieri. Provaci almeno.»"
         },
         {
           "type": "paragraph",
@@ -55,7 +55,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Lasciata la camera alle spalle, il gruppo si spostò verso le cucine. Qui l'aria era ancora impregnata degli odori della cena in preparazione. Tre grandi tavoli occupavano il centro della stanza, coperti di utensili, coltelli e ingredienti lasciati a metà lavorazione."
+          "text": "Lasciata la camera alle spalle, il gruppo si spostò verso le cucine. L'aria era ancora densa degli odori della cena interrotta: spezie, grasso, pane caldo lasciato a raffreddare. Tre grandi tavoli occupavano il centro della stanza, coperti di utensili, coltelli e ingredienti abbandonati a metà lavorazione."
         },
         {
           "type": "paragraph",
@@ -71,7 +71,7 @@
         },
         {
           "type": "quote",
-          "text": "Tranquilli. È solo un gatto da compagnia. Un po' particolare, ma innocuo."
+          "text": "«Tranquilli. È solo un gatto da compagnia. Un po' particolare, ma innocuo.»"
         },
         {
           "type": "paragraph",
@@ -87,7 +87,7 @@
         },
         {
           "type": "quote",
-          "text": "Vedi? Puoi anche essere gentile, a volte."
+          "text": "«Vedi? Puoi anche essere gentile, a volte.»"
         },
         {
           "type": "paragraph",
@@ -95,7 +95,7 @@
         },
         {
           "type": "quote",
-          "text": "Secondo me sarebbe buono da mangiare."
+          "text": "«Secondo me sarebbe buono da mangiare.»"
         },
         {
           "type": "paragraph",
@@ -122,7 +122,7 @@
         },
         {
           "type": "quote",
-          "text": "Mi sa che hanno bloccato la porta. Potrebbe essere la servitù."
+          "text": "«Mi sa che hanno bloccato la porta. Potrebbe essere la servitù.»"
         },
         {
           "type": "paragraph",
@@ -134,7 +134,7 @@
         },
         {
           "type": "quote",
-          "text": "Se c'è qualcuno lì dentro, fatecelo sapere. Non siamo qui per voi. Restate nascosti e non fate rumore."
+          "text": "«Se c'è qualcuno lì dentro, fatecelo sapere. Non siamo qui per voi. Restate nascosti e non fate rumore.»"
         },
         {
           "type": "paragraph",
@@ -165,7 +165,7 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Lasciate alle spalle le cucine e la servitù barricata nelle proprie stanze, gli Extermina risalirono la scalinata principale della Villa Vanthampur. L'assenza di Aeren si faceva sentire. Senza gli occhi del gufo spettrale a guidarli, ogni corridoio e ogni angolo della dimora rappresentavano un'incognita."
+          "text": "Lasciate alle spalle le cucine e la servitù barricata nelle proprie stanze, gli Extermina risalirono la scalinata principale della Villa Vanthampur. Dall'esterno, attutito dalle mura, arrivava ancora l'eco dello scontro tra i cultisti del Drago e le guardie di casa. L'assenza di Aeren, però, si faceva sentire: senza gli occhi del gufo spettrale a guidarli, ogni corridoio e ogni angolo della dimora restavano un'incognita."
         },
         {
           "type": "paragraph",
@@ -177,7 +177,7 @@
         },
         {
           "type": "quote",
-          "text": "Abbiamo compagnia. Almeno cinque guardie."
+          "text": "«Abbiamo compagnia. Almeno cinque guardie.»"
         },
         {
           "type": "paragraph",
@@ -280,7 +280,7 @@
         },
         {
           "type": "quote",
-          "text": "Mi arrendo."
+          "text": "«Mi arrendo.»"
         }
       ]
     },
@@ -299,7 +299,7 @@
         },
         {
           "type": "quote",
-          "text": "Vi prego... lasciatemi andare. Nessuna moneta d'oro vale la vita."
+          "text": "«Vi prego... lasciatemi andare. Nessuna moneta d'oro vale la vita.»"
         },
         {
           "type": "paragraph",
@@ -311,7 +311,7 @@
         },
         {
           "type": "quote",
-          "text": "Noi sorvegliamo soltanto la villa. I sotterranei sono riservati alla signora Vanthampur."
+          "text": "«Noi sorvegliamo soltanto la villa. I sotterranei sono riservati alla signora Vanthampur.»"
         },
         {
           "type": "paragraph",
@@ -331,7 +331,7 @@
         },
         {
           "type": "quote",
-          "text": "So soltanto che Elturel è scomparsa. Questo è tutto ciò che ho sentito."
+          "text": "«So soltanto che Elturel è scomparsa. Questo è tutto ciò che ho sentito.»"
         },
         {
           "type": "paragraph",
@@ -398,7 +398,7 @@
         },
         {
           "type": "quote",
-          "text": "Dannazione!"
+          "text": "«Dannazione!»"
         },
         {
           "type": "paragraph",
@@ -418,7 +418,7 @@
         },
         {
           "type": "quote",
-          "text": "Guardate come si è ridotto il primogenito dei Vanthampur..."
+          "text": "«Guardate come si è ridotto il primogenito dei Vanthampur...»"
         },
         {
           "type": "paragraph",
@@ -426,7 +426,7 @@
         },
         {
           "type": "quote",
-          "text": "Arrenditi. Dacci la chiave."
+          "text": "«Arrenditi. Dacci la chiave.»"
         },
         {
           "type": "paragraph",
@@ -449,7 +449,7 @@
         },
         {
           "type": "quote",
-          "text": "Cinque imp!"
+          "text": "«Cinque imp!»"
         },
         {
           "type": "paragraph",
@@ -473,7 +473,7 @@
         },
         {
           "type": "quote",
-          "text": "Tu sei il prossimo."
+          "text": "«Tu sei il prossimo.»"
         },
         {
           "type": "paragraph",
@@ -524,7 +524,7 @@
         },
         {
           "type": "quote",
-          "text": "Non meritate nulla."
+          "text": "«Non meritate nulla.»"
         },
         {
           "type": "paragraph",
@@ -536,7 +536,7 @@
         },
         {
           "type": "quote",
-          "text": "No! Non puoi! È mio! È il mio tesoro!"
+          "text": "«No! Non puoi! È mio! È il mio tesoro!»"
         },
         {
           "type": "paragraph",
@@ -548,7 +548,7 @@
         },
         {
           "type": "paragraph",
-          "text": "All'interno del forziere il gruppo trovò diversi oggetti di valore: monete, una pozione di guarigione, un tomo intitolato 'Apocalipto' e soprattutto uno strano cilindro metallico decorato con rune rosse e dettagli dorati. L'oggetto emanava un'inconfondibile aura infernale."
+          "text": "All'interno del forziere il gruppo trovò diversi oggetti di valore: monete, una pozione di guarigione, un tomo intitolato <em>Apocalipto</em> e soprattutto uno strano cilindro metallico decorato con rune rosse e dettagli dorati. L'oggetto emanava un'inconfondibile aura infernale."
         },
         {
           "type": "paragraph",
@@ -556,7 +556,7 @@
         },
         {
           "type": "quote",
-          "text": "Mia madre me l'ha affidato. Dovevo risolvere l'enigma. È impossibile. Nemmeno io ci sono riuscito."
+          "text": "«Mia madre me l'ha affidato. Dovevo risolvere l'enigma. È impossibile. Nemmeno io ci sono riuscito.»"
         },
         {
           "type": "paragraph",
@@ -568,7 +568,7 @@
         },
         {
           "type": "quote",
-          "text": "Quello che so non ha molta importanza. Presto anche Baldur's Gate finirà all'inferno. E voi non potrete fermarlo."
+          "text": "«Quello che so non ha molta importanza. Presto anche Baldur's Gate finirà all'inferno. E voi non potrete fermarlo.»"
         },
         {
           "type": "paragraph",
@@ -580,7 +580,7 @@
         },
         {
           "type": "quote",
-          "text": "Credimi. Se non ci darai le informazioni che cerchiamo su tua madre, sullo scudo e su quello che state organizzando in questa villa, la morte sarà l'ultimo dei tuoi problemi."
+          "text": "«Credimi. Se non ci darai le informazioni che cerchiamo su tua madre, sullo scudo e su quello che state organizzando in questa villa, la morte sarà l'ultimo dei tuoi problemi.»"
         },
         {
           "type": "paragraph",
@@ -592,11 +592,11 @@
         },
         {
           "type": "quote",
-          "text": "Mia madre mi ucciderà... ve lo dico... mia madre mi ucciderà..."
+          "text": "«Mia madre mi ucciderà... ve lo dico... mia madre mi ucciderà...»"
         },
         {
           "type": "paragraph",
-          "text": "Fu allora che la discussione si spostò dal prigioniero alla giustizia stessa. Nathan, fedele a Elm, si trovò davanti a un dilemma morale. Da una parte vi era un criminale coinvolto in un complotto infernale che minacciava un'intera città. Dall'altra vi erano i principi di legge e ordine che avevano sempre guidato il suo cammino."
+          "text": "Fu allora che la discussione si spostò dal prigioniero alla giustizia stessa. Nathan, fedele a Helm, si trovò davanti a un dilemma morale. Da una parte vi era un criminale coinvolto in un complotto infernale che minacciava un'intera città. Dall'altra vi erano i principi di legge e ordine che avevano sempre guidato il suo cammino."
         },
         {
           "type": "paragraph",
@@ -608,7 +608,7 @@
         },
         {
           "type": "quote",
-          "text": "Io, Nathan, protettore di Elm, ti condanno a morte."
+          "text": "«Io, Nathan, protettore di Helm, ti condanno a morte.»"
         },
         {
           "type": "paragraph",
@@ -639,7 +639,7 @@
         },
         {
           "type": "paragraph",
-          "text": "L'oggetto si presentava come un complesso rompicapo metallico lungo poco più di una decina di centimetri. Acciaio scuro, inserti ossei, rune infernali incise in rosso e oro. Nonostante la conoscenza della lingua infernale, il tiefling non riusciva a comprendere né il funzionamento né lo scopo del manufatto."
+          "text": "L'oggetto si presentava come un complesso rompicapo metallico lungo poco più di un palmo. Acciaio scuro, inserti ossei, rune infernali incise in rosso e oro. Nonostante la conoscenza della lingua infernale, il tiefling non riusciva a comprendere né il funzionamento né lo scopo del manufatto."
         },
         {
           "type": "paragraph",
@@ -651,11 +651,11 @@
         },
         {
           "type": "paragraph",
-          "text": "Una fitta psichica violentissima gli attraversò il cranio. Per un istante il mondo sembrò deformarsi e una risata infernale riecheggiò nella sua mente. Sangue iniziò a colargli dagli occhi e dalle orecchie mentre crollava quasi a terra sotto l'intensità dell'attacco."
+          "text": "Una fitta psichica violentissima gli attraversò il cranio. Per un istante il mondo sembrò deformarsi, l'aria si fece calda come davanti a una fornace aperta e una risata infernale riecheggiò nella sua mente. Il sangue iniziò a colargli dagli occhi e dalle orecchie mentre crollava quasi a terra sotto l'intensità dell'attacco."
         },
         {
           "type": "quote",
-          "text": "È quella roba! È stata quella roba! È come se qualcosa mi fosse entrato nella testa!"
+          "text": "«È quella roba! È stata quella roba! È come se qualcosa mi fosse entrato nella testa!»"
         },
         {
           "type": "paragraph",
@@ -695,7 +695,7 @@
         },
         {
           "type": "quote",
-          "text": "I cuori di pietra non sanguinano mai."
+          "text": "«I cuori di pietra non sanguinano mai.»"
         },
         {
           "type": "paragraph",
@@ -711,7 +711,7 @@
         },
         {
           "type": "quote",
-          "text": "Ottimo. Abbiamo ancora tempo."
+          "text": "«Ottimo. Abbiamo ancora tempo.»"
         },
         {
           "type": "paragraph",
@@ -750,7 +750,7 @@
         },
         {
           "type": "quote",
-          "text": "Chiudi la porta!"
+          "text": "«Chiudi la porta!»"
         },
         {
           "type": "paragraph",
