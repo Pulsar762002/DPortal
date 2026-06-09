@@ -2,28 +2,28 @@ import {
   MAT_DATE_FORMATS,
   MAT_DATE_LOCALE,
   provideNativeDateAdapter
-} from "./chunk-ESWG7FL2.js";
+} from "./chunk-IGN5LVSC.js";
 import {
   AuthService,
   ROLES
-} from "./chunk-ZQ7WHGMO.js";
+} from "./chunk-4U4DAGBA.js";
 import "./chunk-HLZZMSUH.js";
 import {
   Router,
   RouterOutlet,
   provideRouter,
   withInMemoryScrolling
-} from "./chunk-G6S4C2NR.js";
+} from "./chunk-7BCSRJIT.js";
 import {
   bootstrapApplication,
   provideClientHydration,
   withEventReplay
-} from "./chunk-IATL4W7T.js";
+} from "./chunk-K4BMEWWG.js";
 import {
   CommonModule,
   provideHttpClient,
   withInterceptors
-} from "./chunk-IY2YVCXA.js";
+} from "./chunk-DPMPS3AG.js";
 import {
   Component,
   inject,
@@ -32,11 +32,11 @@ import {
   ɵsetClassDebugInfo,
   ɵɵdefineComponent,
   ɵɵelement
-} from "./chunk-PXNMCIHO.js";
+} from "./chunk-BVPN5UAK.js";
 
 // src/app/core/services/auth.interceptor.ts
 var authInterceptor = (req, next) => {
-  const token = localStorage.getItem("token");
+  const token = typeof window === "undefined" ? null : localStorage.getItem("token");
   if (token) {
     const cloned = req.clone({
       setHeaders: {
@@ -83,31 +83,31 @@ var routes = [
   // ==========================
   {
     path: "login",
-    loadComponent: () => import("./chunk-7NONMZTB.js").then((m) => m.LoginComponent)
+    loadComponent: () => import("./chunk-UVDKEID3.js").then((m) => m.LoginComponent)
   },
   {
     path: "register",
-    loadComponent: () => import("./chunk-Q5ZPHBFH.js").then((m) => m.RegisterComponent)
+    loadComponent: () => import("./chunk-4EKVQQ34.js").then((m) => m.RegisterComponent)
   },
   // ==========================
   // LAYOUT CON NAVBAR
   // ==========================
   {
     path: "",
-    loadComponent: () => import("./chunk-RLPPQACC.js").then((m) => m.ShellComponent),
+    loadComponent: () => import("./chunk-DX4V57TM.js").then((m) => m.ShellComponent),
     children: [
       // PUBLIC
       {
         path: "",
-        loadComponent: () => import("./chunk-POPWHHAL.js").then((m) => m.HomeComponent)
+        loadComponent: () => import("./chunk-4AIMMXR6.js").then((m) => m.HomeComponent)
       },
       {
         path: "masters",
-        loadComponent: () => import("./chunk-TV6JO2EE.js").then((m) => m.MastersComponent)
+        loadComponent: () => import("./chunk-IQXF25D4.js").then((m) => m.MastersComponent)
       },
       {
         path: "styleguide",
-        loadComponent: () => import("./chunk-UY5K2D6B.js").then((m) => m.StyleguideComponent)
+        loadComponent: () => import("./chunk-KAVD6UCX.js").then((m) => m.StyleguideComponent)
       },
       // PROTECTED
       {
@@ -116,17 +116,17 @@ var routes = [
           authGuard,
           roleGuard([ROLES.Master, ROLES.Admin])
         ],
-        loadComponent: () => import("./chunk-XUBSYB4P.js").then((m) => m.DashboardComponent)
+        loadComponent: () => import("./chunk-AZB72ZHN.js").then((m) => m.DashboardComponent)
       },
       {
         path: "dashboard/campagne",
         canActivate: [authGuard],
-        loadComponent: () => import("./chunk-6P4TPI3B.js").then((m) => m.CampagneManagerComponent)
+        loadComponent: () => import("./chunk-22IGSUGU.js").then((m) => m.CampagneManagerComponent)
       },
       {
         path: "dashboard/cronache",
         canActivate: [authGuard],
-        loadComponent: () => import("./chunk-DXUUNFLE.js").then((m) => m.CronacheEditorComponent)
+        loadComponent: () => import("./chunk-WDNUV7NO.js").then((m) => m.CronacheEditorComponent)
       },
       {
         path: "campagne",
@@ -135,7 +135,7 @@ var routes = [
           {
             path: "",
             pathMatch: "full",
-            loadComponent: () => import("./chunk-4TCMHTCB.js").then((m) => m.CampagneComponent)
+            loadComponent: () => import("./chunk-EGWSDKYB.js").then((m) => m.CampagneComponent)
           },
           {
             path: ":slug",
@@ -143,19 +143,23 @@ var routes = [
               {
                 path: "",
                 pathMatch: "full",
-                loadComponent: () => import("./chunk-I7A5RUWU.js").then((m) => m.CampaignDetailComponent)
+                loadComponent: () => import("./chunk-XAJQZB6G.js").then((m) => m.CampaignDetailComponent)
               },
               {
                 path: "sessione/:sessionId",
-                loadComponent: () => import("./chunk-SH4PFQDL.js").then((m) => m.DynamicSessionComponent)
+                loadComponent: () => import("./chunk-5LH74KLJ.js").then((m) => m.DynamicSessionComponent)
               },
               {
                 path: "personaggi",
-                loadComponent: () => import("./chunk-KQOUKBJS.js").then((m) => m.PersonaggiPageComponent)
+                loadComponent: () => import("./chunk-M35NAN4R.js").then((m) => m.PersonaggiPageComponent)
               },
               {
                 path: "luoghi",
-                loadComponent: () => import("./chunk-L2FHQCDN.js").then((m) => m.LuoghiPageComponent)
+                loadComponent: () => import("./chunk-6RFZIEKT.js").then((m) => m.LuoghiPageComponent)
+              },
+              {
+                path: "grafo",
+                loadComponent: () => import("./chunk-WHWXWHI7.js").then((m) => m.GrafoComponent)
               }
             ]
           }
@@ -164,12 +168,12 @@ var routes = [
       {
         path: "land",
         canActivate: [authGuard],
-        loadComponent: () => import("./chunk-4PRTOGZY.js").then((m) => m.LandComponent)
+        loadComponent: () => import("./chunk-AR36QK6G.js").then((m) => m.LandComponent)
       },
       {
         path: "profile",
         canActivate: [authGuard],
-        loadComponent: () => import("./chunk-GEK2ZQDT.js").then((m) => m.ProfileComponent)
+        loadComponent: () => import("./chunk-YUE6FKNE.js").then((m) => m.ProfileComponent)
       },
       {
         path: "admin/users",
@@ -177,7 +181,7 @@ var routes = [
           authGuard,
           roleGuard([ROLES.Admin])
         ],
-        loadComponent: () => import("./chunk-DIP3DDRG.js").then((m) => m.UsersComponent)
+        loadComponent: () => import("./chunk-7NSKWUFV.js").then((m) => m.UsersComponent)
       }
     ]
   },

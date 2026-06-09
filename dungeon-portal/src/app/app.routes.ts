@@ -117,6 +117,12 @@ export const routes: Routes = [
                 loadComponent: () =>
                   import('./features/public/campagne/discesa-averno/luoghi/luoghi-page/luoghi-page.component')
                     .then(m => m.LuoghiPageComponent)
+              },
+              {
+                path: 'grafo',
+                loadComponent: () =>
+                  import('./features/public/campagne/discesa-averno/grafo/grafo.component')
+                    .then(m => m.GrafoComponent)
               }
             ]
           }

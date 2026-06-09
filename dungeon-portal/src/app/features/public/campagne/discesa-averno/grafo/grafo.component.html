@@ -1,0 +1,77 @@
+<div class="grafo-page">
+
+  <h1 class="page-title">
+    Grafo dei legami – Le Cronache dell’Averno
+  </h1>
+
+  <p class="grafo-intro">
+    Ogni nodo è un personaggio, ogni linea un legame. Passa il mouse su un nodo
+    per evidenziarne le relazioni.
+  </p>
+
+  <div class="grafo-legenda">
+    <span class="voce" *ngFor="let v of legenda">
+      <span class="pallino" [style.background]="colore(v.cat)"></span>
+      {{ v.label }}
+    </span>
+  </div>
+
+  <ng-container *ngIf="(stato$ | async) as stato; else caricamento">
+
+    <div class="grafo-wrapper" *ngIf="stato === 'ok'; else erroreTpl">
+
+      <svg
+        [attr.viewBox]="viewBox"
+        class="grafo-svg"
+        preserveAspectRatio="xMidYMid meet">
+
+        <!-- archi -->
+        <line
+          *ngFor="let e of archi"
+          class="arco"
+          [class.spento]="!arcoAttivo(e)"
+          [attr.x1]="e.a.x" [attr.y1]="e.a.y"
+          [attr.x2]="e.b.x" [attr.y2]="e.b.y">
+        </line>
+
+        <!-- nodi -->
+        <g
+          *ngFor="let n of nodi"
+          class="nodo"
+          [class.spento]="!nodoAttivo(n.id)"
+          (mouseenter)="onHover(n)"
+          (mouseleave)="onHover(null)">
+
+          <circle
+            [attr.cx]="n.x" [attr.cy]="n.y" [attr.r]="n.r"
+            [attr.fill]="colore(n.categoria)">
+            <title>{{ n.nome }}</title>
+          </circle>
+
+          <text
+            *ngIf="mostraLabel(n)"
+            class="etichetta"
+            [attr.x]="n.x"
+            [attr.y]="n.y - n.r - 3">
+            {{ n.nome }}
+          </text>
+
+        </g>
+
+      </svg>
+
+    </div>
+
+    <ng-template #erroreTpl>
+      <p class="grafo-loading">
+        Impossibile caricare i dati del grafo. Riprova più tardi.
+      </p>
+    </ng-template>
+
+  </ng-container>
+
+  <ng-template #caricamento>
+    <p class="grafo-loading">Caricamento del grafo…</p>
+  </ng-template>
+
+</div>

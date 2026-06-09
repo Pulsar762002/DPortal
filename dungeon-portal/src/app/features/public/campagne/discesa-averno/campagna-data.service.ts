@@ -6,6 +6,13 @@ import { map, shareReplay } from 'rxjs/operators';
 /** Categoria di un personaggio, rispecchia le cartelle personaggi/. */
 export type CategoriaPersonaggio = 'party' | 'alleato' | 'avversario' | 'secondario';
 
+/** Un legame fra personaggi (campo correlazioni in personaggi.json). */
+export interface Correlazione {
+  personaggio: string;
+  tipo: string;
+  descrizione: string;
+}
+
 /** Una scheda personaggio come nel file personaggi.json. */
 export interface Personaggio {
   id: string;
@@ -21,6 +28,7 @@ export interface Personaggio {
   stato?: string;
   primaApparizione: number;
   apparizioni?: number[];
+  correlazioni?: Correlazione[];
 }
 
 /** Un luogo come nel file luoghi.json. */

@@ -1,13 +1,10 @@
 {
   "title": "Le Cronache dell'Averno",
-
   "description": "Baldur’s Gate è sull’orlo del caos, logorata da vizi e ambizione.",
-
   "sections": [
     {
       "title": "I. Sessioni",
       "type": "sessions",
-
       "items": [
         {
           "label": "Sessione 1",
@@ -121,55 +118,76 @@
         }
       ]
     },
-
     {
       "title": "II. Personaggi",
       "type": "links",
-
       "items": [
         {
           "label": "Personaggi Principali",
-          "route": ["personaggi"],
+          "route": [
+            "personaggi"
+          ],
           "fragment": "principali"
         },
-
         {
           "label": "Alleati e PNG",
-          "route": ["personaggi"],
+          "route": [
+            "personaggi"
+          ],
           "fragment": "alleati"
         },
         {
           "label": "Secondari",
-          "route": ["personaggi"],
+          "route": [
+            "personaggi"
+          ],
           "fragment": "secondari"
         },
         {
           "label": "NPC Minori",
-          "route": ["personaggi"],
+          "route": [
+            "personaggi"
+          ],
           "fragment": "minori"
         }
       ]
     },
-
     {
       "title": "III. Luoghi",
       "type": "links",
-
       "items": [
         {
           "label": "Sessione 1",
-          "route": ["luoghi"],
+          "route": [
+            "luoghi"
+          ],
           "fragment": "sessione-1"
         },
         {
           "label": "Sessione 2",
-          "route": ["luoghi"],
+          "route": [
+            "luoghi"
+          ],
           "fragment": "sessione-2"
         },
         {
           "label": "Sessione 3",
-          "route": ["luoghi"],
+          "route": [
+            "luoghi"
+          ],
           "fragment": "sessione-3"
+        }
+      ]
+    },
+    {
+      "title": "IV. Relazioni",
+      "type": "links",
+      "items": [
+        {
+          "label": "Grafo dei legami",
+          "route": [
+            "grafo"
+          ]
         }
       ]
     }
