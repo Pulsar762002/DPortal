@@ -1633,7 +1633,7 @@
         },
         {
           "sessione": 11,
-          "testo": "Contatta Alice (membro del gruppo) tramite un messaggio magico per avvertire che all'esterno la situazione e critica: troppi cultisti, l'estrazione e compromessa, il gruppo dovra cavarsela da solo. Conferma che i nemici controllano l'esterno e potrebbero rientrare tagliando la ritirata."
+          "testo": "Contatta Elis (membro del gruppo) tramite un messaggio magico per avvertire che all'esterno la situazione e critica: troppi cultisti, l'estrazione e compromessa, il gruppo dovra cavarsela da solo. Conferma che i nemici controllano l'esterno e potrebbero rientrare tagliando la ritirata."
         },
         {
           "sessione": 12,
@@ -1652,9 +1652,9 @@
           "descrizione": "Costringe anche il nobile Alaster a firmare il contratto."
         },
         {
-          "personaggio": "alice",
+          "personaggio": "elis",
           "tipo": "contatto",
-          "descrizione": "Raggiunge Alice con un messaggio magico per avvertire dell'estrazione compromessa."
+          "descrizione": "Raggiunge Elis con un messaggio magico per avvertire dell'estrazione compromessa."
         },
         {
           "personaggio": "vendetta-cress",
@@ -2102,25 +2102,33 @@
       "aspetto": "Vecchio pallido, occhi infossati, labbra sottili, voce roca.",
       "personalita": "Freddo e calcolatore; nega ogni legame col Culto finché può.",
       "background": "Gestisce l'Emporio Black, copertura del mercato nero legata al Culto dei Tre Morti: sul suo banco e sulla maniglia compare il simbolo dei Tre Morti.",
-      "stato": "ignoto",
+      "stato": "morto",
       "primaApparizione": 5,
       "apparizioni": [
-        5
+        5,
+        6
       ],
       "note": [
         {
           "sessione": 5,
           "testo": "Insospettito da una frase di Aelar, si mette sulla difensiva; dietro il suo emporio si cela il passaggio per il Tempio di Myrkul."
+        },
+        {
+          "sessione": 6,
+          "testo": "Ucciso da Alaster nell'Emporio Black durante un confronto al mercato nero: stava per attaccare il gruppo."
         }
       ],
-      "misteri": [
-        "Che fine fa Obaia Black dopo lo smascheramento?"
-      ],
+      "misteri": [],
       "correlazioni": [
         {
           "personaggio": "culto-tre-morti",
           "tipo": "affiliato",
           "descrizione": "Il suo emporio è una copertura del Culto."
+        },
+        {
+          "personaggio": "alaster",
+          "tipo": "ucciso da",
+          "descrizione": "Alaster lo uccide nell'Emporio Black quando stava per attaccare il gruppo."
         }
       ]
     },
@@ -2765,43 +2773,6 @@
           "personaggio": "zodge",
           "tipo": "presa in custodia da",
           "descrizione": "Zodge la conduce in caserma per interrogarla e farle prestare le cure."
-        }
-      ]
-    },
-    {
-      "id": "alice",
-      "nome": "Alice",
-      "categoria": "party",
-      "ruolo": "Membro del gruppo",
-      "razza": "Ignota",
-      "eta": "Ignota",
-      "immagine": null,
-      "aspetto": "Non descritta in dettaglio. Tiene la posizione di testa nella discesa nel covo.",
-      "personalita": "Non ancora delineata; affidabile e in prima linea.",
-      "background": "Membro del gruppo presente nella discesa al covo dei Tre Morti. Fa da contatto col Capitano Zodge, che la raggiunge tramite un messaggio magico.",
-      "stato": "vivo",
-      "primaApparizione": 11,
-      "apparizioni": [
-        11
-      ],
-      "note": [
-        {
-          "sessione": 11,
-          "testo": "Compare gia integrata nel gruppo ('manteneva la posizione di testa, come aveva fatto per tutta la discesa'). Riceve nella mente il messaggio magico del Capitano Zodge sull'estrazione compromessa e lo riferisce ai compagni. Beneficia della Channel Divinity di Nathan insieme ad Alaster ed Elis."
-        },
-        {
-          "sessione": 11,
-          "testo": "NB: personaggio non catalogato nelle sessioni 1-10, ma in S11 e trattato come membro stabile gia presente 'per tutta la discesa'. Catalogato qui con primaApparizione 11; resta da chiarire quando si sia unito al gruppo."
-        }
-      ],
-      "misteri": [
-        "Chi e Alice e quando si e unita al gruppo, dato che in S11 e gia presente 'da tutta la discesa' ma non era stata catalogata prima?"
-      ],
-      "correlazioni": [
-        {
-          "personaggio": "zodge",
-          "tipo": "contatto",
-          "descrizione": "Riceve da Zodge il messaggio magico sull'estrazione compromessa."
         }
       ]
     },

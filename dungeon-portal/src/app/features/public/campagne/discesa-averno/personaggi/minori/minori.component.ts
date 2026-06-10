@@ -1,8 +1,9 @@
 import { Component } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { Observable } from 'rxjs';
+import { map } from 'rxjs/operators';
 import { PersonaggioCardComponent } from '../principali/personaggio-card/personaggio-card.component';
-import { CampagnaDataService, PersonaggioCardVM } from '../../campagna-data.service';
+import { CampagnaDataService, Personaggio } from '../../campagna-data.service';
 
 @Component({
   selector: 'app-minori',
@@ -12,9 +13,11 @@ import { CampagnaDataService, PersonaggioCardVM } from '../../campagna-data.serv
   styleUrl: './minori.component.css',
 })
 export class MinoriComponent {
-  personaggi$: Observable<PersonaggioCardVM[]>;
+  personaggi$: Observable<Personaggio[]>;
 
   constructor(private dati: CampagnaDataService) {
-    this.personaggi$ = this.dati.getCardsByCategoria('avversario');
+    this.personaggi$ = this.dati.getPersonaggi().pipe(
+      map(lista => lista.filter(p => p.categoria === 'avversario'))
+    );
   }
 }

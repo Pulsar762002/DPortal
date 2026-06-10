@@ -1,31 +1,73 @@
-<div class="personaggio-wrapper">
+<div class="personaggio-card">
 
-  <div class="personaggio-image" *ngIf="immagine">
-    <img [src]="immagine" [alt]="nome">
+  <!-- Immagine laterale -->
+  <div class="card-image" *ngIf="p.immagine">
+    <img [src]="p.immagine" [alt]="p.nome">
   </div>
 
-  <div class="personaggio-content">
+  <!-- Contenuto principale -->
+  <div class="card-content">
 
-    <h3 class="personaggio-nome">
-      {{ nome }}
-    </h3>
+    <!-- Intestazione: nome + badge stato -->
+    <div class="card-header">
+      <h3 class="card-nome">{{ p.nome }}</h3>
+      <span class="card-stato" [class]="'stato-' + (p.stato ?? 'ignoto')">
+        {{ p.stato ?? '—' }}
+      </span>
+    </div>
 
-    <ul class="personaggio-info">
-      <li>
-        <strong>Specie/Classe:</strong>
-        {{ specieClasse }}
-      </li>
+    <!-- Sottotitolo: ruolo — specie, età -->
+    <p class="card-subtitle" *ngIf="p.ruolo || p.razza">
+      <span *ngIf="p.ruolo" class="card-ruolo">{{ p.ruolo }}</span>
+      <span *ngIf="p.ruolo && (p.razza || p.eta)" class="sep"> — </span>
+      <span class="card-specie">{{ specieClasse }}</span>
+    </p>
 
-      <li>
-        <strong>Descrizione:</strong>
-        {{ descrizione }}
-      </li>
+    <!-- Dettagli descrittivi -->
+    <dl class="card-dettagli" *ngIf="p.aspetto || p.personalita || p.background">
+      <div class="campo" *ngIf="p.aspetto">
+        <dt>Aspetto</dt>
+        <dd>{{ p.aspetto }}</dd>
+      </div>
+      <div class="campo" *ngIf="p.personalita">
+        <dt>Personalità</dt>
+        <dd>{{ p.personalita }}</dd>
+      </div>
+      <div class="campo" *ngIf="p.background">
+        <dt>Background</dt>
+        <dd>{{ p.background }}</dd>
+      </div>
+    </dl>
 
-      <li>
-        <strong>Ruolo nel gruppo:</strong>
-        {{ ruolo }}
-      </li>
-    </ul>
+    <!-- Misteri aperti -->
+    <div class="card-misteri" *ngIf="p.misteri?.length">
+      <p class="misteri-titolo">Misteri aperti</p>
+      <ul class="misteri-lista">
+        <li *ngFor="let m of p.misteri">{{ m }}</li>
+      </ul>
+    </div>
+
+    <!-- Apparizioni -->
+    <p class="card-apparizioni">
+      Prima apparizione: sessione {{ p.primaApparizione }}
+      <span *ngIf="p.apparizioni?.length">
+        · {{ p.apparizioni!.length }} {{ p.apparizioni!.length === 1 ? 'sessione' : 'sessioni' }}
+      </span>
+    </p>
+
+    <!-- Note di sessione (collassabili) -->
+    <div class="card-note" *ngIf="p.note?.length">
+      <button class="note-toggle" (click)="notesExpanded = !notesExpanded">
+        <span class="toggle-icon">{{ notesExpanded ? '▲' : '▼' }}</span>
+        Note di sessione ({{ p.note!.length }})
+      </button>
+      <ul class="note-lista" *ngIf="notesExpanded">
+        <li *ngFor="let n of p.note">
+          <span class="nota-sessione">Sessione {{ n.sessione }}</span>
+          <span class="nota-testo">{{ n.testo }}</span>
+        </li>
+      </ul>
+    </div>
 
   </div>
 

@@ -21,11 +21,143 @@
   z-index: 1;
 }
 
+/* ===== PAGE HEADER ===== */
+
+.page-header {
+  background: #13151d;
+  border: 1px solid rgba(212, 175, 55, 0.2);
+  border-radius: 10px;
+  padding: 1.8rem 1.5rem 1.4rem;
+  margin-bottom: 2rem;
+  text-align: center;
+}
+
 .page-title {
   font-size: 2.3rem;
   text-align: center;
-  margin-bottom: 3rem;
+  margin: 0 0 0.4rem;
   color: #d4af37;
   letter-spacing: 1px;
   text-shadow: 0 0 10px rgba(212, 175, 55, 0.5);
+}
+
+.page-intro {
+  margin: 0;
+  opacity: 0.7;
+  font-size: 0.95rem;
+}
+
+/* ===== TWO-COLUMN LAYOUT ===== */
+
+.luoghi-layout {
+  display: flex;
+  align-items: flex-start;
+  gap: 2rem;
+}
+
+/* ===== SIDEBAR ===== */
+
+.sidebar {
+  flex: 0 0 160px;
+  position: sticky;
+  top: 1.5rem;
+  max-height: calc(100vh - 3rem);
+  overflow-y: auto;
+  background: #13151d;
+  border: 1px solid rgba(212, 175, 55, 0.15);
+  border-radius: 10px;
+  padding: 1rem 0.8rem;
+  scrollbar-width: thin;
+  scrollbar-color: rgba(212, 175, 55, 0.3) transparent;
+}
+
+.sidebar-titolo {
+  font-size: 0.72rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: #d4af37;
+  opacity: 0.7;
+  margin: 0 0 0.8rem 0.4rem;
+}
+
+.sidebar-link {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.45rem 0.6rem;
+  border-radius: 6px;
+  text-decoration: none;
+  color: #c8bfa0;
+  font-size: 0.88rem;
+  transition: background 0.15s, color 0.15s;
+  cursor: pointer;
+}
+
+.sidebar-link:hover {
+  background: rgba(212, 175, 55, 0.12);
+  color: #f1e6c8;
+}
+
+.sidebar-num {
+  font-weight: 600;
+  color: #d4af37;
+}
+
+.sidebar-count {
+  font-size: 0.75rem;
+  background: rgba(255, 255, 255, 0.08);
+  border-radius: 10px;
+  padding: 0.1rem 0.5rem;
+  color: #a0a0b0;
+}
+
+/* ===== MAIN CONTENT ===== */
+
+.main-content {
+  flex: 1 1 0;
+  min-width: 0;
+}
+
+/* ===== SESSION SECTIONS ===== */
+
+.luoghi-sessione {
+  margin-bottom: 3rem;
+  scroll-margin-top: 1.5rem;
+}
+
+.section-title {
+  font-size: 1.4rem;
+  color: #d4af37;
+  border-bottom: 1px solid rgba(212, 175, 55, 0.25);
+  padding-bottom: 0.5rem;
+  margin-bottom: 1.5rem;
+}
+
+/* ===== RESPONSIVE ===== */
+
+@media (max-width: 700px) {
+  .luoghi-layout {
+    flex-direction: column;
+  }
+
+  .sidebar {
+    flex: none;
+    width: 100%;
+    position: static;
+    max-height: none;
+    overflow-y: visible;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+    padding: 0.8rem;
+  }
+
+  .sidebar-titolo {
+    width: 100%;
+  }
+
+  .sidebar-link {
+    flex: 0 0 auto;
+    gap: 0.4rem;
+  }
 }

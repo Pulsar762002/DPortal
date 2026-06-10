@@ -1,24 +1,67 @@
-<div class="luogo-wrapper">
+<div class="luogo-card">
 
-  <div class="luogo-image" *ngIf="immagine">
-    <img [src]="immagine" [alt]="nome">
+  <!-- Immagine laterale -->
+  <div class="card-image" *ngIf="l.immagine">
+    <img [src]="l.immagine" [alt]="l.nome">
   </div>
 
-  <div class="luogo-content">
+  <!-- Contenuto principale -->
+  <div class="card-content">
 
-    <h3 class="luogo-nome">
-      {{ nome }}
-    </h3>
+    <!-- Intestazione: nome + badge tipo + badge stato -->
+    <div class="card-header">
+      <h3 class="card-nome">{{ l.nome }}</h3>
+      <span class="card-tipo">{{ l.tipo }}</span>
+      <span class="card-stato" [class]="'stato-' + (l.stato ?? 'ignoto')" *ngIf="l.stato">
+        {{ l.stato }}
+      </span>
+    </div>
 
-    <ul class="luogo-info">
+    <!-- Sottotitolo: regione / luogo padre -->
+    <p class="card-subtitle" *ngIf="l.regione || l.luogoPadre">
+      <span *ngIf="l.regione">{{ l.regione }}</span>
+      <span *ngIf="l.regione && l.luogoPadre" class="sep"> · </span>
+      <span *ngIf="l.luogoPadre" class="padre">parte di {{ formatId(l.luogoPadre) }}</span>
+    </p>
 
-      <li>
-        <strong>Descrizione:</strong>
-        {{ descrizione }}
-      </li>
+    <!-- Descrizione -->
+    <p class="card-descrizione" *ngIf="l.descrizione">{{ l.descrizione }}</p>
 
+    <!-- Abitanti/figure notabili -->
+    <div class="card-abitanti" *ngIf="l.abitantiNotabili?.length">
+      <span class="label">Figure notabili:</span>
+      <span class="nomi">{{ nomiAbitanti() }}</span>
+    </div>
 
-    </ul>
+    <!-- Misteri -->
+    <div class="card-misteri" *ngIf="l.misteri?.length">
+      <p class="misteri-titolo">Misteri aperti</p>
+      <ul class="misteri-lista">
+        <li *ngFor="let m of l.misteri">{{ m }}</li>
+      </ul>
+    </div>
+
+    <!-- Apparizioni -->
+    <p class="card-apparizioni">
+      Prima apparizione: sessione {{ l.primaApparizione }}
+      <span *ngIf="l.apparizioni?.length">
+        · {{ l.apparizioni!.length }} {{ l.apparizioni!.length === 1 ? 'sessione' : 'sessioni' }}
+      </span>
+    </p>
+
+    <!-- Note di sessione (collassabili) -->
+    <div class="card-note" *ngIf="l.note?.length">
+      <button class="note-toggle" (click)="notesExpanded = !notesExpanded">
+        <span class="toggle-icon">{{ notesExpanded ? '▲' : '▼' }}</span>
+        Note di sessione ({{ l.note!.length }})
+      </button>
+      <ul class="note-lista" *ngIf="notesExpanded">
+        <li *ngFor="let n of l.note">
+          <span class="nota-sessione">Sessione {{ n.sessione }}</span>
+          <span class="nota-testo">{{ n.testo }}</span>
+        </li>
+      </ul>
+    </div>
 
   </div>
 

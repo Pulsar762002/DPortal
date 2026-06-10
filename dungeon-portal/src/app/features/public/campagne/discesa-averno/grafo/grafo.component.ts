@@ -1,5 +1,6 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit, OnDestroy, ViewChild, ElementRef, NgZone } from '@angular/core';
 import { CommonModule } from '@angular/common';
+import { Router } from '@angular/router';
 import { Observable, of } from 'rxjs';
 import { map, catchError } from 'rxjs/operators';
 import { CampagnaDataService, Personaggio, CategoriaPersonaggio } from '../campagna-data.service';
@@ -22,6 +23,17 @@ interface GEdge {
   tipo: string;
 }
 
+interface DragState {
+  startX: number;
+  startY: number;
+  startVbX: number;
+  startVbY: number;
+  startVbW: number;
+  startVbH: number;
+  rectW: number;
+  rectH: number;
+}
+
 @Component({
   selector: 'app-grafo',
   standalone: true,
@@ -29,16 +41,27 @@ interface GEdge {
   templateUrl: './grafo.component.html',
   styleUrl: './grafo.component.css',
 })
-export class GrafoComponent implements OnInit {
+export class GrafoComponent implements OnInit, OnDestroy {
   nodi: GNode[] = [];
   archi: GEdge[] = [];
-  viewBox = '0 0 1000 1000';
+
+  vbX = 0;
+  vbY = 0;
+  vbW = 1000;
+  vbH = 1000;
+  get viewBox(): string {
+    return `${this.vbX.toFixed(1)} ${this.vbY.toFixed(1)} ${this.vbW.toFixed(1)} ${this.vbH.toFixed(1)}`;
+  }
 
   /** 'ok' = grafo pronto, 'err' = errore di caricamento; null (nessun emit) = in caricamento. */
   stato$!: Observable<'ok' | 'err'>;
 
   hoveredId: string | null = null;
+  hoveredArco: GEdge | null = null;
+  dragStart: DragState | null = null;
+  private moved = false;
   private vicini = new Set<string>();
+  private _svgEl: SVGSVGElement | null = null;
 
   readonly colori: Record<string, string> = {
     party: '#f4a261',
@@ -54,11 +77,47 @@ export class GrafoComponent implements OnInit {
     { cat: 'avversario', label: 'Avversari' },
   ];
 
-  constructor(private dati: CampagnaDataService) {}
+  private readonly categoriaAnchor: Record<CategoriaPersonaggio, string> = {
+    party: 'principali',
+    alleato: 'alleati',
+    secondario: 'secondari',
+    avversario: 'minori',
+  };
+
+  // Wheel listener come arrow function per poterla rimuovere con removeEventListener.
+  private handleWheel = (e: WheelEvent): void => {
+    e.preventDefault();
+    const rect = this._svgEl!.getBoundingClientRect();
+    const rx = (e.clientX - rect.left) / rect.width;
+    const ry = (e.clientY - rect.top) / rect.height;
+    const cx = this.vbX + rx * this.vbW;
+    const cy = this.vbY + ry * this.vbH;
+    const factor = e.deltaY > 0 ? 1.15 : 1 / 1.15;
+    this.vbW *= factor;
+    this.vbH *= factor;
+    this.vbX = cx - rx * this.vbW;
+    this.vbY = cy - ry * this.vbH;
+  };
+
+  // ViewChild setter: il SVG appare dopo *ngIf, non prima — ngAfterViewInit sarebbe troppo presto.
+  @ViewChild('svgEl')
+  set svgElRef(ref: ElementRef<SVGSVGElement> | undefined) {
+    if (this._svgEl && typeof window !== 'undefined') {
+      this._svgEl.removeEventListener('wheel', this.handleWheel);
+    }
+    this._svgEl = ref?.nativeElement ?? null;
+    if (this._svgEl && typeof window !== 'undefined') {
+      this._svgEl.addEventListener('wheel', this.handleWheel, { passive: false });
+    }
+  }
+
+  constructor(
+    private dati: CampagnaDataService,
+    private router: Router,
+    private zone: NgZone,
+  ) {}
 
   ngOnInit(): void {
-    // async pipe (compatibile con l'hydration): costruzione del grafo come effetto
-    // della mappatura, poi emissione dello stato 'ok'.
     this.stato$ = this.dati.getPersonaggi().pipe(
       map(personaggi => {
         this.costruisciGrafo(personaggi);
@@ -71,6 +130,12 @@ export class GrafoComponent implements OnInit {
         return of('err' as const);
       })
     );
+  }
+
+  ngOnDestroy(): void {
+    if (this._svgEl && typeof window !== 'undefined') {
+      this._svgEl.removeEventListener('wheel', this.handleWheel);
+    }
   }
 
   colore(cat: string): string {
@@ -122,8 +187,6 @@ export class GrafoComponent implements OnInit {
   }
 
   // ---------- layout Fruchterman-Reingold (deterministico) ----------
-  // Simula solo i nodi CON legami (clampati nel riquadro, così riempiono il
-  // pannello); i nodi isolati vengono disposti in una fascia ordinata sotto.
   private layoutForzaDiretta(): void {
     const W = 1800;
     const H = 1100;
@@ -204,7 +267,6 @@ export class GrafoComponent implements OnInit {
       }
     }
 
-    // nodi isolati: griglia ordinata sotto al grafo connesso
     if (isolati.length) {
       let minX = Infinity;
       let maxX = -Infinity;
@@ -244,16 +306,57 @@ export class GrafoComponent implements OnInit {
       maxY = Math.max(maxY, n.y + n.r);
     }
     const pad = 50;
-    const x = minX - pad;
-    const y = minY - pad;
-    const w = maxX - minX + pad * 2;
-    const h = maxY - minY + pad * 2;
-    this.viewBox = `${x.toFixed(1)} ${y.toFixed(1)} ${w.toFixed(1)} ${h.toFixed(1)}`;
+    this.vbX = minX - pad;
+    this.vbY = minY - pad;
+    this.vbW = maxX - minX + pad * 2;
+    this.vbH = maxY - minY + pad * 2;
   }
 
-  // ---------- interazione ----------
+  // ---------- pan ----------
+  onMouseDown(e: MouseEvent): void {
+    if (e.button !== 0) return;
+    const rect = (e.currentTarget as SVGSVGElement).getBoundingClientRect();
+    this.dragStart = {
+      startX: e.clientX,
+      startY: e.clientY,
+      startVbX: this.vbX,
+      startVbY: this.vbY,
+      startVbW: this.vbW,
+      startVbH: this.vbH,
+      rectW: rect.width,
+      rectH: rect.height,
+    };
+    this.moved = false;
+    if (typeof window === 'undefined') return;
+
+    const onMove = (ev: MouseEvent): void => {
+      if (!this.dragStart) return;
+      const d = Math.hypot(ev.clientX - this.dragStart.startX, ev.clientY - this.dragStart.startY);
+      if (d > 4) this.moved = true;
+      this.zone.run(() => {
+        if (!this.dragStart) return;
+        const dx = ((ev.clientX - this.dragStart.startX) / this.dragStart.rectW) * this.dragStart.startVbW;
+        const dy = ((ev.clientY - this.dragStart.startY) / this.dragStart.rectH) * this.dragStart.startVbH;
+        this.vbX = this.dragStart.startVbX - dx;
+        this.vbY = this.dragStart.startVbY - dy;
+      });
+    };
+    const onUp = (): void => {
+      this.zone.run(() => {
+        this.dragStart = null;
+      });
+      window.removeEventListener('mousemove', onMove);
+      window.removeEventListener('mouseup', onUp);
+    };
+    window.addEventListener('mousemove', onMove);
+    window.addEventListener('mouseup', onUp);
+  }
+
+  // ---------- interazione nodi ----------
   onHover(n: GNode | null): void {
+    if (this.dragStart) return;
     this.hoveredId = n ? n.id : null;
+    this.hoveredArco = null;
     this.vicini.clear();
     if (n) {
       for (const e of this.archi) {
@@ -266,6 +369,19 @@ export class GrafoComponent implements OnInit {
     }
   }
 
+  onClickNodo(n: GNode): void {
+    if (this.moved) return;
+    this.router.navigate(['/campagne/discesa-averno/personaggi'], {
+      fragment: this.categoriaAnchor[n.categoria],
+    });
+  }
+
+  // ---------- interazione archi ----------
+  onHoverArco(e: GEdge | null): void {
+    if (this.dragStart) return;
+    this.hoveredArco = e;
+  }
+
   nodoAttivo(id: string): boolean {
     return !this.hoveredId || this.hoveredId === id || this.vicini.has(id);
   }
@@ -275,7 +391,6 @@ export class GrafoComponent implements OnInit {
   }
 
   mostraLabel(n: GNode): boolean {
-    // sempre: PG, hub molto connessi, nodi isolati; più nodo/vicini in hover
     return (
       n.categoria === 'party' ||
       n.grado >= 8 ||

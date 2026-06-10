@@ -1,0 +1,88 @@
+<div class="eventi-page" *ngIf="vm$ | async as vm">
+
+  <div class="page-header">
+    <h1 class="page-title">Cronologia – Le Cronache dell'Averno</h1>
+    <p class="page-intro">{{ vm.gruppi.length }} sessioni · {{ totaleEventi(vm.gruppi) }} eventi</p>
+  </div>
+
+  <div class="eventi-layout">
+
+    <!-- ===== SIDEBAR INDICE ===== -->
+    <nav class="sidebar">
+      <p class="sidebar-titolo">Sessioni</p>
+      <a
+        *ngFor="let gruppo of vm.gruppi"
+        class="sidebar-link"
+        [href]="'#' + gruppo.anchor"
+        (click)="scrollTo($event, gruppo.anchor)">
+        <span class="sidebar-num">{{ gruppo.sessione }}</span>
+        <span class="sidebar-count">{{ gruppo.eventi.length }}</span>
+      </a>
+    </nav>
+
+    <!-- ===== CONTENUTO PRINCIPALE ===== -->
+    <div class="main-content">
+
+      <section
+        class="sessione-block"
+        *ngFor="let gruppo of vm.gruppi"
+        [id]="gruppo.anchor">
+
+        <!-- Intestazione sessione (toggle) -->
+        <button class="sessione-header" (click)="toggle(gruppo)">
+          <span class="sessione-label">Sessione {{ gruppo.sessione }}</span>
+          <span class="sessione-count">{{ gruppo.eventi.length }} eventi</span>
+          <span class="sessione-chevron">{{ gruppo.espanso ? '▲' : '▼' }}</span>
+        </button>
+
+        <!-- Lista eventi -->
+        <div class="eventi-lista" *ngIf="gruppo.espanso">
+
+          <article class="evento-card" *ngFor="let e of gruppo.eventi">
+
+            <!-- Tipo + titolo -->
+            <div class="evento-header">
+              <span class="evento-tipo"
+                [style.color]="tipoColore(e.tipo)"
+                [style.border-color]="tipoColore(e.tipo) + '55'">
+                {{ e.tipo }}
+              </span>
+              <h3 class="evento-titolo">{{ e.titolo }}</h3>
+            </div>
+
+            <!-- Luogo + quando -->
+            <p class="evento-meta" *ngIf="e.luogo || e.quando">
+              <span *ngIf="e.luogo">📍 {{ e.luogo }}</span>
+              <span *ngIf="e.luogo && e.quando" class="sep"> · </span>
+              <span *ngIf="e.quando">{{ e.quando }}</span>
+            </p>
+
+            <!-- Cosa succede -->
+            <p class="evento-testo">{{ e.cosaSuccede }}</p>
+
+            <!-- Conseguenze -->
+            <div class="evento-conseguenze" *ngIf="e.conseguenze">
+              <span class="cons-label">Conseguenze</span>
+              <span class="cons-testo">{{ e.conseguenze }}</span>
+            </div>
+
+            <!-- Partecipanti -->
+            <div class="evento-partecipanti" *ngIf="e.partecipanti?.length">
+              <span class="part-label">Partecipanti:</span>
+              <span class="part-nomi">{{ nomiPartecipanti(e.partecipanti, vm.nomiPersonaggi) }}</span>
+              <span *ngIf="e.altriPartecipanti?.length" class="part-altri">
+                + {{ e.altriPartecipanti!.join(', ') }}
+              </span>
+            </div>
+
+          </article>
+
+        </div>
+
+      </section>
+
+    </div><!-- /main-content -->
+
+  </div><!-- /eventi-layout -->
+
+</div>

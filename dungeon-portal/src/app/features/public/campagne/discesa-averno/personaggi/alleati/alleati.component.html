@@ -6,11 +6,7 @@
 
   <app-personaggio-card
     *ngFor="let p of personaggi$ | async"
-    [nome]="p.nome"
-    [specieClasse]="p.specieClasse"
-    [descrizione]="p.descrizione"
-    [ruolo]="p.ruolo"
-    [immagine]="p.immagine">
+    [p]="p">
   </app-personaggio-card>
 
 </section>

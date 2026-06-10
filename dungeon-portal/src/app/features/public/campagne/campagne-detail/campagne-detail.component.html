@@ -26,69 +26,44 @@
                     {{ section.title }}
                 </h2>
 
-                <!-- SESSIONI GRID -->
-                <ul
-                        *ngIf="section.type === 'sessions'; else normalList"
-                        class="index-list sessions-grid">
+                <ng-container [ngSwitch]="section.type">
 
-                    <li
-                            *ngFor="let item of section.items">
-
-                        <ng-container
-                                *ngIf="isVisible(item)">
-
-                            <a
-                                    [routerLink]="[
-                                        '/campagne',
-                                        slug,
-                                        'sessione',
-                                        item.sessionNumber
-                                    ]">
-
-                                <span class="index-number">
-                                    {{ item.sessionNumber }}
-                                </span>
-
-                                <span class="index-text">
-                                    {{ item.label }}
-                                </span>
-
-                            </a>
-
-                        </ng-container>
-
-                    </li>
-
-                </ul>
-
-                <!-- ALTRE LISTE -->
-                <ng-template #normalList>
-
-                    <ul
-                            class="index-list"
-                            [class.secondary]="section.type === 'links'">
-
-                        <li
-                                *ngFor="let item of section.items">
-
-                            <ng-container
-                                    *ngIf="isVisible(item)">
-
-                                <a
-                                        [routerLink]="getRoute(item)"
-                                        [fragment]="item.fragment">
-
-                                    {{ item.label }}
-
+                    <!-- SESSIONI GRID (cerchi con numero + label) -->
+                    <ul *ngSwitchCase="'sessions'" class="index-list sessions-grid">
+                        <li *ngFor="let item of section.items">
+                            <ng-container *ngIf="isVisible(item)">
+                                <a [routerLink]="['/campagne', slug, 'sessione', item.sessionNumber]">
+                                    <span class="index-number">{{ item.sessionNumber }}</span>
+                                    <span class="index-text">{{ item.label }}</span>
                                 </a>
-
                             </ng-container>
-
                         </li>
-
                     </ul>
 
-                </ng-template>
+                    <!-- LINKS-GRID (stesso layout ma con fragment) -->
+                    <ul *ngSwitchCase="'links-grid'" class="index-list sessions-grid">
+                        <li *ngFor="let item of section.items">
+                            <ng-container *ngIf="isVisible(item)">
+                                <a [routerLink]="getRoute(item)" [fragment]="item.fragment">
+                                    <span class="index-number">{{ item.sessionNumber }}</span>
+                                    <span class="index-text">{{ item.label }}</span>
+                                </a>
+                            </ng-container>
+                        </li>
+                    </ul>
+
+                    <!-- LISTA NORMALE (links verticali) -->
+                    <ul *ngSwitchDefault class="index-list" [class.secondary]="section.type === 'links'">
+                        <li *ngFor="let item of section.items">
+                            <ng-container *ngIf="isVisible(item)">
+                                <a [routerLink]="getRoute(item)" [fragment]="item.fragment">
+                                    {{ item.label }}
+                                </a>
+                            </ng-container>
+                        </li>
+                    </ul>
+
+                </ng-container>
 
             </section>
 

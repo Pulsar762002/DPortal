@@ -13,6 +13,15 @@ export interface Correlazione {
   descrizione: string;
 }
 
+/** Una nota di sessione associata a un personaggio o luogo. */
+export interface NotaSessione {
+  sessione: number;
+  testo: string;
+}
+
+/** @deprecated usa NotaSessione */
+export type NotaPersonaggio = NotaSessione;
+
 /** Una scheda personaggio come nel file personaggi.json. */
 export interface Personaggio {
   id: string;
@@ -29,6 +38,8 @@ export interface Personaggio {
   primaApparizione: number;
   apparizioni?: number[];
   correlazioni?: Correlazione[];
+  note?: NotaSessione[];
+  misteri?: string[];
 }
 
 /** Un luogo come nel file luoghi.json. */
@@ -43,12 +54,33 @@ export interface Luogo {
   stato?: string;
   primaApparizione: number;
   apparizioni?: number[];
+  abitantiNotabili?: string[];
+  note?: NotaSessione[];
+  misteri?: string[];
+}
+
+/** Un evento come nel file eventi.json. */
+export interface Evento {
+  id: string;
+  sessione: number;
+  ordine: number;
+  capitolo?: string;
+  titolo: string;
+  cosaSuccede: string;
+  partecipanti?: string[];
+  altriPartecipanti?: string[];
+  luogo?: string;
+  quando?: string;
+  tipo: string;
+  conseguenze?: string;
+  note?: string;
 }
 
 interface PersonaggiFile { personaggi: Personaggio[]; }
-interface LuoghiFile { luoghi: Luogo[]; }
+interface LuoghiFile    { luoghi: Luogo[]; }
+interface EventiFile    { eventi: Evento[]; }
 
-/** View-model per la card personaggio (input del componente esistente). */
+/** View-model per la card personaggio (mantenuto per retrocompatibilità). */
 export interface PersonaggioCardVM {
   nome: string;
   specieClasse: string;
@@ -64,6 +96,7 @@ export class CampagnaDataService {
 
   private personaggi$?: Observable<Personaggio[]>;
   private luoghi$?: Observable<Luogo[]>;
+  private eventi$?: Observable<Evento[]>;
 
   constructor(private http: HttpClient) {}
 
@@ -75,6 +108,13 @@ export class CampagnaDataService {
         .pipe(map(f => f.personaggi ?? []), shareReplay(1));
     }
     return this.personaggi$;
+  }
+
+  /** Mappa id → nome per tutti i personaggi. */
+  getPersonaggiNomeMap(): Observable<Map<string, string>> {
+    return this.getPersonaggi().pipe(
+      map(lista => new Map(lista.map(p => [p.id, p.nome])))
+    );
   }
 
   /** Personaggi di una categoria, già mappati a view-model per la card. */
@@ -108,5 +148,15 @@ export class CampagnaDataService {
         .pipe(map(f => f.luoghi ?? []), shareReplay(1));
     }
     return this.luoghi$;
+  }
+
+  /** Tutti gli eventi (cache condivisa). */
+  getEventi(): Observable<Evento[]> {
+    if (!this.eventi$) {
+      this.eventi$ = this.http
+        .get<EventiFile>(`${BASE}/eventi.json`)
+        .pipe(map(f => f.eventi ?? []), shareReplay(1));
+    }
+    return this.eventi$;
   }
 }
