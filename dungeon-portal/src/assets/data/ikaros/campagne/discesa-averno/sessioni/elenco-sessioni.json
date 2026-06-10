@@ -195,6 +195,16 @@
           "route": ["grafo"]
         }
       ]
+    },
+    {
+      "title": "VI. Galleria",
+      "type": "links",
+      "items": [
+        {
+          "label": "Illustrazioni",
+          "route": ["galleria"]
+        }
+      ]
     }
   ]
 }

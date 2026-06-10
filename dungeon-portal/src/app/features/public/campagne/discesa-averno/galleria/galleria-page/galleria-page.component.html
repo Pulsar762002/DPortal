@@ -1,0 +1,52 @@
+<div class="galleria-page-container" *ngIf="vm$ | async as vm">
+
+  <div class="page-header">
+    <h1 class="page-title">Galleria – Le Cronache dell'Averno</h1>
+    <p class="page-intro">{{ totale(vm.gruppi) }} illustrazioni · {{ vm.gruppi.length }} categorie</p>
+  </div>
+
+  <div class="galleria-layout">
+
+    <!-- ===== SIDEBAR INDICE ===== -->
+    <nav class="sidebar">
+      <p class="sidebar-titolo">Categorie</p>
+      <a
+        *ngFor="let gruppo of vm.gruppi"
+        class="sidebar-link"
+        [href]="'#' + gruppo.anchor"
+        (click)="scrollTo($event, gruppo.anchor)">
+        <span class="sidebar-label">{{ gruppo.titolo }}</span>
+        <span class="sidebar-count">{{ gruppo.cards.length }}</span>
+      </a>
+    </nav>
+
+    <!-- ===== CONTENUTO ===== -->
+    <div class="main-content">
+
+      <section
+        class="galleria-gruppo"
+        *ngFor="let gruppo of vm.gruppi"
+        [id]="gruppo.anchor">
+
+        <h2 class="section-title">{{ gruppo.titolo }}</h2>
+
+        <div class="card-grid">
+          <div class="img-card" *ngFor="let card of gruppo.cards">
+            <div class="img-wrapper">
+              <img [src]="card.immagine" [alt]="card.nome" loading="lazy" />
+              <span *ngIf="card.stato === 'morto'" class="badge-morto">✝</span>
+            </div>
+            <div class="img-info">
+              <span class="img-nome">{{ card.nome }}</span>
+              <span *ngIf="card.sottotitolo" class="img-ruolo">{{ card.sottotitolo }}</span>
+            </div>
+          </div>
+        </div>
+
+      </section>
+
+    </div>
+
+  </div>
+
+</div>

@@ -129,6 +129,12 @@ export const routes: Routes = [
                 loadComponent: () =>
                   import('./features/public/campagne/discesa-averno/grafo/grafo.component')
                     .then(m => m.GrafoComponent)
+              },
+              {
+                path: 'galleria',
+                loadComponent: () =>
+                  import('./features/public/campagne/discesa-averno/galleria/galleria-page/galleria-page.component')
+                    .then(m => m.GalleriaPageComponent)
               }
             ]
           }
