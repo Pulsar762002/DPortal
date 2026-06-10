@@ -5,7 +5,7 @@
 > Lo stato immagine è verificato sui file reali in `src/`.
 > Ultimo aggiornamento dati: sessione 19.
 
-**Immagini:** 60/147 presenti, 87 mancanti.
+**Immagini:** 60/146 presenti, 86 mancanti.
 
 ## Personaggi
 
@@ -18,7 +18,6 @@
 | **Alaster Nodorovo** | Nobile stregone | Umano (apparente) | vivo | 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19 | ✅ presente | AlasterBig.png |
 | **Kyran** | Warlock del Crepuscolo | Elfo | vivo | 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19 | ✅ presente | KyranBig.png |
 | **Elis** | Informatore / devoto di Tyr | Tiefling | vivo | 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19 | ✅ presente | ElisBig.png |
-| **Alice** | Membro del gruppo | Ignota | vivo | 11 | ❌ assente | — |
 | **Sylvar** | Druido / cercatore | Umano (apparente) | vivo | 13, 14, 16, 17, 18, 19 | ✅ presente | Sylvar al gala.png |
 
 ### Alleati
@@ -101,7 +100,7 @@
 | **Banda di predoni** | Predoni | Umani | morto | 2 | ❌ assente | — |
 | **Pirati del Canto Elfico** | Pirati / contrabbandieri | Umani | morto | 3 | ❌ assente | — |
 | **Culto dei Tre Morti** | Setta religiosa | Vari | vivo | 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 15 | ❌ assente | — |
-| **Obaia Black** | Titolare dell'Emporio Black | Umano | ignoto | 5 | ✅ presente | Obaja_Black.jpg |
+| **Obaia Black** | Titolare dell'Emporio Black | Umano | morto | 5, 6 | ✅ presente | Obaja_Black.jpg |
 | **Flenner, Alto Myrkulita** | Alto sacerdote di Myrkul | Umano | morto | 5, 7, 10, 12 | ✅ presente | Flenner_Alto_Myrkulita.jpg |
 | **Cultista della Mano** | Cultista di Bhaal | Umana | morto | 10 | ✅ presente | CultistaBahal.png |
 | **Console di Ferro di Bane** | Cultista guerriero di Bane | Umano | morto | 10 | ✅ presente | CultistaBane.png |
@@ -183,6 +182,6 @@
 
 ## Immagini mancanti
 
-**Personaggi senza ritratto:** Marcus, Marta, Fratello di Nathan, Genitori di Alaster, Granduca Ulder Ravengard, Goblin del bosco, Cocchiere di Alaster, Banda di predoni, Pirati del Canto Elfico, Culto dei Tre Morti, Pugni Fiammanti, Darmian, Scona, Addetto delle terme, Duchessa Vanthampur, Clem Joss, Vendetta Cress, Alice, Mortlock Vanthampur, Orin Pugnasangue, Orin (cultista ferito), Accoliti del Culto, Romeo Ravenshade, Le tre statue degli dèi morti, Taddeus, Farah Claydon, Oliver, Leroy Tandret, Amrik Vanthampur, I diavoli di Amrik, Thurstwell Vanthampur, Thavius Kreeg, La sopravvissuta di Elturel, Zorbat, Culto del Drago, Il maggiordomo di Fauler, Volothamp Geddarm, Bibliotecaria della Citta Bassa, Seraphine (la cantante di Elturel), Ferroteso, Bryn, Marosin (Mary), Lorroakan, Kenku messaggero, Kanbos, Demoni di Kanbos, Capo delle guardie Nodorovo, Stalliere dei Vanthampur, Reya Mantlemorn, Cane infernale dei Vanthampur, Imp dei Vanthampur, Diavolo aguzzino dei Vanthampur, Guerriero draconico del Culto del Drago, Maggiordomo dei Vanthampur, Destriero d'ombra di Nathan, Il tressym dei Vanthampur, Guardie d'elite dei Vanthampur, Guardia superstite dei Vanthampur, Servitu barricata dei Vanthampur, Helmed Horror dei Vanthampur
+**Personaggi senza ritratto:** Marcus, Marta, Fratello di Nathan, Genitori di Alaster, Granduca Ulder Ravengard, Goblin del bosco, Cocchiere di Alaster, Banda di predoni, Pirati del Canto Elfico, Culto dei Tre Morti, Pugni Fiammanti, Darmian, Scona, Addetto delle terme, Duchessa Vanthampur, Clem Joss, Vendetta Cress, Mortlock Vanthampur, Orin Pugnasangue, Orin (cultista ferito), Accoliti del Culto, Romeo Ravenshade, Le tre statue degli dèi morti, Taddeus, Farah Claydon, Oliver, Leroy Tandret, Amrik Vanthampur, I diavoli di Amrik, Thurstwell Vanthampur, Thavius Kreeg, La sopravvissuta di Elturel, Zorbat, Culto del Drago, Il maggiordomo di Fauler, Volothamp Geddarm, Bibliotecaria della Citta Bassa, Seraphine (la cantante di Elturel), Ferroteso, Bryn, Marosin (Mary), Lorroakan, Kenku messaggero, Kanbos, Demoni di Kanbos, Capo delle guardie Nodorovo, Stalliere dei Vanthampur, Reya Mantlemorn, Cane infernale dei Vanthampur, Imp dei Vanthampur, Diavolo aguzzino dei Vanthampur, Guerriero draconico del Culto del Drago, Maggiordomo dei Vanthampur, Destriero d'ombra di Nathan, Il tressym dei Vanthampur, Guardie d'elite dei Vanthampur, Guardia superstite dei Vanthampur, Servitu barricata dei Vanthampur, Helmed Horror dei Vanthampur
 
 **Luoghi senza immagine:** Il Compagno, Tempio delle Divinità, Orfanotrofio di Marta, Gilda degli Avventurieri, Il Seme di Papavero, Campi della Morte, Strada lungo il Chionthar, Città esterna di Baldur's Gate, Emporio Black, Mercato nero, Erboristeria La Rosa Canina, Sacrestia del Tempio di Helm, Porto di Baldur's Gate, Stanza di Amrik (Lanterna Bassa), Biblioteca della Citta Bassa, Villa di Fauler, Candlekeep, Armeria di Ferroteso, Torre di Ramazith, Villa Vanthampur, Fogne di Baldur's Gate, Complesso sotterraneo dei Vanthampur, Segrete dei Vanthampur, Interni della villa Vanthampur, Casa sicura del Culto del Drago, Cucine della villa Vanthampur, Piano superiore della villa Vanthampur
