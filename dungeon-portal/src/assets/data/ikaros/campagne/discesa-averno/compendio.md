@@ -5,7 +5,7 @@
 > Lo stato immagine è verificato sui file reali in `src/`.
 > Ultimo aggiornamento dati: sessione 19.
 
-**Immagini:** 60/146 presenti, 86 mancanti.
+**Immagini:** 64/145 presenti, 81 mancanti.
 
 ## Personaggi
 
@@ -35,12 +35,11 @@
 | **Lian Pei** | Falegname | Umano | vivo | 2, 3 | ✅ presente | LianPei.png |
 | **Alan Alyth** | Locandiere | Elfo | vivo | 3, 4, 5, 7, 8, 12, 16 | ✅ presente | Alan_alyth.png |
 | **Derek** | Erborista forgiato | Forgiato | vivo | 6, 17 | ✅ presente | Derek.png |
-| **Clayton** | Inventore (dragonide) | Dragonide | vivo | 4, 5, 6, 7, 8, 9, 10, 11, 12 | ✅ presente | Kleyton.jpg |
-| **Vendetta Cress** | Mercante di vini | Tiefling | vivo | 10, 12 | ❌ assente | — |
-| **Mortlock Vanthampur** | Gigante guerriero | Gigante | vivo | 11, 12 | ❌ assente | — |
-| **La sopravvissuta di Elturel** | Ex guardia cittadina di Elturel | Umana | vivo | 15 | ❌ assente | — |
-| **Reya Mantlemorn** | Hellrider | Umana | vivo | 18 | ❌ assente | — |
-| **Destriero d'ombra di Nathan** | Cavalcatura evocata | Lupo d'ombra | vivo | 18 | ❌ assente | — |
+| **Clayton** | Inventore (coboldo) | Coboldo | vivo | 4, 5, 6, 7, 8, 9, 10, 11, 12 | ✅ presente | Kleyton.jpg |
+| **Vendetta Cress** | Mercante di vini | Tiefling | vivo | 10, 12 | ✅ presente | Vendetta_Cress.png |
+| **Mortlock Vanthampur** | Gigante guerriero | Gigante | vivo | 11, 12 | ✅ presente | Mortlock_Vanthampur.png |
+| **Reya Mantlemorn** | Hellrider / ex guardia di Elturel | Umana | vivo | 15, 18 | ✅ presente | Reya_Mantlemorn.png |
+| **Destriero d'ombra di Kyran** | Cavalcatura evocata | Lupo d'ombra | vivo | 18 | ✅ presente | Destriero_d_ombra.png |
 
 ### Secondari
 
@@ -48,8 +47,8 @@
 |---|---|---|---|---|---|---|
 | **Marcus** | Chierico anziano | Umano | ignoto | 1 | ❌ assente | — |
 | **Marta** | Governante dell'orfanotrofio | Umana | ignoto | 1 | ❌ assente | — |
-| **Fratello di Nathan** | Sconosciuto | Ignota | ignoto | 1 | ❌ assente | — |
-| **Tarina** | Cantante | Tiefling | vivo | 1, 3, 4, 5 | ✅ presente | Tarina.jpg |
+| **Amico di Nathan** | Sconosciuto | Ignota | ignoto | 1 | ❌ assente | — |
+| **Tarina** | Pirata | Umana | vivo | 1, 3, 4, 5 | ✅ presente | Tarina.jpg |
 | **Genitori di Alaster** | Nobili di Baldur's Gate | Umani | vivo | 1 | ❌ assente | — |
 | **Granduca Ulder Ravengard** | Granduca di Baldur's Gate | Umano | scomparso | 1, 16 | ❌ assente | — |
 | **Cocchiere di Alaster** | Servitore | Umano | vivo | 2 | ❌ assente | — |
@@ -60,8 +59,8 @@
 | **Scona** | Buttafuori | Ogre | morto | 4 | ❌ assente | — |
 | **Consigliere Gortash** | Consigliere / industriale | Umano | vivo | 4, 5, 13 | ✅ presente | Gortash.png |
 | **Clea** | Sconosciuto | Sconosciuta | vivo | 5 | ✅ presente | IncontroAlaster.png |
-| **David Norman** | Vescovo del tempio di Helm | Umano | vivo | 7, 14 | ✅ presente | David_Norman.png |
-| **Roland Revengar** | Gran Templare della chiesa di Helm | Umano | vivo | 7 | ✅ presente | Roland Revengar.png |
+| **David Orman** | Vescovo del tempio di Helm | Umano | vivo | 7, 14 | ✅ presente | David_Norman.png |
+| **Roland Revengard** | Gran Templare della chiesa di Helm | Umano | vivo | 7 | ✅ presente | Roland Revengar.png |
 | **Camilla** | Massaggiatrice delle terme | Sconosciuta (non umana) | vivo | 8 | ✅ presente | Camilla.png |
 | **Massaggiatrice delle terme** | Massaggiatrice / informatrice involontaria | Umana | vivo | 8 | ✅ presente | boh.png |
 | **Addetto delle terme** | Maitre / gestore di sala | Umano | vivo | 8 | ❌ assente | — |
@@ -71,18 +70,18 @@
 | **Romeo Ravenshade** | Sarto | Umano | vivo | 12 | ❌ assente | — |
 | **Vassander Nodorovo** | Capofamiglia dei Nodorovo | Umano (apparente) | vivo | 13, 17 | ✅ presente | Vassander Nodorovo.png |
 | **Seraphine Lirael Nodorovo** | Padrona della Villa Nodorovo | Umana (apparente) | vivo | 13, 14 | ✅ presente | Incontriamo Seraphine.png |
-| **Alyssandra Nodorovo** | Sorella minore di Alaster | Umana (apparente) | vivo | 13, 14 | ✅ presente | Incontriamo Alyssandra.png |
+| **Lyssandra Nodorovo** | Sorella minore di Alaster | Umana (apparente) | vivo | 13, 14 | ✅ presente | Incontriamo Alyssandra.png |
 | **Taddeus** | Maggiordomo dei Nodorovo | Umano | vivo | 13, 17 | ❌ assente | — |
 | **Farah Claydon** | Nobile / cercatrice di cimeli | Ignota | vivo | 13 | ❌ assente | — |
 | **Adam Whitburn** | Nobile mercante | Umano | vivo | 13 | ✅ presente | Alaster ed Elis con il nobile.png |
 | **Oliver** | Giovane nobile | Umano | vivo | 13 | ❌ assente | — |
-| **Leroy Tandret** | Oste della Lanterna Bassa ('il Capitano') | Tiefling | vivo | 14 | ❌ assente | — |
+| **Leroy Thundreth** | Oste della Lanterna Bassa ('il Capitano') | Tiefling | vivo | 14 | ❌ assente | — |
 | **Volothamp Geddarm** | Narratore ed esploratore | Umano | vivo | 16 | ❌ assente | — |
 | **Bibliotecaria della Citta Bassa** | Bibliotecaria | Umana | vivo | 16 | ❌ assente | — |
 | **Seraphine (la cantante di Elturel)** | Cantante | Ignota | vivo | 16 | ❌ assente | — |
 | **Ferroteso** | Mastro fabbro | Nano | vivo | 17 | ❌ assente | — |
 | **Bryn** | Assistente del fabbro | Ignota | vivo | 17 | ❌ assente | — |
-| **Marosin (Mary)** | Assistente della Torre di Ramazith | Umana | vivo | 17 | ❌ assente | — |
+| **Marusin (Mary) Clover** | Assistente della Torre di Ramazith | Umana | vivo | 17 | ❌ assente | — |
 | **Lorroakan** | Mago, padrone della Torre di Ramazith | Ignota | ignoto | 17 | ❌ assente | — |
 | **Kenku messaggero** | Messaggero | Kenku | vivo | 17 | ❌ assente | — |
 | **Capo delle guardie Nodorovo** | Capo delle guardie di casa Nodorovo | Ignota | vivo | 17 | ❌ assente | — |
@@ -100,23 +99,23 @@
 | **Banda di predoni** | Predoni | Umani | morto | 2 | ❌ assente | — |
 | **Pirati del Canto Elfico** | Pirati / contrabbandieri | Umani | morto | 3 | ❌ assente | — |
 | **Culto dei Tre Morti** | Setta religiosa | Vari | vivo | 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 15 | ❌ assente | — |
-| **Obaia Black** | Titolare dell'Emporio Black | Umano | morto | 5, 6 | ✅ presente | Obaja_Black.jpg |
+| **Obaja Black** | Titolare dell'Emporio Black | Umano | morto | 5, 6 | ✅ presente | Obaja_Black.jpg |
 | **Flenner, Alto Myrkulita** | Alto sacerdote di Myrkul | Umano | morto | 5, 7, 10, 12 | ✅ presente | Flenner_Alto_Myrkulita.jpg |
 | **Cultista della Mano** | Cultista di Bhaal | Umana | morto | 10 | ✅ presente | CultistaBahal.png |
 | **Console di Ferro di Bane** | Cultista guerriero di Bane | Umano | morto | 10 | ✅ presente | CultistaBane.png |
-| **Orin Pugnasangue** | Mutaforma cultista di Bhaal | Mutaforma (donna di sangue) | vivo | 11 | ❌ assente | — |
+| **Orin** | Mutaforma cultista di Bhaal | Mutaforma (donna di sangue) | vivo | 11 | ❌ assente | — |
 | **Accoliti del Culto** | Soldati cultisti | Umani | morto | 11 | ❌ assente | — |
 | **Le tre statue degli dèi morti** | Idoli consacrati | Statue di legno | vivo | 12 | ❌ assente | — |
-| **Lord Lucius Fauler** | Lord infernale / committente | Diavolo (originario degli Inferi) | vivo | 13, 14, 15, 16, 17 | ✅ presente | Sylvar e Fauler.png |
+| **Conte Lucius Fauler** | Lord infernale / committente | Diavolo (originario degli Inferi) | vivo | 13, 14, 15, 16, 17 | ✅ presente | Sylvar e Fauler.png |
 | **Amrik Vanthampur** | Usuraio nobile / figlio dei Vanthampur | Umano | vivo | 15, 16 | ❌ assente | — |
 | **I diavoli di Amrik** | Guardie infernali | Diavoli (fiend) | vivo | 15 | ❌ assente | — |
 | **Thurstwell Vanthampur** | Primogenito della casata Vanthampur | Umano | morto | 15, 19 | ❌ assente | — |
 | **Thavius Kreeg** | Alto Osservatore del Compagno | Umano | vivo | 15 | ❌ assente | — |
-| **Zorbat** | Dragonide del Culto del Drago | Dragonide | vivo | 15, 17, 18 | ❌ assente | — |
+| **Zorvath** | Dragonide del Culto del Drago | Dragonide | vivo | 15, 17, 18 | ❌ assente | — |
 | **Culto del Drago** | Setta draconica | Vari (dragonidi e umani) | vivo | 15, 16, 18, 19 | ❌ assente | — |
 | **Il maggiordomo di Fauler** | Maggiordomo infernale | Diavolo (creatura alata) | vivo | 16 | ❌ assente | — |
-| **Kanbos** | Esule del Reame delle Ombre | Umano (apparente) | vivo | 17 | ❌ assente | — |
-| **Demoni di Kanbos** | Creature evocate | Demoni / creature delle ombre | morto | 17 | ❌ assente | — |
+| **Kar'vos** | Esule del Reame delle Ombre | Elfo shadar-kai | vivo | 17 | ❌ assente | — |
+| **Demoni di Kar'vos** | Creature evocate | Demoni / creature delle ombre | morto | 17 | ❌ assente | — |
 | **Cane infernale dei Vanthampur** | Bestia da guardia infernale | Cane infernale (immondo) | vivo | 18 | ❌ assente | — |
 | **Imp dei Vanthampur** | Diavoletti esploratori | Imp (diavoli) | morto | 18, 19 | ❌ assente | — |
 | **Diavolo aguzzino dei Vanthampur** | Carnefice infernale | Diavolo (immondo) | vivo | 18 | ❌ assente | — |
@@ -182,6 +181,6 @@
 
 ## Immagini mancanti
 
-**Personaggi senza ritratto:** Marcus, Marta, Fratello di Nathan, Genitori di Alaster, Granduca Ulder Ravengard, Goblin del bosco, Cocchiere di Alaster, Banda di predoni, Pirati del Canto Elfico, Culto dei Tre Morti, Pugni Fiammanti, Darmian, Scona, Addetto delle terme, Duchessa Vanthampur, Clem Joss, Vendetta Cress, Mortlock Vanthampur, Orin Pugnasangue, Orin (cultista ferito), Accoliti del Culto, Romeo Ravenshade, Le tre statue degli dèi morti, Taddeus, Farah Claydon, Oliver, Leroy Tandret, Amrik Vanthampur, I diavoli di Amrik, Thurstwell Vanthampur, Thavius Kreeg, La sopravvissuta di Elturel, Zorbat, Culto del Drago, Il maggiordomo di Fauler, Volothamp Geddarm, Bibliotecaria della Citta Bassa, Seraphine (la cantante di Elturel), Ferroteso, Bryn, Marosin (Mary), Lorroakan, Kenku messaggero, Kanbos, Demoni di Kanbos, Capo delle guardie Nodorovo, Stalliere dei Vanthampur, Reya Mantlemorn, Cane infernale dei Vanthampur, Imp dei Vanthampur, Diavolo aguzzino dei Vanthampur, Guerriero draconico del Culto del Drago, Maggiordomo dei Vanthampur, Destriero d'ombra di Nathan, Il tressym dei Vanthampur, Guardie d'elite dei Vanthampur, Guardia superstite dei Vanthampur, Servitu barricata dei Vanthampur, Helmed Horror dei Vanthampur
+**Personaggi senza ritratto:** Marcus, Marta, Amico di Nathan, Genitori di Alaster, Granduca Ulder Ravengard, Goblin del bosco, Cocchiere di Alaster, Banda di predoni, Pirati del Canto Elfico, Culto dei Tre Morti, Pugni Fiammanti, Darmian, Scona, Addetto delle terme, Duchessa Vanthampur, Clem Joss, Orin, Orin (cultista ferito), Accoliti del Culto, Romeo Ravenshade, Le tre statue degli dèi morti, Taddeus, Farah Claydon, Oliver, Leroy Thundreth, Amrik Vanthampur, I diavoli di Amrik, Thurstwell Vanthampur, Thavius Kreeg, Zorvath, Culto del Drago, Il maggiordomo di Fauler, Volothamp Geddarm, Bibliotecaria della Citta Bassa, Seraphine (la cantante di Elturel), Ferroteso, Bryn, Marusin (Mary) Clover, Lorroakan, Kenku messaggero, Kar'vos, Demoni di Kar'vos, Capo delle guardie Nodorovo, Stalliere dei Vanthampur, Cane infernale dei Vanthampur, Imp dei Vanthampur, Diavolo aguzzino dei Vanthampur, Guerriero draconico del Culto del Drago, Maggiordomo dei Vanthampur, Il tressym dei Vanthampur, Guardie d'elite dei Vanthampur, Guardia superstite dei Vanthampur, Servitu barricata dei Vanthampur, Helmed Horror dei Vanthampur
 
 **Luoghi senza immagine:** Il Compagno, Tempio delle Divinità, Orfanotrofio di Marta, Gilda degli Avventurieri, Il Seme di Papavero, Campi della Morte, Strada lungo il Chionthar, Città esterna di Baldur's Gate, Emporio Black, Mercato nero, Erboristeria La Rosa Canina, Sacrestia del Tempio di Helm, Porto di Baldur's Gate, Stanza di Amrik (Lanterna Bassa), Biblioteca della Citta Bassa, Villa di Fauler, Candlekeep, Armeria di Ferroteso, Torre di Ramazith, Villa Vanthampur, Fogne di Baldur's Gate, Complesso sotterraneo dei Vanthampur, Segrete dei Vanthampur, Interni della villa Vanthampur, Casa sicura del Culto del Drago, Cucine della villa Vanthampur, Piano superiore della villa Vanthampur

@@ -84,7 +84,7 @@
         },
         {
           "sessione": 11,
-          "testo": "Nel covo ascolta alle porte e, aprendone una, viene travolto dall'imboscata degli accoliti che la spalancano dall'altro lato. Nello scontro nel passaggio allagato viene SDOPPIATO dalla mutaforma Orin Pugnasangue in due copie perfette: tenta di smascherare il falso invocando la fede (Channel Divinity di Helm, 'Che Helm vi protegga') e citando ricordi condivisi, ma la copia conosce persino il dettaglio 'le viti'. Il vero Nathan e quello 'di sotto', confermato infine da Aelar."
+          "testo": "Nel covo ascolta alle porte e, aprendone una, viene travolto dall'imboscata degli accoliti che la spalancano dall'altro lato. Nello scontro nel passaggio allagato viene SDOPPIATO dalla mutaforma Orin in due copie perfette: tenta di smascherare il falso invocando la fede (Channel Divinity di Helm, 'Che Helm vi protegga') e citando ricordi condivisi, ma la copia conosce persino il dettaglio 'le viti'. Il vero Nathan e quello 'di sotto', confermato infine da Aelar."
         },
         {
           "sessione": 12,
@@ -108,15 +108,15 @@
         },
         {
           "sessione": 17,
-          "testo": "Si addestra nel cortile della magione Nodorovo battendo in sparring il capo delle guardie (armato di martello da guerra) con tecnica e disciplina, tra le scommesse della servitu. Il capo gli rende l'onore delle armi e lo rimanda 'a farsi addestrare da Dorian'. Nel pomeriggio raggiunge il fabbro Ferroteso ed esaspera per le provocazioni di Alaster. Nello scontro coi demoni di Kanbos evoca la protezione sacra contro il bene e il male, fa da scudo a Kyran ferita e brandisce la propria arma sacra; usa una pozione di cura. Furioso per il ritardo delle guardie cittadine."
+          "testo": "Si addestra nel cortile della magione Nodorovo battendo in sparring il capo delle guardie (armato di martello da guerra) con tecnica e disciplina, tra le scommesse della servitu. Il capo gli rende l'onore delle armi e lo rimanda 'a farsi addestrare da Dorian'. Nel pomeriggio raggiunge il fabbro Ferroteso ed esaspera per le provocazioni di Alaster. Nello scontro coi demoni di Kar'vos evoca la protezione sacra contro il bene e il male, fa da scudo a Kyran ferita e brandisce la propria arma sacra; usa una pozione di cura. Furioso per il ritardo delle guardie cittadine."
         },
         {
           "sessione": 18,
-          "testo": "Interroga Kyran dopo lo scontro coi demoni di Kanbos ('Cosa vogliono questi demoni da te?') e raccoglie da lei che il vero pericolo non e Kanbos ma chi lo aiuta. Minaccia le guardie cittadine col nome del capitano Zodge per farsi rispettare. Richiama il proprio destriero d'ombra (un enorme lupo nero) e guida i preparativi dell'assalto; di fronte alla pietra di Reya Mantlemorn decide che chiamarla e troppo rischioso."
+          "testo": "Interroga Kyran dopo lo scontro coi demoni di Kar'vos ('Cosa vogliono questi demoni da te?') e raccoglie da lei che il vero pericolo non e Kar'vos ma chi lo aiuta. Minaccia le guardie cittadine col nome del capitano Zodge per farsi rispettare. Richiama il proprio destriero d'ombra (un enorme lupo nero) e guida i preparativi dell'assalto; di fronte alla pietra di Reya Mantlemorn decide che chiamarla e troppo rischioso."
         },
         {
           "sessione": 18,
-          "testo": "Concorda con Zorbat il piano congiunto (Culto al fronte, Extermina dal retro) e chiede di lasciare vivo almeno un Vanthampur da interrogare. Durante l'infiltrazione abbatte la porta posteriore della villa ed esplora le sale nobiliari. Dopo che Aelar uccide il maggiordomo, interviene per impedire che lo scontro tra compagni degeneri; cerca conforto in Helm ma percepisce solo disagio, come se la giustizia fosse stata tradita, e medita: 'Non c'e differenza tra male maggiore e male minore. Esiste soltanto il male.'"
+          "testo": "Concorda con Zorvath il piano congiunto (Culto al fronte, Extermina dal retro) e chiede di lasciare vivo almeno un Vanthampur da interrogare. Durante l'infiltrazione abbatte la porta posteriore della villa ed esplora le sale nobiliari. Dopo che Aelar uccide il maggiordomo, interviene per impedire che lo scontro tra compagni degeneri; cerca conforto in Helm ma percepisce solo disagio, come se la giustizia fosse stata tradita, e medita: 'Non c'e differenza tra male maggiore e male minore. Esiste soltanto il male.'"
         },
         {
           "sessione": 19,
@@ -423,7 +423,7 @@
         },
         {
           "sessione": 5,
-          "testo": "Al mercato nero incontra Clea, una donna misteriosa, presentandosi col falso nome 'Alaster Thorne'. All'Emporio Black tratta con Obaia Black."
+          "testo": "Al mercato nero incontra Clea, una donna misteriosa, presentandosi col falso nome 'Alaster Thorne'. All'Emporio Black tratta con Obaja Black."
         },
         {
           "sessione": 6,
@@ -463,7 +463,7 @@
         },
         {
           "sessione": 13,
-          "testo": "Mostra il suo lato piu umano: solleva e fa ruotare tra le braccia la sorellina Alyssandra con un sorriso sincero e le regala una sfera di ossidiana presa nelle catacombe. Si commuove davanti alla madre Seraphine e quasi gli manca il respiro davanti al padre Vassander, di cui subisce il rimprovero per non essere tornato subito a casa ne aver mandato notizie. Beve l'Excelsior, il vino di casa."
+          "testo": "Mostra il suo lato piu umano: solleva e fa ruotare tra le braccia la sorellina Lyssandra con un sorriso sincero e le regala una sfera di ossidiana presa nelle catacombe. Si commuove davanti alla madre Seraphine e quasi gli manca il respiro davanti al padre Vassander, di cui subisce il rimprovero per non essere tornato subito a casa ne aver mandato notizie. Beve l'Excelsior, il vino di casa."
         },
         {
           "sessione": 13,
@@ -471,11 +471,11 @@
         },
         {
           "sessione": 14,
-          "testo": "Dopo il gala, a colazione nella propria dimora, gode dell'umiliazione del fratello e difende Kyran davanti alla curiosita di Alyssandra. Viene pronunciato il motto di casata 'Tra le spine veglia l'occhio'. Promette ad Aelar accesso a materiale alchemico raro. Per ordine del padre ('liberatene') sceglie di vendere i gioielli e la ferraglia del bottino senza rivolgersi a Romeo Ravenshade ne ai contatti abituali della famiglia, spargendo discretamente la voce. Alla Lanterna Bassa ordina una birra, perde la pazienza con Gullivan (lo solleva per il colletto imponendogli silenzio) e intuisce che l'intera locanda e controllata dai Vanthampur."
+          "testo": "Dopo il gala, a colazione nella propria dimora, gode dell'umiliazione del fratello e difende Kyran davanti alla curiosita di Lyssandra. Viene pronunciato il motto di casata 'Tra le spine veglia l'occhio'. Promette ad Aelar accesso a materiale alchemico raro. Per ordine del padre ('liberatene') sceglie di vendere i gioielli e la ferraglia del bottino senza rivolgersi a Romeo Ravenshade ne ai contatti abituali della famiglia, spargendo discretamente la voce. Alla Lanterna Bassa ordina una birra, perde la pazienza con Gullivan (lo solleva per il colletto imponendogli silenzio) e intuisce che l'intera locanda e controllata dai Vanthampur."
         },
         {
           "sessione": 15,
-          "testo": "Compare nello scontro finale al porto: il dragonide del Culto del Drago lo fiuta come portatore di 'qualcosa di molto piu importante' (la corona di bronzo e la maschera di drago del bottino). Sollevato per il bavero, tiene testa al fanatico e, dopo aver consegnato gli artefatti, lo aggancia rivelando che a derubare il Culto sono stati i Vanthampur, non i Tre Morti. Parla un dragonico perfetto e antico ('non si apprende, si eredita'), guadagnando il rispetto del dragonide Zorbat, che gli offre un posto tra le fila del Culto e accenna ad Arkhan. Stringe un patto: il Culto del Drago colpira i Vanthampur in casa loro entro un giorno, agendo insieme al gruppo. Provoca il dragonide chiamandolo 'pseudo-drago'."
+          "testo": "Compare nello scontro finale al porto: il dragonide del Culto del Drago lo fiuta come portatore di 'qualcosa di molto piu importante' (la corona di bronzo e la maschera di drago del bottino). Sollevato per il bavero, tiene testa al fanatico e, dopo aver consegnato gli artefatti, lo aggancia rivelando che a derubare il Culto sono stati i Vanthampur, non i Tre Morti. Parla un dragonico perfetto e antico ('non si apprende, si eredita'), guadagnando il rispetto del dragonide Zorvath, che gli offre un posto tra le fila del Culto e accenna ad Arkhan. Stringe un patto: il Culto del Drago colpira i Vanthampur in casa loro entro un giorno, agendo insieme al gruppo. Provoca il dragonide chiamandolo 'pseudo-drago'."
         },
         {
           "sessione": 16,
@@ -487,11 +487,11 @@
         },
         {
           "sessione": 17,
-          "testo": "Dal fabbro Ferroteso gioca una carta rischiosa, ferendone l'orgoglio nanico per fargli accelerare la forgiatura delle armi degli Extermina: ottiene la consegna per il pomeriggio al prezzo di ottanta monete d'oro extra a testa. Nello scontro coi demoni di Kanbos spezza il ritmo con due raggi luminosi e magie psichiche che trapassano le creature, salvando di nuovo Kyran ('Ultimamente ti faccio salvare troppo spesso'). Battuta provocatoria al capo delle guardie Nodorovo ('forse e il caso che cambiate capo delle guardie')."
+          "testo": "Dal fabbro Ferroteso gioca una carta rischiosa, ferendone l'orgoglio nanico per fargli accelerare la forgiatura delle armi degli Extermina: ottiene la consegna per il pomeriggio al prezzo di ottanta monete d'oro extra a testa. Nello scontro coi demoni di Kar'vos spezza il ritmo con due raggi luminosi e magie psichiche che trapassano le creature, salvando di nuovo Kyran ('Ultimamente ti faccio salvare troppo spesso'). Battuta provocatoria al capo delle guardie Nodorovo ('forse e il caso che cambiate capo delle guardie')."
         },
         {
           "sessione": 18,
-          "testo": "Esamina i resti dei demoni di Kanbos definendo quella magia 'oscura, molto oscura' e ammette sinceramente preoccupato che evocare tanti demoni richiede capacita superiori alle loro. Ai preparativi rivela di poter vedere gli imp invisibili e, alla domanda 'C'e qualcosa che non sai fare?', risponde 'Cantare'. Indossa la sua 'Vipera Nera' (eleganti abiti di seta nera coi gioielli) per infiltrarsi 'a modo suo' e ordina ai compagni di non chiamarlo piu 'Alaster' dentro la villa, ma 'Nessuno'."
+          "testo": "Esamina i resti dei demoni di Kar'vos definendo quella magia 'oscura, molto oscura' e ammette sinceramente preoccupato che evocare tanti demoni richiede capacita superiori alle loro. Ai preparativi rivela di poter vedere gli imp invisibili e, alla domanda 'C'e qualcosa che non sai fare?', risponde 'Cantare'. Indossa la sua 'Vipera Nera' (eleganti abiti di seta nera coi gioielli) per infiltrarsi 'a modo suo' e ordina ai compagni di non chiamarlo piu 'Alaster' dentro la villa, ma 'Nessuno'."
         },
         {
           "sessione": 18,
@@ -512,8 +512,8 @@
         "Da quale stirpe Alaster eredita la lingua serpentina che 'non si apprende, si eredita'?",
         "La 'pietra blu' cercata da Farah Claydon e la stessa gemma del bottino del Culto dei Tre Morti? E cosa intende con 'mostrala al cielo, io vedo ogni cosa'?",
         "Cosa commercia davvero la famiglia Nodorovo come 'merce rara ed esotica' e qual e il suo legame con Arabell e il Cormyr?",
-        "Perche il dragonico di Alaster e perfetto e 'antico', e cosa intende Zorbat dicendo che la Regina dei Draghi potrebbe avere 'grandi progetti' per lui?",
-        "Chi e Arkhan, che secondo Zorbat 'potrebbe interessarsi' ad Alaster, e che legame ha col Culto del Drago e con la natura draconica di Alaster?",
+        "Perche il dragonico di Alaster e perfetto e 'antico', e cosa intende Zorvath dicendo che la Regina dei Draghi potrebbe avere 'grandi progetti' per lui?",
+        "Chi e Arkhan, che secondo Zorvath 'potrebbe interessarsi' ad Alaster, e che legame ha col Culto del Drago e con la natura draconica di Alaster?",
         "Cos'e il cognome 'Candler' emerso dal sangue di Alaster, soffocato e rifiutato ma 'ancora vivo'? Che rapporto ha col nome Nodorovo?",
         "Cosa fara davvero la famiglia Nodorovo del vuoto di potere a Baldur's Gate che Alaster vuole sfruttare, e fin dove arriva la sua ambizione di 'reclamare' la citta?"
       ],
@@ -584,9 +584,9 @@
           "descrizione": "Incontra al gala il Consigliere Gortash, la cui fabbrica era gia stata violata da Clayton."
         },
         {
-          "personaggio": "zorbat",
+          "personaggio": "Zorvath",
           "tipo": "alleato (patto)",
-          "descrizione": "Stringe con il dragonide Zorbat un patto contro i Vanthampur dopo averne guadagnato il rispetto parlando dragonico."
+          "descrizione": "Stringe con il dragonide Zorvath un patto contro i Vanthampur dopo averne guadagnato il rispetto parlando dragonico."
         },
         {
           "personaggio": "culto-drago",
@@ -693,7 +693,7 @@
         },
         {
           "sessione": 13,
-          "testo": "Presentata da Alaster alla sorellina Alyssandra come 'la piu simpatica presenza oscura', sopporta con un inchino educato l'onesta brutale della bambina. Seraphine, padrona di casa, ne percepisce la potenza nascosta e mostra di conoscere gia il nome di tutti gli ospiti prima delle presentazioni, turbando Kyran ('non mi sembra di avergli mai detto il mio nome')."
+          "testo": "Presentata da Alaster alla sorellina Lyssandra come 'la piu simpatica presenza oscura', sopporta con un inchino educato l'onesta brutale della bambina. Seraphine, padrona di casa, ne percepisce la potenza nascosta e mostra di conoscere gia il nome di tutti gli ospiti prima delle presentazioni, turbando Kyran ('non mi sembra di avergli mai detto il mio nome')."
         },
         {
           "sessione": 13,
@@ -701,7 +701,7 @@
         },
         {
           "sessione": 14,
-          "testo": "Nel sonno torna nel luogo onirico (distesa d'acqua immobile, nebbia, nessuna stella): vi incontra Flenner, l'Alto Myrkulita che lei stessa aveva ucciso e la cui anima aveva reclamato per la sua dea. Flenner, intero e con le mani complete, sostiene che la sua anima era promessa al Dio delle Ossa (Myrkul) e ricorda tutto; Kyran rivela che il suo compito era 'farti ricordare' e parla della Regina Corvo, che 'brama i ricordi' e che lei serve. Flenner fugge nella nebbia per cercarla; nel riflesso dell'acqua Kyran vede non il proprio volto ma un'ombra dagli occhi rossi malati, e si risveglia. A colazione la piccola Alyssandra la tocca incuriosita; Kyran resta glaciale e ammette di non fidarsi ancora del gruppo ('ho avuto brutte esperienze con persone di cui mi fidavo'). Propone di non presentarsi alla Lanterna Bassa come spedizione armata e di dividersi. Alla taverna nota per prima due corvi immobili sotto la pioggia, una presenza familiare e inquietante, e coglie l'oste Leroy confabulare con la guardia prima di sparire di sotto."
+          "testo": "Nel sonno torna nel luogo onirico (distesa d'acqua immobile, nebbia, nessuna stella): vi incontra Flenner, l'Alto Myrkulita che lei stessa aveva ucciso e la cui anima aveva reclamato per la sua dea. Flenner, intero e con le mani complete, sostiene che la sua anima era promessa al Dio delle Ossa (Myrkul) e ricorda tutto; Kyran rivela che il suo compito era 'farti ricordare' e parla della Regina Corvo, che 'brama i ricordi' e che lei serve. Flenner fugge nella nebbia per cercarla; nel riflesso dell'acqua Kyran vede non il proprio volto ma un'ombra dagli occhi rossi malati, e si risveglia. A colazione la piccola Lyssandra la tocca incuriosita; Kyran resta glaciale e ammette di non fidarsi ancora del gruppo ('ho avuto brutte esperienze con persone di cui mi fidavo'). Propone di non presentarsi alla Lanterna Bassa come spedizione armata e di dividersi. Alla taverna nota per prima due corvi immobili sotto la pioggia, una presenza familiare e inquietante, e coglie l'oste Leroy confabulare con la guardia prima di sparire di sotto."
         },
         {
           "sessione": 15,
@@ -717,11 +717,11 @@
         },
         {
           "sessione": 17,
-          "testo": "Dalle ombre emerge KANBOS, esiliato e marchiato come traditore dal Reame delle Ombre a causa sua, che la accusa di essere una minaccia ('La tua sola esistenza mette a rischio tutti noi') e la abbandona circondata da demoni evocati da pozze nere. Kyran nega di aver rubato qualcosa alla regina. Nello scontro evoca la propria arma spirituale (lama eterea), viene travolta e crolla a terra mentre un demone tenta di divorarle l'anima ('Se fallisci, non puoi essere resuscitata'). Salvata in extremis dai compagni accorsi: distrutta ma viva."
+          "testo": "Dalle ombre emerge Kar'vos, esiliato e marchiato come traditore dal Reame delle Ombre a causa sua, che la accusa di essere una minaccia ('La tua sola esistenza mette a rischio tutti noi') e la abbandona circondata da demoni evocati da pozze nere. Kyran nega di aver rubato qualcosa alla regina. Nello scontro evoca la propria arma spirituale (lama eterea), viene travolta e crolla a terra mentre un demone tenta di divorarle l'anima ('Se fallisci, non puoi essere resuscitata'). Salvata in extremis dai compagni accorsi: distrutta ma viva."
         },
         {
           "sessione": 18,
-          "testo": "Reduce dallo scontro coi demoni, rivela ai compagni che a evocarli e stata 'una vecchia conoscenza' (Kanbos) e che il vero problema non e lui, lasciato in fin di vita, ma chi lo sta aiutando; il suo silenzio fa intuire un intero gruppo dietro. Davanti alle guardie sottolinea di aver rischiato la morte. Durante l'infiltrazione avvolge il gruppo nell'ombra (Pass Without Trace) e con sensi affinati individua per prima i tre imp invisibili nascosti nella sala da pranzo, indicandoli ai compagni prima dell'agguato."
+          "testo": "Reduce dallo scontro coi demoni, rivela ai compagni che a evocarli e stata 'una vecchia conoscenza' (Kar'vos) e che il vero problema non e lui, lasciato in fin di vita, ma chi lo sta aiutando; il suo silenzio fa intuire un intero gruppo dietro. Davanti alle guardie sottolinea di aver rischiato la morte. Durante l'infiltrazione avvolge il gruppo nell'ombra (Pass Without Trace) e con sensi affinati individua per prima i tre imp invisibili nascosti nella sala da pranzo, indicandoli ai compagni prima dell'agguato."
         },
         {
           "sessione": 19,
@@ -741,10 +741,10 @@
         "Kyran serve la Regina Corvo e ne raccoglie i ricordi/anime: la sua dea e davvero piu forte di Myrkul, il Dio delle Ossa, come afferma a Flenner?",
         "Di chi sono i due occhi rossi malati che la fissano dal riflesso onirico, al posto del suo volto?",
         "Quali figure di riferimento hanno rifiutato e ignorato Kyran, secondo il segreto emerso dal suo sangue alla cena?",
-        "Chi e Kanbos e che ruolo aveva nel Reame delle Ombre prima dell'esilio causato da Kyran?",
+        "Chi e Kar'vos e che ruolo aveva nel Reame delle Ombre prima dell'esilio causato da Kyran?",
         "Chi e il 'familiare' della famiglia di Kyran di cui parla il Kenku, e cosa avrebbe Kyran 'rubato alla regina' del Reame delle Ombre?",
         "Reame delle Ombre o Reame Oscuro: qual e l'origine esatta di Kyran? (DA-RISOLVERE punto 12)",
-        "Chi e davvero la rete di persone che, secondo Kyran, sta aiutando Kanbos a darle la caccia?"
+        "Chi e davvero la rete di persone che, secondo Kyran, sta aiutando Kar'vos a darle la caccia?"
       ],
       "correlazioni": [
         {
@@ -768,7 +768,7 @@
           "descrizione": "Nel sogno incontra Flenner, l'Alto Myrkulita di cui aveva reclamato l'anima: lui ricorda tutto e cerca la Regina Corvo per avere spiegazioni."
         },
         {
-          "personaggio": "kanbos",
+          "personaggio": "Kar'vos",
           "tipo": "nemico",
           "descrizione": "Esiliato dal Reame delle Ombre a causa di Kyran; la attira in una trappola e la abbandona ai propri demoni nei vicoli della Citta Alta."
         }
@@ -970,7 +970,7 @@
     },
     {
       "id": "fratello-di-nathan",
-      "nome": "Fratello di Nathan",
+      "nome": "Amico di Nathan",
       "categoria": "secondario",
       "ruolo": "Sconosciuto",
       "razza": "Ignota",
@@ -991,18 +991,18 @@
         },
         {
           "sessione": 6,
-          "testo": "Possibile nome: nella preghiera di Nathan affiora 'Jack' accanto a Marcus ed Elturel. Da confermare se sia il fratello."
+          "testo": "Possibile nome: nella preghiera di Nathan affiora 'Jack' accanto a Marcus ed Elturel."
         }
       ],
       "misteri": [
         "Chi è, dove si trova e che 'posto' ha trovato?",
-        "'Jack' nominato da Nathan è il suo fratello perduto?"
+        "'Jack' nominato da Nathan è un suo amico"
       ],
       "correlazioni": [
         {
           "personaggio": "nathan",
           "tipo": "famiglia",
-          "descrizione": "Fratello di Nathan."
+          "descrizione": "Amico di Nathan."
         }
       ]
     },
@@ -1010,11 +1010,11 @@
       "id": "tarina",
       "nome": "Tarina",
       "categoria": "secondario",
-      "ruolo": "Cantante",
-      "razza": "Tiefling",
+      "ruolo": "Pirata",
+      "razza": "Umana",
       "eta": "Apparentemente giovane, ma si vocifera ben oltre i 60 anni",
       "immagine": "assets/data/ikaros/campagne/discesa-averno/personaggi/Secondari/Tarina.jpg",
-      "aspetto": "Tiefling/donna dai capelli rossi corti, carnagione chiara, braccia e collo coperti di tatuaggi marinareschi.",
+      "aspetto": "Umana/donna dai capelli rossi corti, carnagione chiara, braccia e collo coperti di tatuaggi marinareschi.",
       "personalita": "Magnetica, capace di incantare la sala con il canto.",
       "background": "Si esibisce sul palco della taverna Chanson Rouge a Elturel. Canta di Elturel, dei Cavalieri Infernali e del Compagno.",
       "stato": "vivo",
@@ -1260,7 +1260,7 @@
         {
           "personaggio": "leroy-tandret",
           "tipo": "debitore",
-          "descrizione": "Ha un debito non chiarito con qualcuno alla Lanterna Bassa di Leroy Tandret."
+          "descrizione": "Ha un debito non chiarito con qualcuno alla Lanterna Bassa di Leroy Thundreth."
         },
         {
           "personaggio": "amrik-vanthampur",
@@ -1561,7 +1561,7 @@
         },
         {
           "sessione": 17,
-          "testo": "Si incarica di cercare informazioni sugli archivi/catasti cittadini per recuperare le planimetrie della villa Vanthampur. Interroga il maggiordomo Aurelius sulle planimetrie e propone di consultarle anche tramite abitazioni vicine. Nello scontro coi demoni di Kanbos e il primo a gettarsi nella mischia col pugnale evocato, accecando uno dei mostri con un colpo all'occhio."
+          "testo": "Si incarica di cercare informazioni sugli archivi/catasti cittadini per recuperare le planimetrie della villa Vanthampur. Interroga il maggiordomo Aurelius sulle planimetrie e propone di consultarle anche tramite abitazioni vicine. Nello scontro coi demoni di Kar'vos e il primo a gettarsi nella mischia col pugnale evocato, accecando uno dei mostri con un colpo all'occhio."
         },
         {
           "sessione": 18,
@@ -1824,7 +1824,7 @@
         },
         {
           "sessione": 11,
-          "testo": "Nel covo il gruppo trova una cripta crollata con un sarcofago colmo di sangue e un dito mozzato con fede nuziale; affronta accoliti armati in un'imboscata e una sala-sarcofago dove i cultisti giocavano a carte (uno baro con assi nascosti). Oltre un passaggio segreto, nel passaggio allagato, i cultisti combattono contro un gigante alleato della Duchessa Vanthampur e schierano una predatrice mutaforma (Orin Pugnasangue) capace di sdoppiare i nemici. Un cultista ferito, interrogato, rivela il legame con la Duchessa e indica la Lanterna Bassa; viene poi liberato."
+          "testo": "Nel covo il gruppo trova una cripta crollata con un sarcofago colmo di sangue e un dito mozzato con fede nuziale; affronta accoliti armati in un'imboscata e una sala-sarcofago dove i cultisti giocavano a carte (uno baro con assi nascosti). Oltre un passaggio segreto, nel passaggio allagato, i cultisti combattono contro un gigante alleato della Duchessa Vanthampur e schierano una predatrice mutaforma (Orin) capace di sdoppiare i nemici. Un cultista ferito, interrogato, rivela il legame con la Duchessa e indica la Lanterna Bassa; viene poi liberato."
         },
         {
           "sessione": 12,
@@ -2093,7 +2093,7 @@
     },
     {
       "id": "obaia-black",
-      "nome": "Obaia Black",
+      "nome": "Obaja Black",
       "categoria": "avversario",
       "ruolo": "Titolare dell'Emporio Black",
       "razza": "Umano",
@@ -2221,7 +2221,7 @@
     },
     {
       "id": "david-norman",
-      "nome": "David Norman",
+      "nome": "David Orman",
       "categoria": "secondario",
       "ruolo": "Vescovo del tempio di Helm",
       "razza": "Umano",
@@ -2269,7 +2269,7 @@
     },
     {
       "id": "roland-revengar-templare",
-      "nome": "Roland Revengar",
+      "nome": "Roland Revengard",
       "categoria": "secondario",
       "ruolo": "Gran Templare della chiesa di Helm",
       "razza": "Umano",
@@ -2290,7 +2290,7 @@
         },
         {
           "sessione": 7,
-          "testo": "Possibile conflitto di immagine: il ritratto 'Roland Revengar.png' (attualmente assegnato al Granduca) potrebbe in realta appartenere a questo templare. NON riassegnato per ora: immagine lasciata null."
+          "testo": "Possibile conflitto di immagine: il ritratto 'Roland Revengard.png' (attualmente assegnato al Granduca) potrebbe in realta appartenere a questo templare. NON riassegnato per ora: immagine lasciata null."
         },
         {
           "sessione": 7,
@@ -2302,8 +2302,7 @@
         }
       ],
       "misteri": [
-        "Il ritratto 'Roland Revengar.png' appartiene al Gran Templare di Helm o al Granduca Ravengard?",
-        "C'e un legame (oltre il nome) tra il Gran Templare Roland Revengar e il Granduca Ulder Ravengard?"
+        "Il ritratto 'Roland Revengar.png' appartiene al Gran Templare di Helm o al Granduca Ravengard?"
       ],
       "correlazioni": [
         {
@@ -2322,9 +2321,9 @@
       "id": "clayton",
       "nome": "Clayton",
       "categoria": "alleato",
-      "ruolo": "Inventore (dragonide)",
-      "razza": "Dragonide",
-      "eta": "Ignota",
+      "ruolo": "Inventore (coboldo)",
+      "razza": "Coboldo",
+      "eta": "Morto",
       "immagine": "assets/data/ikaros/campagne/discesa-averno/personaggi/Alleati/Kleyton.jpg",
       "aspetto": "Dragonide. Non descritto in dettaglio. Gira con arnesi, fionde improvvisate e progetti; sogna ali di metallo a propulsione termica.",
       "personalita": "Goloso ed entusiasta; opportunista a tavola.",
@@ -2377,21 +2376,11 @@
         },
         {
           "sessione": 11,
-          "testo": "RIVELAZIONE: la mutaforma Orin Pugnasangue lo riconosce e lo rivendica come sua 'proprieta' ('E tu sei ancora una mia proprieta. E non intendo separarmene'). Clayton si irrigidisce, guardandola come un incubo che sperava morto. Emerge un passato oscuro che lo lega alla donna di sangue."
-        },
-        {
-          "sessione": 12,
-          "testo": "Presente nella spartizione del bottino e nel ritorno alla superficie; partecipa al passaggio di livello e ai preparativi per la serata nell'Alta Citta. Nessun nuovo sviluppo sul legame con la mutaforma Orin Pugnasangue."
-        },
-        {
-          "sessione": 12,
-          "testo": "CANONE (utente, 2026-06-08): Clayton è UN SOLO personaggio, un dragonide. Le schede 'coboldo' (S4-8) e 'dragonide' (S7-12) sono state fuse."
+          "testo": "RIVELAZIONE: la mutaforma Orin afferma di averlo ucciso, probabilmente quando si aggirava per il mercato nero prima dell'ingresso nell'emporio Black, e di averne preso le sembianze."
         }
       ],
       "misteri": [
-        "Cosa cercava davvero nella fabbrica di Gortash?",
-        "Il nome corretto è 'Clayton' o 'Clayton'? Il testo oscilla tra le due grafie.",
-        "Qual e il legame tra Clayton e la mutaforma Orin Pugnasangue, che lo rivendica come sua 'proprieta'?"
+        "Cosa cercava davvero nella fabbrica di Gortash?"
       ],
       "correlazioni": [
         {
@@ -2412,7 +2401,7 @@
         {
           "personaggio": "orin-pugnasangue",
           "tipo": "vittima di",
-          "descrizione": "La donna di sangue lo riconosce e lo rivendica come sua 'proprieta'."
+          "descrizione": "Lo uccide e prende le sue sembianze."
         }
       ]
     },
@@ -2730,7 +2719,7 @@
       "ruolo": "Mercante di vini",
       "razza": "Tiefling",
       "eta": "Giovane adulta",
-      "immagine": null,
+      "immagine": "assets/data/ikaros/campagne/discesa-averno/personaggi/Alleati/Vendetta_Cress.png",
       "aspetto": "Giovane tiefling provata dalla tortura: un occhio gonfio e tumefatto quasi chiuso, corpo segnato, affamata e disidratata.",
       "personalita": "Tenace e riconoscente nonostante il trauma; lucida abbastanza da intuire la trama dietro i rapimenti.",
       "background": "Commerciante legata alla famiglia Oathone, nota per i traffici di vino e alcolici di Baldur's Gate. Rapita e torturata dai cultisti per ottenere informazioni economiche e logistiche sulle famiglie cittadine.",
@@ -2783,7 +2772,7 @@
       "ruolo": "Gigante guerriero",
       "razza": "Gigante",
       "eta": "Ignota",
-      "immagine": null,
+      "immagine": "assets/data/ikaros/campagne/discesa-averno/personaggi/Alleati/Mortlock_Vanthampur.png",
       "aspetto": "Figura massiccia e armata, troppo grande per i corridoi del covo. Combatte con forza brutale, travolgendo i nemici come ostacoli fastidiosi.",
       "personalita": "Diffidente e disciplinato, quasi infastidito all'idea di ricevere aiuto. Non semplice furia: dietro la violenza c'e il peso di un ordine e di un dovere.",
       "background": "Gigante trovato nel passaggio allagato del covo dei Tre Morti mentre combatte da solo contro i cultisti di Bane, Bhaal e Myrkul. Dichiara di agire per dovere, su mandato della Duchessa Vanthampur: la sua presenza lega il covo al cuore politico di Baldur's Gate.",
@@ -2836,7 +2825,7 @@
     },
     {
       "id": "orin-pugnasangue",
-      "nome": "Orin Pugnasangue",
+      "nome": "Orin",
       "categoria": "avversario",
       "ruolo": "Mutaforma cultista di Bhaal",
       "razza": "Mutaforma (donna di sangue)",
@@ -2861,11 +2850,11 @@
         },
         {
           "sessione": 11,
-          "testo": "INCOERENZA DI NOME (cfr. DA-RISOLVERE.md punto 4): il nome 'Orin' e usato in S11 per DUE figure distinte. Questa e la donna di sangue mutaforma (file Compare Orin.png; canonicamente Orin Pugnasangue, cultista di Bhaal); l'altra e l'uomo/cultista ferito interrogato (id orin-cultista). Trattate come personaggi separati; il canone resta da fissare."
+          "testo": "INCOERENZA DI NOME (cfr. DA-RISOLVERE.md punto 4): il nome 'Orin' e usato in S11 per DUE figure distinte. Questa e la donna di sangue mutaforma (file Compare Orin.png; canonicamente Orin, cultista di Bhaal); l'altra e l'uomo/cultista ferito interrogato (id orin-cultista). Trattate come personaggi separati; il canone resta da fissare."
         }
       ],
       "misteri": [
-        "Chi e davvero Orin Pugnasangue e qual e il suo ruolo nella gerarchia del Culto e nel piano della Duchessa Vanthampur?",
+        "Chi e davvero Orin e qual e il suo ruolo nella gerarchia del Culto e nel piano della Duchessa Vanthampur?",
         "Perche considera Clayton una sua 'proprieta'? Che passato li lega?",
         "Perche ha risparmiato il gruppo, se avrebbe potuto ucciderlo?",
         "E davvero la stessa 'Orin' del cultista ferito interrogato, o un'omonimia (cfr. DA-RISOLVERE.md punto 4)?"
@@ -3050,7 +3039,7 @@
       "immagine": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-13/Vassander Nodorovo.png",
       "aspetto": "Uomo dalla presenza opprimente: compare senza che nessuno ne avverta i passi, e attorno a lui le luci si affievoliscono e il fuoco del camino si abbassa. Voce che non ha bisogno di alzarsi per imporsi.",
       "personalita": "Padrone assoluto e lucido, severo ma non rabbioso: corregge col ragionamento piu che col castigo. Affettuoso solo nei gesti misurati. Davanti a lui perfino Alaster smette di essere se stesso.",
-      "background": "Capofamiglia della casata Nodorovo, padre di Dorian, Alaster e Alyssandra, marito di Seraphine. Padrone della Villa Nodorovo nella Citta Alta di Baldur's Gate. La famiglia commercia merce rara ed esotica e proviene da Arabell, sulla Costa della Spada, presso il Cormyr.",
+      "background": "Capofamiglia della casata Nodorovo, padre di Dorian, Alaster e Lyssandra, marito di Seraphine. Padrone della Villa Nodorovo nella Citta Alta di Baldur's Gate. La famiglia commercia merce rara ed esotica e proviene da Arabell, sulla Costa della Spada, presso il Cormyr.",
       "stato": "vivo",
       "primaApparizione": 13,
       "apparizioni": [
@@ -3068,7 +3057,7 @@
         },
         {
           "sessione": 17,
-          "testo": "Nel proprio studio ascolta Alaster raccontare lo scontro col Culto del Drago, l'alleanza con Zorbat e il piano di assaltare la villa Vanthampur. Lo definisce 'pazzo suicida' e affronta la questione in chiave politica, non morale ('Questa citta e un covo di serpi. E noi facciamo parte del gioco tanto quanto loro'; 'E cosa ci importa di Elturel?'). Avverte che, se le cose andranno male, sara costretto a disconoscere la 'crociata' del figlio, ma finisce per credergli e lasciarlo andare da solo. Quando Alaster esce, per la prima volta smette di scrivere."
+          "testo": "Nel proprio studio ascolta Alaster raccontare lo scontro col Culto del Drago, l'alleanza con Zorvath e il piano di assaltare la villa Vanthampur. Lo definisce 'pazzo suicida' e affronta la questione in chiave politica, non morale ('Questa citta e un covo di serpi. E noi facciamo parte del gioco tanto quanto loro'; 'E cosa ci importa di Elturel?'). Avverte che, se le cose andranno male, sara costretto a disconoscere la 'crociata' del figlio, ma finisce per credergli e lasciarlo andare da solo. Quando Alaster esce, per la prima volta smette di scrivere."
         }
       ],
       "misteri": [
@@ -3095,7 +3084,7 @@
         {
           "personaggio": "alessandra-nodorovo",
           "tipo": "figlia",
-          "descrizione": "Padre della piccola Alyssandra."
+          "descrizione": "Padre della piccola Lyssandra."
         }
       ]
     },
@@ -3109,7 +3098,7 @@
       "immagine": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-13/Incontriamo Seraphine.png",
       "aspetto": "Donna elegante e composta, la cui presenza la stanza sembra riconoscere prima delle persone. Gesti misurati ma capaci, all'occorrenza, di una tenerezza disarmante (prende il viso del figlio tra le mani).",
       "personalita": "Acuta osservatrice, legge le persone senza bisogno di domande; precisa, ironica, elegante. Sincera nell'affetto materno, senza ostentazione. 'Maestra nell'indovinare, dedurre e suggerire'.",
-      "background": "Madre di Dorian, Alaster e Alyssandra, moglie di Vassander. Padrona di casa della Villa Nodorovo nella Citta Alta. Da lei Alaster ha imparato meta delle sue armi sociali.",
+      "background": "Madre di Dorian, Alaster e Lyssandra, moglie di Vassander. Padrona di casa della Villa Nodorovo nella Citta Alta. Da lei Alaster ha imparato meta delle sue armi sociali.",
       "stato": "vivo",
       "primaApparizione": 13,
       "apparizioni": [
@@ -3119,11 +3108,11 @@
       "note": [
         {
           "sessione": 13,
-          "testo": "PRIMA APPARIZIONE: accoglie Alaster con un abbraccio misurato ma sincero e ne legge subito il cambiamento ('mi dai un'aria diversa'). Conosce gia i nomi di tutti gli ospiti (Elis, Aelar, Nathan, Kyran) prima delle presentazioni e percepisce la potenza nascosta di Kyran, turbandolo; quando interrogata, devia con eleganza ('forse ricordi male'). Offre una cena per festeggiare il ritorno del figlio e si congeda per cercare il marito. NB INCOERENZA DA-RISOLVERE: il corpo testo della sorella la chiama 'Alyssandra', titolo/filename 'Alyssandra' (punto 9)."
+          "testo": "PRIMA APPARIZIONE: accoglie Alaster con un abbraccio misurato ma sincero e ne legge subito il cambiamento ('mi dai un'aria diversa'). Conosce gia i nomi di tutti gli ospiti (Elis, Aelar, Nathan, Kyran) prima delle presentazioni e percepisce la potenza nascosta di Kyran, turbandolo; quando interrogata, devia con eleganza ('forse ricordi male'). Offre una cena per festeggiare il ritorno del figlio e si congeda per cercare il marito. NB INCOERENZA DA-RISOLVERE: il corpo testo della sorella la chiama 'Lyssandra', titolo/filename 'Lyssandra' (punto 9)."
         },
         {
           "sessione": 14,
-          "testo": "Presente alla colazione di famiglia insieme ai figli Alaster, Alyssandra e all'altro fratello; il patriarca Vassander e assente. Durante il pasto viene pronunciato il motto della casata: 'Tra le spine veglia l'occhio'."
+          "testo": "Presente alla colazione di famiglia insieme ai figli Alaster, Lyssandra e all'altro fratello; il patriarca Vassander e assente. Durante il pasto viene pronunciato il motto della casata: 'Tra le spine veglia l'occhio'."
         },
         {
           "sessione": 16,
@@ -3153,13 +3142,13 @@
         {
           "personaggio": "alessandra-nodorovo",
           "tipo": "figlia",
-          "descrizione": "Madre della piccola Alyssandra."
+          "descrizione": "Madre della piccola Lyssandra."
         }
       ]
     },
     {
       "id": "alessandra-nodorovo",
-      "nome": "Alyssandra Nodorovo",
+      "nome": "Lyssandra Nodorovo",
       "categoria": "secondario",
       "ruolo": "Sorella minore di Alaster",
       "razza": "Umana (apparente)",
@@ -3177,7 +3166,7 @@
       "note": [
         {
           "sessione": 13,
-          "testo": "PRIMA APPARIZIONE: corre incontro ad Alaster e lo abbraccia; lui la solleva e la fa ruotare con un sorriso sincero. Si lamenta della noia e conosce gli ospiti, accogliendo perfino Kyran ('presenza oscura') con la franchezza dei bambini. Riceve in dono da Alaster una sfera di ossidiana presa nelle catacombe e corre via felice a studiare. NB INCOERENZA DA-RISOLVERE punto 9: corpo testo 'Alyssandra', titolo capitolo e filename 'Alyssandra'."
+          "testo": "PRIMA APPARIZIONE: corre incontro ad Alaster e lo abbraccia; lui la solleva e la fa ruotare con un sorriso sincero. Si lamenta della noia e conosce gli ospiti, accogliendo perfino Kyran ('presenza oscura') con la franchezza dei bambini. Riceve in dono da Alaster una sfera di ossidiana presa nelle catacombe e corre via felice a studiare. NB INCOERENZA DA-RISOLVERE punto 9: corpo testo 'Lyssandra', titolo capitolo e filename 'Lyssandra'."
         },
         {
           "sessione": 14,
@@ -3340,7 +3329,7 @@
         {
           "personaggio": "leroy-tandret",
           "tipo": "cliente",
-          "descrizione": "Cerca Lucius alla Lanterna Bassa, locanda gestita da Leroy Tandret."
+          "descrizione": "Cerca Lucius alla Lanterna Bassa, locanda gestita da Leroy Thundreth."
         },
         {
           "personaggio": "alaster",
@@ -3371,7 +3360,7 @@
     },
     {
       "id": "lucius-fowler",
-      "nome": "Lord Lucius Fauler",
+      "nome": "Conte Lucius Fauler",
       "categoria": "avversario",
       "ruolo": "Lord infernale / committente",
       "razza": "Diavolo (originario degli Inferi)",
@@ -3404,7 +3393,7 @@
         },
         {
           "sessione": 16,
-          "testo": "SESSIONE CHIAVE: ospita il gruppo nella propria villa isolata fuori Baldur's Gate (carrozza chiusa e blindata, Aeren abbattuto in viaggio). Si presenta come 'Lord Lucius Fauler' e impone contratti di sangue per accedere alla cena. Mette in scena una 'cena infernale' rituale a portate (ostriche 'Ultima Cena del Marinaio'; agnolotti 'Lacrime di Stige' che scatenano l'avidita, spezzata solo donando il cibo agli altri; una portata principale a forma di angelo/divinita macellata; un dessert al sangue che rivela il segreto piu profondo di ciascun ospite). Dichiara di provenire 'da molto piu sotto' di Elturel, cioe dall'Averno, e rivela che la citta e nel primo strato degli Inferi, governato dall'Arciduchessa ZARIEL, nel contesto della Guerra Sanguinaria diavoli-demoni. Sa molto del gruppo (la Cavaliere Infernale, Orin, i piani dei Vanthampur, chi hanno ucciso). Su di lui i piatti non hanno effetto perche 'mostra gia cio che e'. Su tutti i contratti 'le regole sono uguali': anche lui versa il proprio sangue tra le boccette."
+          "testo": "SESSIONE CHIAVE: ospita il gruppo nella propria villa isolata fuori Baldur's Gate (carrozza chiusa e blindata, Aeren abbattuto in viaggio). Si presenta come 'Conte Lucius Fauler' e impone contratti di sangue per accedere alla cena. Mette in scena una 'cena infernale' rituale a portate (ostriche 'Ultima Cena del Marinaio'; agnolotti 'Lacrime di Stige' che scatenano l'avidita, spezzata solo donando il cibo agli altri; una portata principale a forma di angelo/divinita macellata; un dessert al sangue che rivela il segreto piu profondo di ciascun ospite). Dichiara di provenire 'da molto piu sotto' di Elturel, cioe dall'Averno, e rivela che la citta e nel primo strato degli Inferi, governato dall'Arciduchessa ZARIEL, nel contesto della Guerra Sanguinaria diavoli-demoni. Sa molto del gruppo (la Cavaliere Infernale, Orin, i piani dei Vanthampur, chi hanno ucciso). Su di lui i piatti non hanno effetto perche 'mostra gia cio che e'. Su tutti i contratti 'le regole sono uguali': anche lui versa il proprio sangue tra le boccette."
         },
         {
           "sessione": 16,
@@ -3416,7 +3405,7 @@
         },
         {
           "sessione": 16,
-          "testo": "CANONE (utente, 2026-06-08): il titolo non è definito dalla campagna (né duca né conte); va chiamato semplicemente 'Lord' — Lord Lucius Fauler."
+          "testo": "CANONE (utente, 2026-06-08): il titolo non è definito dalla campagna (né duca né conte); va chiamato semplicemente 'Lord' — Conte Lucius Fauler."
         }
       ],
       "misteri": [
@@ -3566,7 +3555,7 @@
     },
     {
       "id": "leroy-tandret",
-      "nome": "Leroy Tandret",
+      "nome": "Leroy Thundreth",
       "categoria": "secondario",
       "ruolo": "Oste della Lanterna Bassa ('il Capitano')",
       "razza": "Tiefling",
@@ -3583,7 +3572,7 @@
       "note": [
         {
           "sessione": 14,
-          "testo": "PRIMA APPARIZIONE: accoglie gli Extermina al bancone della Lanterna Bassa ('Leroy Tandret... ma da queste parti mi chiamano il Capitano'), li avverte che il locale puo diventare turbolento e concede a Gullivan di restare 'finche non crea problemi'. Interrogato da Aelar, rivela che qui tutti giocano e si indebitano, e che il 'signor Vanthampur' offre credito agli scommettitori, riscuotendo con 'modi molto efficaci'. Confabula sottovoce con la guardia della porta sorvegliata, poi sparisce lungo le scale che scendono di sotto."
+          "testo": "PRIMA APPARIZIONE: accoglie gli Extermina al bancone della Lanterna Bassa ('Leroy Thundreth... ma da queste parti mi chiamano il Capitano'), li avverte che il locale puo diventare turbolento e concede a Gullivan di restare 'finche non crea problemi'. Interrogato da Aelar, rivela che qui tutti giocano e si indebitano, e che il 'signor Vanthampur' offre credito agli scommettitori, riscuotendo con 'modi molto efficaci'. Confabula sottovoce con la guardia della porta sorvegliata, poi sparisce lungo le scale che scendono di sotto."
         }
       ],
       "misteri": [
@@ -3794,27 +3783,28 @@
           "descrizione": "Visto dalla sopravvissuta in compagnia di guardie legate ai Vanthampur."
         },
         {
-          "personaggio": "sopravvissuta-elturel",
+          "personaggio": "reya-mantlemorn",
           "tipo": "braccato da",
           "descrizione": "La sopravvissuta di Elturel cerca di seguirne le tracce a Baldur's Gate."
         }
       ]
     },
     {
-      "id": "sopravvissuta-elturel",
-      "nome": "La sopravvissuta di Elturel",
+      "id": "reya-mantlemorn",
+      "nome": "Reya Mantlemorn",
       "categoria": "alleato",
-      "ruolo": "Ex guardia cittadina di Elturel",
+      "ruolo": "Hellrider / ex guardia di Elturel",
       "razza": "Umana",
       "eta": "Giovane adulta",
-      "immagine": null,
+      "immagine": "assets/data/ikaros/campagne/discesa-averno/personaggi/Alleati/Reya_Mantlemorn.png",
       "aspetto": "Donna dal volto giovane ma dallo sguardo duro e dagli occhi stanchi 'di chi ha visto troppo'. Si nasconde sotto un cappuccio e abiti consumati che celano un'armatura metallica.",
       "personalita": "Vigile, diretta e militare: pone domande retoriche di cui conosce gia la risposta e si muove come chi vive braccato. Non ha paura del gruppo, ma di essere trovata.",
-      "background": "Faceva parte della guardia cittadina di Elturel; si stava allenando fuori le mura quando la citta cadde, e al ritorno trovo solo il cratere. Ha scortato dei superstiti fino a Baldur's Gate, dove e entrata illegalmente ed e ora ricercata dai Pugni Fiammeggianti per un incidente che si rifiuta di spiegare. Vuole che la verita su Elturel non sparisca nel silenzio. NB: il suo nome non viene mai pronunciato in S15.",
+      "background": "Ex guardia cittadina di Elturel: si stava allenando fuori le mura quando la città cadde, e al ritorno trovò solo il cratere. Ha scortato dei superstiti fino a Baldur's Gate, dove è entrata illegalmente ed è ora ricercata dai Pugni Fiammeggianti per un incidente che si rifiuta di spiegare. Hellrider di formazione, ha donato al gruppo una pietra magica (gemella alla sua) con cui localizzarla e raggiungerla all'occorrenza. Vuole che la verità su Elturel non sparisca nel silenzio. NB: il suo nome non viene mai pronunciato in S15.",
       "stato": "vivo",
       "primaApparizione": 15,
       "apparizioni": [
-        15
+        15,
+        18
       ],
       "note": [
         {
@@ -3824,17 +3814,23 @@
         {
           "sessione": 15,
           "testo": "Chiede aiuto: crede che Thavius Kreeg sia a Baldur's Gate, avendolo visto con guardie legate ai Vanthampur, e che lui conosca la verita sulla caduta di Elturel. Consegna a Nathan una sfera-segnale (da distruggere per chiamarla) e ne tiene una gemella. Poi sparisce nei vicoli con un saluto militare. Nathan resta diffidente ('non sappiamo ancora se possiamo fidarci'). NB: nome mai pronunciato in S15."
+        },
+        {
+          "sessione": 18,
+          "testo": "Solo citata: prima dell'assalto il gruppo discute se usare la pietra magica donata da Reya per chiamarla, ma Nathan decide che e troppo rischioso ('potrebbe arrivare nel mezzo del massacro') e non sa come reagirebbe il Culto del Drago a una Hellrider armata. La pietra resta intatta e Reya non viene coinvolta nell'operazione."
         }
       ],
       "misteri": [
-        "Chi e la sopravvissuta di Elturel e qual e l'incidente per cui i Pugni Fiammeggianti la cercano?",
-        "Ci si puo fidare di lei, o e un'esca?"
+        "Qual è l'incidente per cui i Pugni Fiammeggianti la cercano?",
+        "Ci si può fidare di lei, o è un'esca?",
+        "Che legame ha con gli Hellrider e con la caduta di Elturel?",
+        "Quando e perché il gruppo deciderà di usare la pietra per chiamare Reya?"
       ],
       "correlazioni": [
         {
           "personaggio": "nathan",
           "tipo": "alleata (incerta)",
-          "descrizione": "Affida a Nathan una sfera-segnale per essere chiamata all'occorrenza; lui resta diffidente."
+          "descrizione": "Affida a Nathan una sfera-segnale per essere chiamata all'occorrenza; lui resta diffidente. Nella S18 Nathan decide di non usare la pietra durante l'assalto per non metterla in pericolo."
         },
         {
           "personaggio": "thavius-kreeg",
@@ -3849,8 +3845,8 @@
       ]
     },
     {
-      "id": "zorbat",
-      "nome": "Zorbat",
+      "id": "Zorvath",
+      "nome": "Zorvath",
       "categoria": "avversario",
       "ruolo": "Dragonide del Culto del Drago",
       "razza": "Dragonide",
@@ -3873,11 +3869,11 @@
         },
         {
           "sessione": 15,
-          "testo": "Sorpreso dal dragonico perfetto e antico di Alaster, gli mostra rispetto ('staresti bene tra le nostre fila'), accenna a possibili 'grandi progetti' della dea e al fatto che 'persino Arkhan' potrebbe interessarsi a lui. Si presenta col nome 'Zorbat' e stringe la mano ad Alaster, siglando un patto: il Culto del Drago colpira i Vanthampur in casa loro entro un giorno, agendo insieme al gruppo."
+          "testo": "Sorpreso dal dragonico perfetto e antico di Alaster, gli mostra rispetto ('staresti bene tra le nostre fila'), accenna a possibili 'grandi progetti' della dea e al fatto che 'persino Arkhan' potrebbe interessarsi a lui. Si presenta col nome 'Zorvath' e stringe la mano ad Alaster, siglando un patto: il Culto del Drago colpira i Vanthampur in casa loro entro un giorno, agendo insieme al gruppo."
         },
         {
           "sessione": 17,
-          "testo": "Citato: l'accordo con Zorbat e i dragonidi e dato per concluso e i preparativi per l'assalto congiunto alla villa Vanthampur sono ormai inevitabili."
+          "testo": "Citato: l'accordo con Zorvath e i dragonidi e dato per concluso e i preparativi per l'assalto congiunto alla villa Vanthampur sono ormai inevitabili."
         },
         {
           "sessione": 18,
@@ -3885,7 +3881,7 @@
         }
       ],
       "misteri": [
-        "Manterra Zorbat il patto con Alaster, o e solo un mezzo per riavere e vendicare gli artefatti della sua dea?",
+        "Manterra Zorvath il patto con Alaster, o e solo un mezzo per riavere e vendicare gli artefatti della sua dea?",
         "Quali 'grandi progetti' avrebbe la Regina dei Draghi per Alaster, e perche Arkhan dovrebbe interessarsi a lui?"
       ],
       "correlazioni": [
@@ -3916,7 +3912,7 @@
       "immagine": null,
       "aspetto": "Gruppo di fanatici guidati da un dragonide, armati di balestre e lame, che si muovono con la coordinazione silenziosa dei predatori. Maneggiano gli artefatti draconici con guanti, come reliquie sacre.",
       "personalita": "Fanatici assoluti, votati alla Regina di Tutti i Draghi: eseguono ogni ordine della dea, pronti a radere al suolo una citta. Disprezzano i nobili viscidi come i Vanthampur.",
-      "background": "Setta consacrata alla Regina di Tutti i Draghi (la dea draconica del male). Cerca artefatti sacri della propria regina - una corona di bronzo e una maschera di drago rosso - finiti nel bottino del gruppo dopo essere stati sottratti dai Vanthampur. La cellula e guidata dal dragonide Zorbat e fa il nome di Arkhan.",
+      "background": "Setta consacrata alla Regina di Tutti i Draghi (la dea draconica del male). Cerca artefatti sacri della propria regina - una corona di bronzo e una maschera di drago rosso - finiti nel bottino del gruppo dopo essere stati sottratti dai Vanthampur. La cellula e guidata dal dragonide Zorvath e fa il nome di Arkhan.",
       "stato": "vivo",
       "primaApparizione": 15,
       "apparizioni": [
@@ -3932,7 +3928,7 @@
         },
         {
           "sessione": 15,
-          "testo": "Riavuti gli artefatti, il dragonide Zorbat stringe un patto con Alaster (sedotto dal suo dragonico): il Culto colpira i Vanthampur 'nella loro casa' entro un giorno, agendo insieme al gruppo. Viene fatto il nome di 'Arkhan' come figura di rilievo legata al Culto."
+          "testo": "Riavuti gli artefatti, il dragonide Zorvath stringe un patto con Alaster (sedotto dal suo dragonico): il Culto colpira i Vanthampur 'nella loro casa' entro un giorno, agendo insieme al gruppo. Viene fatto il nome di 'Arkhan' come figura di rilievo legata al Culto."
         },
         {
           "sessione": 16,
@@ -3954,9 +3950,9 @@
       ],
       "correlazioni": [
         {
-          "personaggio": "zorbat",
+          "personaggio": "Zorvath",
           "tipo": "comandato da",
-          "descrizione": "La cellula incontrata al porto e guidata dal dragonide Zorbat."
+          "descrizione": "La cellula incontrata al porto e guidata dal dragonide Zorvath."
         },
         {
           "personaggio": "alaster",
@@ -4162,7 +4158,7 @@
     },
     {
       "id": "marosin",
-      "nome": "Marosin (Mary)",
+      "nome": "Marusin (Mary) Clover",
       "categoria": "secondario",
       "ruolo": "Assistente della Torre di Ramazith",
       "razza": "Umana",
@@ -4243,7 +4239,7 @@
       "note": [
         {
           "sessione": 17,
-          "testo": "PRIMA APPARIZIONE (identificabile): richiama Kyran da un vicolo della Citta Alta e la conduce, con discorsi allusivi sul Reame delle Ombre e su un 'familiare', verso la trappola di Kanbos. Emette un richiamo simile a quello di un corvo e fugge ('Spero sia una felice riunione di famiglia')."
+          "testo": "PRIMA APPARIZIONE (identificabile): richiama Kyran da un vicolo della Citta Alta e la conduce, con discorsi allusivi sul Reame delle Ombre e su un 'familiare', verso la trappola di Kar'vos. Emette un richiamo simile a quello di un corvo e fugge ('Spero sia una felice riunione di famiglia')."
         }
       ],
       "misteri": [
@@ -4253,21 +4249,21 @@
         {
           "personaggio": "kyran",
           "tipo": "messaggero per",
-          "descrizione": "Adesca Kyran consegnandole un messaggio e conducendola da Kanbos."
+          "descrizione": "Adesca Kyran consegnandole un messaggio e conducendola da Kar'vos."
         },
         {
-          "personaggio": "kanbos",
+          "personaggio": "Kar'vos",
           "tipo": "messaggero di",
-          "descrizione": "Conduce Kyran nella trappola tesa da Kanbos."
+          "descrizione": "Conduce Kyran nella trappola tesa da Kar'vos."
         }
       ]
     },
     {
-      "id": "kanbos",
-      "nome": "Kanbos",
+      "id": "Kar'vos",
+      "nome": "Kar'vos",
       "categoria": "avversario",
       "ruolo": "Esule del Reame delle Ombre",
-      "razza": "Umano (apparente)",
+      "razza": "Elfo shadar-kai",
       "eta": "Ignota",
       "immagine": null,
       "aspetto": "Uomo pallido e consumato, segnato ma ancora vivo; emerge lentamente dall'oscurita dei vicoli.",
@@ -4285,8 +4281,8 @@
         }
       ],
       "misteri": [
-        "Chi e il 'maestro' di Kanbos e quali rituali e segreti del Reame delle Ombre padroneggia?",
-        "Kanbos e morto con i suoi demoni o e fuggito? Tornera a dare la caccia a Kyran?"
+        "Chi e il 'maestro' di Kar'vos e quali rituali e segreti del Reame delle Ombre padroneggia?",
+        "Kar'vos e morto con i suoi demoni o e fuggito? Tornera a dare la caccia a Kyran?"
       ],
       "correlazioni": [
         {
@@ -4300,15 +4296,15 @@
           "descrizione": "Si serve di un Kenku per attirare Kyran nella trappola."
         },
         {
-          "personaggio": "demoni-kanbos",
+          "personaggio": "demoni-Kar'vos",
           "tipo": "evocatore",
           "descrizione": "Evoca dalle ombre le creature demoniache che assaltano Kyran e il gruppo."
         }
       ]
     },
     {
-      "id": "demoni-kanbos",
-      "nome": "Demoni di Kanbos",
+      "id": "demoni-Kar'vos",
+      "nome": "Demoni di Kar'vos",
       "categoria": "avversario",
       "ruolo": "Creature evocate",
       "razza": "Demoni / creature delle ombre",
@@ -4316,7 +4312,7 @@
       "immagine": null,
       "aspetto": "Mostri deformi nati dalle ombre del Reame Oscuro: masse di fauci e artigli con enormi occhi, che emergono da pozze nere simili a petrolio.",
       "personalita": "Predatori istintivi: sputano acido, vibrano e gorgogliano, risucchiano l'energia vitale e tentano di divorare le anime.",
-      "background": "Creature demoniache evocate da Kanbos tramite cerchi rituali e magia ombrale proibita nei vicoli della Citta Alta.",
+      "background": "Creature demoniache evocate da Kar'vos tramite cerchi rituali e magia ombrale proibita nei vicoli della Citta Alta.",
       "stato": "morto",
       "primaApparizione": 17,
       "apparizioni": [
@@ -4325,15 +4321,15 @@
       "note": [
         {
           "sessione": 17,
-          "testo": "Evocati da Kanbos per uccidere Kyran. Sputano acido corrosivo sul terreno e risucchiano energia vitale; il piu grande abbatte Kyran e tenta di divorarne l'anima (che non potrebbe piu essere resuscitata). Vengono infine sterminati dal gruppo accorso. Dai loro corpi il gruppo recupera artigli, sangue, corna, occhi e il cuore della creatura piu grande, da rivendere."
+          "testo": "Evocati da Kar'vos per uccidere Kyran. Sputano acido corrosivo sul terreno e risucchiano energia vitale; il piu grande abbatte Kyran e tenta di divorarne l'anima (che non potrebbe piu essere resuscitata). Vengono infine sterminati dal gruppo accorso. Dai loro corpi il gruppo recupera artigli, sangue, corna, occhi e il cuore della creatura piu grande, da rivendere."
         }
       ],
       "misteri": [],
       "correlazioni": [
         {
-          "personaggio": "kanbos",
+          "personaggio": "Kar'vos",
           "tipo": "evocati da",
-          "descrizione": "Creature ombrali evocate da Kanbos per uccidere Kyran."
+          "descrizione": "Creature ombrali evocate da Kar'vos per uccidere Kyran."
         }
       ]
     },
@@ -4406,40 +4402,6 @@
           "personaggio": "duchessa-vanthampur",
           "tipo": "al servizio di",
           "descrizione": "Stalliere della villa Vanthampur."
-        }
-      ]
-    },
-    {
-      "id": "reya-mantlemorn",
-      "nome": "Reya Mantlemorn",
-      "categoria": "alleato",
-      "ruolo": "Hellrider",
-      "razza": "Umana",
-      "eta": "Giovane",
-      "immagine": null,
-      "aspetto": "Non ancora vista in scena nella sessione: una giovane Hellrider armata.",
-      "personalita": "Non ancora delineata.",
-      "background": "Giovane Hellrider che ha donato al gruppo una pietra magica con cui localizzarla e raggiungerla all'occorrenza.",
-      "stato": "vivo",
-      "primaApparizione": 18,
-      "apparizioni": [
-        18
-      ],
-      "note": [
-        {
-          "sessione": 18,
-          "testo": "Solo citata: prima dell'assalto il gruppo discute se usare la pietra magica donata da Reya per chiamarla, ma Nathan decide che e troppo rischioso ('potrebbe arrivare nel mezzo del massacro') e non sa come reagirebbe il Culto del Drago a una Hellrider armata. La pietra resta intatta e Reya non viene coinvolta nell'operazione."
-        }
-      ],
-      "misteri": [
-        "Chi e Reya Mantlemorn e che legame ha con gli Hellrider e con la caduta di Elturel?",
-        "Quando e perche il gruppo decidera di usare la pietra per chiamare Reya?"
-      ],
-      "correlazioni": [
-        {
-          "personaggio": "nathan",
-          "tipo": "alleata",
-          "descrizione": "Ha donato al gruppo una pietra magica per localizzarla; Nathan decide di non chiamarla durante l'assalto."
         }
       ]
     },
@@ -4617,12 +4579,12 @@
     },
     {
       "id": "lupo-ombra-nathan",
-      "nome": "Destriero d'ombra di Nathan",
+      "nome": "Destriero d'ombra di Kyran",
       "categoria": "alleato",
       "ruolo": "Cavalcatura evocata",
       "razza": "Lupo d'ombra",
       "eta": "Ignota",
-      "immagine": null,
+      "immagine": "assets/data/ikaros/campagne/discesa-averno/personaggi/Alleati/Destriero_d_ombra.png",
       "aspetto": "Enorme lupo nero composto di oscurita liquida e fumo; dalla pelliccia eterea si sollevano volute d'ombra e due occhi gialli osservano con inquietante intelligenza.",
       "personalita": "Silenzioso, istintivo, antico: il legame con Nathan si stabilisce all'istante.",
       "background": "Cavalcatura d'ombra che Nathan richiama dalla propria ombra.",
@@ -4637,14 +4599,11 @@
           "testo": "Nei preparativi per l'assalto, Nathan lo richiama dalla propria ombra: ne emerge un enorme lupo nero di fumo e oscurita. Il legame tra cavaliere e creatura si stabilisce subito."
         }
       ],
-      "misteri": [
-        "Da dove proviene il destriero d'ombra di Nathan e che legame ha con la sua fede in Helm?"
-      ],
       "correlazioni": [
         {
-          "personaggio": "nathan",
+          "personaggio": "kyran",
           "tipo": "cavalcatura",
-          "descrizione": "Destriero d'ombra evocato da Nathan dalla propria ombra."
+          "descrizione": "Destriero d'ombra evocato da Kyran dalla propria ombra."
         }
       ]
     },

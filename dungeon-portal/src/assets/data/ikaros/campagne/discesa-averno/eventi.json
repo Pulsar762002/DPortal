@@ -2535,7 +2535,7 @@
         "elis",
         "sylvar",
         "gullivan",
-        "sopravvissuta-elturel"
+        "reya-mantlemorn"
       ],
       "luogo": "Lanterna Bassa (piani inferiori), Porto di Baldur's Gate",
       "quando": "Pomeriggio",
@@ -2634,7 +2634,7 @@
       "titolo": "La sopravvissuta di Elturel",
       "cosaSuccede": "Fuori dalla Lanterna Bassa, sotto la pioggia, attende la donna incappucciata del piano inferiore: un'ex guardia cittadina di Elturel, scampata perche fuori citta al momento del disastro. Sylvar le parla in telepatia (Nathan ha individuato due 'immondi' camuffati da corvi sui tetti). La donna chiede aiuto: crede che Thavius Kreeg, l'Alto Osservatore del Compagno, sia a Baldur's Gate insieme a guardie dei Vanthampur, e che conosca la verita su Elturel. Lascia a Nathan una sfera-segnale e sparisce nei vicoli.",
       "partecipanti": [
-        "sopravvissuta-elturel",
+        "reya-mantlemorn",
         "nathan",
         "sylvar",
         "aelar",
@@ -2646,7 +2646,7 @@
       "quando": "Pomeriggio, sotto la pioggia",
       "tipo": "incontro",
       "conseguenze": "Nuovo filo: Thavius Kreeg a Baldur's Gate, legato ai Vanthampur e alla caduta di Elturel.",
-      "note": "Nome della sopravvissuta mai pronunciato in S15 (id sopravvissuta-elturel)."
+      "note": "Nome della sopravvissuta mai pronunciato in S15 (id reya-mantlemorn)."
     },
     {
       "id": "dubbi-su-gullivan",
