@@ -31,10 +31,16 @@
         <h2 class="section-title">{{ gruppo.titolo }}</h2>
 
         <div class="card-grid">
-          <div class="img-card" *ngFor="let card of gruppo.cards">
+          <div
+            class="img-card"
+            *ngFor="let card of gruppo.cards; let i = index"
+            (click)="apriLightbox(gruppo.cards, i)">
             <div class="img-wrapper">
               <img [src]="card.immagine" [alt]="card.nome" loading="lazy" />
               <span *ngIf="card.stato === 'morto'" class="badge-morto">✝</span>
+              <div class="img-overlay">
+                <span class="overlay-icon">🔍</span>
+              </div>
             </div>
             <div class="img-info">
               <span class="img-nome">{{ card.nome }}</span>
@@ -45,6 +51,45 @@
 
       </section>
 
+    </div>
+
+  </div>
+
+</div>
+
+<!-- ===== LIGHTBOX ===== -->
+<div class="lb-overlay" *ngIf="lightboxVisible" (click)="chiudiLightbox()">
+
+  <div class="lb-panel" (click)="$event.stopPropagation()">
+
+    <button class="lb-close" (click)="chiudiLightbox()" aria-label="Chiudi">&#x2715;</button>
+
+    <div class="lb-stage">
+      <button
+        class="lb-nav lb-prev"
+        (click)="prev()"
+        [class.hidden]="lightboxCards.length <= 1"
+        aria-label="Precedente">&#x2039;</button>
+
+      <div class="lb-img-wrapper">
+        <img
+          *ngIf="lightboxCard"
+          [src]="lightboxCard.immagine"
+          [alt]="lightboxCard.nome" />
+      </div>
+
+      <button
+        class="lb-nav lb-next"
+        (click)="next()"
+        [class.hidden]="lightboxCards.length <= 1"
+        aria-label="Successiva">&#x203a;</button>
+    </div>
+
+    <div class="lb-info" *ngIf="lightboxCard">
+      <span *ngIf="lightboxCard.stato === 'morto'" class="lb-badge-morto">morto</span>
+      <span class="lb-nome">{{ lightboxCard.nome }}</span>
+      <span *ngIf="lightboxCard.sottotitolo" class="lb-ruolo">{{ lightboxCard.sottotitolo }}</span>
+      <span class="lb-counter">{{ lightboxIndex + 1 }} / {{ lightboxCards.length }}</span>
     </div>
 
   </div>

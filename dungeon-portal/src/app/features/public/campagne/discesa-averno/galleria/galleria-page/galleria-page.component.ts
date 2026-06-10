@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import { Component, NgZone, OnDestroy } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { combineLatest, Observable } from 'rxjs';
 import { map } from 'rxjs/operators';
@@ -35,10 +35,27 @@ const CATEGORIE: Record<string, { titolo: string; anchor: string; ordine: number
   templateUrl: './galleria-page.component.html',
   styleUrl: './galleria-page.component.css',
 })
-export class GalleriaPageComponent {
+export class GalleriaPageComponent implements OnDestroy {
   vm$: Observable<ViewModel>;
 
-  constructor(private dati: CampagnaDataService) {
+  // ===== LIGHTBOX =====
+  lightboxVisible = false;
+  lightboxCards: CardGalleria[] = [];
+  lightboxIndex = 0;
+
+  get lightboxCard(): CardGalleria | null {
+    return this.lightboxCards[this.lightboxIndex] ?? null;
+  }
+
+  private onKeyDown = (e: KeyboardEvent): void => {
+    this.zone.run(() => {
+      if (e.key === 'Escape')      this.chiudiLightbox();
+      else if (e.key === 'ArrowLeft')  this.prev();
+      else if (e.key === 'ArrowRight') this.next();
+    });
+  };
+
+  constructor(private dati: CampagnaDataService, private zone: NgZone) {
     this.vm$ = combineLatest([
       this.dati.getPersonaggi(),
       this.dati.getLuoghi(),
@@ -84,6 +101,28 @@ export class GalleriaPageComponent {
     );
   }
 
+  apriLightbox(cards: CardGalleria[], index: number): void {
+    this.lightboxCards = cards;
+    this.lightboxIndex = index;
+    this.lightboxVisible = true;
+    if (typeof window === 'undefined') return;
+    window.addEventListener('keydown', this.onKeyDown);
+  }
+
+  chiudiLightbox(): void {
+    this.lightboxVisible = false;
+    if (typeof window === 'undefined') return;
+    window.removeEventListener('keydown', this.onKeyDown);
+  }
+
+  prev(): void {
+    this.lightboxIndex = (this.lightboxIndex - 1 + this.lightboxCards.length) % this.lightboxCards.length;
+  }
+
+  next(): void {
+    this.lightboxIndex = (this.lightboxIndex + 1) % this.lightboxCards.length;
+  }
+
   totale(gruppi: GruppoGalleria[]): number {
     return gruppi.reduce((acc, g) => acc + g.cards.length, 0);
   }
@@ -92,5 +131,10 @@ export class GalleriaPageComponent {
     event.preventDefault();
     if (typeof window === 'undefined') return;
     document.getElementById(anchor)?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  }
+
+  ngOnDestroy(): void {
+    if (typeof window === 'undefined') return;
+    window.removeEventListener('keydown', this.onKeyDown);
   }
 }
