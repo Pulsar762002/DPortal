@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["src/app/features/public/campagne/discesa-averno/personaggi/secondari/secondari.component.css"],
-  "sourcesContent": [".personaggi-section {\n  margin-top: 2rem;\n}\n\n.section-title {\n  font-size: 1.6rem;\n  margin-bottom: 2rem;\n  color: var(--accent);\n}\n"],
-  "mappings": ";AAAA,CAAC;AACC,cAAY;AACd;AAEA,CAAC;AACC,aAAW;AACX,iBAAe;AACf,SAAO,IAAI;AACb;",
-  "names": []
-}

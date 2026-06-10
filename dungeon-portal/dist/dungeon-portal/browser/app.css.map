@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["src/app/app.css"],
-  "sourcesContent": ["/* ======================================================\n   ROOT VARIABLES\n====================================================== */\n:root {\n  --bg-main: #0f1115;\n  --bg-panel: #161a22;\n  --bg-card: #1e2330;\n\n  --text-main: #e6e8ee;\n  --text-muted: #a9afc3;\n\n  --accent: #c79c3b;\n  --accent-hover: #e0b84c;\n\n  --border-soft: #2a3042;\n}\n\n/* RESET */\n*,\n*::before,\n*::after {\n  box-sizing: border-box;\n}\n\nhtml, body {\n  margin: 0;\n  height: 100%;\n}\n\n/* GLOBAL BACKGROUND */\nbody {\n  font-family: Inter, system-ui, sans-serif;\n  color: var(--text-main);\n\n  background:\n    linear-gradient(\n      rgba(10, 12, 15, 0.45),\n      rgba(10, 12, 15, 0.65)\n    ),\n    url(\"/assets/backgrounds/lotr-bg.png\");\n\n  background-size: cover;\n  background-position: center top;\n  background-repeat: no-repeat;\n  background-attachment: fixed;\n}\n"],
-  "mappings": ";AAGA;AACE,aAAW;AACX,cAAY;AACZ,aAAW;AAEX,eAAa;AACb,gBAAc;AAEd,YAAU;AACV,kBAAgB;AAEhB,iBAAe;AACjB;AAGA;AACA,CAAC;AACD,CAAC;AACC,cAAY;AACd;AAEA;AAAM;AACJ,UAAQ;AACR,UAAQ;AACV;AAGA;AACE;AAAA,IAAa,KAAK;AAAA,IAAE,SAAS;AAAA,IAAE;AAC/B,SAAO,IAAI;AAEX,cACE,gBACE,KAAK,EAAE,EAAE,EAAE,EAAE,EAAE,EAAE,KADnB,EAEE,KAAK,EAAE,EAAE,EAAE,EAAE,EAAE,EAAE,MAClB,EACD;AAEF,mBAAiB;AACjB,uBAAqB,OAAO;AAC5B,qBAAmB;AACnB,yBAAuB;AACzB;",
-  "names": []
-}

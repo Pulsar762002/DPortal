@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["angular:styles/component:css;4282347407604aa9584357c3e65af84c7bcccc8a9da9ecf14fddd9b48465ecf3;/home/andrea/bitbucket/DPortal/dungeon-portal/src/app/shared/story-blocks/spacer-block/spacer-block.component.ts"],
-  "sourcesContent": ["\n    .spacer--small  { height: 16px; }\n    .spacer--medium { height: 36px; }\n    .spacer--large  { height: 64px; }\n  "],
-  "mappings": ";AACI,CAAC;AAAiB,UAAQ;AAAM;AAChC,CAAC;AAAiB,UAAQ;AAAM;AAChC,CAAC;AAAiB,UAAQ;AAAM;",
-  "names": []
-}

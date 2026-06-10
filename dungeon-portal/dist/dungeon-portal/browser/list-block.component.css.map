@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["src/app/shared/story-blocks/list-block/list-block.component.css"],
-  "sourcesContent": ["/* ===== Elenco ===== */\n\n.story-list {\n    margin: 18px 0;\n    padding-left: 26px;\n\n    color: rgba(235, 230, 220, 0.9);\n    line-height: 1.7;\n}\n\n.story-list li {\n    margin-bottom: 8px;\n    padding-left: 6px;\n}\n\n/* pallino dorato per le liste puntate */\n.story-list:not(.story-list--number) {\n    list-style: none;\n    padding-left: 18px;\n}\n\n.story-list:not(.story-list--number) li::before {\n    content: \"\u25C6\";\n    color: rgba(230, 195, 111, 0.8);\n    font-size: 0.7em;\n    margin-right: 12px;\n    vertical-align: middle;\n}\n\n.story-list--number {\n    list-style: decimal;\n}\n\n.story-list--number li::marker {\n    color: rgba(230, 195, 111, 0.85);\n}\n"],
-  "mappings": ";AAEA,CAAC;AACG,UAAQ,KAAK;AACb,gBAAc;AAEd,SAAO,KAAK,GAAG,EAAE,GAAG,EAAE,GAAG,EAAE;AAC3B,eAAa;AACjB;AAEA,CARC,WAQW;AACR,iBAAe;AACf,gBAAc;AAClB;AAGA,CAdC,UAcU,KAAK,CAAC;AACb,cAAY;AACZ,gBAAc;AAClB;AAEA,CAnBC,UAmBU,KAAK,CALC,oBAKoB,EAAE;AACnC,WAAS;AACT,SAAO,KAAK,GAAG,EAAE,GAAG,EAAE,GAAG,EAAE;AAC3B,aAAW;AACX,gBAAc;AACd,kBAAgB;AACpB;AAEA,CAbiB;AAcb,cAAY;AAChB;AAEA,CAjBiB,mBAiBG,EAAE;AAClB,SAAO,KAAK,GAAG,EAAE,GAAG,EAAE,GAAG,EAAE;AAC/B;",
-  "names": []
-}

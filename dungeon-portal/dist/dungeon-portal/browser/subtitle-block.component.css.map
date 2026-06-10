@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["angular:styles/component:css;bcd30386d02a55ab1f3384b4fa0ba672231e967c1a598cadc08bf4b88aecf8b4;/home/andrea/bitbucket/DPortal/dungeon-portal/src/app/shared/story-blocks/subtitle-block/subtitle-block.component.ts"],
-  "sourcesContent": ["\n    .subtitle {\n      margin: 30px 0 14px;\n      color: #e6c36f;\n      font-size: 1.25rem;\n      letter-spacing: 0.04em;\n    }\n  "],
-  "mappings": ";AACI,CAAC;AACC,UAAQ,KAAK,EAAE;AACf,SAAO;AACP,aAAW;AACX,kBAAgB;AAClB;",
-  "names": []
-}

@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["src/app/shared/story-blocks/divider-block/divider-block.component.css"],
-  "sourcesContent": ["/* ===== Separatore ornamentale tra scene ===== */\n\n.divider {\n    display: flex;\n    align-items: center;\n    gap: 18px;\n\n    margin: 40px auto;\n    max-width: 520px;\n\n    color: rgba(230, 195, 111, 0.85);\n}\n\n.divider__line {\n    flex: 1;\n    height: 1px;\n\n    /* linea che sfuma verso i bordi */\n    background: linear-gradient(\n            90deg,\n            rgba(230, 195, 111, 0) 0%,\n            rgba(230, 195, 111, 0.55) 50%,\n            rgba(230, 195, 111, 0) 100%\n    );\n}\n\n.divider__mark {\n    font-size: 1.1rem;\n    line-height: 1;\n    letter-spacing: 0.2em;\n\n    text-shadow: 0 0 14px rgba(230, 195, 111, 0.45);\n}\n"],
-  "mappings": ";AAEA,CAAC;AACG,WAAS;AACT,eAAa;AACb,OAAK;AAEL,UAAQ,KAAK;AACb,aAAW;AAEX,SAAO,KAAK,GAAG,EAAE,GAAG,EAAE,GAAG,EAAE;AAC/B;AAEA,CAAC;AACG,QAAM;AACN,UAAQ;AAGR;AAAA,IAAY;AAAA,MACJ,KADI;AAAA,MAEJ,KAAK,GAAG,EAAE,GAAG,EAAE,GAAG,EAAE,GAAG,EAFnB;AAAA,MAGJ,KAAK,GAAG,EAAE,GAAG,EAAE,GAAG,EAAE,MAAM,GAHtB;AAAA,MAIJ,KAAK,GAAG,EAAE,GAAG,EAAE,GAAG,EAAE,GAAG;AAEnC;AAEA,CAAC;AACG,aAAW;AACX,eAAa;AACb,kBAAgB;AAEhB,eAAa,EAAE,EAAE,KAAK,KAAK,GAAG,EAAE,GAAG,EAAE,GAAG,EAAE;AAC9C;",
-  "names": []
-}
