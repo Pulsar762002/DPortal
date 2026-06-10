@@ -1,5 +1,6 @@
 import { Component, NgZone, OnDestroy } from '@angular/core';
 import { CommonModule } from '@angular/common';
+import { HttpClient } from '@angular/common/http';
 import { combineLatest, Observable } from 'rxjs';
 import { map } from 'rxjs/operators';
 import { CampagnaDataService } from '../../campagna-data.service';
@@ -20,6 +21,21 @@ interface GruppoGalleria {
 interface ViewModel {
   gruppi: GruppoGalleria[];
 }
+
+interface ImmagineSessione {
+  src: string;
+  alt: string;
+  capitolo: string;
+}
+
+interface SessioneGalleria {
+  id: number;
+  titolo: string;
+  anchor: string;
+  immagini: ImmagineSessione[];
+}
+
+const BASE = 'assets/data/ikaros/campagne/discesa-averno';
 
 const CATEGORIE: Record<string, { titolo: string; anchor: string; ordine: number }> = {
   party:      { titolo: 'Party',      anchor: 'party',      ordine: 0 },
@@ -55,12 +71,13 @@ export class GalleriaPageComponent implements OnDestroy {
     });
   };
 
-  constructor(private dati: CampagnaDataService, private zone: NgZone) {
+  constructor(private dati: CampagnaDataService, private http: HttpClient, private zone: NgZone) {
     this.vm$ = combineLatest([
       this.dati.getPersonaggi(),
       this.dati.getLuoghi(),
+      this.http.get<SessioneGalleria[]>(`${BASE}/galleria-sessioni.json`),
     ]).pipe(
-      map(([personaggi, luoghi]) => {
+      map(([personaggi, luoghi, sessioni]) => {
         const mappaCategorie = new Map<string, CardGalleria[]>();
 
         for (const p of personaggi) {
@@ -91,9 +108,20 @@ export class GalleriaPageComponent implements OnDestroy {
             stato: l.stato,
           }));
 
+        const gruppiSessioni: GruppoGalleria[] = sessioni.map(s => ({
+          titolo: s.titolo,
+          anchor: s.anchor,
+          cards: s.immagini.map(img => ({
+            nome: img.alt,
+            immagine: img.src,
+            sottotitolo: img.capitolo,
+          })),
+        }));
+
         const gruppi: GruppoGalleria[] = [
           ...gruppiPersonaggi,
           ...(cardsLuoghi.length ? [{ titolo: 'Luoghi', anchor: 'luoghi', cards: cardsLuoghi }] : []),
+          ...gruppiSessioni,
         ];
 
         return { gruppi };
