@@ -1605,7 +1605,7 @@
       "ruolo": "Capitano dei Pugni Fiammanti",
       "razza": "Umano",
       "eta": "Maturo",
-      "immagine": "assets/data/ikaros/campagne/discesa-averno/personaggi/Secondari/Zodge.png",
+      "immagine": "assets/data/ikaros/campagne/discesa-averno/personaggi/Secondari/Capitano_Darmin_Zodge.png",
       "aspetto": "Ufficiale dallo sguardo duro, per metà cieco (letteralmente).",
       "personalita": "Pragmatico, autoritario, mette l'ordine prima della compassione.",
       "background": "Comandante dei Pugni Fiammanti alla Porta del Basilisco. Gestisce l'emergenza profughi a Baldur's Gate.",
@@ -2709,6 +2709,37 @@
           "personaggio": "culto-tre-morti",
           "tipo": "affiliato",
           "descrizione": "Guerriero di Bane a guardia del covo."
+        }
+      ]
+    },
+    {
+      "id": "cultista-myrkul",
+      "nome": "Cultista di Myrkul",
+      "categoria": "avversario",
+      "ruolo": "Cultista necromante dei Tre Morti",
+      "razza": "Umano",
+      "eta": "Ignota",
+      "immagine": "assets/data/ikaros/campagne/discesa-averno/personaggi/Avversari/CultistaMyrkul.png",
+      "aspetto": "Figura incappucciata, vesti lacere color ossa, simbolo di Myrkul cucito sul petto.",
+      "personalita": "Fanatico della morte; deruba i cadaveri per i riti del culto.",
+      "background": "Cultista al servizio di Myrkul (la Morte) facente parte della cellula dei Tre Morti attiva a Baldur's Gate. Agisce di notte depredando i cadaveri di denti e organi per i riti del culto.",
+      "stato": "morto",
+      "primaApparizione": 4,
+      "apparizioni": [
+        4
+      ],
+      "note": [
+        {
+          "sessione": 4,
+          "testo": "Affrontato in un vicolo mentre depredava cadaveri. Usa artigli spettrali e veleno suicida. Addosso portava una moneta d'osso col simbolo dei Tre Morti."
+        }
+      ],
+      "misteri": [],
+      "correlazioni": [
+        {
+          "personaggio": "culto-tre-morti",
+          "tipo": "affiliato",
+          "descrizione": "Cultista di Myrkul, la Morte."
         }
       ]
     },

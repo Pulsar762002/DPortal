@@ -940,5 +940,162 @@
         "capitolo": "Aelar spacca il gruppo"
       }
     ]
+  },
+  {
+    "id": 101,
+    "titolo": "Artwork — Party",
+    "anchor": "artwork-party",
+    "immagini": [
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Party/Aelar/aelar-thaedrim-liadon_headshot-20260610-2239.png",
+        "alt": "Aelar Thaedrim Liadon — volto",
+        "capitolo": "Aelar"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Party/Aelar/aelar-thaedrim-liadon_full-body-front-20260610-2239.png",
+        "alt": "Aelar Thaedrim Liadon — ritratto frontale",
+        "capitolo": "Aelar"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Party/Aelar/aelar-thaedrim-liadon_full-body-back-20260610-2239.png",
+        "alt": "Aelar Thaedrim Liadon — ritratto di spalle",
+        "capitolo": "Aelar"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Party/Aelar/aelar-thaedrim-liadon_side-20260610-2239.png",
+        "alt": "Aelar Thaedrim Liadon — profilo",
+        "capitolo": "Aelar"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Party/Aelar/ChatGPT Image Jun 11, 2026, 12_23_03 AM.png",
+        "alt": "Aelar — illustrazione",
+        "capitolo": "Aelar"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Party/Aelar/ChatGPT Image Jun 11, 2026, 12_37_27 AM.png",
+        "alt": "Aelar — illustrazione 2",
+        "capitolo": "Aelar"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Party/Alaster/alaster-nodorovo_headshot-20260610-2248.png",
+        "alt": "Alaster Nodorovo — volto",
+        "capitolo": "Alaster"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Party/Alaster/alaster-nodorovo_full-body-front-20260610-2249.png",
+        "alt": "Alaster Nodorovo — ritratto frontale",
+        "capitolo": "Alaster"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Party/Alaster/alaster-nodorovo_full-body-back-20260610-2248.png",
+        "alt": "Alaster Nodorovo — ritratto di spalle",
+        "capitolo": "Alaster"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Party/Alaster/alaster-nodorovo_side-20260610-2249.png",
+        "alt": "Alaster Nodorovo — profilo",
+        "capitolo": "Alaster"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Party/Alaster/ChatGPT Image Jun 11, 2026, 12_52_23 AM.png",
+        "alt": "Alaster — illustrazione",
+        "capitolo": "Alaster"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Party/Alaster/62015d3c-950e-4e29-8c54-1f0550f7b8cd.png",
+        "alt": "Alaster — illustrazione 2",
+        "capitolo": "Alaster"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Party/Elis/elis_headshot-20260610-2314.png",
+        "alt": "Elis — volto",
+        "capitolo": "Elis"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Party/Elis/elis_full-body-front-20260610-2313.png",
+        "alt": "Elis — ritratto frontale",
+        "capitolo": "Elis"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Party/Elis/elis_full-body-back-20260610-2314.png",
+        "alt": "Elis — ritratto di spalle",
+        "capitolo": "Elis"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Party/Elis/elis_side-20260610-2314.png",
+        "alt": "Elis — profilo",
+        "capitolo": "Elis"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Party/Elis/ChatGPT Image Jun 11, 2026, 01_09_10 AM.png",
+        "alt": "Elis — illustrazione",
+        "capitolo": "Elis"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Party/Elis/ChatGPT Image Jun 11, 2026, 01_10_14 AM.png",
+        "alt": "Elis — illustrazione 2",
+        "capitolo": "Elis"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Party/Kyran/kyran_headshot-20260610-2323.png",
+        "alt": "Kyran — volto",
+        "capitolo": "Kyran"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Party/Kyran/untitled-character_full-body-front-20260610-2322.png",
+        "alt": "Kyran — ritratto frontale",
+        "capitolo": "Kyran"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Party/Kyran/kyran_full-body-back-20260610-2323.png",
+        "alt": "Kyran — ritratto di spalle",
+        "capitolo": "Kyran"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Party/Kyran/kyran_side-20260610-2323.png",
+        "alt": "Kyran — profilo",
+        "capitolo": "Kyran"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Party/Kyran/ChatGPT Image Jun 11, 2026, 01_17_46 AM.png",
+        "alt": "Kyran — illustrazione",
+        "capitolo": "Kyran"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Party/Kyran/ChatGPT Image Jun 11, 2026, 01_18_38 AM.png",
+        "alt": "Kyran — illustrazione 2",
+        "capitolo": "Kyran"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Party/Nathan/nathan_headshot-20260610-2258.png",
+        "alt": "Nathan — volto",
+        "capitolo": "Nathan"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Party/Nathan/nathan_full-body-front-20260610-2258.png",
+        "alt": "Nathan — ritratto frontale",
+        "capitolo": "Nathan"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Party/Nathan/nathan_full-body-back-20260610-2258.png",
+        "alt": "Nathan — ritratto di spalle",
+        "capitolo": "Nathan"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Party/Nathan/nathan_side-20260610-2259.png",
+        "alt": "Nathan — profilo",
+        "capitolo": "Nathan"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Party/Nathan/Nathan_Scheda.png",
+        "alt": "Nathan — scheda personaggio",
+        "capitolo": "Nathan"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Party/Nathan/ChatGPT Image Jun 11, 2026, 12_55_31 AM.png",
+        "alt": "Nathan — illustrazione",
+        "capitolo": "Nathan"
+      }
+    ]
   }
 ]
