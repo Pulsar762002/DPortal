@@ -36,7 +36,8 @@
             *ngFor="let card of gruppo.cards; let i = index"
             (click)="apriLightbox(gruppo.cards, i)">
             <div class="img-wrapper">
-              <img [src]="card.immagine" [alt]="card.nome" loading="lazy" />
+              <img [src]="toThumb(card.immagine)" [alt]="card.nome" loading="lazy"
+                   (error)="onImgError($event, card)" />
               <span *ngIf="card.stato === 'morto'" class="badge-morto">✝</span>
               <div class="img-overlay">
                 <span class="overlay-icon">🔍</span>

@@ -155,6 +155,22 @@ export class GalleriaPageComponent implements OnDestroy {
     return gruppi.reduce((acc, g) => acc + g.cards.length, 0);
   }
 
+  private static readonly NOT_AVAILABLE = 'assets/not-available.svg';
+
+  toThumb(url: string): string {
+    const slash = url.lastIndexOf('/');
+    return url.slice(0, slash + 1) + 'thumbs/' + url.slice(slash + 1);
+  }
+
+  onImgError(event: Event, card: CardGalleria): void {
+    const img = event.target as HTMLImageElement;
+    if (img.src.includes('/thumbs/')) {
+      img.src = card.immagine;
+    } else {
+      img.src = GalleriaPageComponent.NOT_AVAILABLE;
+    }
+  }
+
   scrollTo(event: Event, anchor: string): void {
     event.preventDefault();
     if (typeof window === 'undefined') return;
