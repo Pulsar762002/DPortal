@@ -1,8 +1,8 @@
-.personaggio-wrapper {
+.personaggio-card {
   display: flex;
   gap: 2rem;
   padding: 1.8rem;
-  margin-bottom: 3rem;
+  margin-bottom: 2.4rem;
 
   background: rgba(20, 20, 20, 0.75);
   border: 1px solid rgba(212, 175, 55, 0.3);
@@ -12,41 +12,200 @@
   transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
-.personaggio-wrapper:hover {
-  transform: translateY(-4px);
+.personaggio-card:hover {
+  transform: translateY(-3px);
   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.6);
 }
 
-.personaggio-image img {
+/* ---- Immagine ---- */
+.card-image img {
   width: 160px;
   border-radius: 10px;
   border: 2px solid rgba(212, 175, 55, 0.5);
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.8);
+  object-fit: cover;
 }
 
-.personaggio-content {
+/* ---- Contenuto ---- */
+.card-content {
   flex: 1;
+  min-width: 0;
 }
 
-.personaggio-nome {
-  margin: 0 0 1rem 0;
+/* Intestazione */
+.card-header {
+  display: flex;
+  align-items: center;
+  gap: 0.8rem;
+  flex-wrap: wrap;
+  margin-bottom: 0.35rem;
+}
+
+.card-nome {
+  margin: 0;
   font-size: 1.5rem;
   color: #d4af37;
   text-shadow: 0 0 8px rgba(212, 175, 55, 0.4);
 }
 
-.personaggio-info {
-  list-style: none;
-  padding: 0;
-  margin: 0;
+/* Badge stato */
+.card-stato {
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  padding: 0.2em 0.65em;
+  border-radius: 999px;
+  border: 1px solid currentColor;
 }
 
-.personaggio-info li {
-  margin-bottom: 0.9rem;
-  line-height: 1.6;
-  color: #f1e6c8;
+.stato-vivo    { color: #4ade80; border-color: #4ade8060; background: #4ade8014; }
+.stato-morto   { color: #f87171; border-color: #f8717160; background: #f8717114; }
+.stato-ignoto  { color: #facc15; border-color: #facc1560; background: #facc1514; }
+
+/* Sottotitolo */
+.card-subtitle {
+  margin: 0 0 1.1rem;
+  font-size: 0.9rem;
+  color: #b8a97a;
 }
 
-.personaggio-info strong {
+.card-ruolo {
+  font-style: italic;
+}
+
+.sep {
+  opacity: 0.5;
+  margin: 0 0.1em;
+}
+
+/* Dettagli descrittivi */
+.card-dettagli {
+  margin: 0 0 1rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.65rem;
+}
+
+.campo dt {
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
   color: #ffffff;
+  margin-bottom: 0.15rem;
+}
+
+.campo dd {
+  margin: 0;
+  color: #f1e6c8;
+  line-height: 1.6;
+  font-size: 0.92rem;
+}
+
+/* Misteri */
+.card-misteri {
+  margin-bottom: 1rem;
+  padding: 0.75rem 1rem;
+  background: rgba(250, 204, 21, 0.05);
+  border-left: 2px solid rgba(250, 204, 21, 0.4);
+  border-radius: 0 6px 6px 0;
+}
+
+.misteri-titolo {
+  margin: 0 0 0.45rem;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #facc15;
+}
+
+.misteri-lista {
+  margin: 0;
+  padding-left: 1.1rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.3rem;
+}
+
+.misteri-lista li {
+  color: #f1e6c8;
+  font-size: 0.88rem;
+  line-height: 1.5;
+  font-style: italic;
+}
+
+/* Apparizioni */
+.card-apparizioni {
+  margin: 0 0 0.75rem;
+  font-size: 0.78rem;
+  color: #9ca3af;
+}
+
+/* Note di sessione */
+.note-toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  background: none;
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  border-radius: 6px;
+  color: #9ca3af;
+  font-size: 0.78rem;
+  padding: 0.3em 0.75em;
+  cursor: pointer;
+  transition: color 0.15s, border-color 0.15s;
+}
+
+.note-toggle:hover {
+  color: #f1e6c8;
+  border-color: rgba(255, 255, 255, 0.28);
+}
+
+.toggle-icon {
+  font-size: 0.65rem;
+}
+
+.note-lista {
+  margin: 0.75rem 0 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.note-lista li {
+  display: flex;
+  flex-direction: column;
+  gap: 0.15rem;
+}
+
+.nota-sessione {
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: #d4af37;
+}
+
+.nota-testo {
+  font-size: 0.88rem;
+  color: #d1c9b4;
+  line-height: 1.55;
+}
+
+/* Responsive: impila immagine sopra su schermi stretti */
+@media (max-width: 640px) {
+  .personaggio-card {
+    flex-direction: column;
+  }
+
+  .card-image img {
+    width: 100%;
+    max-width: 280px;
+    margin: 0 auto;
+    display: block;
+  }
 }

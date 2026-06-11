@@ -13,11 +13,11 @@
           "type": "image",
           "variant": "left-big",
           "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-11/IlSangueDeiDimenticati.png",
-          "alt": "Massaggiatrice delle terme"
+          "alt": "La cripta crollata e il sarcofago colmo di sangue"
         },
         {
           "type": "paragraph",
-          "text": "Il gruppo avanzò nel ventre del dungeon con la cautela di chi aveva ormai compreso una verità semplice e crudele: in quel luogo, ogni passo poteva celare un’insidia, ogni corridoio poteva condurre non solo alla morte, ma a qualcosa di peggiore. Alice manteneva la posizione di testa, come aveva fatto per tutta la discesa, mentre Clayton restava accanto a chiudeva la fila, saldo al fianco di Aelar. Era una disposizione ormai naturale, quasi rituale, nata dalla fatica e dal sangue condiviso."
+          "text": "Il gruppo avanzò nel ventre del dungeon con la cautela di chi aveva ormai compreso una verità semplice e crudele: in quel luogo, ogni passo poteva celare un’insidia, ogni corridoio poteva condurre non solo alla morte, ma a qualcosa di peggiore. Elis manteneva la posizione di testa, come aveva fatto per tutta la discesa, mentre Clayton restava a chiudere la fila, saldo al fianco di Aelar. Era una disposizione ormai naturale, quasi rituale, nata dalla fatica e dal sangue condiviso."
         },
         {
           "type": "paragraph",
@@ -29,7 +29,7 @@
         },
         {
           "type": "quote",
-          "text": "Comunque, finora, questi cultisti si sono rivelati molto facili."
+          "text": "«Comunque, finora, questi cultisti si sono rivelati molto facili.»"
         },
         {
           "type": "paragraph",
@@ -61,7 +61,7 @@
         },
         {
           "type": "quote",
-          "text": "Stavo provando il tuo modo di fare con il prigioniero… ma non è che sta diventando un vizio quello di attaccare qualsiasi cosa si muove o respiri?"
+          "text": "«Stavo provando il tuo modo di fare con il prigioniero… ma non è che sta diventando un vizio quello di attaccare qualsiasi cosa si muove o respiri?»"
         },
         {
           "type": "paragraph",
@@ -69,7 +69,7 @@
         },
         {
           "type": "quote",
-          "text": "Siamo in una cripta piena di sangue, con un topo che gira. Io, sinceramente, per non soffrire di scrupoli, lo butto giù e cerco di vedere che cosa stava mangiando. Poi, sinceramente, visto che siamo in zona myrkulita, bhaalita, banita, tutto ciò che si muove per me è un rischio."
+          "text": "«Siamo in una cripta piena di sangue, con un topo che gira. Io, sinceramente, per non soffrire di scrupoli, lo butto giù e cerco di vedere che cosa stava mangiando. Poi, sinceramente, visto che siamo in zona myrkulita, bhaalita, banita, tutto ciò che si muove per me è un rischio.»"
         },
         {
           "type": "paragraph",
@@ -89,7 +89,7 @@
         },
         {
           "type": "quote",
-          "text": "K più A. Per sempre insieme."
+          "text": "«K più A. Per sempre insieme.»"
         },
         {
           "type": "paragraph",
@@ -101,11 +101,11 @@
         },
         {
           "type": "paragraph",
-          "text": "Alice si irrigidì improvvisamente. Nella sua mente si fece strada una voce. Non proveniva da alcuna gola presente nella stanza: era il tono inconfondibile del Capitano Zodge, giunto attraverso la magia del messaggio. Le parole che le raggiunsero non portavano sollievo, ma una conferma feroce di ciò che già temevano."
+          "text": "Elis si irrigidì improvvisamente. Nella sua mente si fece strada una voce. Non proveniva da alcuna gola presente nella stanza: era il tono inconfondibile del Capitano Zodge, giunto attraverso la magia del messaggio. Le parole che le raggiunsero non portavano sollievo, ma una conferma feroce di ciò che già temevano."
         },
         {
           "type": "quote",
-          "text": "Fuori la situazione è critica. Ci sono un sacco di cultisti. Avevi ragione. Non riusciamo a scendere. Cavatevela da soli."
+          "text": "«Fuori la situazione è critica. Ci sono un sacco di cultisti. Avevi ragione. Non riusciamo a scendere. Cavatevela da soli.»"
         },
         {
           "type": "paragraph",
@@ -130,7 +130,7 @@
           "type": "image",
           "variant": "left-big",
           "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-11/Scontro.png",
-          "alt": "Massaggiatrice delle terme"
+          "alt": "L'imboscata degli accoliti nel corridoio stretto"
         },
         {
           "type": "paragraph",
@@ -142,7 +142,7 @@
         },
         {
           "type": "quote",
-          "text": "Non bello… per niente bello."
+          "text": "«Non bello… per niente bello.»"
         },
         {
           "type": "paragraph",
@@ -150,11 +150,11 @@
         },
         {
           "type": "paragraph",
-          "text": "Nel frattempo, Alice aveva già riferito al resto del gruppo il contenuto del messaggio ricevuto dal Capitano Zodge: all’esterno la situazione era precipitata. I cultisti avevano circondato l’area, impedendo ogni supporto. Nessuno sarebbe sceso ad aiutarli. Erano soli."
+          "text": "Nel frattempo, Elis aveva già riferito al resto del gruppo il contenuto del messaggio ricevuto dal Capitano Zodge: all’esterno la situazione era precipitata. I cultisti avevano circondato l’area, impedendo ogni supporto. Nessuno sarebbe sceso ad aiutarli. Erano soli."
         },
         {
           "type": "quote",
-          "text": "Fuori è un casino assurdo. Non riescono a entrare. Siamo bloccati qui. Ce la dobbiamo cavare da soli."
+          "text": "«Fuori è un casino assurdo. Non riescono a entrare. Siamo bloccati qui. Ce la dobbiamo cavare da soli.»"
         },
         {
           "type": "paragraph",
@@ -202,7 +202,7 @@
         },
         {
           "type": "quote",
-          "text": "Funziona una volta sola."
+          "text": "«Funziona una volta sola.»"
         },
         {
           "type": "paragraph",
@@ -222,7 +222,7 @@
         },
         {
           "type": "quote",
-          "text": "E che cazzo…"
+          "text": "«E che cazzo…»"
         },
         {
           "type": "paragraph",
@@ -270,11 +270,11 @@
         },
         {
           "type": "paragraph",
-          "text": "Nel frattempo Nathan, finalmente rialzatosi, cercò di contribuire con un giavellotto lanciato oltre la linea di combattimento. Il tiro fu così infelice che per un momento sembrò più probabile infilzare Alice che un cultista."
+          "text": "Nel frattempo Nathan, finalmente rialzatosi, cercò di contribuire con un giavellotto lanciato oltre la linea di combattimento. Il tiro fu così infelice che per un momento sembrò più probabile infilzare Elis che un cultista."
         },
         {
           "type": "quote",
-          "text": "L’ho provato."
+          "text": "«L’ho provato.»"
         },
         {
           "type": "paragraph",
@@ -286,7 +286,7 @@
         },
         {
           "type": "quote",
-          "text": "Sono state quaranta monete d’oro ben spese."
+          "text": "«Sono state quaranta monete d’oro ben spese.»"
         },
         {
           "type": "paragraph",
@@ -302,7 +302,7 @@
         },
         {
           "type": "quote",
-          "text": "Dai. Su. Dai ragazzi. Dai cazzo."
+          "text": "«Dai. Su. Dai ragazzi. Dai cazzo.»"
         },
         {
           "type": "paragraph",
@@ -314,7 +314,7 @@
         },
         {
           "type": "quote",
-          "text": "Inginocchiati."
+          "text": "«Inginocchiati.»"
         },
         {
           "type": "paragraph",
@@ -322,7 +322,7 @@
         },
         {
           "type": "quote",
-          "text": "Prego?"
+          "text": "«Prego?»"
         },
         {
           "type": "paragraph",
@@ -342,7 +342,7 @@
         },
         {
           "type": "quote",
-          "text": "Signori… è inutile dirlo. Anche la testa di questo banita morirà così."
+          "text": "«Signori… è inutile dirlo. Anche la testa di questo banita morirà così.»"
         },
         {
           "type": "paragraph",
@@ -363,7 +363,7 @@
           "type": "image",
           "variant": "left-big",
           "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-11/Passaggio Segreto.png",
-          "alt": "Massaggiatrice delle terme"
+          "alt": "Il passaggio segreto che si apre nella muratura"
         },
         {
           "type": "paragraph",
@@ -379,7 +379,7 @@
         },
         {
           "type": "quote",
-          "text": "Uh, interessante."
+          "text": "«Uh, interessante.»"
         },
         {
           "type": "paragraph",
@@ -415,7 +415,7 @@
         },
         {
           "type": "quote",
-          "text": "Fortunati in gioco… ma non nella vita."
+          "text": "«Fortunati in gioco… ma non nella vita.»"
         },
         {
           "type": "paragraph",
@@ -435,7 +435,7 @@
         },
         {
           "type": "quote",
-          "text": "Non si bara."
+          "text": "«Non si bara.»"
         },
         {
           "type": "paragraph",
@@ -503,7 +503,7 @@
         },
         {
           "type": "paragraph",
-          "text": "La discesa conduceva a un passaggio allagato, largo appena tre metri, sorretto da vecchie travi di legno che sembravano reggere più per abitudine che per reale solidità. L’acqua stagnante rifletteva appena la luce, trasformando ogni passo in un’eco umida e sgradevole."
+          "text": "La discesa conduceva a un passaggio allagato, largo appena tre passi, sorretto da vecchie travi di legno che sembravano reggere più per abitudine che per reale solidità. L’acqua stagnante rifletteva appena la luce, trasformando ogni passo in un’eco umida e sgradevole."
         },
         {
           "type": "paragraph",
@@ -540,7 +540,7 @@
           "type": "image",
           "variant": "left-big",
           "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-11/Incontriamo Motlock.png",
-          "alt": "Massaggiatrice delle terme"
+          "alt": "Il gigante che combatte i cultisti nel passaggio allagato"
         },
         {
           "type": "paragraph",
@@ -556,7 +556,7 @@
         },
         {
           "type": "quote",
-          "text": "Aspettate un secondo… non vedo più Aeren. Che fine ha fatto?"
+          "text": "«Aspettate un secondo… non vedo più Aeren. Che fine ha fatto?»"
         },
         {
           "type": "paragraph",
@@ -612,7 +612,7 @@
         },
         {
           "type": "quote",
-          "text": "Igni."
+          "text": "«Igni.»"
         },
         {
           "type": "paragraph",
@@ -632,7 +632,7 @@
         },
         {
           "type": "quote",
-          "text": "Ti stiamo aiutando! Siamo anche noi contro questi bastardi!"
+          "text": "«Ti stiamo aiutando! Siamo anche noi contro questi bastardi!»"
         },
         {
           "type": "paragraph",
@@ -648,7 +648,7 @@
         },
         {
           "type": "quote",
-          "text": "Qual è il vostro dovere? Perché combattete qui?"
+          "text": "«Qual è il vostro dovere? Perché combattete qui?»"
         },
         {
           "type": "paragraph",
@@ -688,7 +688,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Era tornata quella del fight."
+          "text": "Era tornata quella delle lame."
         }
       ]
     },
@@ -701,7 +701,7 @@
           "type": "image",
           "variant": "left-big",
           "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-11/Clayton cosa fai.png",
-          "alt": "Massaggiatrice delle terme"
+          "alt": "Clayton si irrigidisce davanti a una presenza che riconosce"
         },
         {
           "type": "paragraph",
@@ -721,7 +721,7 @@
         },
         {
           "type": "quote",
-          "text": "Clayton… ma che fai? Che cazzo fai?"
+          "text": "«Clayton… ma che fai? Che cazzo fai?»"
         },
         {
           "type": "paragraph",
@@ -739,7 +739,7 @@
           "type": "image",
           "variant": "left-big",
           "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-11/Compare Orin.png",
-          "alt": "Massaggiatrice delle terme"
+          "alt": "La donna di sangue che si rivela nel combattimento"
         },
         {
           "type": "paragraph",
@@ -755,7 +755,7 @@
         },
         {
           "type": "quote",
-          "text": "E tu sei ancora una mia proprietà. E non intendo separarmene."
+          "text": "«E tu sei ancora una mia proprietà. E non intendo separarmene.»"
         },
         {
           "type": "paragraph",
@@ -803,7 +803,7 @@
         },
         {
           "type": "quote",
-          "text": "Giocare… è la mia specialità."
+          "text": "«Giocare… è la mia specialità.»"
         },
         {
           "type": "paragraph",
@@ -823,7 +823,7 @@
         },
         {
           "type": "quote",
-          "text": "E la cosa che mi diverte davvero tanto… è che colpirete mai un vostro amico."
+          "text": "«E la cosa che mi diverte davvero tanto… è che potreste colpire un vostro amico.»"
         },
         {
           "type": "paragraph",
@@ -839,7 +839,7 @@
         },
         {
           "type": "quote",
-          "text": "Oh, merda."
+          "text": "«Oh, merda.»"
         },
         {
           "type": "paragraph",
@@ -857,7 +857,7 @@
           "type": "image",
           "variant": "left-big",
           "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-11/Orin e Nathan.png",
-          "alt": "Massaggiatrice delle terme"
+          "alt": "Due Nathan identici emergono dalla nube nera"
         },
         {
           "type": "paragraph",
@@ -976,7 +976,7 @@
         },
         {
           "type": "quote",
-          "text": "Sai imitare il mio aspetto… ma sai anche imitare i miei poteri divini?"
+          "text": "«Sai imitare il mio aspetto… ma sai anche imitare i miei poteri divini?»"
         },
         {
           "type": "paragraph",
@@ -990,7 +990,7 @@
           "type": "image",
           "variant": "left-big",
           "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-11/Nathan contro Nathan.png",
-          "alt": "Massaggiatrice delle terme"
+          "alt": "Un Nathan colpisce l'altro per dimostrare la verità"
         },
         {
           "type": "paragraph",
@@ -1002,7 +1002,7 @@
         },
         {
           "type": "quote",
-          "text": "È lui! Sicuramente è lui!"
+          "text": "«È lui! Sicuramente è lui!»"
         },
         {
           "type": "paragraph",
@@ -1034,7 +1034,7 @@
         },
         {
           "type": "quote",
-          "text": "Aiutatelo. Ci penso io a lei."
+          "text": "«Aiutatelo. Ci penso io a lei.»"
         },
         {
           "type": "paragraph",
@@ -1058,7 +1058,7 @@
         },
         {
           "type": "quote",
-          "text": "Allontanati! Potrebbe colpirti!"
+          "text": "«Allontanati! Potrebbe colpirti!»"
         },
         {
           "type": "paragraph",
@@ -1106,7 +1106,7 @@
         },
         {
           "type": "quote",
-          "text": "Le viti."
+          "text": "«Le viti.»"
         },
         {
           "type": "paragraph",
@@ -1146,7 +1146,7 @@
         },
         {
           "type": "quote",
-          "text": "Maledetta. Mi hai colpito. Passo lo stocco sul sangue… e ora ti ucciderò con il mio sangue. Nathan, dimmi chi sei."
+          "text": "«Maledetta. Mi hai colpito. Passo lo stocco sul sangue… e ora ti ucciderò con il mio sangue. Nathan, dimmi chi sei.»"
         },
         {
           "type": "paragraph",
@@ -1187,7 +1187,7 @@
           "type": "image",
           "variant": "left-big",
           "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-11/Salviamo Mortlock.png",
-          "alt": "Massaggiatrice delle terme"
+          "alt": "Orin ferito interrogato dal gruppo nel passaggio allagato"
         },
         {
           "type": "paragraph",
@@ -1211,7 +1211,7 @@
         },
         {
           "type": "quote",
-          "text": "Molto semplice. Non mi hai risposto. Quindi ti attacco."
+          "text": "«Molto semplice. Non mi hai risposto. Quindi ti attacco.»"
         },
         {
           "type": "paragraph",
@@ -1227,7 +1227,7 @@
         },
         {
           "type": "quote",
-          "text": "Incollati lì sopra. Non perderlo di vista in nessun modo."
+          "text": "«Incollati lì sopra. Non perderlo di vista in nessun modo.»"
         },
         {
           "type": "paragraph",
@@ -1247,11 +1247,11 @@
         },
         {
           "type": "quote",
-          "text": "Che Helm vi protegga."
+          "text": "«Che Helm vi protegga.»"
         },
         {
           "type": "paragraph",
-          "text": "Il potere della Channel Divinity si diffuse attorno a lui, investendo Alaster, Elis e Alice con quella protezione invisibile ma inconfondibile che solo la fede autentica riesce a generare. Non era spettacolare. Non era teatrale. Era presenza."
+          "text": "Il potere della Channel Divinity si diffuse attorno a lui, investendo Alaster, Elis e Elis con quella protezione invisibile ma inconfondibile che solo la fede autentica riesce a generare. Non era spettacolare. Non era teatrale. Era presenza."
         },
         {
           "type": "paragraph",
@@ -1263,7 +1263,7 @@
         },
         {
           "type": "quote",
-          "text": "State attenti. Vi sta mentendo."
+          "text": "«State attenti. Vi sta mentendo.»"
         },
         {
           "type": "paragraph",
@@ -1287,7 +1287,7 @@
         },
         {
           "type": "quote",
-          "text": "Tu sei un paladino… che vergogna."
+          "text": "«Tu sei un paladino… che vergogna.»"
         },
         {
           "type": "paragraph",
@@ -1307,7 +1307,7 @@
         },
         {
           "type": "quote",
-          "text": "Dove ci siamo conosciuti?"
+          "text": "«Dove ci siamo conosciuti?»"
         },
         {
           "type": "paragraph",
@@ -1323,7 +1323,7 @@
         },
         {
           "type": "quote",
-          "text": "È quello di sotto. Quello di sotto al cento per cento. Menatelo forte. Fate male."
+          "text": "«È quello di sotto. Quello di sotto al cento per cento. Menatelo forte. Fate male.»"
         },
         {
           "type": "paragraph",
@@ -1347,7 +1347,7 @@
         },
         {
           "type": "quote",
-          "text": "Non volergliene male."
+          "text": "«Non volergliene male.»"
         },
         {
           "type": "paragraph",
@@ -1438,7 +1438,7 @@
         },
         {
           "type": "quote",
-          "text": "L’abbiamo visto. Abbiamo visto cosa è successo a Elturel. Catenata. Trascinata via. Fiamme. Inferno."
+          "text": "«L’abbiamo visto. Abbiamo visto cosa è successo a Elturel. Catenata. Trascinata via. Fiamme. Inferno.»"
         },
         {
           "type": "paragraph",
@@ -1446,7 +1446,7 @@
         },
         {
           "type": "quote",
-          "text": "Perché? Per quale motivo? Perché avrebbero dovuto rinnegarla? Perché il suo dio? Il suo culto? Perché tutto questo?"
+          "text": "«Perché? Per quale motivo? Perché avrebbero dovuto rinnegarla? Perché il suo dio? Il suo culto? Perché tutto questo?»"
         },
         {
           "type": "paragraph",
@@ -1470,7 +1470,7 @@
         },
         {
           "type": "quote",
-          "text": "E non vuoi vendicarti? Non vuoi vendicarti di tutto questo dolore che ti hanno provocato? Come puoi pensare di andartene e lasciare tutto così?"
+          "text": "«E non vuoi vendicarti? Non vuoi vendicarti di tutto questo dolore che ti hanno provocato? Come puoi pensare di andartene e lasciare tutto così?»"
         },
         {
           "type": "paragraph",
@@ -1494,7 +1494,7 @@
         },
         {
           "type": "quote",
-          "text": "La Lanterna Bassa."
+          "text": "«La Lanterna Bassa.»"
         },
         {
           "type": "paragraph",
@@ -1514,7 +1514,7 @@
         },
         {
           "type": "quote",
-          "text": "Prima ho sentito che non corre buon sangue tra te e tuo fratello. Hai detto: quel bastardo."
+          "text": "«Prima ho sentito che non corre buon sangue tra te e tuo fratello. Hai detto: quel bastardo.»"
         },
         {
           "type": "paragraph",
@@ -1522,7 +1522,7 @@
         },
         {
           "type": "quote",
-          "text": "Noi ti chiediamo di essere un lupo. Non un cane."
+          "text": "«Noi ti chiediamo di essere un lupo. Non un cane.»"
         },
         {
           "type": "paragraph",
@@ -1538,7 +1538,7 @@
         },
         {
           "type": "quote",
-          "text": "Si è appena liberato un posto nel nostro gruppo."
+          "text": "«Si è appena liberato un posto nel nostro gruppo.»"
         },
         {
           "type": "paragraph",
@@ -1558,7 +1558,7 @@
         },
         {
           "type": "quote",
-          "text": "Chi era quella tizia di prima?"
+          "text": "«Chi era quella tizia di prima?»"
         },
         {
           "type": "paragraph",
@@ -1578,7 +1578,7 @@
         },
         {
           "type": "quote",
-          "text": "Se avesse voluto uccidervi… non sareste qui."
+          "text": "«Se avesse voluto uccidervi… non sareste qui.»"
         },
         {
           "type": "paragraph",
@@ -1602,7 +1602,7 @@
         },
         {
           "type": "quote",
-          "text": "Noi dobbiamo trovare Elturel. Ci serve un modo. Hai un’idea? Come possiamo raggiungerla?"
+          "text": "«Noi dobbiamo trovare Elturel. Ci serve un modo. Hai un’idea? Come possiamo raggiungerla?»"
         },
         {
           "type": "paragraph",
@@ -1614,7 +1614,7 @@
         },
         {
           "type": "quote",
-          "text": "Finché ci sarà una possibilità, io devo cercare. Per favore. Se non ci credi tu… io devo farlo."
+          "text": "«Finché ci sarà una possibilità, io devo cercare. Per favore. Se non ci credi tu… io devo farlo.»"
         },
         {
           "type": "paragraph",
@@ -1646,7 +1646,7 @@
         },
         {
           "type": "quote",
-          "text": "Quasi dimenticavo… i fondi dei tre morti. Guardate lì."
+          "text": "«Quasi dimenticavo… i fondi dei Tre Morti. Guardate lì.»"
         },
         {
           "type": "paragraph",

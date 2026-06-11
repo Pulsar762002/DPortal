@@ -1,6 +1,45 @@
-<div class="luoghi-page-container">
+<div class="luoghi-page-container" *ngIf="vm$ | async as vm">
 
-  <app-sessione-1></app-sessione-1>
-  <app-sessione-2></app-sessione-2>
-  <app-sessione-3></app-sessione-3>
+  <div class="page-header">
+    <h1 class="page-title">Luoghi – Le Cronache dell'Averno</h1>
+    <p class="page-intro">{{ vm.gruppi.length }} sessioni · {{ totale(vm.gruppi) }} luoghi</p>
+  </div>
+
+  <div class="luoghi-layout">
+
+    <!-- ===== SIDEBAR INDICE ===== -->
+    <nav class="sidebar">
+      <p class="sidebar-titolo">Sessioni</p>
+      <a
+        *ngFor="let gruppo of vm.gruppi"
+        class="sidebar-link"
+        [href]="'#' + gruppo.anchor"
+        (click)="scrollTo($event, gruppo.anchor)">
+        <span class="sidebar-num">{{ gruppo.sessione }}</span>
+        <span class="sidebar-count">{{ gruppo.luoghi.length }}</span>
+      </a>
+    </nav>
+
+    <!-- ===== CONTENUTO ===== -->
+    <div class="main-content">
+
+      <section
+        class="luoghi-sessione"
+        *ngFor="let gruppo of vm.gruppi"
+        [id]="gruppo.anchor">
+
+        <h2 class="section-title">Sessione {{ gruppo.sessione }}</h2>
+
+        <app-luogo-card
+          *ngFor="let l of gruppo.luoghi"
+          [l]="l"
+          [nomiPersonaggi]="vm.nomiPersonaggi">
+        </app-luogo-card>
+
+      </section>
+
+    </div>
+
+  </div>
+
 </div>

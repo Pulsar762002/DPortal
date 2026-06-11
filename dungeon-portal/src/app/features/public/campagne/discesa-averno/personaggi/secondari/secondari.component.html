@@ -1,7 +1,12 @@
 <section class="alleati-section">
 
   <h2 class="section-title">
-    Alleati e PNG Secondari
+    PNG Secondari
   </h2>
-  <app-zodge/>
+
+  <app-personaggio-card
+    *ngFor="let p of personaggi$ | async"
+    [p]="p">
+  </app-personaggio-card>
+
 </section>

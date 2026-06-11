@@ -36,3 +36,12 @@ docker-compose.yml_back
 
 # Sorgenti grafici (GIMP) - si versiona solo l'export PNG
 *.xcf
+
+# Screenshot e immagini di lavoro alla radice (non asset di progetto)
+*.png
+*.jpg
+!dungeon-portal/src/**/*.png
+!dungeon-portal/src/**/*.jpg
+
+# Build output frontend
+dungeon-portal/dist/

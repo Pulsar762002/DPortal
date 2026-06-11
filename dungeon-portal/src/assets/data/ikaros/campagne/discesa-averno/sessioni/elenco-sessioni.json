@@ -1,13 +1,10 @@
 {
   "title": "Le Cronache dell'Averno",
-
   "description": "Baldur’s Gate è sull’orlo del caos, logorata da vizi e ambizione.",
-
   "sections": [
     {
       "title": "I. Sessioni",
       "type": "sessions",
-
       "items": [
         {
           "label": "Sessione 1",
@@ -97,12 +94,12 @@
         {
           "label": "Sessione 18",
           "sessionNumber": 18,
-          "visible": false
+          "visible": true
         },
         {
           "label": "Sessione 19",
           "sessionNumber": 19,
-          "visible": false
+          "visible": true
         },
         {
           "label": "Sessione 20",
@@ -121,55 +118,91 @@
         }
       ]
     },
-
     {
       "title": "II. Personaggi",
       "type": "links",
-
       "items": [
         {
           "label": "Personaggi Principali",
-          "route": ["personaggi"],
+          "route": [
+            "personaggi"
+          ],
           "fragment": "principali"
         },
-
         {
           "label": "Alleati e PNG",
-          "route": ["personaggi"],
+          "route": [
+            "personaggi"
+          ],
           "fragment": "alleati"
         },
         {
           "label": "Secondari",
-          "route": ["personaggi"],
+          "route": [
+            "personaggi"
+          ],
           "fragment": "secondari"
         },
         {
           "label": "NPC Minori",
-          "route": ["personaggi"],
+          "route": [
+            "personaggi"
+          ],
           "fragment": "minori"
         }
       ]
     },
-
     {
       "title": "III. Luoghi",
+      "type": "links-grid",
+      "items": [
+        { "label": "Sessione 1",  "sessionNumber": 1,  "route": ["luoghi"], "fragment": "sessione-1" },
+        { "label": "Sessione 2",  "sessionNumber": 2,  "route": ["luoghi"], "fragment": "sessione-2" },
+        { "label": "Sessione 3",  "sessionNumber": 3,  "route": ["luoghi"], "fragment": "sessione-3" },
+        { "label": "Sessione 4",  "sessionNumber": 4,  "route": ["luoghi"], "fragment": "sessione-4" },
+        { "label": "Sessione 5",  "sessionNumber": 5,  "route": ["luoghi"], "fragment": "sessione-5" },
+        { "label": "Sessione 6",  "sessionNumber": 6,  "route": ["luoghi"], "fragment": "sessione-6" },
+        { "label": "Sessione 7",  "sessionNumber": 7,  "route": ["luoghi"], "fragment": "sessione-7" },
+        { "label": "Sessione 9",  "sessionNumber": 9,  "route": ["luoghi"], "fragment": "sessione-9" },
+        { "label": "Sessione 10", "sessionNumber": 10, "route": ["luoghi"], "fragment": "sessione-10" },
+        { "label": "Sessione 11", "sessionNumber": 11, "route": ["luoghi"], "fragment": "sessione-11" },
+        { "label": "Sessione 12", "sessionNumber": 12, "route": ["luoghi"], "fragment": "sessione-12" },
+        { "label": "Sessione 13", "sessionNumber": 13, "route": ["luoghi"], "fragment": "sessione-13" },
+        { "label": "Sessione 14", "sessionNumber": 14, "route": ["luoghi"], "fragment": "sessione-14" },
+        { "label": "Sessione 15", "sessionNumber": 15, "route": ["luoghi"], "fragment": "sessione-15" },
+        { "label": "Sessione 16", "sessionNumber": 16, "route": ["luoghi"], "fragment": "sessione-16" },
+        { "label": "Sessione 17", "sessionNumber": 17, "route": ["luoghi"], "fragment": "sessione-17" },
+        { "label": "Sessione 18", "sessionNumber": 18, "route": ["luoghi"], "fragment": "sessione-18" },
+        { "label": "Sessione 19", "sessionNumber": 19, "route": ["luoghi"], "fragment": "sessione-19" }
+      ]
+    },
+    {
+      "title": "IV. Cronologia",
       "type": "links",
-
       "items": [
         {
-          "label": "Sessione 1",
-          "route": ["luoghi"],
-          "fragment": "sessione-1"
-        },
+          "label": "Tutti gli eventi",
+          "route": ["eventi"]
+        }
+      ]
+    },
+    {
+      "title": "V. Relazioni",
+      "type": "links",
+      "items": [
         {
-          "label": "Sessione 2",
-          "route": ["luoghi"],
-          "fragment": "sessione-2"
-        },
+          "label": "Grafo dei legami",
+          "route": ["grafo"]
+        }
+      ]
+    },
+    {
+      "title": "VI. Galleria",
+      "type": "links",
+      "items": [
         {
-          "label": "Sessione 3",
-          "route": ["luoghi"],
-          "fragment": "sessione-3"
+          "label": "Illustrazioni",
+          "route": ["galleria"]
         }
       ]
     }

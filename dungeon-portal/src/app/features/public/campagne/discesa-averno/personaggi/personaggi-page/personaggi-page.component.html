@@ -1,28 +1,44 @@
 <div class="personaggi-page-container">
 
-  <h1 class="page-title">
-    Personaggi – Le Cronache dell’Averno
-  </h1>
+  <div class="page-header">
+    <h1 class="page-title">Personaggi – Le Cronache dell'Averno</h1>
+  </div>
 
-  <section id="principali">
-    <app-principali></app-principali>
-  </section>
+  <div class="personaggi-layout">
 
-  <section id="alleati">
-    <app-alleati></app-alleati>
-  </section>
+    <!-- ===== SIDEBAR INDICE ===== -->
+    <nav class="sidebar">
+      <p class="sidebar-titolo">Categorie</p>
+      <a
+        *ngFor="let s of sezioni"
+        class="sidebar-link"
+        [href]="'#' + s.anchor"
+        (click)="scrollTo($event, s.anchor)">
+        {{ s.label }}
+      </a>
+    </nav>
 
-  <section id="secondari">
-    <app-secondari></app-secondari>
-  </section>
+    <!-- ===== CONTENUTO ===== -->
+    <div class="main-content">
 
-  <section id="minori">
-    <!-- npc minori -->
-    <app-minori></app-minori>
-  </section>
+      <section id="principali">
+        <app-principali></app-principali>
+      </section>
 
-<!--  <section id="ruoli">-->
-<!--    &lt;!&ndash; ruoli narrativi &ndash;&gt;-->
-<!--  </section>-->
+      <section id="alleati">
+        <app-alleati></app-alleati>
+      </section>
+
+      <section id="secondari">
+        <app-secondari></app-secondari>
+      </section>
+
+      <section id="minori">
+        <app-minori></app-minori>
+      </section>
+
+    </div>
+
+  </div>
 
 </div>

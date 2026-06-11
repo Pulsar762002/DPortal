@@ -13,4 +13,18 @@ import {SecondariComponent} from '../secondari/secondari.component';
   templateUrl: './personaggi-page.component.html',
   styleUrl: './personaggi-page.component.css'
 })
-export class PersonaggiPageComponent { }
+export class PersonaggiPageComponent {
+  readonly sezioni = [
+    { label: 'Personaggi Principali', anchor: 'principali' },
+    { label: 'Alleati e PNG',         anchor: 'alleati' },
+    { label: 'Secondari',             anchor: 'secondari' },
+    { label: 'NPG Minori',            anchor: 'minori' },
+  ];
+
+  scrollTo(event: Event, anchor: string): void {
+    event.preventDefault();
+    if (typeof window === 'undefined') return;
+    const el = document.getElementById(anchor);
+    if (el) el.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  }
+}

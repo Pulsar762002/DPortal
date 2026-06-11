@@ -2,14 +2,10 @@
       (mouseenter)="show()"
       (mouseleave)="hide()">
 
-  {{ nome }}
+  {{ l.nome }}
 
   <div class="hover-card" *ngIf="isVisible">
-    <app-luogo-card
-      [nome]="nome"
-      [descrizione]="descrizione"
-      [immagine]="immagine">
-    </app-luogo-card>
+    <app-luogo-card [l]="l"></app-luogo-card>
   </div>
 
 </span>

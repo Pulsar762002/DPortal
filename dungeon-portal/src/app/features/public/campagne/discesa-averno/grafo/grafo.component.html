@@ -1,0 +1,98 @@
+<div class="grafo-page">
+
+  <div class="page-header">
+    <h1 class="page-title">
+      Grafo dei legami – Le Cronache dell'Averno
+    </h1>
+    <p class="grafo-intro">
+      Passa il mouse su un nodo per evidenziarne le relazioni; clicca per aprire la scheda.
+      Rotella per zoom, trascina per spostarti.
+    </p>
+  </div>
+
+  <div class="grafo-legenda">
+    <span class="voce" *ngFor="let v of legenda">
+      <span class="pallino" [style.background]="colore(v.cat)"></span>
+      {{ v.label }}
+    </span>
+  </div>
+
+  <ng-container *ngIf="(stato$ | async) as stato; else caricamento">
+
+    <div class="grafo-wrapper" *ngIf="stato === 'ok'; else erroreTpl">
+
+      <svg
+        #svgEl
+        [attr.viewBox]="viewBox"
+        class="grafo-svg"
+        [class.panning]="!!dragStart"
+        preserveAspectRatio="xMidYMid meet"
+        (mousedown)="onMouseDown($event)">
+
+        <!-- archi: linea visiva + hit-area invisibile più larga per hover facile -->
+        <g *ngFor="let e of archi">
+          <line
+            class="arco"
+            [class.spento]="!arcoAttivo(e)"
+            [attr.x1]="e.a.x" [attr.y1]="e.a.y"
+            [attr.x2]="e.b.x" [attr.y2]="e.b.y">
+          </line>
+          <line
+            class="arco-hit"
+            [attr.x1]="e.a.x" [attr.y1]="e.a.y"
+            [attr.x2]="e.b.x" [attr.y2]="e.b.y"
+            (mouseenter)="onHoverArco(e)"
+            (mouseleave)="onHoverArco(null)">
+          </line>
+        </g>
+
+        <!-- nodi -->
+        <g
+          *ngFor="let n of nodi"
+          class="nodo"
+          [class.spento]="!nodoAttivo(n.id)"
+          (mouseenter)="onHover(n)"
+          (mouseleave)="onHover(null)"
+          (click)="onClickNodo(n)">
+
+          <circle
+            [attr.cx]="n.x" [attr.cy]="n.y" [attr.r]="n.r"
+            [attr.fill]="colore(n.categoria)">
+          </circle>
+
+          <text
+            *ngIf="mostraLabel(n)"
+            class="etichetta"
+            [attr.x]="n.x"
+            [attr.y]="n.y - n.r - 3">
+            {{ n.nome }}
+          </text>
+
+        </g>
+
+        <!-- etichetta tipo legame sull'arco in hover -->
+        <text
+          *ngIf="hoveredArco"
+          class="arco-label"
+          [attr.x]="(hoveredArco.a.x + hoveredArco.b.x) / 2"
+          [attr.y]="(hoveredArco.a.y + hoveredArco.b.y) / 2 - 7">
+          {{ hoveredArco.tipo }}
+        </text>
+
+      </svg>
+
+    </div>
+
+    <ng-template #erroreTpl>
+      <p class="grafo-loading">
+        Impossibile caricare i dati del grafo. Riprova più tardi.
+      </p>
+    </ng-template>
+
+  </ng-container>
+
+  <ng-template #caricamento>
+    <p class="grafo-loading">Caricamento del grafo…</p>
+  </ng-template>
+
+</div>

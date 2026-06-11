@@ -41,7 +41,7 @@
         },
         {
           "type": "quote",
-          "text": "Finalmente… il silenzio."
+          "text": "«Finalmente… il silenzio.»"
         },
         {
           "type": "paragraph",
@@ -61,7 +61,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Kleyton è ferito. Lo vedete mentre si tiene il fianco; il sangue che macchia le sue dita ha una tonalità innaturale, leggermente violacea. Un colore che non dovrebbe appartenere a un uomo. Tampona le ferite con gesto teso, serrando i denti per non mostrare debolezza."
+          "text": "Clayton è ferito. Lo vedete mentre si tiene il fianco; il sangue che macchia le sue dita ha una tonalità innaturale, leggermente violacea. Un colore che non dovrebbe appartenere a un uomo. Tampona le ferite con gesto teso, serrando i denti per non mostrare debolezza."
         },
         {
           "type": "paragraph",
@@ -90,7 +90,7 @@
           "type": "image",
           "variant": "left-big",
           "src": "assets/data/ikaros/campagne/discesa-averno/eventi/essenza.png",
-          "alt": "Essenza"
+          "alt": "L’essenza azzurrina si solleva dal petto di Flenner"
         },
         {
           "type": "paragraph",
@@ -118,7 +118,7 @@
         },
         {
           "type": "quote",
-          "text": "Kyran, cosa stai facendo?"
+          "text": "«Kyran, cosa stai facendo?»"
         },
         {
           "type": "paragraph",
@@ -130,7 +130,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Sull’altare restano un libro, simboli sacri, collane, candele nere ormai spente. Kyran ne afferra una e la porta sopra il petto di Flenner, tentando di “tappare” quella luce come si soffocherebbe una fiamma con uno stoppino."
+          "text": "Sull’altare restano un libro, simboli sacri, collane, candele nere ormai spente. Kyran ne afferra una e la porta sopra il petto di Flenner, tentando di <em>tappare</em> quella luce come si soffocherebbe una fiamma con uno stoppino."
         },
         {
           "type": "paragraph",
@@ -194,7 +194,7 @@
         },
         {
           "type": "quote",
-          "text": "È meglio che ci sbrighiamo. Non sappiamo se quelli all’ingresso abbiano sentito tutto questo."
+          "text": "«È meglio che ci sbrighiamo. Non sappiamo se quelli all’ingresso abbiano sentito tutto questo.»"
         },
         {
           "type": "paragraph",
@@ -206,7 +206,7 @@
         },
         {
           "type": "quote",
-          "text": "Tutto bene? Ho visto che armeggiavi sul cadavere. Stavi cercando qualcosa?"
+          "text": "«Tutto bene? Ho visto che armeggiavi sul cadavere. Stavi cercando qualcosa?»"
         },
         {
           "type": "paragraph",
@@ -214,15 +214,15 @@
         },
         {
           "type": "quote",
-          "text": "Diciamo un compito più che altro che mi è stato affidato."
+          "text": "«Diciamo un compito più che altro che mi è stato affidato.»"
         },
         {
           "type": "quote",
-          "text": "Un compito affidato? Hai a che fare con i cultisti di Myrkul?"
+          "text": "«Un compito affidato? Hai a che fare con i cultisti di Myrkul?»"
         },
         {
           "type": "quote",
-          "text": "No. Se fosse per me potrebbero andare tutti… a morire."
+          "text": "«No. Se fosse per me potrebbero andare tutti… a morire.»"
         },
         {
           "type": "paragraph",
@@ -230,7 +230,7 @@
         },
         {
           "type": "quote",
-          "text": "Con questo siamo tutti d’accordo, penso."
+          "text": "«Con questo siamo tutti d’accordo, penso.»"
         },
         {
           "type": "paragraph",
@@ -238,7 +238,7 @@
         },
         {
           "type": "quote",
-          "text": "Kyran è sempre molto misteriosa. Non riusciamo a tirarle fuori nulla."
+          "text": "«Kyran è sempre molto misteriosa. Non riusciamo a tirarle fuori nulla.»"
         },
         {
           "type": "paragraph",
@@ -301,7 +301,7 @@
         },
         {
           "type": "paragraph",
-          "text": "“Che gruppo è questo?” pensa tra sé."
+          "text": "<em>Che gruppo è questo?</em> pensa tra sé."
         },
         {
           "type": "paragraph",
@@ -309,11 +309,11 @@
         },
         {
           "type": "quote",
-          "text": "È meglio che ci sbrighiamo. Non sappiamo se quelli all’ingresso sappiano che il loro capo è morto."
+          "text": "«È meglio che ci sbrighiamo. Non sappiamo se quelli all’ingresso sappiano che il loro capo è morto.»"
         },
         {
           "type": "paragraph",
-          "text": "Il silenzio del tempio è pesante. Quasi assoluto. Un silenzio che Flenner stesso aveva definito “zona di quiete”."
+          "text": "Il silenzio del tempio è pesante. Quasi assoluto. Un silenzio che Flenner stesso aveva definito <em>zona di quiete</em>."
         },
         {
           "type": "paragraph",
@@ -365,7 +365,7 @@
         },
         {
           "type": "quote",
-          "text": "Qui c’è polvere d’ossa… e simboli dall’aspetto arcano. Qualcuno di voi è in grado di interpretarli?"
+          "text": "«Qui c’è polvere d’ossa… e simboli dall’aspetto arcano. Qualcuno di voi è in grado di interpretarli?»"
         },
         {
           "type": "paragraph",
@@ -397,7 +397,7 @@
         },
         {
           "type": "quote",
-          "text": "Interessante."
+          "text": "«Interessante.»"
         },
         {
           "type": "paragraph",
@@ -425,7 +425,7 @@
         },
         {
           "type": "quote",
-          "text": "Il nostro obiettivo è raccogliere informazioni sul Culto dei Tre Morti. Eviterei altri scontri, se possibile."
+          "text": "«Il nostro obiettivo è raccogliere informazioni sul Culto dei Tre Morti. Eviterei altri scontri, se possibile.»"
         },
         {
           "type": "paragraph",
@@ -506,7 +506,7 @@
         },
         {
           "type": "quote",
-          "text": "Fa’ piombare il tuo sacro giudizio su questo luogo distrutto. Mostra a tutti la sentenza che spetta al male incarnato da questo posto. Se ti servo io, prendimi. Se ho errato, puniscimi. Se sono stato giusto, benedicimi. Temo la tua collera, come ogni saggio dovrebbe temerla. Ma non temo la giustizia."
+          "text": "«Fa’ piombare il tuo sacro giudizio su questo luogo distrutto. Mostra a tutti la sentenza che spetta al male incarnato da questo posto. Se ti servo io, prendimi. Se ho errato, puniscimi. Se sono stato giusto, benedicimi. Temo la tua collera, come ogni saggio dovrebbe temerla. Ma non temo la giustizia.»"
         },
         {
           "type": "paragraph",
@@ -558,7 +558,7 @@
         },
         {
           "type": "quote",
-          "text": "La giustizia non è una via semplice. Ma se sarai abbastanza coraggioso e onorevole da perseguire la mia causa, ti concederò la mia grazia. Dovrai dimostrarmi di essere determinato."
+          "text": "«La giustizia non è una via semplice. Ma se sarai abbastanza coraggioso e onorevole da perseguire la mia causa, ti concederò la mia grazia. Dovrai dimostrarmi di essere determinato.»"
         },
         {
           "type": "paragraph",
@@ -690,7 +690,7 @@
         },
         {
           "type": "quote",
-          "text": "Tutti quelli fissati con le divinità fanno cose strane così?"
+          "text": "«Tutti quelli fissati con le divinità fanno cose strane così?»"
         },
         {
           "type": "paragraph",
@@ -698,7 +698,7 @@
         },
         {
           "type": "quote",
-          "text": "Molte divinità, anche quelle buone, sono brutali con chi infrange la giustizia."
+          "text": "«Molte divinità, anche quelle buone, sono brutali con chi infrange la giustizia.»"
         },
         {
           "type": "paragraph",
@@ -797,7 +797,7 @@
         },
         {
           "type": "quote",
-          "text": "Dobbiamo portare qualche prova al Capitano?"
+          "text": "«Dobbiamo portare qualche prova al Capitano?»"
         },
         {
           "type": "paragraph",
@@ -837,7 +837,7 @@
         },
         {
           "type": "quote",
-          "text": "Sull’altare c’era un libro."
+          "text": "«Sull’altare c’era un libro.»"
         },
         {
           "type": "paragraph",
@@ -914,7 +914,7 @@
         },
         {
           "type": "quote",
-          "text": "Chi è lo studioso del gruppo?"
+          "text": "«Chi è lo studioso del gruppo?»"
         },
         {
           "type": "paragraph",
@@ -946,7 +946,7 @@
         },
         {
           "type": "quote",
-          "text": "Vogliamo davvero aprirlo qui?"
+          "text": "«Vogliamo davvero aprirlo qui?»"
         },
         {
           "type": "paragraph",
@@ -986,7 +986,7 @@
         },
         {
           "type": "quote",
-          "text": "Non qui. Non ora."
+          "text": "«Non qui. Non ora.»"
         },
         {
           "type": "paragraph",
@@ -1075,11 +1075,11 @@
         },
         {
           "type": "paragraph",
-          "text": "Siete tutti e cinque. Anche Kleyton si avvicina, tossendo ancora, sputando un filo di sangue scuro."
+          "text": "Siete tutti e cinque. Anche Clayton si avvicina, tossendo ancora, sputando un filo di sangue scuro."
         },
         {
           "type": "quote",
-          "text": "Possiamo andare via adesso? È stato… faticoso."
+          "text": "«Possiamo andare via adesso? È stato… faticoso.»"
         },
         {
           "type": "paragraph",
@@ -1087,7 +1087,7 @@
         },
         {
           "type": "quote",
-          "text": "Una tomba chiusa."
+          "text": "«Una tomba chiusa.»"
         },
         {
           "type": "paragraph",
@@ -1095,11 +1095,11 @@
         },
         {
           "type": "quote",
-          "text": "Secondo me l’unica cosa che possiamo trovare sono cadaveri."
+          "text": "«Secondo me l’unica cosa che possiamo trovare sono cadaveri.»"
         },
         {
           "type": "quote",
-          "text": "Cadaveri che si muovono, forse."
+          "text": "«Cadaveri che si muovono, forse.»"
         },
         {
           "type": "paragraph",
@@ -1147,7 +1147,7 @@
         },
         {
           "type": "quote",
-          "text": "Non avresti dovuto. I morti riposano."
+          "text": "«Non avresti dovuto. I morti riposano.»"
         },
         {
           "type": "paragraph",
@@ -1159,7 +1159,7 @@
         },
         {
           "type": "quote",
-          "text": "Elis, tutto bene?"
+          "text": "«Elis, tutto bene?»"
         },
         {
           "type": "paragraph",
@@ -1191,7 +1191,7 @@
         },
         {
           "type": "quote",
-          "text": "Stiamo depredando una tomba?"
+          "text": "«Stiamo depredando una tomba?»"
         },
         {
           "type": "paragraph",
@@ -1199,7 +1199,7 @@
         },
         {
           "type": "quote",
-          "text": "Non siamo ladri."
+          "text": "«Non siamo ladri.»"
         },
         {
           "type": "paragraph",
@@ -1207,7 +1207,7 @@
         },
         {
           "type": "quote",
-          "text": "Per me non ha alcun valore."
+          "text": "«Per me non ha alcun valore.»"
         },
         {
           "type": "paragraph",
@@ -1234,7 +1234,7 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Se è tutto a posto."
+          "text": "L’odore di muffa e di cera bruciata vi segue mentre vi rimettete in marcia. Se davvero è tutto a posto."
         },
         {
           "type": "paragraph",
@@ -1242,7 +1242,7 @@
         },
         {
           "type": "quote",
-          "text": "Non disturbate i morti."
+          "text": "«Non disturbate i morti.»"
         },
         {
           "type": "paragraph",
@@ -1294,7 +1294,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Kleyton resta indietro ma vi segue, testardo. Nessuno vuole restare solo in quel luogo."
+          "text": "Clayton resta indietro ma vi segue, testardo. Nessuno vuole restare solo in quel luogo."
         },
         {
           "type": "paragraph",
@@ -1302,7 +1302,7 @@
         },
         {
           "type": "quote",
-          "text": "Forse è meglio che vada avanti io."
+          "text": "«Forse è meglio che vada avanti io.»"
         },
         {
           "type": "paragraph",
@@ -1314,7 +1314,7 @@
         },
         {
           "type": "quote",
-          "text": "Cerchiamo di finirli in fretta. Non diamogli tempo."
+          "text": "«Cerchiamo di finirli in fretta. Non diamogli tempo.»"
         },
         {
           "type": "paragraph",
@@ -1342,7 +1342,7 @@
         },
         {
           "type": "quote",
-          "text": "Gli facciamo il culo e poi esploriamo."
+          "text": "«Gli facciamo il culo e poi esploriamo.»"
         },
         {
           "type": "paragraph",
@@ -1377,7 +1377,7 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Lo scontro con gli ultimi cultisti è rapido."
+          "text": "Nel corridoio basso, alla luce verde delle fiamme, lo scontro con gli ultimi cultisti è rapido."
         },
         {
           "type": "paragraph",
@@ -1449,7 +1449,7 @@
         },
         {
           "type": "quote",
-          "text": "Sedici secondi. Muovetevi."
+          "text": "«Sedici secondi. Muovetevi.»"
         },
         {
           "type": "paragraph",
@@ -1615,12 +1615,12 @@
       "videoId": "_lShLnjNIU8",
       "blocks": [
         {
-          "type": "paragraph",
-          "text": "“Ragazzi… che dire. Andiamo.”"
+          "type": "quote",
+          "text": "«Ragazzi… che dire. Andiamo.»"
         },
         {
           "type": "paragraph",
-          "text": "L’aria delle catacombe è diventata soffocante. Siete carichi d’oro, di reliquie, di segreti. Ma soprattutto siete stanchi."
+          "text": "L’aria delle catacombe si è fatta densa, satura di polvere d’ossa e di fumo di candela. Siete carichi d’oro, di reliquie, di segreti. Ma soprattutto siete stanchi."
         },
         {
           "type": "paragraph",
@@ -1684,7 +1684,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Kleyton si stringe a voi."
+          "text": "Clayton si stringe a voi."
         },
         {
           "type": "paragraph",
@@ -1728,7 +1728,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Kleyton viene letteralmente lanciato fuori come un proiettile improvvisato, finendo contro una bancarella di cavoli dall’altra parte della strada."
+          "text": "Clayton viene letteralmente lanciato fuori come un proiettile improvvisato, finendo contro una bancarella di cavoli dall’altra parte della strada."
         },
         {
           "type": "paragraph",
@@ -1788,7 +1788,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Asfalto."
+          "text": "Selciato."
         },
         {
           "type": "paragraph",
@@ -1863,11 +1863,11 @@
         },
         {
           "type": "quote",
-          "text": "Chi è stato?"
+          "text": "«Chi è stato?»"
         },
         {
           "type": "paragraph",
-          "text": "Una molotov?"
+          "text": "Una boccetta incendiaria?"
         },
         {
           "type": "paragraph",
@@ -1959,7 +1959,7 @@
         },
         {
           "type": "quote",
-          "text": "Andiamo via. Torniamo alla locanda."
+          "text": "«Andiamo via. Torniamo alla locanda.»"
         },
         {
           "type": "paragraph",
@@ -1987,7 +1987,7 @@
         },
         {
           "type": "quote",
-          "text": "Meglio restare in contatto."
+          "text": "«Meglio restare in contatto.»"
         },
         {
           "type": "paragraph",
@@ -2078,7 +2078,7 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Decidete di separarvi."
+          "text": "Con il fumo dell’incendio ancora addosso, decidete di separarvi."
         },
         {
           "type": "paragraph",
@@ -2116,7 +2116,7 @@
         },
         {
           "type": "quote",
-          "text": "Benvenuti, clienti. Io sono Derek. Come posso esservi d’aiuto?"
+          "text": "«Benvenuti, clienti. Io sono Derek. Come posso esservi d’aiuto?»"
         },
         {
           "type": "paragraph",
@@ -2124,7 +2124,7 @@
         },
         {
           "type": "quote",
-          "text": "Siamo stati indirizzati qui da un tuo conoscente. Uno con le corna all’indietro."
+          "text": "«Siamo stati indirizzati qui da un tuo conoscente. Uno con le corna all’indietro.»"
         },
         {
           "type": "paragraph",
@@ -2132,7 +2132,7 @@
         },
         {
           "type": "quote",
-          "text": "Descrizione compatibile. Elis. Cliente particolare. Ha rotto una boccetta."
+          "text": "«Descrizione compatibile. Elis. Cliente particolare. Ha rotto una boccetta.»"
         },
         {
           "type": "paragraph",
@@ -2140,7 +2140,7 @@
         },
         {
           "type": "quote",
-          "text": "Abbiamo rintracciato questo composto. Mi sembra veleno, ma vorrei evitare di scoprirlo assaggiandolo."
+          "text": "«Abbiamo rintracciato questo composto. Mi sembra veleno, ma vorrei evitare di scoprirlo assaggiandolo.»"
         },
         {
           "type": "paragraph",
@@ -2164,7 +2164,7 @@
         },
         {
           "type": "quote",
-          "text": "Confermo. Veleno."
+          "text": "«Confermo. Veleno.»"
         },
         {
           "type": "paragraph",
@@ -2176,7 +2176,7 @@
         },
         {
           "type": "quote",
-          "text": "Posso affermare con elevata probabilità che si tratti di veleno di viverna."
+          "text": "«Posso affermare con elevata probabilità che si tratti di veleno di viverna.»"
         },
         {
           "type": "paragraph",
@@ -2184,11 +2184,11 @@
         },
         {
           "type": "quote",
-          "text": "Proprietà?"
+          "text": "«Proprietà?»"
         },
         {
           "type": "quote",
-          "text": "Estremamente potente. Secondo solo a pochi altri. Letale, se non si resiste."
+          "text": "«Estremamente potente. Secondo solo a pochi altri. Letale, se non si resiste.»"
         },
         {
           "type": "paragraph",
@@ -2196,7 +2196,7 @@
         },
         {
           "type": "quote",
-          "text": "Maneggiatelo con cura."
+          "text": "«Maneggiatelo con cura.»"
         },
         {
           "type": "paragraph",
@@ -2212,7 +2212,7 @@
         },
         {
           "type": "quote",
-          "text": "Composto organico. Ossa polverizzate. Specie non identificata."
+          "text": "«Composto organico. Ossa polverizzate. Specie non identificata.»"
         },
         {
           "type": "paragraph",
@@ -2220,7 +2220,7 @@
         },
         {
           "type": "quote",
-          "text": "Potrebbero riguardare… i morti. Ma non sono certo. Vi consiglio un chierico o qualcuno esperto di resurrezione."
+          "text": "«Potrebbero riguardare… i morti. Ma non sono certo. Vi consiglio un chierico o qualcuno esperto di resurrezione.»"
         },
         {
           "type": "paragraph",
@@ -2240,7 +2240,7 @@
         },
         {
           "type": "quote",
-          "text": "Rilevo una forma insolita. Siete accompagnati?"
+          "text": "«Rilevo una forma insolita. Siete accompagnati?»"
         },
         {
           "type": "paragraph",
@@ -2260,7 +2260,7 @@
         },
         {
           "type": "quote",
-          "text": "Sono sempre stato con voi. Coprivo le spalle."
+          "text": "«Sono sempre stato con voi. Coprivo le spalle.»"
         },
         {
           "type": "paragraph",
@@ -2268,11 +2268,11 @@
         },
         {
           "type": "quote",
-          "text": "Di nascosto?"
+          "text": "«Di nascosto?»"
         },
         {
           "type": "quote",
-          "text": "Provavo le mie nuove abilità."
+          "text": "«Provavo le mie nuove abilità.»"
         },
         {
           "type": "paragraph",
@@ -2280,7 +2280,7 @@
         },
         {
           "type": "quote",
-          "text": "Benvenuto, cliente."
+          "text": "«Benvenuto, cliente.»"
         },
         {
           "type": "paragraph",
@@ -2292,7 +2292,7 @@
         },
         {
           "type": "quote",
-          "text": "Cinquanta monete d’oro per una pozione curativa."
+          "text": "«Cinquanta monete d’oro per una pozione curativa.»"
         },
         {
           "type": "paragraph",
@@ -2335,7 +2335,7 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Decidete di non andare a piedi."
+          "text": "Il tempio di Helm sorge dall’altra parte della città. Decidete di non andare a piedi."
         },
         {
           "type": "paragraph",
@@ -2347,7 +2347,7 @@
         },
         {
           "type": "quote",
-          "text": "Buongiorno! Posso portarvi dove gradite?"
+          "text": "«Buongiorno! Posso portarvi dove gradite?»"
         },
         {
           "type": "paragraph",
@@ -2355,7 +2355,7 @@
         },
         {
           "type": "quote",
-          "text": "Tempio di Helm."
+          "text": "«Tempio di Helm.»"
         },
         {
           "type": "paragraph",
@@ -2407,7 +2407,7 @@
         },
         {
           "type": "quote",
-          "text": "Baldur’s Gate ha già i suoi problemi."
+          "text": "«Baldur’s Gate ha già i suoi problemi.»"
         },
         {
           "type": "paragraph",
@@ -2471,7 +2471,7 @@
         },
         {
           "type": "quote",
-          "text": "Che l’Occhio di Helm vegli su di voi. Come posso esservi utile?"
+          "text": "«Che l’Occhio di Helm vegli su di voi. Come posso esservi utile?»"
         },
         {
           "type": "paragraph",
@@ -2483,7 +2483,7 @@
         },
         {
           "type": "quote",
-          "text": "Abbiamo bisogno di parlare con il gran sacerdote. È una questione delicata."
+          "text": "«Abbiamo bisogno di parlare con il gran sacerdote. È una questione delicata.»"
         },
         {
           "type": "paragraph",
@@ -2503,7 +2503,7 @@
         },
         {
           "type": "quote",
-          "text": "Per tutti gli dei… dove l’avete trovato?"
+          "text": "«Per tutti gli dei… dove l’avete trovato?»"
         },
         {
           "type": "paragraph",
@@ -2523,7 +2523,7 @@
         },
         {
           "type": "quote",
-          "text": "Portate quella cosa fuori da questo tempio."
+          "text": "«Portate quella cosa fuori da questo tempio.»"
         },
         {
           "type": "paragraph",
@@ -2567,7 +2567,7 @@
         },
         {
           "type": "quote",
-          "text": "Il gran sacerdote vi riceverà."
+          "text": "«Il gran sacerdote vi riceverà.»"
         },
         {
           "type": "paragraph",

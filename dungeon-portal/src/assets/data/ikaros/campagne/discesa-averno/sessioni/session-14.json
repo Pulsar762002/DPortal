@@ -10,6 +10,12 @@
       "videoId": "UgUQPnPz-LY",
       "blocks": [
         {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-14/Riposo dopo il gala.png",
+          "alt": "Riposo dai Nodorovo"
+        },
+        {
           "type": "paragraph",
           "text": "La notte era scesa lentamente sulle stanze che ospitavano il gruppo, trascinando con sé quel silenzio pesante che arriva soltanto dopo giorni di tensione e sangue."
         },
@@ -19,7 +25,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Elis e Silva apparivano ancora segnati dagli eventi recenti. Le ferite del corpo si stavano lentamente richiudendo, ma la stanchezza rimaneva visibile nei loro occhi."
+          "text": "Elis e Sylvar apparivano ancora segnati dagli eventi recenti. Le ferite del corpo si stavano lentamente richiudendo, ma la stanchezza rimaneva visibile nei loro occhi."
         },
         {
           "type": "paragraph",
@@ -35,7 +41,7 @@
         },
         {
           "type": "quote",
-          "text": "Vorrei capire cosa sei davvero...",
+          "text": "«Vorrei capire cosa sei davvero...»",
           "variant": "default"
         },
         {
@@ -94,6 +100,12 @@
       "videoId": "UgUQPnPz-LY",
       "blocks": [
         {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-14/Flenner_Sogno_Parte1.png",
+          "alt": "Nella nebbia nel sogno"
+        },
+        {
           "type": "paragraph",
           "text": "Il sonno non accolse Kyran con oscurità né con pace."
         },
@@ -143,7 +155,7 @@
         },
         {
           "type": "quote",
-          "text": "Che cosa vuole da me...",
+          "text": "«Che cosa vuole da me...»",
           "variant": "default"
         },
         {
@@ -180,7 +192,7 @@
         },
         {
           "type": "quote",
-          "text": "Chi sei tu? Perché sono qui?",
+          "text": "«Chi sei tu? Perché sono qui?»",
           "variant": "default"
         },
         {
@@ -216,6 +228,12 @@
           "text": "Kyran sentì il gelo serrarle il petto."
         },
         {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-14/Flenner_Sogno_Parte2.png",
+          "alt": "Nella nebbia nel sogno"
+        },
+        {
           "type": "paragraph",
           "text": "Lo conosceva."
         },
@@ -237,7 +255,7 @@
         },
         {
           "type": "quote",
-          "text": "Questo luogo è sbagliato... io non dovrei essere qui.",
+          "text": "«Questo luogo è sbagliato... io non dovrei essere qui.»",
           "variant": "default"
         },
         {
@@ -246,7 +264,7 @@
         },
         {
           "type": "quote",
-          "text": "Io dovrei essere col Dio delle Ossa.",
+          "text": "«Io dovrei essere col Dio delle Ossa.»",
           "variant": "default"
         },
         {
@@ -255,7 +273,7 @@
         },
         {
           "type": "quote",
-          "text": "Il Dio delle Ossa mi ha reclamato...",
+          "text": "«Il Dio delle Ossa mi ha reclamato...»",
           "variant": "default"
         },
         {
@@ -264,7 +282,7 @@
         },
         {
           "type": "quote",
-          "text": "Tu sei morto. Io ho reclamato la tua anima per la mia dea.",
+          "text": "«Tu sei morto. Io ho reclamato la tua anima per la mia dea.»",
           "variant": "default"
         },
         {
@@ -273,12 +291,12 @@
         },
         {
           "type": "quote",
-          "text": "Impossibile. La mia anima era stata promessa al Dio delle Ossa. Nessun altro dio può prenderla.",
+          "text": "«Impossibile. La mia anima era stata promessa al Dio delle Ossa. Nessun altro dio può prenderla.»",
           "variant": "default"
         },
         {
           "type": "quote",
-          "text": "A quanto pare... la mia dea è più forte del tuo.",
+          "text": "«A quanto pare... la mia dea è più forte del tuo.»",
           "variant": "default"
         },
         {
@@ -295,7 +313,7 @@
         },
         {
           "type": "quote",
-          "text": "Io non dovrei ricordare...",
+          "text": "«Io non dovrei ricordare...»",
           "variant": "default"
         },
         {
@@ -304,7 +322,7 @@
         },
         {
           "type": "quote",
-          "text": "E invece ricordo tutto.",
+          "text": "«E invece ricordo tutto.»",
           "variant": "default"
         },
         {
@@ -317,7 +335,7 @@
         },
         {
           "type": "quote",
-          "text": "Il mio compito... era proprio quello di farti ricordare.",
+          "text": "«Il mio compito... era proprio quello di farti ricordare.»",
           "variant": "default"
         },
         {
@@ -326,12 +344,12 @@
         },
         {
           "type": "quote",
-          "text": "Che diavolo stai dicendo?",
+          "text": "«Che diavolo stai dicendo?»",
           "variant": "default"
         },
         {
           "type": "quote",
-          "text": "Della Regina Corvo. Lei brama i ricordi.",
+          "text": "«Della Regina Corvo. Lei brama i ricordi.»",
           "variant": "default"
         },
         {
@@ -340,12 +358,12 @@
         },
         {
           "type": "quote",
-          "text": "La Regina Corvo...? Cosa avrebbe a che fare una divinità pagana con tutto questo?",
+          "text": "«La Regina Corvo...? Cosa avrebbe a che fare una divinità pagana con tutto questo?»",
           "variant": "default"
         },
         {
           "type": "quote",
-          "text": "Io servo la Regina Corvo proprio per questi scopi.",
+          "text": "«Io servo la Regina Corvo proprio per questi scopi.»",
           "variant": "default"
         },
         {
@@ -358,7 +376,7 @@
         },
         {
           "type": "quote",
-          "text": "No... non può essere solo questo. Lei saprà spiegarmi. Devo trovarla.",
+          "text": "«No... non può essere solo questo. Lei saprà spiegarmi. Devo trovarla.»",
           "variant": "default"
         },
         {
@@ -403,7 +421,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Due occhi rossi brillavano nel buio."
+          "text": "Due occhi rossi brillavano nel buio, fissi, di un rosso malato che nessun tramonto conosce."
         },
         {
           "type": "paragraph",
@@ -416,6 +434,12 @@
       "title": "La colazione dei Nodorovo",
       "videoId": "UgUQPnPz-LY",
       "blocks": [
+        {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-14/Colazione 1.png",
+          "alt": "Colazione"
+        },
         {
           "type": "paragraph",
           "text": "Il mattino giunse lento sopra Baldur’s Gate, trascinandosi dietro il peso della notte appena trascorsa."
@@ -490,7 +514,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Accanto a lui sedevano sua madre, la giovane Alessandra e suo fratello."
+          "text": "Accanto a lui sedevano sua madre, la giovane Alyssandra e suo fratello."
         },
         {
           "type": "paragraph",
@@ -514,11 +538,17 @@
         },
         {
           "type": "paragraph",
-          "text": "Ma l’attenzione di Alessandra non rimase a lungo su di lui."
+          "text": "Ma l’attenzione di Alyssandra non rimase a lungo su di lui."
         },
         {
           "type": "paragraph",
           "text": "La giovane Nodorovo osservava Kyran con una curiosità quasi ipnotica."
+        },
+        {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-14/Colazione 2.png",
+          "alt": "Colazione e Kyran"
         },
         {
           "type": "paragraph",
@@ -526,7 +556,7 @@
         },
         {
           "type": "quote",
-          "text": "Da dove vieni...? Nelle tue terre ci sono città? Casate nobiliari?",
+          "text": "«Da dove vieni...? Nelle tue terre ci sono città? Casate nobiliari?»",
           "variant": "default"
         },
         {
@@ -539,7 +569,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Alessandra arrivò persino a sfiorarle lentamente la pelle, quasi a voler verificare che quel colore violaceo fosse reale."
+          "text": "Alyssandra arrivò persino a sfiorarle lentamente la pelle, quasi a voler verificare che quel colore violaceo fosse reale."
         },
         {
           "type": "paragraph",
@@ -563,12 +593,12 @@
         },
         {
           "type": "quote",
-          "text": "Non è abituata alle persone. Forse viveva da sola.",
+          "text": "«Non è abituata alle persone. Forse viveva da sola.»",
           "variant": "default"
         },
         {
           "type": "paragraph",
-          "text": "Kyran continuò a osservare Alessandra per qualche secondo ancora."
+          "text": "Kyran continuò a osservare Alyssandra per qualche secondo ancora."
         },
         {
           "type": "paragraph",
@@ -576,7 +606,7 @@
         },
         {
           "type": "quote",
-          "text": "Non so ancora se posso fidarmi davvero di voi.",
+          "text": "«Non so ancora se posso fidarmi davvero di voi.»",
           "variant": "default"
         },
         {
@@ -589,7 +619,7 @@
         },
         {
           "type": "quote",
-          "text": "Ti abbiamo accolto sotto il nostro tetto. Abbiamo combattuto insieme. Non basta ancora?",
+          "text": "«Ti abbiamo accolto sotto il nostro tetto. Abbiamo combattuto insieme. Non basta ancora?»",
           "variant": "default"
         },
         {
@@ -598,7 +628,7 @@
         },
         {
           "type": "quote",
-          "text": "Ho avuto brutte esperienze con persone di cui mi fidavo.",
+          "text": "«Ho avuto brutte esperienze con persone di cui mi fidavo.»",
           "variant": "default"
         },
         {
@@ -611,12 +641,12 @@
         },
         {
           "type": "quote",
-          "text": "Non prenderla sul personale. È molto riservata. Piano piano si aprirà.",
+          "text": "«Non prenderla sul personale. È molto riservata. Piano piano si aprirà.»",
           "variant": "default"
         },
         {
           "type": "paragraph",
-          "text": "Alessandra annuì lentamente, tranquillizzandosi."
+          "text": "Alyssandra annuì lentamente, tranquillizzandosi."
         },
         {
           "type": "paragraph",
@@ -640,7 +670,7 @@
         },
         {
           "type": "quote",
-          "text": "Tra le spine veglia l’occhio.",
+          "text": "«Tra le spine veglia l’occhio.»",
           "variant": "default"
         },
         {
@@ -679,6 +709,12 @@
       "videoId": "UgUQPnPz-LY",
       "blocks": [
         {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-14/Sylvar 1.png",
+          "alt": "Sylvar si risveglia nella stanza dei Nodorovo"
+        },
+        {
           "type": "paragraph",
           "text": "Sylvar si risvegliò lentamente, immersa nella quiete della stanza che le era stata concessa per la notte."
         },
@@ -700,7 +736,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Lucius Faul."
+          "text": "Lucius Fauler."
         },
         {
           "type": "paragraph",
@@ -744,7 +780,7 @@
         },
         {
           "type": "quote",
-          "text": "Hai intenzione di aprirmi o mi lasci fuori tutta la giornata?",
+          "text": "«Hai intenzione di aprirmi o mi lasci fuori tutta la giornata?»",
           "variant": "default"
         },
         {
@@ -760,6 +796,12 @@
           "text": "Aprì la porta."
         },
         {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-14/Sylvar 2.png",
+          "alt": "Sylvar e Gullivan nella stanza"
+        },
+        {
           "type": "paragraph",
           "text": "Gullivan entrò nella stanza con la naturalezza di chi si sente a casa ovunque vada."
         },
@@ -769,7 +811,7 @@
         },
         {
           "type": "quote",
-          "text": "Beh... ti sei trovata un posticino alquanto caruccio.",
+          "text": "«Beh... ti sei trovata un posticino alquanto caruccio.»",
           "variant": "default"
         },
         {
@@ -786,7 +828,7 @@
         },
         {
           "type": "quote",
-          "text": "Allora? Com'è andata?",
+          "text": "«Allora? Com'è andata?»",
           "variant": "default"
         },
         {
@@ -795,7 +837,7 @@
         },
         {
           "type": "quote",
-          "text": "Sarebbe potuta andare meglio.",
+          "text": "«Sarebbe potuta andare meglio.»",
           "variant": "default"
         },
         {
@@ -804,7 +846,7 @@
         },
         {
           "type": "quote",
-          "text": "Questo Lucius Faul non mi piace.",
+          "text": "«Questo Lucius Fauler non mi piace.»",
           "variant": "default"
         },
         {
@@ -813,7 +855,7 @@
         },
         {
           "type": "quote",
-          "text": "Lucius Faul?",
+          "text": "«Lucius Fauler?»",
           "variant": "default"
         },
         {
@@ -850,12 +892,12 @@
         },
         {
           "type": "quote",
-          "text": "Quindi pensi che questo Lucius abbia architettato la sparizione di Hale?",
+          "text": "«Quindi pensi che questo Lucius abbia architettato la sparizione di Hale?»",
           "variant": "default"
         },
         {
           "type": "quote",
-          "text": "È solo un presentimento. Non ho ancora prove.",
+          "text": "«È solo un presentimento. Non ho ancora prove.»",
           "variant": "default"
         },
         {
@@ -868,7 +910,7 @@
         },
         {
           "type": "quote",
-          "text": "Aspetta... tu eri davvero al gala di ieri sera?",
+          "text": "«Aspetta... tu eri davvero al gala di ieri sera?»",
           "variant": "default"
         },
         {
@@ -877,7 +919,7 @@
         },
         {
           "type": "quote",
-          "text": "Sì.",
+          "text": "«Sì.»",
           "variant": "default"
         },
         {
@@ -886,7 +928,7 @@
         },
         {
           "type": "quote",
-          "text": "Io avrei ucciso per entrare a quel gala.",
+          "text": "«Io avrei ucciso per entrare a quel gala.»",
           "variant": "default"
         },
         {
@@ -911,7 +953,7 @@
         },
         {
           "type": "quote",
-          "text": "Allora andiamo a parlare con questo Lucius.",
+          "text": "«Allora andiamo a parlare con questo Lucius.»",
           "variant": "default"
         },
         {
@@ -920,7 +962,7 @@
         },
         {
           "type": "quote",
-          "text": "Io vado a parlare con Lucius. Tu no.",
+          "text": "«Io vado a parlare con Lucius. Tu no.»",
           "variant": "default"
         },
         {
@@ -929,12 +971,12 @@
         },
         {
           "type": "quote",
-          "text": "Ormai questa storia riguarda anche me.",
+          "text": "«Ormai questa storia riguarda anche me.»",
           "variant": "default"
         },
         {
           "type": "quote",
-          "text": "Entrerai soltanto dopo di me. Non ti siederai vicino a me. Non origlierai. Sarai un normalissimo cliente.",
+          "text": "«Entrerai soltanto dopo di me. Non ti siederai vicino a me. Non origlierai. Sarai un normalissimo cliente.»",
           "variant": "default"
         },
         {
@@ -947,7 +989,7 @@
         },
         {
           "type": "quote",
-          "text": "Aspetta... hai detto la Lanterna Bassa?",
+          "text": "«Aspetta... hai detto la Lanterna Bassa?»",
           "variant": "default"
         },
         {
@@ -960,12 +1002,12 @@
         },
         {
           "type": "quote",
-          "text": "Che succede?",
+          "text": "«Che succede?»",
           "variant": "default"
         },
         {
           "type": "quote",
-          "text": "Diciamo che... potrei avere un piccolo debito con qualcuno lì dentro.",
+          "text": "«Diciamo che... potrei avere un piccolo debito con qualcuno lì dentro.»",
           "variant": "default"
         },
         {
@@ -1037,7 +1079,7 @@
         },
         {
           "type": "quote",
-          "text": "Quel Gortash non mi è piaciuto.",
+          "text": "«Quel Gortash non mi è piaciuto.»",
           "variant": "default"
         },
         {
@@ -1050,7 +1092,7 @@
         },
         {
           "type": "quote",
-          "text": "Forse non gli piaceva il tuo viso.",
+          "text": "«Forse non gli piaceva il tuo viso.»",
           "variant": "default"
         },
         {
@@ -1063,7 +1105,7 @@
         },
         {
           "type": "quote",
-          "text": "Le corna non piacciono quasi a nessuno.",
+          "text": "«Le corna non piacciono quasi a nessuno.»",
           "variant": "default"
         },
         {
@@ -1076,7 +1118,7 @@
         },
         {
           "type": "quote",
-          "text": "La razza conta poco. Sono i fatti che contano.",
+          "text": "«La razza conta poco. Sono i fatti che contano.»",
           "variant": "default"
         },
         {
@@ -1089,7 +1131,7 @@
         },
         {
           "type": "quote",
-          "text": "Perché organizzare un ricevimento del genere per poi metterci alla berlina?",
+          "text": "«Perché organizzare un ricevimento del genere per poi metterci alla berlina?»",
           "variant": "default"
         },
         {
@@ -1118,7 +1160,7 @@
         },
         {
           "type": "quote",
-          "text": "Molti si sarebbero fermati qui dopo una serata del genere.",
+          "text": "«Molti si sarebbero fermati qui dopo una serata del genere.»",
           "variant": "default"
         },
         {
@@ -1127,7 +1169,7 @@
         },
         {
           "type": "quote",
-          "text": "In fondo non abbiamo più nulla da dimostrare.",
+          "text": "«In fondo non abbiamo più nulla da dimostrare.»",
           "variant": "default"
         },
         {
@@ -1152,7 +1194,7 @@
         },
         {
           "type": "quote",
-          "text": "Qualcuno sta cercando di fare la stessa cosa a Baldur’s Gate.",
+          "text": "«Qualcuno sta cercando di fare la stessa cosa a Baldur’s Gate.»",
           "variant": "default"
         },
         {
@@ -1197,7 +1239,7 @@
         },
         {
           "type": "quote",
-          "text": "Io penso che abbiano stretto qualche patto con gli Inferi.",
+          "text": "«Io penso che abbiano stretto qualche patto con gli Inferi.»",
           "variant": "default"
         },
         {
@@ -1234,7 +1276,7 @@
         },
         {
           "type": "quote",
-          "text": "L’unico indizio concreto che abbiamo resta la famiglia Vanthampur.",
+          "text": "«L’unico indizio concreto che abbiamo resta la famiglia Vanthampur.»",
           "variant": "default"
         },
         {
@@ -1255,7 +1297,7 @@
         },
         {
           "type": "quote",
-          "text": "La Lanterna Bassa.",
+          "text": "«La Lanterna Bassa.»",
           "variant": "default"
         },
         {
@@ -1343,7 +1385,7 @@
         },
         {
           "type": "quote",
-          "text": "Non credo sia saggio presentarci là come una spedizione armata.",
+          "text": "«Non credo sia saggio presentarci là come una spedizione armata.»",
           "variant": "default"
         },
         {
@@ -1368,7 +1410,7 @@
         },
         {
           "type": "quote",
-          "text": "Potremmo dividerci. Fare le nostre compere, sistemare ciò che dobbiamo sistemare e poi incontrarci più tardi.",
+          "text": "«Potremmo dividerci. Fare le nostre compere, sistemare ciò che dobbiamo sistemare e poi incontrarci più tardi.»",
           "variant": "default"
         },
         {
@@ -1405,7 +1447,7 @@
         },
         {
           "type": "quote",
-          "text": "Esistono biblioteche abbastanza fornite da trattare temi alchemici avanzati?",
+          "text": "«Esistono biblioteche abbastanza fornite da trattare temi alchemici avanzati?»",
           "variant": "default"
         },
         {
@@ -1418,7 +1460,7 @@
         },
         {
           "type": "quote",
-          "text": "Credo di poterti procurare accesso a materiale interessante. Ma prima occupiamoci della situazione attuale.",
+          "text": "«Credo di poterti procurare accesso a materiale interessante. Ma prima occupiamoci della situazione attuale.»",
           "variant": "default"
         },
         {
@@ -1554,7 +1596,13 @@
         },
         {
           "type": "paragraph",
-          "text": "Nathan ed Elis raggiunsero il tempio di Elm poco prima di mezzogiorno."
+          "text": "Nathan ed Elis raggiunsero il tempio di Helm poco prima di mezzogiorno."
+        },
+        {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-14/01_Incontro_con_Orman.png",
+          "alt": "Incontriamo Orman"
         },
         {
           "type": "paragraph",
@@ -1566,7 +1614,7 @@
         },
         {
           "type": "quote",
-          "text": "Bentornati, ragazzi.",
+          "text": "«Bentornati, ragazzi.»",
           "variant": "default"
         },
         {
@@ -1575,12 +1623,12 @@
         },
         {
           "type": "quote",
-          "text": "Una vostra compagna?",
+          "text": "«Una vostra compagna?»",
           "variant": "default"
         },
         {
           "type": "quote",
-          "text": "Sì. Siamo qui per questioni pratiche.",
+          "text": "«Sì. Siamo qui per questioni pratiche.»",
           "variant": "default"
         },
         {
@@ -1593,7 +1641,7 @@
         },
         {
           "type": "quote",
-          "text": "Capisco... quindi siete riusciti a recuperare quanto necessario.",
+          "text": "«Capisco... quindi siete riusciti a recuperare quanto necessario.»",
           "variant": "default"
         },
         {
@@ -1610,7 +1658,7 @@
         },
         {
           "type": "quote",
-          "text": "Ho saputo che il Culto dei Tre Morti è stato fermato. Elm sarà fiero di voi.",
+          "text": "«Ho saputo che il Culto dei Tre Morti è stato fermato. Helm sarà fiero di voi.»",
           "variant": "default"
         },
         {
@@ -1630,8 +1678,14 @@
           "text": "Cinque sacerdoti si disposero attorno a Kyran mentre la guerriera impugnava la spada maledetta."
         },
         {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-14/02_Purificazione_della_Spada.png",
+          "alt": "Purificazione della spada"
+        },
+        {
           "type": "paragraph",
-          "text": "Le formule sacre iniziarono lentamente a riempire il tempio."
+          "text": "Le formule sacre iniziarono lentamente a riempire il tempio, basse e ininterrotte come il respiro di un coro invisibile."
         },
         {
           "type": "paragraph",
@@ -1667,7 +1721,7 @@
         },
         {
           "type": "quote",
-          "text": "La maledizione era debole. Ora l’arma è pulita.",
+          "text": "«La maledizione era debole. Ora l’arma è pulita.»",
           "variant": "default"
         },
         {
@@ -1681,6 +1735,12 @@
         {
           "type": "paragraph",
           "text": "Era Elis."
+        },
+        {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-14/03_Diagnosi_di_Elis.png",
+          "alt": "Elis..."
         },
         {
           "type": "paragraph",
@@ -1704,7 +1764,7 @@
         },
         {
           "type": "quote",
-          "text": "Non mi avevi detto che la situazione fosse così complicata...",
+          "text": "«Non mi avevi detto che la situazione fosse così complicata...»",
           "variant": "default"
         },
         {
@@ -1717,7 +1777,7 @@
         },
         {
           "type": "quote",
-          "text": "C’è una maledizione... ma c’è anche qualcos’altro. Qualcosa di molto più profondo.",
+          "text": "«C’è una maledizione... ma c’è anche qualcos’altro. Qualcosa di molto più profondo.»",
           "variant": "default"
         },
         {
@@ -1738,7 +1798,7 @@
         },
         {
           "type": "quote",
-          "text": "Possiamo procedere.",
+          "text": "«Possiamo procedere.»",
           "variant": "default"
         },
         {
@@ -1807,7 +1867,7 @@
         },
         {
           "type": "quote",
-          "text": "Resisti! Ci siamo quasi!",
+          "text": "«Resisti! Ci siamo quasi!»",
           "variant": "default"
         },
         {
@@ -1831,12 +1891,18 @@
           "text": "crollò in ginocchio."
         },
         {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-14/04_Espulsione_della_Maledizione.png",
+          "alt": "Purificazione di Elis"
+        },
+        {
           "type": "paragraph",
           "text": "Una massa di melma nera fuoriuscì violentemente dalla sua bocca."
         },
         {
           "type": "paragraph",
-          "text": "Il liquido colpì il pavimento del tempio emanando un odore di terra marcia."
+          "text": "Il liquido colpì il pavimento del tempio con un tonfo molle, emanando un odore di terra marcia e di acqua stagnante."
         },
         {
           "type": "paragraph",
@@ -1860,12 +1926,12 @@
         },
         {
           "type": "quote",
-          "text": "Come ti senti, ragazzo?",
+          "text": "«Come ti senti, ragazzo?»",
           "variant": "default"
         },
         {
           "type": "quote",
-          "text": "Come uno che ha appena vomitato l’anima.",
+          "text": "«Come uno che ha appena vomitato l’anima.»",
           "variant": "default"
         },
         {
@@ -1874,7 +1940,7 @@
         },
         {
           "type": "quote",
-          "text": "Sei stato bravo. Qualunque cosa ci fosse dentro di te... era difficile da sostenere.",
+          "text": "«Sei stato bravo. Qualunque cosa ci fosse dentro di te... era difficile da sostenere.»",
           "variant": "default"
         },
         {
@@ -1891,7 +1957,7 @@
         },
         {
           "type": "quote",
-          "text": "Per quanto riguarda l’altro segno... non so cosa sia. Ma è lì da moltissimo tempo.",
+          "text": "«Per quanto riguarda l’altro segno... non so cosa sia. Ma è lì da moltissimo tempo.»",
           "variant": "default"
         },
         {
@@ -1916,7 +1982,7 @@
         },
         {
           "type": "quote",
-          "text": "Mi hanno sempre detto che certe cose arrivano dagli Inferi.",
+          "text": "«Mi hanno sempre detto che certe cose arrivano dagli Inferi.»",
           "variant": "default"
         },
         {
@@ -1925,7 +1991,7 @@
         },
         {
           "type": "quote",
-          "text": "Ma qualunque cosa sia... ti consiglio prudenza.",
+          "text": "«Ma qualunque cosa sia... ti consiglio prudenza.»",
           "variant": "default"
         },
         {
@@ -1947,6 +2013,13 @@
       "title": "La Lanterna Bassa",
       "videoId": "UgUQPnPz-LY",
       "blocks": [
+        {
+          "type": "scene",
+          "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-14/Lanterna_1.png",
+          "title": "La Lanterna Bassa",
+          "subtitle": "Il Porto di Baldur’s Gate",
+          "alt": "La Lanterna Bassa, vecchia nave-taverna ormeggiata al molo sotto la pioggia"
+        },
         {
           "type": "paragraph",
           "text": "Quando gli Extermina lasciarono definitivamente la Città Alta, il cielo sopra Baldur’s Gate aveva già iniziato a cambiare."
@@ -2056,6 +2129,12 @@
           "text": "Fu Kyran la prima ad accorgersene."
         },
         {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-14/Lanterna_2.png",
+          "alt": "I Corvi"
+        },
+        {
           "type": "paragraph",
           "text": "Due corvi."
         },
@@ -2131,6 +2210,12 @@
       "videoId": "tb23dw83ixw",
       "blocks": [
         {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-14/Lanterna_3.png",
+          "alt": "Entriamo"
+        },
+        {
           "type": "paragraph",
           "text": "La pioggia iniziò a battere con maggiore forza sul ponte della Lanterna Bassa mentre gli Extermina scendevano verso i livelli inferiori della nave."
         },
@@ -2160,7 +2245,7 @@
         },
         {
           "type": "paragraph",
-          "text": "L’odore tipico dei luoghi dove le persone cercavano di dimenticare la propria vita."
+          "text": "L’odore tipico dei luoghi dove le persone vengono a dimenticare la propria vita, un bicchiere e una scommessa alla volta."
         },
         {
           "type": "paragraph",
@@ -2224,7 +2309,7 @@
         },
         {
           "type": "quote",
-          "text": "Benvenuti alla Lanterna Bassa. Leroy Tandret... ma da queste parti mi chiamano il Capitano.",
+          "text": "«Benvenuti alla Lanterna Bassa. Leroy Tandret... ma da queste parti mi chiamano il Capitano.»",
           "variant": "default"
         },
         {
@@ -2233,7 +2318,7 @@
         },
         {
           "type": "quote",
-          "text": "Se volete bere o giocare, siete nel posto giusto. Ma fate attenzione a come vi muovete. Questo locale può diventare piuttosto turbolento.",
+          "text": "«Se volete bere o giocare, siete nel posto giusto. Ma fate attenzione a come vi muovete. Questo locale può diventare piuttosto turbolento.»",
           "variant": "default"
         },
         {
@@ -2269,6 +2354,12 @@
           "text": "Per un breve istante il gruppo rimase semplicemente ad assorbire quell’atmosfera."
         },
         {
+          "type": "image",
+          "variant": "left-big",
+          "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-14/Incontriamo_GUllivan.png",
+          "alt": "Sylvar si risveglia nella stanza dei Nodorovo"
+        },
+        {
           "type": "paragraph",
           "text": "Poi Sylvar notò qualcuno."
         },
@@ -2290,7 +2381,7 @@
         },
         {
           "type": "quote",
-          "text": "Ma guarda chi si rivede!",
+          "text": "«Ma guarda chi si rivede!»",
           "variant": "default"
         },
         {
@@ -2299,7 +2390,7 @@
         },
         {
           "type": "quote",
-          "text": "Ragazzi! Finalmente! Venite, venite!",
+          "text": "«Ragazzi! Finalmente! Venite, venite!»",
           "variant": "default"
         },
         {
@@ -2320,7 +2411,7 @@
         },
         {
           "type": "quote",
-          "text": "Aspetta... voi siete davvero gli eroi di Baldur’s Gate?",
+          "text": "«Aspetta... voi siete davvero gli eroi di Baldur’s Gate?»",
           "variant": "default"
         },
         {
@@ -2345,7 +2436,7 @@
         },
         {
           "type": "quote",
-          "text": "Io ho come amici gli eroi di Baldur’s Gate!",
+          "text": "«Io ho come amici gli eroi di Baldur’s Gate!»",
           "variant": "default"
         },
         {
@@ -2378,7 +2469,7 @@
         },
         {
           "type": "quote",
-          "text": "Finché non crea problemi, può restare.",
+          "text": "«Finché non crea problemi, può restare.»",
           "variant": "default"
         },
         {
@@ -2399,7 +2490,7 @@
         },
         {
           "type": "quote",
-          "text": "Una birra. Voglio solo rilassarmi un po’.",
+          "text": "«Una birra. Voglio solo rilassarmi un po’.»",
           "variant": "default"
         },
         {
@@ -2471,7 +2562,7 @@
         },
         {
           "type": "quote",
-          "text": "Io ho come amici gli eroi di Baldur’s Gate!",
+          "text": "«Io ho come amici gli eroi di Baldur’s Gate!»",
           "variant": "default"
         },
         {
@@ -2556,7 +2647,7 @@
         },
         {
           "type": "quote",
-          "text": "Qui si gioca molto, a quanto pare.",
+          "text": "«Qui si gioca molto, a quanto pare.»",
           "variant": "default"
         },
         {
@@ -2565,7 +2656,7 @@
         },
         {
           "type": "quote",
-          "text": "Qui tutti giocano. E spesso si indebitano.",
+          "text": "«Qui tutti giocano. E spesso si indebitano.»",
           "variant": "default"
         },
         {
@@ -2574,7 +2665,7 @@
         },
         {
           "type": "quote",
-          "text": "Poi, ovviamente, vanno a chiedere aiuto al signore di sotto.",
+          "text": "«Poi, ovviamente, vanno a chiedere aiuto al signore di sotto.»",
           "variant": "default"
         },
         {
@@ -2583,7 +2674,7 @@
         },
         {
           "type": "quote",
-          "text": "Il signore di sotto?",
+          "text": "«Il signore di sotto?»",
           "variant": "default"
         },
         {
@@ -2592,7 +2683,7 @@
         },
         {
           "type": "quote",
-          "text": "Il signor Vanthampur offre credito agli scommettitori.",
+          "text": "«Il signor Vanthampur offre credito agli scommettitori.»",
           "variant": "default"
         },
         {
@@ -2617,7 +2708,7 @@
         },
         {
           "type": "quote",
-          "text": "Un benefattore a lungo termine, diciamo.",
+          "text": "«Un benefattore a lungo termine, diciamo.»",
           "variant": "default"
         },
         {
@@ -2626,7 +2717,7 @@
         },
         {
           "type": "quote",
-          "text": "E cosa succede quando qualcuno non riesce a ripagare i propri debiti?",
+          "text": "«E cosa succede quando qualcuno non riesce a ripagare i propri debiti?»",
           "variant": "default"
         },
         {
@@ -2635,7 +2726,7 @@
         },
         {
           "type": "quote",
-          "text": "Il signor Vanthampur ha modi molto efficaci per recuperare ciò che gli spetta.",
+          "text": "«Il signor Vanthampur ha modi molto efficaci per recuperare ciò che gli spetta.»",
           "variant": "default"
         },
         {
@@ -2668,7 +2759,7 @@
         },
         {
           "type": "quote",
-          "text": "Se vogliamo fare qualcosa, meglio farlo adesso.",
+          "text": "«Se vogliamo fare qualcosa, meglio farlo adesso.»",
           "variant": "default"
         },
         {
@@ -2713,7 +2804,7 @@
         },
         {
           "type": "quote",
-          "text": "Ci stai rovinando i piani. Se vuoi ancora definirti nostro amico, hai due scelte: o te ne vai, o fai silenzio.",
+          "text": "«Ci stai rovinando i piani. Se vuoi ancora definirti nostro amico, hai due scelte: o te ne vai, o fai silenzio.»",
           "variant": "default"
         },
         {
@@ -2726,7 +2817,7 @@
         },
         {
           "type": "quote",
-          "text": "Va bene, va bene... non c’è bisogno di agitarsi.",
+          "text": "«Va bene, va bene... non c’è bisogno di agitarsi.»",
           "variant": "default"
         },
         {
@@ -2779,7 +2870,7 @@
         },
         {
           "type": "quote",
-          "text": "Signori... il signor Vanthampur vi sta aspettando di sotto.",
+          "text": "«Signori... il signor Vanthampur vi sta aspettando di sotto.»",
           "variant": "default"
         },
         {

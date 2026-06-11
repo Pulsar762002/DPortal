@@ -47,6 +47,12 @@ export const routes: Routes = [
           import('./features/public/masters/masters.component')
             .then(m => m.MastersComponent),
       },
+      {
+        path: 'styleguide',
+        loadComponent: () =>
+          import('./features/public/styleguide/styleguide.component')
+            .then(m => m.StyleguideComponent),
+      },
 
       // PROTECTED
       {
@@ -111,6 +117,24 @@ export const routes: Routes = [
                 loadComponent: () =>
                   import('./features/public/campagne/discesa-averno/luoghi/luoghi-page/luoghi-page.component')
                     .then(m => m.LuoghiPageComponent)
+              },
+              {
+                path: 'eventi',
+                loadComponent: () =>
+                  import('./features/public/campagne/discesa-averno/eventi/eventi-page/eventi-page.component')
+                    .then(m => m.EventiPageComponent)
+              },
+              {
+                path: 'grafo',
+                loadComponent: () =>
+                  import('./features/public/campagne/discesa-averno/grafo/grafo.component')
+                    .then(m => m.GrafoComponent)
+              },
+              {
+                path: 'galleria',
+                loadComponent: () =>
+                  import('./features/public/campagne/discesa-averno/galleria/galleria-page/galleria-page.component')
+                    .then(m => m.GalleriaPageComponent)
               }
             ]
           }

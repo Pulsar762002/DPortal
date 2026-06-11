@@ -1,8 +1,8 @@
-.luogo-wrapper {
+.luogo-card {
   display: flex;
   gap: 2rem;
   padding: 1.8rem;
-  margin-bottom: 3rem;
+  margin-bottom: 2.4rem;
 
   background: rgba(20, 20, 20, 0.75);
   border: 1px solid rgba(212, 175, 55, 0.3);
@@ -12,41 +12,205 @@
   transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
-.luogo-wrapper:hover {
-  transform: translateY(-4px);
+.luogo-card:hover {
+  transform: translateY(-3px);
   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.6);
 }
 
-.luogo-image img {
+/* Immagine */
+.card-image img {
   width: 160px;
   border-radius: 10px;
   border: 2px solid rgba(212, 175, 55, 0.5);
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.8);
+  object-fit: cover;
 }
 
-.luogo-content {
+/* Contenuto */
+.card-content {
   flex: 1;
+  min-width: 0;
 }
 
-.luogo-nome {
-  margin: 0 0 1rem 0;
-  font-size: 1.5rem;
+/* Intestazione */
+.card-header {
+  display: flex;
+  align-items: center;
+  gap: 0.7rem;
+  flex-wrap: wrap;
+  margin-bottom: 0.3rem;
+}
+
+.card-nome {
+  margin: 0;
+  font-size: 1.45rem;
   color: #d4af37;
   text-shadow: 0 0 8px rgba(212, 175, 55, 0.4);
 }
 
-.luogo-info {
-  list-style: none;
-  padding: 0;
-  margin: 0;
+/* Badge tipo */
+.card-tipo {
+  font-size: 0.7rem;
+  font-weight: 600;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+  padding: 0.2em 0.6em;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.06);
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  color: #c8bfa0;
 }
 
-.luogo-info li {
-  margin-bottom: 0.9rem;
-  line-height: 1.6;
+/* Badge stato */
+.card-stato {
+  font-size: 0.7rem;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  padding: 0.2em 0.6em;
+  border-radius: 999px;
+  border: 1px solid currentColor;
+}
+
+.stato-vivo        { color: #4ade80; border-color: #4ade8060; background: #4ade8014; }
+.stato-attivo      { color: #4ade80; border-color: #4ade8060; background: #4ade8014; }
+.stato-morto       { color: #f87171; border-color: #f8717160; background: #f8717114; }
+.stato-distrutto   { color: #f87171; border-color: #f8717160; background: #f8717114; }
+.stato-scomparso   { color: #fb923c; border-color: #fb923c60; background: #fb923c14; }
+.stato-abbandonato { color: #9ca3af; border-color: #9ca3af60; background: #9ca3af14; }
+.stato-ignoto      { color: #facc15; border-color: #facc1560; background: #facc1514; }
+
+/* Sottotitolo */
+.card-subtitle {
+  margin: 0 0 0.8rem;
+  font-size: 0.85rem;
+  color: #9ca3af;
+}
+
+.padre {
+  font-style: italic;
+}
+
+.sep {
+  opacity: 0.4;
+}
+
+/* Descrizione */
+.card-descrizione {
+  margin: 0 0 0.8rem;
   color: #f1e6c8;
+  line-height: 1.65;
+  font-size: 0.92rem;
 }
 
-.luogo-info strong {
-  color: #ffffff;
+/* Abitanti notabili */
+.card-abitanti {
+  margin-bottom: 0.8rem;
+  font-size: 0.85rem;
+}
+
+.card-abitanti .label {
+  color: #fff;
+  font-weight: 600;
+  margin-right: 0.35em;
+}
+
+.card-abitanti .nomi {
+  color: #c8bfa0;
+}
+
+/* Misteri */
+.card-misteri {
+  margin-bottom: 1rem;
+  padding: 0.7rem 1rem;
+  background: rgba(250, 204, 21, 0.05);
+  border-left: 2px solid rgba(250, 204, 21, 0.4);
+  border-radius: 0 6px 6px 0;
+}
+
+.misteri-titolo {
+  margin: 0 0 0.4rem;
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #facc15;
+}
+
+.misteri-lista {
+  margin: 0;
+  padding-left: 1.1rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.3rem;
+}
+
+.misteri-lista li {
+  color: #f1e6c8;
+  font-size: 0.87rem;
+  line-height: 1.5;
+  font-style: italic;
+}
+
+/* Apparizioni */
+.card-apparizioni {
+  margin: 0 0 0.7rem;
+  font-size: 0.76rem;
+  color: #9ca3af;
+}
+
+/* Note collassabili */
+.note-toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  background: none;
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  border-radius: 6px;
+  color: #9ca3af;
+  font-size: 0.78rem;
+  padding: 0.3em 0.75em;
+  cursor: pointer;
+  transition: color 0.15s, border-color 0.15s;
+}
+
+.note-toggle:hover {
+  color: #f1e6c8;
+  border-color: rgba(255, 255, 255, 0.28);
+}
+
+.toggle-icon { font-size: 0.65rem; }
+
+.note-lista {
+  margin: 0.75rem 0 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 0.7rem;
+}
+
+.note-lista li {
+  display: flex;
+  flex-direction: column;
+  gap: 0.15rem;
+}
+
+.nota-sessione {
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: #d4af37;
+}
+
+.nota-testo {
+  font-size: 0.87rem;
+  color: #d1c9b4;
+  line-height: 1.55;
+}
+
+@media (max-width: 640px) {
+  .luogo-card { flex-direction: column; }
+  .card-image img { width: 100%; max-width: 280px; margin: 0 auto; display: block; }
 }
