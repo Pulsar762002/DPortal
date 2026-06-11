@@ -5,7 +5,7 @@
 > Lo stato immagine è verificato sui file reali in `src/`.
 > Ultimo aggiornamento dati: sessione 19.
 
-**Immagini:** 64/145 presenti, 81 mancanti.
+**Immagini:** 65/146 presenti, 81 mancanti.
 
 ## Personaggi
 
@@ -52,7 +52,7 @@
 | **Genitori di Alaster** | Nobili di Baldur's Gate | Umani | vivo | 1 | ❌ assente | — |
 | **Granduca Ulder Ravengard** | Granduca di Baldur's Gate | Umano | scomparso | 1, 16 | ❌ assente | — |
 | **Cocchiere di Alaster** | Servitore | Umano | vivo | 2 | ❌ assente | — |
-| **Capitano Darmin Zodge** | Capitano dei Pugni Fiammanti | Umano | vivo | 3, 5, 9, 11, 12 | ✅ presente | Zodge.png |
+| **Capitano Darmin Zodge** | Capitano dei Pugni Fiammanti | Umano | vivo | 3, 5, 9, 11, 12 | ✅ presente | Capitano_Darmin_Zodge.png |
 | **Pugni Fiammanti** | Milizia cittadina | Vari | vivo | 3, 4, 12 | ❌ assente | — |
 | **Dorian Nodorovo** | Ufficiale nobile | Umano | vivo | 4, 13, 14, 17 | ✅ presente | Dorian Nodorovo.png |
 | **Darmian** | Ufficiale dei Pugni Fiammanti | Umano | vivo | 4 | ❌ assente | — |
@@ -103,6 +103,7 @@
 | **Flenner, Alto Myrkulita** | Alto sacerdote di Myrkul | Umano | morto | 5, 7, 10, 12 | ✅ presente | Flenner_Alto_Myrkulita.jpg |
 | **Cultista della Mano** | Cultista di Bhaal | Umana | morto | 10 | ✅ presente | CultistaBahal.png |
 | **Console di Ferro di Bane** | Cultista guerriero di Bane | Umano | morto | 10 | ✅ presente | CultistaBane.png |
+| **Cultista di Myrkul** | Cultista necromante dei Tre Morti | Umano | morto | 4 | ✅ presente | CultistaMyrkul.png |
 | **Orin** | Mutaforma cultista di Bhaal | Mutaforma (donna di sangue) | vivo | 11 | ❌ assente | — |
 | **Accoliti del Culto** | Soldati cultisti | Umani | morto | 11 | ❌ assente | — |
 | **Le tre statue degli dèi morti** | Idoli consacrati | Statue di legno | vivo | 12 | ❌ assente | — |
