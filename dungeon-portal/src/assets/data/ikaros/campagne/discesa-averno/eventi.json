@@ -1,7 +1,7 @@
 {
   "$schema": "./eventi.schema.json",
   "campagna": "discesa-averno",
-  "ultimoAggiornamento": 19,
+  "ultimoAggiornamento": 21,
   "eventi": [
     {
       "id": "confronto-tempio-marcus",
@@ -3728,6 +3728,557 @@
       "quando": "Notte",
       "tipo": "combattimento",
       "conseguenze": "L'Helmed Horror e distrutto, ma il gruppo e stremato e quasi senza risorse: i veri segreti dei Vanthampur, custoditi da guardiani potenti, restano oltre le profondita della villa."
+    },
+    {
+      "id": "bottino-helmed-horror",
+      "sessione": 20,
+      "ordine": 186,
+      "capitolo": "il-bottino-del-guardiano",
+      "titolo": "Il bottino del guardiano",
+      "cosaSuccede": "Dal corpo distrutto dell'Helmed Horror gli Extermina recuperano uno scudo di metallo infernale, privo di proprieta magiche ma di ottima fattura e resistente al calore; scartano invece l'elmo, puramente scenico. Il gruppo si concede una breve pausa per curare le ferite piu gravi prima di continuare a esplorare lo studio.",
+      "partecipanti": [
+        "nathan",
+        "aelar",
+        "alaster",
+        "kyran",
+        "elis"
+      ],
+      "luogo": "Studio del piano superiore della villa Vanthampur",
+      "quando": "Notte",
+      "tipo": "scoperta",
+      "conseguenze": "Il gruppo aggiunge uno scudo infernale al bottino e recupera parte delle energie prima di proseguire."
+    },
+    {
+      "id": "studio-vanthampur-rituale-e-libri",
+      "sessione": 20,
+      "ordine": 187,
+      "capitolo": "lo-studio-dei-vanthampur",
+      "titolo": "Il Rituale della Fiamma di Avernus",
+      "cosaSuccede": "Nello studio il gruppo trova fogli scritti a mano che descrivono un 'Rituale della Fiamma di Avernus' di natura diabolica, completo di lista di ingredienti, ma senza traccia dei materiali necessari nella stanza. Tra le librerie recuperano una ventina di prime edizioni e due testi peculiari: 'Guerra di Sangue', sull'eterno conflitto tra diavoli e demoni nell'Averno, e un 'Breve trattato sulla disposizione geografica dei Nove Inferi'.",
+      "partecipanti": [
+        "nathan",
+        "aelar",
+        "alaster",
+        "kyran",
+        "elis"
+      ],
+      "luogo": "Studio del piano superiore della villa Vanthampur",
+      "quando": "Notte",
+      "tipo": "scoperta",
+      "conseguenze": "Il gruppo raccoglie testi su Averno e Guerra di Sangue che potrebbero rivelarsi utili in futuro.",
+      "note": "Mistero aperto: a quale rituale si preparava qualcuno nei Vanthampur, e dove sono finiti i materiali necessari a completarlo?"
+    },
+    {
+      "id": "camera-duchessa-thalamra",
+      "sessione": 20,
+      "ordine": 188,
+      "capitolo": "la-camera-della-duchessa",
+      "titolo": "La camera della Duchessa Thalamra",
+      "cosaSuccede": "Gli Extermina perquisiscono gli appartamenti privati della Duchessa Thalamra Vanthampur: profumi pregiati, una spazzola d'argento con lapislazzuli, una collana di perle, un medaglione di platino a forma di gatto alato e un secondo tressym, identico al primo, nascosto sotto il letto. Un forziere trappolato (nube di veleno invecchiato) custodisce registri contabili in lingua infernale, un set da calligrafo, sostanze da avvelenatore e una sacca con ottantacinque monete d'oro e centotredici d'argento.",
+      "partecipanti": [
+        "nathan",
+        "aelar",
+        "alaster",
+        "kyran",
+        "elis",
+        "tressym-vanthampur"
+      ],
+      "luogo": "Camera della Duchessa, piano superiore della villa Vanthampur",
+      "quando": "Notte",
+      "tipo": "scoperta",
+      "conseguenze": "Il gruppo arricchisce il bottino e scopre un secondo tressym; i registri infernali, illeggibili senza un esperto, restano un indizio sui traffici della famiglia con gli Inferi."
+    },
+    {
+      "id": "vista-dalla-piccionaia",
+      "sessione": 20,
+      "ordine": 189,
+      "capitolo": "la-piccionaia",
+      "titolo": "La vista dalla piccionaia",
+      "cosaSuccede": "Risalita la scala a chiocciola dello studio, gli Extermina raggiungono una piccola piccionaia usata dagli imp come punto di atterraggio. Da li osservano il guerriero draconico del Culto del Drago ancora impegnato a respingere le guardie nel cortile sottostante, segno che l'assedio esterno tiene ancora occupate le difese della villa.",
+      "partecipanti": [
+        "nathan",
+        "aelar",
+        "alaster",
+        "kyran",
+        "elis",
+        "dragonide-culto-drago"
+      ],
+      "luogo": "Piccionaia, piano superiore della villa Vanthampur",
+      "quando": "Notte",
+      "tipo": "scoperta",
+      "conseguenze": "Confermato che restano ancora tempo e copertura per scendere ai sotterranei, il gruppo si prepara a usare la chiave di Thurstwell."
+    },
+    {
+      "id": "passaggio-segreto-sotterranei-vanthampur",
+      "sessione": 20,
+      "ordine": 190,
+      "capitolo": "scendiamo-nei-sotterranei",
+      "titolo": "Il passaggio segreto verso i sotterranei",
+      "cosaSuccede": "Tornati alle cucine, gli Extermina usano la chiave sottratta a Thurstwell Vanthampur per aprire l'ingresso nascosto ai sotterranei. Scesa la scala, Kyran avverte tre presenze malevole in una cantina di vini; appena Kyran appicca il fuoco a una catasta di casse al centro della stanza, tre diavoli ne scattano fuori.",
+      "partecipanti": [
+        "nathan",
+        "aelar",
+        "alaster",
+        "kyran",
+        "elis"
+      ],
+      "luogo": "Cantina della villa Vanthampur, complesso sotterraneo dei Vanthampur",
+      "quando": "Notte",
+      "tipo": "scoperta",
+      "conseguenze": "Si apre l'accesso al complesso sotterraneo dei Vanthampur, gia segnalato da Sylvar nella sessione 18; lo scontro con i diavoli e inevitabile."
+    },
+    {
+      "id": "scontro-diavoli-cantina",
+      "sessione": 20,
+      "ordine": 191,
+      "capitolo": "scontro-in-cantina",
+      "titolo": "Scontro in cantina",
+      "cosaSuccede": "I tre diavoli emersi dalla catasta in fiamme attaccano il gruppo. Alaster e Aelar li feriscono a distanza, Kyran e Nathan li tengono a bada in mischia; uno viene dissolto da uno spruzzo d'acido di Alaster, un secondo cade sotto i colpi di Kyran e Nathan, il terzo viene finito da una mano scheletrica necrotica evocata da Alaster mentre tentava la fuga.",
+      "partecipanti": [
+        "nathan",
+        "aelar",
+        "alaster",
+        "kyran",
+        "elis"
+      ],
+      "luogo": "Cantina della villa Vanthampur, complesso sotterraneo dei Vanthampur",
+      "quando": "Notte",
+      "tipo": "combattimento",
+      "conseguenze": "I tre diavoli vengono distrutti; il gruppo nota con sospetto che uno di loro si muoveva in modo simile ai diavoli di guardia ad Amrik Vanthampur, senza poterne avere conferma.",
+      "note": "Mistero aperto: i diavoli della cantina hanno davvero un legame con 'i diavoli di Amrik' incontrati alla Lanterna Bassa (sessione 15), o si tratta soltanto di una somiglianza superficiale?"
+    },
+    {
+      "id": "botte-excelsior-cantina",
+      "sessione": 20,
+      "ordine": 192,
+      "capitolo": "il-bottino-della-cantina",
+      "titolo": "La botte da conservare",
+      "cosaSuccede": "Spento l'incendio nella catasta, gli Extermina passano in rassegna i dodici barili della cantina. Rompono quelli di poco valore ma decidono di conservare intatta una botte con un'etichetta scolorita che inizia per 'EX', convinti che si tratti di un'annata speciale da serbare per un futuro brindisi di vittoria.",
+      "partecipanti": [
+        "nathan",
+        "aelar",
+        "alaster",
+        "kyran",
+        "elis"
+      ],
+      "luogo": "Cantina della villa Vanthampur, complesso sotterraneo dei Vanthampur",
+      "quando": "Notte",
+      "tipo": "scoperta",
+      "conseguenze": "La botte misteriosa viene aggiunta al bottino del gruppo invece di essere distrutta."
+    },
+    {
+      "id": "topo-bianco-tunnel-vanthampur",
+      "sessione": 20,
+      "ordine": 193,
+      "capitolo": "i-tunnel-sotto-la-villa",
+      "titolo": "Il topo bianco delle fogne",
+      "cosaSuccede": "Oltre la cantina, gli Extermina entrano nei tunnel fognari sotto la villa e incontrano un topo bianco con gli occhi dorati che li osserva con un'intensita innaturale prima di sparire lungo un corridoio. Kyran percepisce che non si tratta di un animale comune. Proseguendo, il gruppo visita una cantina di vino con quasi duecento bottiglie e trova un crollo deliberato troppo stretto per il passaggio di una persona.",
+      "partecipanti": [
+        "nathan",
+        "aelar",
+        "alaster",
+        "kyran",
+        "elis"
+      ],
+      "luogo": "Fogne sotto la villa Vanthampur, complesso sotterraneo dei Vanthampur",
+      "quando": "Notte",
+      "tipo": "scoperta",
+      "conseguenze": "Il gruppo conferma l'estensione dei tunnel sotto la villa e prosegue verso una diramazione alternativa.",
+      "note": "Mistero aperto: chi o cosa si cela dietro l'aspetto del topo bianco dagli occhi dorati?"
+    },
+    {
+      "id": "agguato-cultisti-imp-tunnel",
+      "sessione": 20,
+      "ordine": 194,
+      "capitolo": "agguato-nei-tunnel",
+      "titolo": "Agguato nei tunnel",
+      "cosaSuccede": "Il gruppo tende un'imboscata a due cultisti del Drago e a un imp in marcia nei tunnel, abbattendoli prima che possano reagire. Dai corpi recuperano solo tuniche rosse, maschere dorate a forma diabolica e un turibolo d'incenso. Proseguendo, Alaster invisibile scopre oltre una porta un diavolo di dimensioni considerevoli e richiude tutto prima di essere notato.",
+      "partecipanti": [
+        "nathan",
+        "aelar",
+        "alaster",
+        "kyran",
+        "elis",
+        "culto-drago"
+      ],
+      "luogo": "Fogne sotto la villa Vanthampur, complesso sotterraneo dei Vanthampur",
+      "quando": "Notte",
+      "tipo": "combattimento",
+      "conseguenze": "Il gruppo elimina la pattuglia senza essere scoperto e individua la posizione del diavolo aguzzino prima di affrontarlo."
+    },
+    {
+      "id": "scontro-diavolo-aguzzino-segrete",
+      "sessione": 20,
+      "ordine": 195,
+      "capitolo": "il-diavolo-aguzzino",
+      "titolo": "Lo scontro con il diavolo aguzzino",
+      "cosaSuccede": "Gli Extermina affrontano il diavolo aguzzino dei Vanthampur, gia segnalato da Sylvar nella sessione 18. La creatura, fortemente resistente alle armi convenzionali, ferisce gravemente Kyran con artigli e coda prima di essere abbattuta da una raffica di pugnali di Elis. Morendo, il diavolo le accarezza il volto e le dice 'Tu sei come noi' prima di incendiarsi e dissolversi in cenere.",
+      "partecipanti": [
+        "nathan",
+        "aelar",
+        "alaster",
+        "kyran",
+        "elis",
+        "diavolo-aguzzino-vanthampur"
+      ],
+      "luogo": "Segrete dei Vanthampur, complesso sotterraneo dei Vanthampur",
+      "quando": "Notte",
+      "tipo": "evento-chiave",
+      "conseguenze": "Il diavolo aguzzino e distrutto e le segrete sono accessibili, ma le sue ultime parole turbano Elis e riaprono interrogativi sulla sua natura.",
+      "note": "Mistero aperto: cosa intendeva il diavolo dicendo a Elis 'Tu sei come noi'?"
+    },
+    {
+      "id": "liberazione-prigionieri-segrete-vanthampur",
+      "sessione": 20,
+      "ordine": 196,
+      "capitolo": "le-segrete-dei-vanthampur",
+      "titolo": "La liberazione delle segrete",
+      "cosaSuccede": "Nelle celle delle segrete, gli Extermina concedono una morte pietosa ai prigionieri ormai trasformati in lemuri dalla tortura prolungata, e liberano due superstiti lucidi: l'investigatore Falaster Fisk, al servizio della studiosa di Candlekeep Silvira Savikas, e la nobildonna Satyr Tion Hun, custode di famiglia di uno scudo infernale rubato ai Vanthampur. Il gruppo realizza che si tratta dello stesso scudo richiesto da Lord Fauler in cambio di una risposta sincera, e decide di tenerlo con se per indagare prima di consegnarlo a chiunque.",
+      "partecipanti": [
+        "nathan",
+        "aelar",
+        "alaster",
+        "kyran",
+        "elis",
+        "falaster-fisk",
+        "satyr-tion-hun"
+      ],
+      "luogo": "Segrete dei Vanthampur, complesso sotterraneo dei Vanthampur",
+      "quando": "Notte",
+      "tipo": "evento-chiave",
+      "conseguenze": "Il gruppo guadagna due alleati e il possesso temporaneo dello scudo infernale, ma deve ancora decidere se restituirlo alla famiglia Hun o consegnarlo a Lord Fauler.",
+      "note": "Collega l'incarico di Lord Fauler (sessione 16) e le voci sul diavolo aguzzino (sessione 18) in un'unica trama."
+    },
+    {
+      "id": "fuga-travestita-cunicoli",
+      "sessione": 20,
+      "ordine": 197,
+      "capitolo": "in-fuga-nei-cunicoli",
+      "titolo": "In fuga nei cunicoli",
+      "cosaSuccede": "Alaster assume l'aspetto di uno dei cultisti caduti per muoversi con maggiore sicurezza. Il gruppo, scortando Falaster e Satyr a distanza, evita altre pattuglie del culto seguendo l'odore di incenso e supera ulteriori crolli, fino a raggiungere una porta pesantemente rinforzata in una sezione piu profonda del complesso.",
+      "partecipanti": [
+        "nathan",
+        "aelar",
+        "alaster",
+        "kyran",
+        "elis",
+        "falaster-fisk",
+        "satyr-tion-hun"
+      ],
+      "luogo": "Fogne sotto la villa Vanthampur, complesso sotterraneo dei Vanthampur",
+      "quando": "Notte",
+      "tipo": "viaggio",
+      "conseguenze": "Il gruppo raggiunge indenne una nuova zona del complesso, segno che custodisce qualcosa di importante."
+    },
+    {
+      "id": "porta-sigillata-dallesterno",
+      "sessione": 20,
+      "ordine": 198,
+      "capitolo": "la-porta-sigillata",
+      "titolo": "La porta sigillata dall'esterno",
+      "cosaSuccede": "Gli Extermina trovano una porta rinforzata, chiusa da lucchetti posti dall'esterno: chi si trova dentro vi e stato deliberatamente rinchiuso da altri. Origliando, sentono un uomo discutere agitato con qualcuno. Mentre Elis tenta di scassinare i lucchetti, un campanello suona dall'interno, dando l'allarme.",
+      "partecipanti": [
+        "nathan",
+        "aelar",
+        "alaster",
+        "kyran",
+        "elis",
+        "falaster-fisk",
+        "satyr-tion-hun"
+      ],
+      "luogo": "Complesso sotterraneo dei Vanthampur",
+      "quando": "Notte",
+      "tipo": "scoperta",
+      "conseguenze": "L'allarme suonato dall'interno della stanza costringe il gruppo a muoversi prima di scoprire chi vi sia rinchiuso.",
+      "note": "Mistero aperto: chi e rinchiuso dall'esterno in quella stanza, e con chi stava discutendo?"
+    },
+    {
+      "id": "scontro-cane-infernale-allarme",
+      "sessione": 20,
+      "ordine": 199,
+      "capitolo": "scatta-lallarme",
+      "titolo": "Scatta l'allarme",
+      "cosaSuccede": "Risuonato il campanello, gli Extermina avanzano e vengono raggiunti da un lungo ululato, poi assaliti da due cultisti e il cane infernale dei Vanthampur, gia avvistato da Sylvar nella sessione 18. Il cane azzanna e abbatte quasi Kyran con un soffio di fiamme; un cultista disarma Nathan con un comando magico, catene scure immobilizzano brevemente Elis. Il gruppo abbatte la bestia e i cultisti, uno dei quali tenta la fuga per dare l'allarme.",
+      "partecipanti": [
+        "nathan",
+        "aelar",
+        "alaster",
+        "kyran",
+        "elis",
+        "cane-infernale-vanthampur",
+        "culto-drago"
+      ],
+      "luogo": "Complesso sotterraneo dei Vanthampur",
+      "quando": "Notte",
+      "tipo": "combattimento",
+      "conseguenze": "Il cane infernale e distrutto, ma il gruppo e ormai esausto e a corto di risorse davanti a un bivio di porte, senza sapere quale conduca davvero all'artefice del complotto."
+    },
+    {
+      "id": "ripresa-dopo-cane-infernale",
+      "sessione": 21,
+      "ordine": 200,
+      "capitolo": "dopo-lallarme",
+      "titolo": "Si riprende dopo lo scontro",
+      "cosaSuccede": "Distrutti il cane infernale e i due cultisti che avevano suonato l'allarme, gli Extermina si concedono un breve respiro nei tunnel fognari sotto la villa Vanthampur, ancora immersi nel liquame, prima di proseguire verso il bivio di porte lasciato in sospeso.",
+      "partecipanti": [
+        "nathan",
+        "aelar",
+        "alaster",
+        "kyran",
+        "elis"
+      ],
+      "luogo": "Complesso sotterraneo dei Vanthampur",
+      "quando": "Notte",
+      "tipo": "viaggio",
+      "conseguenze": "Il gruppo riprende l'esplorazione del complesso sotterraneo, ancora ignaro di quanto vicina sia la resa dei conti con la Duchessa.",
+      "note": ""
+    },
+    {
+      "id": "cultisti-in-preghiera-e-messaggio-culto-drago",
+      "sessione": 21,
+      "ordine": 201,
+      "capitolo": "cultisti-in-preghiera",
+      "titolo": "Cultisti in preghiera e il messaggio del Culto del Drago",
+      "cosaSuccede": "Falaster Fisk e Satyr Tion Hun raggiungono il gruppo confermando di stare bene; proseguendo nei tunnel, Kyran e Nathan individuano una decina di cultisti che pregano in Infernale dietro una porta e scelgono di non affrontarli. Un messaggio mentale del Culto del Drago avverte Elis che le guardie superiori sono state eliminate e che una donna non identificata ha preceduto tutti nell'infiltrazione della villa.",
+      "partecipanti": [
+        "nathan",
+        "aelar",
+        "alaster",
+        "kyran",
+        "elis",
+        "falaster-fisk",
+        "satyr-tion-hun",
+        "culto-drago"
+      ],
+      "luogo": "Complesso sotterraneo dei Vanthampur",
+      "quando": "Notte",
+      "tipo": "scoperta",
+      "conseguenze": "Il gruppo lascia per il momento la stanza dei cultisti in preghiera e prosegue l'esplorazione delle altre stanze, mettendo in conto la presenza di una misteriosa intrusa.",
+      "note": "Mistero aperto: chi e la donna che ha preceduto tutti nell'infiltrazione della villa?"
+    },
+    {
+      "id": "scoperta-camera-segreta-di-kreeg",
+      "sessione": 21,
+      "ordine": 202,
+      "capitolo": "la-camera-di-kreeg",
+      "titolo": "La camera segreta di Kreeg",
+      "cosaSuccede": "Gli Extermina trovano una camera da letto abitata di recente, con lettere bruciate sulla scrivania e un forziere senza serratura. Dentro, una tunica clericale e una collana con il simbolo della mano e dell'occhio di Helm, identico al marchio sul guanto di Nathan. Sospettando che l'occupante fosse Thavius Kreeg, e che la misteriosa intrusa anticipatrice sia Reya Mantlemorn, il gruppo spezza la pietra-segnale donata da lei per farle sapere di trovarsi sotto la villa.",
+      "partecipanti": [
+        "nathan",
+        "aelar",
+        "alaster",
+        "kyran",
+        "elis"
+      ],
+      "luogo": "Complesso sotterraneo dei Vanthampur",
+      "quando": "Notte",
+      "tipo": "scoperta",
+      "conseguenze": "Il gruppo collega per la prima volta in modo diretto il simbolo di Helm sul guanto di Nathan a Thavius Kreeg, rafforzando il sospetto che l'Alto Osservatore si nasconda proprio nei sotterranei dei Vanthampur.",
+      "note": "Mistero aperto: chi ha occupato la camera, ed e davvero Thavius Kreeg? L'intrusa anticipatrice e davvero Reya Mantlemorn?"
+    },
+    {
+      "id": "ricognizione-cucine-sala-da-pranzo",
+      "sessione": 21,
+      "ordine": 203,
+      "capitolo": "tra-cucine-e-corridoi",
+      "titolo": "Tra cucine e corridoi",
+      "cosaSuccede": "Con l'incenso e le vesti dell'accolito morto a mascherare il proprio odore, gli Extermina attraversano una seconda cucina sotterranea e una sala da pranzo abbandonata in fretta, con vivande ancora tiepide sui tavoli. Evitano un incontro con due sentinelle scambiandosi furtivamente di stanza.",
+      "partecipanti": [
+        "nathan",
+        "aelar",
+        "alaster",
+        "kyran",
+        "elis"
+      ],
+      "luogo": "Complesso sotterraneo dei Vanthampur",
+      "quando": "Notte",
+      "tipo": "viaggio",
+      "conseguenze": "Il gruppo raggiunge indisturbato il grande portone infernale in fondo al corridoio.",
+      "note": ""
+    },
+    {
+      "id": "irruzione-sala-rituale-vanthampur",
+      "sessione": 21,
+      "ordine": 204,
+      "capitolo": "finalmente-la-vanthampur",
+      "titolo": "Irruzione nella sala rituale",
+      "cosaSuccede": "Dietro un portone infernale iscritto con la frase 'Cio che cade puo risorgere', gli Extermina irrompono in una sala dominata da una statua alata armata di spada. Vi trovano Thalamra Vanthampur in persona, affiancata da un colosso in armatura, una decina di fedeli in preghiera e un cerchio magico che imprigiona due figure: una giovane donna e uno strano topo bianco.",
+      "partecipanti": [
+        "nathan",
+        "aelar",
+        "alaster",
+        "kyran",
+        "elis",
+        "duchessa-vanthampur"
+      ],
+      "luogo": "Sala rituale dei Vanthampur",
+      "quando": "Notte",
+      "tipo": "incontro",
+      "conseguenze": "Dopo numerose sessioni di indizi e voci, la Duchessa Thalamra Vanthampur appare finalmente di persona davanti al gruppo.",
+      "note": ""
+    },
+    {
+      "id": "liberazione-ania-dal-cerchio",
+      "sessione": 21,
+      "ordine": 205,
+      "capitolo": "una-nuova-alleata",
+      "titolo": "Una nuova alleata si libera dal cerchio",
+      "cosaSuccede": "Mentre gli Extermina tentano la via diplomatica con la Duchessa, il misterioso topo bianco incrina con un'energia innaturale il cerchio magico, liberando la giovane prigioniera, che si rivela una potente incantatrice di nome Ania. La Duchessa, sprezzante, lascia che si allontani e ordina ai propri seguaci di occuparsene, dando inizio allo scontro.",
+      "partecipanti": [
+        "nathan",
+        "aelar",
+        "alaster",
+        "kyran",
+        "elis",
+        "duchessa-vanthampur",
+        "ania",
+        "sylvar"
+      ],
+      "luogo": "Sala rituale dei Vanthampur",
+      "quando": "Notte",
+      "tipo": "scoperta",
+      "conseguenze": "Ania si unisce di fatto agli Extermina nello scontro contro la Duchessa, mentre il topo bianco, ancora intrappolato, continua a lottare per liberarsi.",
+      "note": "Il topo bianco che libera Ania e, a insaputa di tutti i personaggi presenti, Sylvar in forma animale."
+    },
+    {
+      "id": "inizio-scontro-vanthampur",
+      "sessione": 21,
+      "ordine": 206,
+      "capitolo": "scontro-con-la-vanthampur",
+      "titolo": "Inizia lo scontro con la Vanthampur",
+      "cosaSuccede": "La Duchessa invoca Zariel davanti alla statua alata, che si illumina di un'aura rossa e dona a tutti i combattenti presenti nella sala una furia di battaglia, a patto di versare sangue a ogni turno. Il colosso corazzato si frappone a ogni colpo diretto alla Duchessa mentre i due cani infernali si gettano sul gruppo, atterrando Kyran.",
+      "partecipanti": [
+        "nathan",
+        "aelar",
+        "alaster",
+        "kyran",
+        "elis",
+        "ania",
+        "duchessa-vanthampur",
+        "guardiano-corazzato-vanthampur",
+        "cane-infernale-vanthampur"
+      ],
+      "luogo": "Sala rituale dei Vanthampur",
+      "quando": "Notte",
+      "tipo": "combattimento",
+      "conseguenze": "Lo scontro si rivela durissimo: la furia concessa da Zariel rende ogni avversario piu rapido e piu forte, mentre i fedeli in preghiera restano indifferenti alla battaglia.",
+      "note": ""
+    },
+    {
+      "id": "caduta-guardiano-corazzato",
+      "sessione": 21,
+      "ordine": 207,
+      "capitolo": "la-duchessa-perde-la-copertura",
+      "titolo": "La Duchessa perde la copertura",
+      "cosaSuccede": "Il colosso corazzato a guardia della Duchessa cade sotto i colpi congiunti del gruppo, rivelando la vera natura di Thalamra Vanthampur: una creatura legata a un patto infernale, capace di pugni devastanti e di rappresaglie automatiche contro chi le si avvicina. Aelar applica il Rito Cremisi alla propria freccia, mentre Kyran continua a colpire nonostante le ferite.",
+      "partecipanti": [
+        "nathan",
+        "aelar",
+        "alaster",
+        "kyran",
+        "elis",
+        "ania",
+        "duchessa-vanthampur",
+        "guardiano-corazzato-vanthampur",
+        "cane-infernale-vanthampur"
+      ],
+      "luogo": "Sala rituale dei Vanthampur",
+      "quando": "Notte",
+      "tipo": "combattimento",
+      "conseguenze": "Privata della propria copertura, la Duchessa diventa un bersaglio diretto, ma la sua forza sovrumana continua a mettere in difficolta il gruppo.",
+      "note": ""
+    },
+    {
+      "id": "mizzora-seconda-possibilita",
+      "sessione": 21,
+      "ordine": 208,
+      "capitolo": "la-duchessa-e-la-seconda-possibilita",
+      "titolo": "Mizzora concede una seconda possibilita",
+      "cosaSuccede": "Ridotta quasi alla morte da un attacco a sorpresa di Kyran, Thalamra Vanthampur invoca aiuto e dal nulla appare Mizzora, fedele consigliera di Zariel. Mizzora le concede una seconda possibilita, confermando che Baldur's Gate fa parte del medesimo piano infernale che ha distrutto Elturel, e trasforma la Duchessa in una forma piu grande, piu rapida e infernale prima di sparire promettendo di rivedere anche il gruppo.",
+      "partecipanti": [
+        "nathan",
+        "aelar",
+        "alaster",
+        "kyran",
+        "elis",
+        "ania",
+        "duchessa-vanthampur",
+        "mizzora"
+      ],
+      "luogo": "Sala rituale dei Vanthampur",
+      "quando": "Notte",
+      "tipo": "evento-chiave",
+      "conseguenze": "Si conferma il legame diretto tra il patto di Thalamra Vanthampur con Zariel e la distruzione di Elturel; Baldur's Gate viene esplicitamente indicata come prossimo obiettivo dello stesso piano. La Duchessa, trasformata, riprende il combattimento con rinnovata ferocia.",
+      "note": "Mizzora promette di rivedere il gruppo 'prima o poi': probabile futura antagonista ricorrente."
+    },
+    {
+      "id": "morte-duchessa-vanthampur",
+      "sessione": 21,
+      "ordine": 209,
+      "capitolo": "aelar-finisce-la-duchessa",
+      "titolo": "La morte della Duchessa Vanthampur",
+      "cosaSuccede": "Nella sua forma trasformata, Thalamra Vanthampur quasi uccide Alaster e Nathan con pugni devastanti, ma il gruppo non arretra. Quando la Duchessa, ormai allo stremo, si volta per colpire ancora, una freccia di Aelar la trapassa da parte a parte, dalla nuca alla fronte, uccidendola sul colpo. Il suo corpo non torna mai piu alle sembianze originarie.",
+      "partecipanti": [
+        "nathan",
+        "aelar",
+        "alaster",
+        "kyran",
+        "elis",
+        "ania",
+        "duchessa-vanthampur"
+      ],
+      "luogo": "Sala rituale dei Vanthampur",
+      "quando": "Notte",
+      "tipo": "evento-chiave",
+      "conseguenze": "Thalamra Vanthampur, Duchessa di Baldur's Gate e architetto del patto che ha distrutto Elturel, e morta. I fedeli in preghiera, indifferenti, continuano il proprio rito.",
+      "note": ""
+    },
+    {
+      "id": "cattura-anima-duchessa-vanthampur",
+      "sessione": 21,
+      "ordine": 210,
+      "capitolo": "kyran-e-lanima-della-vanthampur",
+      "titolo": "La lotta per l'anima della Duchessa",
+      "cosaSuccede": "Kyran scorge un filo rosso, l'anima della Duchessa, levarsi dal suo corpo, lo stesso fenomeno gia visto anni prima attorno a Flenner. Mentre tenta di intrappolarlo con la collana di Helm, mani diaboliche emergono a reclamarlo, dando inizio a un tiro alla fune soprannaturale che risucchia anche Nathan e Aelar. Ania uccide senza pieta i cultisti ancora in preghiera e rianima Nathan con una pozione, mentre Alaster ed Elis distruggono la statua di Zariel, recuperando una mazza magica e spezzando l'effetto che imprigionava i compagni. Con un ultimo sforzo, il gruppo strappa l'anima di Thalamra Vanthampur agli Inferi.",
+      "partecipanti": [
+        "nathan",
+        "aelar",
+        "alaster",
+        "kyran",
+        "elis",
+        "ania",
+        "duchessa-vanthampur",
+        "cultisti-zariel-vanthampur"
+      ],
+      "luogo": "Sala rituale dei Vanthampur",
+      "quando": "Notte",
+      "tipo": "evento-chiave",
+      "conseguenze": "L'anima della Duchessa viene sottratta agli Inferi prima che potesse essere reclamata per sempre; i cultisti ancora in preghiera vengono tutti uccisi da Ania. La statua di Zariel e distrutta, rivelando una mazza magica nel proprio torso.",
+      "note": "Mistero aperto: cosa significa per Kyran questo legame ricorrente con le anime in fuga (gia osservato con Flenner)?"
+    },
+    {
+      "id": "fuga-falaster-tion-hun-e-incontro-culto-drago",
+      "sessione": 21,
+      "ordine": 211,
+      "capitolo": "frughiamo-in-giro",
+      "titolo": "La fuga di Falaster e Tion Hun, e l'incontro col Culto del Drago",
+      "cosaSuccede": "Un membro del Culto del Drago, reduce dallo scontro con le guardie cittadine ai piani superiori, irrompe nella sala rituale rivendicando la vittoria sulla Duchessa gia ottenuta dal gruppo, poi si allontana a perquisire le altre stanze. Gli Extermina scoprono un passaggio segreto che risale, tramite una scala a pioli, fino alla scuderia della villa, e lo usano per far evadere in sicurezza Falaster Fisk e Satyr Tion Hun, dandosi appuntamento alla taverna del Canto Elfico.",
+      "partecipanti": [
+        "nathan",
+        "aelar",
+        "alaster",
+        "kyran",
+        "elis",
+        "ania",
+        "falaster-fisk",
+        "satyr-tion-hun",
+        "culto-drago"
+      ],
+      "luogo": "Sala rituale dei Vanthampur",
+      "quando": "Notte",
+      "tipo": "dialogo",
+      "conseguenze": "Falaster Fisk e Satyr Tion Hun vengono messi in salvo. Il Culto del Drago rimanda a 'un'altra occasione' un possibile scontro col gruppo. Ania resta con gli Extermina, ancora reticente sulla propria identita e sui propri scopi, e accenna a un legame con Elturel.",
+      "note": "Falaster collega lo scudo infernale alla propria famiglia, in apparente contraddizione con quanto rivendicato da Satyr Tion Hun in sessione 20: da chiarire."
     }
   ]
 }

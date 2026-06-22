@@ -1,0 +1,572 @@
+{
+  "$schema": "./session.schema.json",
+  "id": 21,
+  "title": "Sessione 21",
+  "videoId": "MDa8O0qUe1g",
+  "chapters": [
+    {
+      "id": "dopo-lallarme",
+      "title": "Dopo l'allarme",
+      "videoId": "HdHjD_r9bsc",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Il cane infernale dei Vanthampur giaceva ormai immobile tra i due cultisti che lo accompagnavano, le fiamme che gli percorrevano il pelo finalmente spente. Gli Extermina si concessero un istante per riprendere fiato, ancora immersi fino alle ginocchia nel liquame dei tunnel, mentre l'eco del campanello d'allarme svaniva lentamente nei cunicoli."
+        },
+        {
+          "type": "quote",
+          "text": "«Quel campanello ha svegliato l'intero formicaio. D'ora in poi sanno che siamo qui.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Non avevano ancora idea di quanto fosse vicina la fine di quella caccia. Davanti a loro restava un bivio di porte mai aperte, e da qualche parte, in fondo a quei corridoi di pietra umida, la padrona della villa che li sovrastava."
+        }
+      ]
+    },
+    {
+      "id": "cultisti-in-preghiera",
+      "title": "Cultisti in preghiera",
+      "videoId": "xYfTEXxqFOc",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Falaster Fisk e Satyr Tion Hun, rimasti a distanza di sicurezza durante lo scontro con il cane infernale, si avvicinarono guardinghi non appena la situazione si fu calmata."
+        },
+        {
+          "type": "quote",
+          "text": "«State bene? Quel cane mi sembrava piuttosto aggressivo!»"
+        },
+        {
+          "type": "quote",
+          "text": "«Siamo vivi. Sporchi fino alla cintola, ma vivi.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Tion Hun li avvertì che un ululato simile a quello appena sentito significava quasi certamente che altre bestie come quella li stavano cercando."
+        },
+        {
+          "type": "quote",
+          "text": "«Quei cani sputano fiamme, ma cacciano col naso. Coprite il vostro odore con il liquame del canale: è disgustoso, ma è la vostra migliore speranza di passare inosservati.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Per quanto poco invitante, il consiglio aveva senso, e nessuno si tirò indietro dallo strofinarsi addosso la sporcizia dei tunnel."
+        },
+        {
+          "type": "paragraph",
+          "text": "Proseguendo lungo il corridoio trovarono due porte. Kyran accostò l'orecchio elfico alla prima e percepì un fitto bisbiglio di voci sovrapposte, una decina almeno, che parlavano in una lingua incomprensibile. Anche Nathan distinse lo stesso fruscio di sottofondo senza riuscire a coglierne il senso."
+        },
+        {
+          "type": "quote",
+          "text": "«È Infernale. Stanno pregando... recitano una specie di rituale della sera. E sono molti.»"
+        },
+        {
+          "type": "quote",
+          "text": "«Una decina di fanatici in trance. Lasciamoli stare: non è una porta da aprire.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Il gruppo decise di non rischiare uno scontro contro una decina di cultisti infernali e si spostò verso la seconda porta, che si rivelò vuota."
+        },
+        {
+          "type": "paragraph",
+          "text": "Fu in quel momento che un messaggio mentale raggiunse Elis: una voce femminile, gelida e sbiancata dalla fatica, le parlò direttamente nella mente."
+        },
+        {
+          "type": "quote",
+          "text": "«Abbiamo ripulito il piano di sopra dalle guardie cittadine. Stiamo scendendo. E badate: qualcuno vi ha preceduti. Una donna si è infiltrata nella villa prima di tutti voi.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "La voce, quella di un'alleata del Culto del Drago, lasciava poco spazio ai dubbi: gli alleati draconici stavano per raggiungerli, e nei sotterranei si muoveva un'altra intrusa di cui nessuno conosceva l'identità."
+        },
+        {
+          "type": "quote",
+          "text": "«Una donna, prima di noi? E chi diavolo è? Quanti altri si aggirano in questo formicaio?»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Gli Extermina lasciarono volutamente aperta la porta dei cultisti in preghiera, intenzionati a regalarla agli alleati draconici, e proseguirono a controllare le altre stanze del complesso."
+        }
+      ]
+    },
+    {
+      "id": "la-camera-di-kreeg",
+      "title": "La camera di Kreeg",
+      "videoId": "mKoIEOCrXBI",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "La stanza successiva si rivelò una camera da letto modesta ma curata, riscaldata da una stufa in ghisa e illuminata da candelieri in ferro battuto. Due arazzi inquietanti decoravano le pareti: uno mostrava figure deformi emergere da un fiume rosso, l'altro un cadavere impiccato a un albero come una marionetta abbandonata."
+        },
+        {
+          "type": "quote",
+          "text": "«Un fiume rosso e un impiccato. Bel gusto, per addobbare la camera da letto.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Sulla scrivania, accanto a una candela consumata, restavano soltanto frammenti di lettere bruciate: qualcuno aveva distrutto ogni prova della propria identità prima di fuggire. Un forziere in ferro, privo di serratura, fu aperto a distanza con un incantesimo di Taumaturgia, senza che scattasse alcuna trappola."
+        },
+        {
+          "type": "paragraph",
+          "text": "All'interno trovarono una tunica di foggia clericale e una collana con il simbolo di una mano e un occhio. Fu Nathan a riconoscerlo per primo, alzando istintivamente il guanto su cui era impresso lo stesso emblema."
+        },
+        {
+          "type": "quote",
+          "text": "«Questo è il marchio di Helm. Lo stesso che porto io.»"
+        },
+        {
+          "type": "quote",
+          "text": "«Mi sa che abbiamo trovato la stanza di chi cercava la nostra guardiana di Helm.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Nessuno riconobbe con certezza la foggia della veste come quella del tempio di Elturel o di quello di Baldur's Gate, ma il rango che suggeriva era comunque elevato."
+        },
+        {
+          "type": "paragraph",
+          "text": "Considerando la polvere assente sulla scrivania e il letto disfatto di recente, la stanza era stata abitata fino a poco tempo prima da qualcuno con un legame profondo, e segreto, con la fede di Helm: forse lo stesso Thavius Kreeg di cui la sopravvissuta di Elturel aveva parlato tempo addietro."
+        },
+        {
+          "type": "quote",
+          "text": "«Un sacerdote di Helm che vive nelle fogne di una casata infernale. Se è davvero Kreeg, allora la rovina di Elturel parte da molto più in alto di quanto credessimo.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Convinti che la misteriosa intrusa di cui erano stati avvertiti potesse essere Reya Mantlemorn, già una volta in cerca di Kreeg, il gruppo spezzò la pietra magica che lei stessa aveva donato a Nathan, per farle sapere che si trovavano sotto la villa e non sopra. La pietra emise un breve lampo di luce, poi tornò un sasso qualunque."
+        }
+      ]
+    },
+    {
+      "id": "tra-cucine-e-corridoi",
+      "title": "Tra cucine e corridoi",
+      "videoId": "nxvyE8ihBgA",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Prima di proseguire, qualcuno raccolse l'incenso e le vesti dell'accolito morto in superficie e ne sparse l'odore lungo il cammino, nel tentativo di confondere ulteriormente la propria traccia."
+        },
+        {
+          "type": "quote",
+          "text": "«Liquame addosso e incenso davanti. A questo punto puzziamo esattamente come loro.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "I corridoi che seguirono erano silenziosi, rotti solo dal gocciolare delle condutture e dallo squittio di qualche topo nell'ombra."
+        },
+        {
+          "type": "paragraph",
+          "text": "Una seconda cucina, calda e soffocante per il fuoco ancora acceso nelle stufe, li accolse poco dopo: tavoli di legno, utensili sparsi, una catasta di legna da ardere. Oltre un'altra porta, una sala da pranzo sotterranea con una ventina di posti a tavola custodiva ancora piatti tiepidi e vivande lasciate a metà: chiunque vi avesse cenato era corso di sopra al primo rumore di battaglia."
+        },
+        {
+          "type": "quote",
+          "text": "«Cena interrotta, ancora calda. Sono scappati da poco, e di corsa.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Due figure si avvicinavano lungo il corridoio. Gli Extermina, non volendo rischiare un altro scontro, scelsero l'astuzia: si dileguarono con una manovra rapida, scambiandosi di stanza non appena le due sentinelle passarono, e le lasciarono proseguire senza essere notati. Poi ripresero l'esplorazione verso un grande portone in fondo al corridoio."
+        }
+      ]
+    },
+    {
+      "id": "finalmente-la-vanthampur",
+      "title": "Finalmente la Vanthampur",
+      "videoId": "I0hFW3kwEKY",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Il portone che li attendeva era doppio, in ferro battuto, decorato da rune infernali. Elis, capace di leggerle, tradusse l'iscrizione che lo sovrastava."
+        },
+        {
+          "type": "quote",
+          "text": "«C'è scritto: <em>Ciò che cade può risorgere</em>. Tenetelo a mente: qui dentro nessuno muore davvero come ci aspetteremmo.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Da dietro la porta filtravano preghiere sommesse in Infernale, e sopra di esse una voce femminile, nervosa e carica d'autorità, che esigeva risposte da qualcuno."
+        },
+        {
+          "type": "quote",
+          "text": "«Parla! Dimmi chi sei!»"
+        },
+        {
+          "type": "quote",
+          "text": "«Quella è lei. La padrona di casa. Niente più stanze: è arrivato il momento.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Senza più ragioni per attendere, gli Extermina spalancarono il portone e irruppero nella sala. Enormi candelabri di ferro fiancheggiavano una statua imponente, la figura solenne di un essere alato con una spada levata. Ai piedi della statua, decine di fedeli restavano rannicchiati in preghiera, mentre poco più avanti una donna anziana, affiancata da un colosso in armatura, incombeva su un cerchio magico."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dentro quel cerchio, incatenate e sospese a mezz'aria da fili di energia, si trovavano due prigioniere: una giovane donna dai tratti minuti e inquieti, e uno strano topo bianco, anch'esso avvolto dagli stessi legami arcani."
+        },
+        {
+          "type": "quote",
+          "text": "«Il topo bianco. È di nuovo lui.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "La donna anziana si voltò verso i nuovi arrivati con un sorriso sottile, per nulla turbata dall'irruzione."
+        },
+        {
+          "type": "quote",
+          "text": "«A quanto pare, abbiamo degli ospiti non graditi.»"
+        }
+      ]
+    },
+    {
+      "id": "una-nuova-alleata",
+      "title": "Una nuova alleata",
+      "videoId": "oqGxsgFpBCg",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "La donna si presentò senza più indugi. Nonostante i suoi settantacinque anni dichiarati, le sue braccia erano massicce quanto le cosce, frutto di una vita iniziata tra le fognature di Baldur's Gate e terminata ai vertici della politica cittadina."
+        },
+        {
+          "type": "quote",
+          "text": "«Thalamra Vanthampur, la padrona di casa. Vorrei sapere, cortesemente, chi sarebbero i miei ospiti così poco graditi.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Il colosso corazzato al suo fianco non disse una parola, limitandosi a vegliare su di lei come un'ombra di ferro. Nathan invocò il proprio Senso Divino e percepì tre presenze immonde nella sala, oltre ai due cani infernali accucciati ai lati del trono di preghiera."
+        },
+        {
+          "type": "quote",
+          "text": "«Tre presenze infernali, e due cani. Attenti: non è quello che sembra.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Gli Extermina tentarono comunque la via diplomatica, presentandosi come ambasciatori venuti ad avvertirla di un pericolo peggiore di loro."
+        },
+        {
+          "type": "quote",
+          "text": "«Siamo venuti ad avvisarti. Il Culto del Drago si è già infiltrato nella tua dimora. Non siamo noi il tuo vero problema.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "La Duchessa li ascoltò con un'eleganza fredda, poi rispose che ne era già al corrente, e che la loro premura, per quanto cortese, era del tutto inutile. Il suo sguardo si posò su Elis con un disprezzo che non si curò di nascondere."
+        },
+        {
+          "type": "quote",
+          "text": "«Hai la fortuna di discendere da una stirpe infernale, ma non per questo sarò gentile con te. Io sono l'unica vera infernale qui dentro: voi siete soltanto degli stupidi imitatori.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Mentre la conversazione si protraeva, qualcosa si muoveva inosservato all'interno del cerchio magico. Il topo bianco, raccogliendo un'energia innaturale, fece vibrare le linee dell'incantesimo finché non si incrinarono, liberando la giovane prigioniera dai suoi legami."
+        },
+        {
+          "type": "quote",
+          "text": "«Lo sapevo che non eri un topo normale, tu.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "La Duchessa scaraventò la bestiolina contro il muro con un solo gesto, ma era già troppo tardi: la prigioniera, libera, si rivolse a lei con un sorriso di sfida."
+        },
+        {
+          "type": "quote",
+          "text": "«Questa è la dimostrazione che i miei poteri sono più forti dei tuoi.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Si allontanò dal centro della sala mentre Thalamra Vanthampur, con un gesto sprezzante, ordinava ai propri seguaci di lasciarla fuggire: ci avrebbero pensato loro. Non restava più nulla da dire. La Duchessa diede il segnale, e la battaglia ebbe inizio."
+        }
+      ]
+    },
+    {
+      "id": "scontro-con-la-vanthampur",
+      "title": "Scontro con la Vanthampur",
+      "videoId": "FCBNsCxXczI",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Nathan aprì le ostilità con un fendente potenziato dalla propria furia divina, ma il colosso corazzato si gettò davanti alla Duchessa per intercettare il colpo, offrendole mezza copertura con il proprio corpo. La giovane appena liberata, intanto, evocò un campo di protezione e si rifugiò dietro Nathan, aggrappata alla sua schiena come un'ombra spaventata."
+        },
+        {
+          "type": "quote",
+          "text": "«Mi chiamo Ania. E non ho intenzione di morire qui: tienimi coperta, paladino.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Thalamra Vanthampur si voltò verso la statua alata e recitò un'invocazione in Infernale, comprensibile soltanto a Elis e ad Ania."
+        },
+        {
+          "type": "quote",
+          "text": "«Nostra signora Zariel, concedici la tua furia, il tuo fervore per la battaglia. Dai a tutti noi lo spirito, la rabbia, la voglia di combattere la tua guerra.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Un'aura rossa esplose dalla statua e inondò la sala. Chiunque vi fosse coinvolto si sentì investito da una furia quasi soprannaturale, più rapido e più forte in battaglia, ma costretto a versare sangue a ogni turno, pena un dolore psichico lancinante."
+        },
+        {
+          "type": "quote",
+          "text": "«Quella statua... ci sta forzando la mano. Dobbiamo colpire, o saremo noi a soffrire.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Anche i due cani infernali, avvolti dalla stessa aura, si scagliarono contro il gruppo: uno azzannò Kyran con una furia tale da gettarla a terra nell'acqua del canale."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aelar prese la mira sulla statua stessa, incerto se colpire l'idolo o la sua padrona, mentre Alaster avvolse la Duchessa e uno dei cani in un velo di Sfortuna. Le energie spettrali che Kyran era abituata a evocare attorno alle proprie mani danzarono nell'aria, colpendo i mostri uno dopo l'altro, mentre i fedeli in preghiera restavano immobili, indifferenti allo scontro che si scatenava a pochi passi da loro."
+        }
+      ]
+    },
+    {
+      "id": "la-duchessa-perde-la-copertura",
+      "title": "La Duchessa perde la copertura",
+      "videoId": "58LrN5DjmfE",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Il colosso corazzato cadde sotto i colpi congiunti del gruppo, privando finalmente Thalamra Vanthampur della propria copertura. Fu in quel momento che la sua vera natura si rivelò: non una semplice nobildonna, ma una creatura legata a un patto infernale, capace di scagliare pugni di una potenza devastante, ognuno seguito da una rappresaglia automatica contro chiunque le si avvicinasse troppo."
+        },
+        {
+          "type": "quote",
+          "text": "«Adesso è scoperta! Ma attenti ai pugni: chi le si avvicina la paga cara.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Aelar incise la propria pelle e applicò il Rito Cremisi alla freccia incoccata, marcando la Duchessa come bersaglio per il proprio sangue prima di scaricarle addosso colpo dopo colpo. Kyran, sollevatasi a fatica dall'acqua, intonò una preghiera di benedizione per i compagni mentre la sua arma spettrale continuava a colpire da sola, mossa da un cenno della sua volontà."
+        },
+        {
+          "type": "quote",
+          "text": "«Sei mia.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "La forza della Duchessa si rivelò sovrumana: ogni pugno scagliato sembrava capace di spaccare ossa con la stessa facilità con cui un fabbro piega il metallo. Nonostante la furia dei suoi colpi, il gruppo mantenne la pressione, abbattendo uno dei due cani infernali in un'esplosione di fiamme mentre l'altro continuava ad accanirsi su Kyran, ormai a corto di forze."
+        }
+      ]
+    },
+    {
+      "id": "la-duchessa-e-la-seconda-possibilita",
+      "title": "La Duchessa e la seconda possibilità",
+      "videoId": "xP0iany4oOk",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Kyran approfittò di un varco per colpire la Duchessa da dietro con un attacco carico di energia necrotica, riducendola a un soffio dalla morte. Thalamra Vanthampur si voltò di scatto, il terrore dipinto sul volto per la prima volta in tutto lo scontro."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un boato scosse la sala: dal pavimento sgorgarono fiamme che formarono un pentacolo, e da una nube nera, tra piume cadute dal nulla, emerse una figura infernale sconosciuta. Thalamra Vanthampur si gettò in ginocchio, afferrandone le vesti come una supplice."
+        },
+        {
+          "type": "quote",
+          "text": "«Mizzora, mia signora... ho tenuto fede a tutti i patti. Vi prego, datemi la possibilità di rinascere.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "La diavolessa le accarezzò il volto con una tenerezza inquietante, poi si rivolse a lei con un tono che non lasciava dubbi su chi comandasse davvero in quella stanza."
+        },
+        {
+          "type": "quote",
+          "text": "«Sei stata molto brava, cucciola. Avrai una seconda possibilità. Ma è l'ultima: Zariel sa essere magnanima, ma è anche molto esigente. Questa città sarà parte dei vostri piani, come fu Elturel. Non fallire di nuovo, o ti aspetterà una sorte peggiore dello Stige.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Solo allora la figura infernale parve notare gli Extermina, osservandoli con un sorriso colmo di superiorità."
+        },
+        {
+          "type": "quote",
+          "text": "«Il mio nome è Mizzora: la più fedele e la più vicina consigliera della nostra cara, sommissima Zariel. Siete davvero coraggiosi, nobili avventurieri, a essere arrivati fin qui per sventare i piani della mia carissima Thalamra.»"
+        },
+        {
+          "type": "quote",
+          "text": "«Una consigliera di Zariel, in carne e ossa. Allora è vero: tutto questo porta dritto all'Averno.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Mizzora si chinò e offrì la propria mano alla Duchessa, che la baciò con devozione. Nell'istante in cui le sue labbra toccarono quella pelle infernale, fiamme nere avvolsero il corpo di Thalamra Vanthampur, bruciandola e rimodellandola in qualcosa di nuovo: una forma più grande, più infernale, più letale di quella con cui aveva iniziato lo scontro."
+        },
+        {
+          "type": "quote",
+          "text": "«Non resterò qui a osservare i vostri giochetti da mortali: ho cose ben più importanti da fare. Ci vedremo presto, Thalamra. E rivedrò anche voi, prima o poi.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Con uno schiocco di fiamme Mizzora dissolse il proprio corpo in un rivolo di liquame infernale che scomparve nel pavimento, lasciando la sala alla rinata Duchessa: più forte, più rapida, e con i pugni ora capaci di sfondare uno scudo come fosse carta."
+        }
+      ]
+    },
+    {
+      "id": "aelar-finisce-la-duchessa",
+      "title": "Aelar finisce la Duchessa",
+      "videoId": "f79VmA134Yk",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "La nuova forma di Thalamra Vanthampur si rivelò una furia incontenibile. Una mano d'artiglio di pietra, evocata da Alaster dal pavimento, tentò di immobilizzarla, ma la Duchessa se ne liberò con un solo strattone per scagliarsi contro Alaster con un pugno che lo mandò a sbattere contro l'altare, sfondandogli lo scudo come se fosse di carta."
+        },
+        {
+          "type": "quote",
+          "text": "«Mi ha sfondato lo scudo come fosse carta! Non lasciatela avvicinare a nessuno!»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Ania, ormai apertamente al fianco del gruppo, intonò un'ispirazione di scherno contro la Duchessa, indebolendone la prossima resistenza, mentre Nathan continuava a frapporsi tra lei e i compagni più fragili, incassando colpo dopo colpo."
+        },
+        {
+          "type": "quote",
+          "text": "«Forza, paladino, spacca i cubi!»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Un pugno colse Nathan in pieno petto, lasciandolo a un soffio dalla morte: tre soli punti vita lo separavano dal collasso. Sopravvisse al colpo successivo solo per un margine infinitesimale, mentre tutto il gruppo tratteneva il fiato."
+        },
+        {
+          "type": "quote",
+          "text": "«Resisti, Nathan! Helm ti veglia: non cadere adesso!»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Nonostante la furia della Duchessa, il gruppo non arretrò. Nathan, in nome di Helm, continuò a colpire con la spada incandescente della propria ira divina; Kyran resse la posizione difendendo i compagni più esposti; Ania offrì supporto con le proprie invocazioni, mentre Aelar attendeva il momento giusto, l'arco già teso e la freccia marcata dal Rito Cremisi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Quando la Duchessa, ormai allo stremo, tentò di voltarsi per colpire ancora, Aelar scoccò. La freccia attraversò l'aria e la trapassò da parte a parte, entrando dalla nuca e uscendo davanti, esattamente tra gli occhi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Thalamra Vanthampur, Duchessa di Baldur's Gate, crollò a terra senza un grido. Il suo corpo, ancora avvolto nella forma infernale donatale da Mizzora, non tornò mai più alle sue antiche sembianze. Lo scontro era finito."
+        },
+        {
+          "type": "paragraph",
+          "text": "I fedeli, indifferenti fino all'ultimo, continuarono imperturbati a pregare in un angolo della sala, come se la morte della loro signora non li riguardasse affatto."
+        }
+      ]
+    },
+    {
+      "id": "kyran-e-lanima-della-vanthampur",
+      "title": "Kyran e l'anima della Vanthampur",
+      "videoId": "6I_iYaXsvns",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Mentre il gruppo riprendeva fiato, Kyran notò qualcosa che gli altri non potevano vedere: un filo rosso, sottile e fluttuante, che si levava dal cadavere della Duchessa. Lo aveva già visto una volta, anni prima, attorno al corpo dell'Alto Myrkulita Flenner."
+        },
+        {
+          "type": "quote",
+          "text": "«La sua anima sta scappando dal corpo. L'ho già visto, una volta. Se non la fermo, gli Inferi se la prenderanno.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Avvicinò la collana recuperata nella camera di Kreeg al filo rosso, sperando di intrappolarlo, ma l'anima resisteva, come ancorata a qualcosa che la tratteneva. Mentre tentava di afferrarla, dal punto stesso in cui il filo si originava emersero mani diaboliche, pronte a reclamare quello spirito per gli Inferi: iniziò così un vero e proprio tiro alla fune tra Kyran e le forze infernali."
+        },
+        {
+          "type": "quote",
+          "text": "«Non riesco a tenerla da sola! Tirate, dannazione, tirate!»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan e Aelar, accorsi per darle una mano, furono risucchiati nello stesso istante in quella lotta invisibile: i loro occhi divennero completamente neri, e ai loro occhi i compagni rimasti fuori da quel reame si trasformarono in semplici ombre in movimento. Nathan, nel tentativo di staccare Aelar da Kyran, crollò privo di sensi, vittima dello sforzo sovrumano richiesto da quella battaglia per un'anima."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ania, intanto, si dimostrò tutt'altro che tenera: prese una pozione dalla borsa di Falaster e corse a soccorrere Nathan, scuotendolo senza alcun riguardo."
+        },
+        {
+          "type": "quote",
+          "text": "«Brutto ramollito, svegliati: non sono stata salvata per lasciarti morire qui.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Mentre Nathan si riprendeva, Ania si rivolse ai cultisti ancora rannicchiati in preghiera, ormai indifesi e indifferenti a tutto ciò che li circondava. Senza esitazione, fila per fila, li zittì e li uccise uno dopo l'altro, in un silenzio quasi rituale, prima che chiunque potesse fermarla."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nel frattempo, Alaster ed Elis si avvicinarono alla statua alata che dominava la sala, ormai convinti che la sua energia, dedicata a Zariel, fosse la causa del legame innaturale che teneva prigionieri i loro compagni."
+        },
+        {
+          "type": "quote",
+          "text": "«È la statua. Finché regge quell'idolo, Kyran e gli altri restano intrappolati. Abbattiamola.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Dopo averla colpita a lungo, la statua si sgretolò e cadde in pezzi, rivelando una mazza ferrata magica nascosta nel torso: un'arma perfetta per un paladino."
+        },
+        {
+          "type": "paragraph",
+          "text": "Con la distruzione della statua, l'effetto che imprigionava Nathan, Kyran e Aelar nel reame del tiro alla fune si affievolì. In un ultimo sforzo, sostenuti da un'energia che pareva superare i limiti della divinità, i tre riuscirono finalmente a strappare il filo rosso dalle mani infernali, sottraendo l'anima di Thalamra Vanthampur agli Inferi prima che potesse essere reclamata per sempre."
+        }
+      ]
+    },
+    {
+      "id": "frughiamo-in-giro",
+      "title": "Frughiamo in giro",
+      "videoId": "Q4zajy3tm4s",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Tornati in sé, ancora storditi dalla lotta per l'anima della Duchessa, gli Extermina si ritrovarono davanti Ania, che li osservava con curiosità non priva di sospetto."
+        },
+        {
+          "type": "quote",
+          "text": "«Siete per caso compagni di sventura? Non mi sembrate molto affiatati.»"
+        },
+        {
+          "type": "quote",
+          "text": "«Diciamo che ci siamo scelti a vicenda per necessità. L'affiatamento viene dopo, se sopravviviamo.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Prima che la conversazione potesse proseguire, qualcuno iniziò a forzare il portone dall'esterno. Il gruppo si preparò allo scontro, ma quando la porta si spalancò, a comparire fu un membro del Culto del Drago, ancora segnato dal combattimento sostenuto ai piani superiori contro le guardie cittadine."
+        },
+        {
+          "type": "quote",
+          "text": "«Festa finita. Mi dispiace: siamo stati più veloci.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Il dragonide guardò Ania con un'espressione che lasciò intendere un riconoscimento non spiegato a parole, mentre qualcuno del gruppo, con un calcio sprezzante, ribaltava il cranio della Duchessa morta a terra."
+        },
+        {
+          "type": "quote",
+          "text": "«La preda è già fredda. Tenetevela: noi abbiamo altri fedeli da cacciare nelle altre stanze.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Soddisfatto della vendetta già consumata, il cultista rifiutò l'invito a unirsi alla caccia dei fedeli rimasti e preferì lasciare agli Extermina la propria preda."
+        },
+        {
+          "type": "paragraph",
+          "text": "Mentre i dragonidi si allontanavano a controllare il resto del complesso, Elis percepì attraverso il legame mentale i loro uomini discutere se valesse la pena rivoltarsi anche contro il gruppo, una volta concluso l'assedio: per il momento, decisero di rimandare quella resa dei conti a un'altra occasione."
+        },
+        {
+          "type": "quote",
+          "text": "«Stanno già pensando a quando toccherà a noi. Quegli alleati non sono amici: teniamolo bene a mente.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Esplorando la sala con più calma, gli Extermina scoprirono dietro un pannello smosso di recente un passaggio segreto: una scala a pioli che saliva verso una botola, sbloccabile solo dal loro lato. Salendola, si ritrovarono nella scuderia della villa, lo stesso scarico fognario che Sylvar aveva individuato tempo prima, con lo stalliere ormai morto e due cavalli mancanti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Fu quella la via scelta per far evadere in sicurezza Falaster Fisk e l'altro prigioniero liberato dalle segrete, lontano dal Culto del Drago e da qualunque altro pericolo restasse nella villa. Prima di separarsi, Falaster strinse la mano di Kyran."
+        },
+        {
+          "type": "quote",
+          "text": "«Lo scudo... se lo trovate, è la mia famiglia. Vi aspettiamo alla taverna del Canto Elfico, tra un giorno o due, dove ci avete già salvato la vita una volta.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Mentre il gruppo tornava a controllare le ultime stanze, Alaster, ancora celato dall'invisibilità, si avvicinò ad Ania per ringraziarla dell'aiuto prestato durante lo scontro per l'anima della Duchessa. Lei, pur non potendolo vedere, rispose con un tono che non ammetteva equivoci."
+        },
+        {
+          "type": "quote",
+          "text": "«Non sei spazzatura come quei due popolani: potresti ancora esserci utile. Ho sentito il vostro gruppo nominare Elturel, prima. Quanto interessante. Se vuoi salvarti la vita, dovrai seguirci: non ho detto 'a noi'. Ho detto 'a me'. Io non sono di nessuno, e non sono un oggetto.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Alle domande su chi fossero davvero Falaster e l'altro prigioniero, e su cosa stesse cercando in quel luogo, Ania non rispose: solo un invito secco a seguirla, e la promessa di altre spiegazioni in futuro."
+        },
+        {
+          "type": "paragraph",
+          "text": "Esausti, e con l'anima della Duchessa finalmente al sicuro dagli Inferi, gli Extermina decisero che era tempo di fermarsi, lasciando per la prossima discesa il mistero di chi fosse davvero quella nuova, enigmatica alleata."
+        }
+      ]
+    }
+  ]
+}

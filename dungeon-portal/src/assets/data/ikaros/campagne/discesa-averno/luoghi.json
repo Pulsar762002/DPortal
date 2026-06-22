@@ -1,7 +1,7 @@
 {
   "$schema": "./luoghi.schema.json",
   "campagna": "discesa-averno",
-  "ultimoAggiornamento": 19,
+  "ultimoAggiornamento": 21,
   "luoghi": [
     {
       "id": "elturel",
@@ -1268,6 +1268,10 @@
         {
           "sessione": 16,
           "testo": "Solo citata: Volo consiglia a Elis di recarvisi per studiare davvero le fratture planari. Il nome resta impresso come possibile meta futura; il gruppo non vi si reca."
+        },
+        {
+          "sessione": 20,
+          "testo": "Citata di nuovo: l'investigatore Falaster Fisk, liberato dalle segrete dei Vanthampur, rivela di lavorare per la studiosa Silvira Savikas, residente proprio a Candlekeep ed esperta di questioni infernali. Il nome torna a galla come possibile risorsa per studiare lo scudo infernale appena recuperato."
         }
       ],
       "misteri": []
@@ -1358,7 +1362,9 @@
       "apparizioni": [
         17,
         18,
-        19
+        19,
+        20,
+        21
       ],
       "note": [
         {
@@ -1372,11 +1378,18 @@
         {
           "sessione": 19,
           "testo": "ASSALTO (prosegue): gli Extermina conquistano il piano inferiore (cucine, alloggi e servitu barricata, lasciata indisturbata) e poi il piano superiore, espugnando la guarnigione d'elite della casata. Vi trovano gli appartamenti di Thurstwell Vanthampur (ucciso), una libreria/studio difeso da un Helmed Horror, camere lussuose e un balcone affacciato sul cortile da cui osservano il Culto del Drago ancora in lotta con le guardie. Un ingresso nascosto ai sotterranei, riservato alla famiglia, si apre presso le cucine. Restano da esplorare alcune porte chiuse e gli appartamenti della Duchessa."
+        },
+        {
+          "sessione": 20,
+          "testo": "ASSALTO (si conclude in superficie): saccheggiati lo studio dello Helmed Horror (fogli rituali, libri rari) e la camera della Duchessa Thalamra (gioielli, secondo tressym, forziere trappolato), gli Extermina raggiungono la piccionaia della torretta e osservano da li il Culto del Drago ancora impegnato in cortile. Usando la chiave di Thurstwell aprono infine l'ingresso nascosto presso le cucine e scendono nel complesso sotterraneo, lasciando la villa in superficie alle proprie spalle."
+        },
+        {
+          "sessione": 21,
+          "testo": "L'assalto si conclude definitivamente: nella sala rituale del complesso sotterraneo gli Extermina trovano e uccidono Thalamra Vanthampur in persona. La scuderia, gia individuata da Sylvar in sessione 17 come unico sbocco esterno delle fogne, si rivela anche l'uscita di un passaggio segreto dalla sala rituale, usato per far evadere due prigionieri liberati dalle segrete."
         }
       ],
       "misteri": [
-        "Perche i Vanthampur hanno fatto distruggere e isolare le fogne sotto la propria villa? Cosa nascondono nel sottosuolo?",
-        "Dove si trovano i Vanthampur mentre il Culto del Drago assalta la loro villa?"
+        "Perche i Vanthampur hanno fatto distruggere e isolare le fogne sotto la propria villa, al punto da nascondervi sia una sala dedicata a Zariel sia il rifugio di Thavius Kreeg?"
       ]
     },
     {
@@ -1420,20 +1433,32 @@
       "abitantiNotabili": [
         "cane-infernale-vanthampur",
         "imp-vanthampur",
-        "diavolo-aguzzino-vanthampur"
+        "diavolo-aguzzino-vanthampur",
+        "diavoli-cantina-vanthampur",
+        "cultisti-zariel-vanthampur"
       ],
       "primaApparizione": 18,
       "apparizioni": [
-        18
+        18,
+        20,
+        21
       ],
       "note": [
         {
           "sessione": 18,
           "testo": "PRIMA APPARIZIONE: Sylvar, in forma di topo, vi si insinua oltre una fessura. Scopre un'area sorvegliata da un cane infernale, da pattuglie di uomini con imp e turiboli, e collegata a segrete piene di prigionieri. Le sbarre di ferro impediscono il passaggio a chiunque non sia minuscolo."
+        },
+        {
+          "sessione": 20,
+          "testo": "ESPLORATO DI PERSONA: gli Extermina vi entrano dall'ingresso nascosto presso le cucine, attraversando una cantina di vini (dove sconfiggono tre diavoli nascosti in una catasta di casse), un labirinto di tunnel fognari con un misterioso topo bianco, un'imboscata di cultisti e imp, e infine il diavolo aguzzino e le segrete dove erano rinchiusi i prigionieri. Un campanello d'allarme suonato da una stanza sigillata scatena un ultimo scontro contro il cane infernale prima che il gruppo, esausto, si fermi davanti a un bivio di nuove porte."
+        },
+        {
+          "sessione": 21,
+          "testo": "Oltre il bivio di porte, gli Extermina scoprono una camera segreta abitata di recente (sospettata appartenere a Thavius Kreeg), una seconda cucina, una sala da pranzo abbandonata in fretta e infine, dietro un portone infernale, la sala rituale dove la Duchessa viene affrontata e uccisa. Decine di fedeli devoti a Zariel pregavano senza sosta in piu punti del complesso, alimentando i rituali della casata."
         }
       ],
       "misteri": [
-        "Cosa custodiscono i Vanthampur nel complesso sotterraneo sotto la propria villa, e fin dove si estende?"
+        "Fin dove si estende davvero il complesso sotterraneo dei Vanthampur, oltre la sala rituale e la camera di Kreeg?"
       ]
     },
     {
@@ -1446,16 +1471,23 @@
       "descrizione": "Le prigioni del complesso sotterraneo dei Vanthampur: celle e stanze di tortura nascoste sotto la villa. Una sala e illuminata solo da una lanterna verdognola sospesa al soffitto, dove un diavolo aguzzino frusta i prigionieri incatenati mentre altri attendono nell'oscurita. Un luogo di sofferenza al servizio degli interessi infernali della casata.",
       "stato": "intatto",
       "abitantiNotabili": [
-        "diavolo-aguzzino-vanthampur"
+        "diavolo-aguzzino-vanthampur",
+        "falaster-fisk",
+        "satyr-tion-hun"
       ],
       "primaApparizione": 18,
       "apparizioni": [
-        18
+        18,
+        20
       ],
       "note": [
         {
           "sessione": 18,
           "testo": "PRIMA APPARIZIONE: Sylvar, sbirciando sotto una porta, vi vede un diavolo torturare a frustate un uomo incatenato e molti altri prigionieri nell'ombra. Riferira la scoperta agli Extermina, ponendo la questione del loro salvataggio prima che il Culto del Drago li trovi."
+        },
+        {
+          "sessione": 20,
+          "testo": "LIBERAZIONE: dopo aver abbattuto il diavolo aguzzino, gli Extermina apron le celle. Concedono una morte pietosa ai prigionieri ormai trasformati in lemuri e liberano due superstiti lucidi, l'investigatore Falaster Fisk e la nobildonna Satyr Tion Hun, che rivela la presenza nella villa dello scudo infernale rubato alla sua famiglia."
         }
       ],
       "misteri": [
@@ -1561,20 +1593,128 @@
         "guardie-vanthampur",
         "guardia-superstite-vanthampur",
         "helmed-horror-vanthampur",
-        "imp-vanthampur"
+        "imp-vanthampur",
+        "tressym-vanthampur"
       ],
       "primaApparizione": 19,
       "apparizioni": [
-        19
+        19,
+        20
       ],
       "note": [
         {
           "sessione": 19,
           "testo": "PRIMA APPARIZIONE: teatro di tre scontri (la guarnigione d'elite sulle scale, Thurstwell coi suoi imp, l'Helmed Horror dello studio). Vi vengono saccheggiati uno specchio prezioso e due forzieri, trovati il tomo 'Apocalipto', un cilindro-rompicapo infernale e un anello col motto di casa. Dal balcone il gruppo verifica che il Culto del Drago tiene ancora impegnate le difese. Esausti, gli Extermina interrompono qui l'esplorazione: restano porte chiuse e gli appartamenti della Duchessa."
+        },
+        {
+          "sessione": 20,
+          "testo": "ESPLORAZIONE COMPLETATA: nello studio dello Helmed Horror gli Extermina trovano fogli per un 'Rituale della Fiamma di Avernus' e libri rari (tra cui 'Guerra di Sangue'); una scala a chiocciola porta a una piccionaia con vista sul cortile. Gli appartamenti della Duchessa Thalamra rivelano gioielli, un secondo tressym e un forziere trappolato con registri infernali. Con la chiave di Thurstwell il gruppo apre infine l'ingresso ai sotterranei presso le cucine, lasciando il piano superiore del tutto saccheggiato."
+        }
+      ],
+      "misteri": []
+    },
+    {
+      "id": "camera-duchessa-vanthampur",
+      "nome": "Camera della Duchessa Vanthampur",
+      "tipo": "struttura",
+      "luogoPadre": "piano-superiore-villa-vanthampur",
+      "regione": "Costa della Spada",
+      "immagine": null,
+      "descrizione": "Gli appartamenti privati di Thalamra Vanthampur: una specchiera ovale finemente decorata, boccette di profumo, cosmetici, aghi e spolette di filo, corsetti e abiti eleganti, un tappeto decorativo su pavimento in legno intarsiato. Un montacarichi collega la stanza direttamente alle cucine sottostanti. Un letto a baldacchino nasconde un secondo tressym; un pesante forziere di ferro, chiuso da un lucchetto a forma di diavolo cornuto, e protetto da una trappola a gas venefico.",
+      "stato": "danneggiato",
+      "abitantiNotabili": [
+        "duchessa-vanthampur",
+        "tressym-vanthampur"
+      ],
+      "primaApparizione": 20,
+      "apparizioni": [
+        20
+      ],
+      "note": [
+        {
+          "sessione": 20,
+          "testo": "PRIMA APPARIZIONE: gli Extermina vi trovano profumi pregiati, una spazzola d'argento con lapislazzuli, una collana di perle, un medaglione di platino a forma di gatto alato e un secondo tressym nascosto sotto il letto. Il forziere trappolato investe il gruppo con una nube di veleno invecchiato prima di rivelare registri infernali, un set da calligrafo, sostanze da avvelenatore e una sacca di monete."
         }
       ],
       "misteri": [
-        "Cosa custodiscono le porte ancora chiuse e gli appartamenti della Duchessa al piano superiore?"
+        "Cosa rivelano davvero i registri infernali trovati nel forziere della Duchessa, una volta tradotti?"
+      ]
+    },
+    {
+      "id": "cantina-vanthampur",
+      "nome": "Cantina della villa Vanthampur",
+      "tipo": "struttura",
+      "luogoPadre": "complesso-sotterraneo-vanthampur",
+      "regione": "Costa della Spada",
+      "immagine": null,
+      "descrizione": "Una cantina asciutta raggiunta tramite l'ingresso nascosto presso le cucine, sorretta da quattro colonne di pietra fino a un soffitto di circa tre metri. Dodici barili di legno sono allineati lungo le pareti, alcuni equipaggiati con rubinetti d'ottone; al centro della stanza un cumulo disordinato di casse fungeva da nascondiglio. Una botte con etichetta sbiadita che inizia per 'EX' viene conservata intatta dal gruppo per un futuro brindisi.",
+      "stato": "intatto",
+      "abitantiNotabili": [
+        "diavoli-cantina-vanthampur"
+      ],
+      "primaApparizione": 20,
+      "apparizioni": [
+        20
+      ],
+      "note": [
+        {
+          "sessione": 20,
+          "testo": "PRIMA APPARIZIONE: tre diavoli nascosti nella catasta di casse al centro della stanza attaccano gli Extermina non appena Kyran appicca il fuoco al loro nascondiglio. Sconfitti i diavoli, il gruppo spegne l'incendio, scarta i barili di poco valore e conserva intatta una botte sospettata di custodire un'annata speciale, prima di proseguire verso i tunnel fognari attraverso un'altra porta."
+        }
+      ],
+      "misteri": []
+    },
+    {
+      "id": "camera-segreta-kreeg",
+      "nome": "La camera segreta di Kreeg",
+      "tipo": "struttura",
+      "luogoPadre": "complesso-sotterraneo-vanthampur",
+      "regione": "Costa della Spada",
+      "immagine": null,
+      "descrizione": "Una camera da letto modesta ma curata nel complesso sotterraneo dei Vanthampur, riscaldata da una stufa in ghisa. Due arazzi inquietanti (figure deformi in un fiume rosso; un cadavere impiccato come una marionetta) ne decorano le pareti. Una scrivania con lettere bruciate e un forziere in ferro privo di serratura, abitata di recente e abbandonata in fretta.",
+      "stato": "intatto",
+      "abitantiNotabili": [],
+      "primaApparizione": 21,
+      "apparizioni": [
+        21
+      ],
+      "note": [
+        {
+          "sessione": 21,
+          "testo": "PRIMA APPARIZIONE: gli Extermina la trovano abbandonata in fretta, con lettere bruciate sulla scrivania per non lasciare prove. Nel forziere trovano una tunica clericale e una collana col simbolo della mano e dell'occhio di Helm, identico al marchio sul guanto di Nathan, facendo sospettare che la stanza appartenesse a Thavius Kreeg. Il gruppo spezza qui la propria pietra-segnale, sospettando che la misteriosa intrusa che li ha preceduti sia Reya Mantlemorn."
+        }
+      ],
+      "misteri": [
+        "La camera appartiene davvero a Thavius Kreeg? Dove è fuggito dopo averla abbandonata in fretta?"
+      ]
+    },
+    {
+      "id": "sala-rituale-vanthampur",
+      "nome": "Sala rituale dei Vanthampur",
+      "tipo": "struttura",
+      "luogoPadre": "complesso-sotterraneo-vanthampur",
+      "regione": "Costa della Spada",
+      "immagine": null,
+      "descrizione": "Un'ampia sala nel complesso sotterraneo dei Vanthampur, dominata da una grande statua alata armata di spada, dedicata a Zariel. Enormi candelabri di ferro la illuminano; un cerchio magico sacrificale occupa il centro della stanza, davanti all'altare dove la Duchessa Thalamra Vanthampur conduceva i propri rituali infernali. Una decina di fedeli vi prega senza sosta. Un pannello smosso di recente cela un passaggio segreto, una scala a pioli che risale fino alla scuderia della villa.",
+      "stato": "danneggiato",
+      "abitantiNotabili": [
+        "duchessa-vanthampur",
+        "cultisti-zariel-vanthampur",
+        "guardiano-corazzato-vanthampur",
+        "cane-infernale-vanthampur"
+      ],
+      "primaApparizione": 21,
+      "apparizioni": [
+        21
+      ],
+      "note": [
+        {
+          "sessione": 21,
+          "testo": "PRIMA APPARIZIONE: dietro un portone infernale iscritto con la frase 'Cio che cade puo risorgere', gli Extermina trovano qui la Duchessa Thalamra Vanthampur in persona, affiancata da un guardiano corazzato, due cani infernali e una decina di fedeli in preghiera, con Ania e un topo bianco incatenati in un cerchio magico sacrificale. Qui la Duchessa viene affrontata, trasformata da Mizzora e infine uccisa da una freccia di Aelar; qui Kyran lotta per sottrarne l'anima agli Inferi. La statua di Zariel viene distrutta, rivelando una mazza magica nel proprio torso. Un passaggio segreto scoperto in seguito conduce, tramite una scala a pioli, alla scuderia della villa."
+        }
+      ],
+      "misteri": [
+        "Cosa accadra ora al santuario di Zariel sotto la villa Vanthampur, con la Duchessa morta e la statua distrutta?"
       ]
     }
   ]

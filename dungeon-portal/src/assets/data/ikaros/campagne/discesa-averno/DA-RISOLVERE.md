@@ -70,6 +70,24 @@ e uniformando testo delle sessioni + JSON. Non risolti d'ufficio per non alterar
 - Le sessioni 16/17/18 usano una base immagini diversa: "assets/campaigns/discesa-averno/sessioneNN/...webp".
   Le immagini NON sono ancora su disco. I catalogatori NON devono inventare/forzare immagini per queste sessioni: usare i ritratti reali sotto personaggi/ se esistono, altrimenti null.
 
+## 16. Diavoli della cantina (S20) vs "diavoli di Amrik" (S15)
+- In S20, durante lo scontro nella cantina della villa Vanthampur, un giocatore nota a tavolino che uno dei tre diavoli
+  emersi dalla catasta si muoveva in modo simile ai due diavoli che proteggevano Amrik Vanthampur alla Lanterna Bassa (S15).
+  Non c'e alcuna conferma narrativa: e stata catalogata come voce distinta (`diavoli-cantina-vanthampur`, tre individui,
+  tutti morti in S20) separata da `diavoli-amrik` (due individui, ancora vivi, ultima apparizione S15). Da decidere se si
+  tratta di un legame reale (stesso "fornitore" infernale dei Vanthampur?) o di una somiglianza superficiale senza seguito.
+
+## 17. Lo scudo infernale: famiglia Hun o famiglia Fisk? (S21 vs S20)
+- In S20, Satyr Tion Hun rivendica lo scudo infernale come artefatto della propria famiglia (gli Hun), custodi da generazioni.
+- In S21, salutando il gruppo, Falaster Fisk si riferisce allo stesso scudo dicendo "se lo trovate, e la mia famiglia",
+  lasciando intendere un legame personale analogo. Non e chiaro se si tratti di un modo di dire, di un equivoco di
+  trascrizione, o se le due rivendicazioni siano davvero in conflitto (due famiglie, un solo artefatto). Catalogato
+  come mistero aperto su entrambe le schede (`satyr-tion-hun`, `falaster-fisk`) senza scegliere una versione.
+
+## 18. Grafia del nome "Ania" (S21)
+- Nelle trascrizioni della sessione 21 il nome della nuova alleata oscilla tra "Ania", "Agnese" e "Anja". Catalogata
+  con id `ania`, nome "Ania" (forma piu frequente). Nessuna informazione narrativa in gioco; solo rumore di trascrizione.
+
 
 ## ───────── AGGIORNAMENTI / RISOLTE (2026-06-08) ─────────
 

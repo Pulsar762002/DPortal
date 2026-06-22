@@ -1,0 +1,790 @@
+{
+  "$schema": "./session.schema.json",
+  "id": 20,
+  "title": "Sessione 20",
+  "videoId": "PM8m43h7XzM",
+  "chapters": [
+    {
+      "id": "il-bottino-del-guardiano",
+      "title": "Il bottino del guardiano",
+      "videoId": "SCIHUe4hoSg",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "L'Helmed Horror giaceva immobile in un cumulo di piastre squarciate, l'ultima scintilla di magia che lo animava finalmente spenta. Nello studio restava l'odore acre del metallo arroventato, e per qualche istante nessuno degli Extermina osò muoversi, come se quel guscio vuoto potesse ancora rialzarsi."
+        },
+        {
+          "type": "quote",
+          "text": "«È morto davvero, questa volta?»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Nathan rispose dando un calcio prudente a una delle piastre crollate. Non accadde nulla. Soltanto allora il gruppo si avvicinò alla carcassa metallica, ancora calda dello scontro, per vedere cosa valesse la pena recuperare."
+        },
+        {
+          "type": "paragraph",
+          "text": "L'unico oggetto degno di nota era lo scudo che il costrutto aveva portato in battaglia: metallo infernale di ottima fattura, privo di proprietà magiche ma sorprendentemente resistente alle alte temperature. Nessuna runa, nessun incantamento, soltanto un lavoro solido che avrebbe comunque garantito un buon prezzo."
+        },
+        {
+          "type": "quote",
+          "text": "«Non brilla, non canta, non parla. Ma resiste al fuoco e si vende. A me basta.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Lo scudo venne riposto nella borsa del gruppo, in attesa di essere venduto o studiato con più calma. L'elmo cilindrico, invece, si rivelò soltanto un pezzo scenico: nessun bonus, nessuna proprietà nascosta."
+        },
+        {
+          "type": "quote",
+          "text": "«Però fa scena. Pensateci: chiunque lo indossi sembra subito più minaccioso.»"
+        },
+        {
+          "type": "quote",
+          "text": "«E pesa come un'incudine. Lascialo dov'è.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Dopo una breve discussione su quanto potesse comunque fare scena indosso a qualcuno, il gruppo decise che non valeva il peso di portarselo dietro, e l'elmo restò sul pavimento accanto al suo proprietario disfatto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Esausti e ancora segnati dai colpi del guardiano, gli Extermina si concessero qualche minuto per riprendersi. Kyran, rimasta più vicina alla morte di chiunque altro, accettò le cure dei compagni; le ferite peggiori vennero richiuse, mentre qualcuno consumava una pozione per essere certo di rientrare in combattimento al pieno delle forze."
+        },
+        {
+          "type": "paragraph",
+          "text": "Tutt'intorno, la stanza in cui il costrutto li aveva attesi attendeva ancora di essere esaminata: una scrivania coperta di fogli, alte librerie cariche di volumi e, in un angolo, una scala a chiocciola che saliva nell'ombra verso un piano ancora da esplorare."
+        }
+      ]
+    },
+    {
+      "id": "lo-studio-dei-vanthampur",
+      "title": "Lo studio dei Vanthampur",
+      "videoId": "wsX2MpxsnNM",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "La stanza in cui il guardiano aveva montato la guardia si rivelò essere una sorta di ufficio privato. Diverse librerie cariche di volumi fiancheggiavano le pareti, e una scrivania di quercia occupava il centro della sala, coperta di fogli vergati a mano e illuminata fiocamente da una candela ormai ridotta a un moncone."
+        },
+        {
+          "type": "paragraph",
+          "text": "Avvicinandosi al tavolo, gli Extermina notarono che i fogli erano scritti in una lingua che nessuno di loro conosceva, ma le illustrazioni che li accompagnavano erano inequivocabili: cerchi concentrici, forme pentagonali, stelle disegnate con una cura quasi ossessiva, come se la mano che le aveva tracciate non si fidasse nemmeno di sé stessa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Mettendo insieme le rispettive conoscenze arcane, il gruppo intuì che si trattava di scritture rituali, probabilmente legate alla preparazione di qualche cerimonia di natura diabolica. Avvicinandosi ancora, fu possibile leggere il titolo annotato in cima al foglio principale: <em>Rituale della Fiamma di Avernus</em>."
+        },
+        {
+          "type": "quote",
+          "text": "«Avernus. Lo stesso nome che ci perseguita da quando Elturel è scomparsa.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Seguiva una lista di ingredienti e una sequenza di passaggi scritti a mano, evidentemente frutto di appunti personali piuttosto che di un testo stampato. Nessuno dei materiali elencati si trovava nella stanza: chiunque avesse vergato quelle pagine doveva custodire altrove ciò che serviva per completare il rituale."
+        },
+        {
+          "type": "paragraph",
+          "text": "Decisi a non perdere altro tempo su un mistero che al momento non potevano sciogliere, gli Extermina si rivolsero alle librerie. Ogni componente del gruppo si dedicò a uno scaffale diverso, aiutandosi a vicenda nella ricerca, mentre le copertine impolverate scivolavano via una dopo l'altra."
+        },
+        {
+          "type": "paragraph",
+          "text": "Tra i volumi, generalmente di buona fattura e prime edizioni dal discreto valore commerciale, emersero due titoli particolari. Il primo era intitolato <em>Guerra di Sangue</em>: un trattato sull'eterno conflitto che diavoli e demoni si contendono nelle distese dell'Averno, citato di sfuggita anche a Elturel. Il secondo, <em>Breve trattato sulla disposizione geografica dei Nove Inferi</em>, descriveva con dettaglio quasi accademico la struttura dei piani infernali."
+        },
+        {
+          "type": "quote",
+          "text": "«Una guida per i Nove Inferi. Tienila stretta: ho la brutta sensazione che prima o poi ci serviranno indicazioni precise.»"
+        },
+        {
+          "type": "quote",
+          "text": "«Non sappiamo ancora a cosa serviranno. Ma qualcosa mi dice che torneranno utili.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Considerando la fretta della missione, il gruppo scelse di non fermarsi a leggere per intero nessuno dei due testi, limitandosi a raccoglierli insieme a una ventina di altre prime edizioni e a qualche volume di minor valore, tutti finiti nella borsa conservante. Dei materiali rituali citati nei fogli sulla scrivania, invece, nessuna traccia."
+        },
+        {
+          "type": "paragraph",
+          "text": "Con la biblioteca ormai svuotata di ogni segreto utile, restava da decidere se affrontare prima la scala a chiocciola che saliva verso l'alto o le altre stanze ancora inesplorate del piano."
+        },
+        {
+          "type": "quote",
+          "text": "«Prima le stanze. Quella scala non scappa, e non mi va di farmi sorprendere alle spalle.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Il gruppo optò per le stanze, lasciandosi alle spalle, per il momento, quel passaggio verso l'alto inghiottito dal buio."
+        }
+      ]
+    },
+    {
+      "id": "la-camera-della-duchessa",
+      "title": "La camera della Duchessa",
+      "videoId": "",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "La porta successiva si aprì su un ambiente completamente diverso da tutto ciò che gli Extermina avevano visto fino a quel momento nella villa. Una specchiera ovale finemente decorata dominava la stanza, circondata da boccette di profumo, pettini, aghi e spolette di filo. Corsetti e abiti eleganti pendevano da un lato, mentre un tappeto decorativo copriva il pavimento in legno intarsiato. L'aria era greve di essenze costose, un profumo dolciastro che stonava con il fumo e il sangue dei piani inferiori."
+        },
+        {
+          "type": "quote",
+          "text": "«Profumo, sete e specchi. Sappiamo tutti di chi è questa camera.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Non c'erano dubbi: era il rifugio personale della Duchessa Thalamra Vanthampur, il luogo in cui si ritirava a riposare lontano dagli affari di famiglia."
+        },
+        {
+          "type": "paragraph",
+          "text": "Una perquisizione rapida ma attenta, condotta da più membri del gruppo insieme, portò alla luce un autentico tesoro: sei boccette di profumo pregiato, una spazzola d'argento incastonata di lapislazzuli, uno scrigno di legno rifinito in argento contenente una collana di perle, un medaglione di platino a forma di gatto alato - identico, a ben guardare, al ciondolo già trovato nelle cucine - e due pozioni di guarigione."
+        },
+        {
+          "type": "quote",
+          "text": "«Alla faccia di chi non voleva prendere la borsa conservante.»"
+        },
+        {
+          "type": "quote",
+          "text": "«Va bene, va bene. Avevi ragione tu. Continua a riempirla.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Un montacarichi installato in un angolo della stanza confermò quanto già sospettato: era il sistema con cui i pasti venivano fatti salire direttamente dalle cucine, senza che la Duchessa dovesse mai lasciare i propri appartamenti per mangiare. Affacciandosi nel vano, però, non emerse nulla di rilevante: solo l'ennesima conferma di un'abitudine domestica."
+        },
+        {
+          "type": "paragraph",
+          "text": "La sorpresa arrivò invece da sotto il letto a baldacchino. Convinto che la Duchessa, di origini più umili di quanto la sua posizione lasciasse intendere, nascondesse qualcosa sotto il materasso secondo la più vecchia delle abitudini, uno degli Extermina si chinò a controllare."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ricevette in risposta una zampata in pieno volto. Sotto il letto, identico in tutto e per tutto al tressym goloso incontrato nelle cucine, si era rifugiato un secondo gatto alato, altrettanto sovrappeso e altrettanto poco intenzionato a farsi disturbare."
+        },
+        {
+          "type": "quote",
+          "text": "«Ma quanti ne tiene, questa donna? È una villa o un allevamento di gatti grassi?»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Calmato il nuovo arrivato con qualche resto di pollo recuperato in precedenza, il gruppo si concentrò su un pesante forziere di ferro chiuso da un lucchetto scolpito a forma di diavolo cornuto, appoggiato in un angolo della stanza."
+        },
+        {
+          "type": "paragraph",
+          "text": "Mentre la serratura veniva forzata, un meccanismo nascosto scattò di colpo: una nube di fumo venefico si sparse nell'aria, investendo chiunque si trovasse troppo vicino. Il veleno, per quanto invecchiato e meno potente di un tempo, bruciò comunque negli occhi e nei polmoni di chi lo respirò."
+        },
+        {
+          "type": "quote",
+          "text": "«Indietro! Trattenete il fiato!»"
+        },
+        {
+          "type": "paragraph",
+          "text": "L'avvertimento arrivò un istante troppo tardi, e per riprendersi del tutto il gruppo dovette ricorrere a una pozione di guarigione, tossendo e con gli occhi in lacrime."
+        },
+        {
+          "type": "paragraph",
+          "text": "Una volta dissipata la nube, il forziere rivelò il proprio contenuto: registri rilegati in pelle nera, le cui pagine erano vergate nella stessa scrittura infernale dei fogli trovati nello studio - impossibile da decifrare senza un esperto, ma sicuramente legata a transazioni e accordi d'affari della casata. Vi erano poi un set completo da calligrafo, alcune sostanze utilizzate dagli avvelenatori e una sacca ricavata da budella di pecora, contenente ottantacinque monete d'oro e centotredici d'argento."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sfogliando rapidamente le prime pagine dei registri, emerse che si trattava soprattutto di bilanci e transazioni commerciali, non di prove dirette sui legami della famiglia con gli Inferi."
+        },
+        {
+          "type": "quote",
+          "text": "«Niente confessioni, solo conti. Ma chi tiene i conti in infernale non ha la coscienza pulita.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Furono comunque raccolti insieme al resto del bottino, in attesa di qualcuno capace di tradurli per intero."
+        }
+      ]
+    },
+    {
+      "id": "la-piccionaia",
+      "title": "La piccionaia",
+      "videoId": "YR9r7GHHAeY",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Tornati verso lo studio, gli Extermina decisero finalmente di affrontare la scala a chiocciola lasciata da parte in precedenza. La salita si rivelò breve: pochi gradini bastarono per raggiungere un piccolo ambiente che fungeva, evidentemente, da piccionaia. L'aria sapeva di penne e di guano, e una corrente fredda entrava da una feritoia aperta sul cielo notturno."
+        },
+        {
+          "type": "quote",
+          "text": "«Ecco da dove arrivano. È da qui che gli imp si calano dentro la villa.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Era quasi certamente lo stesso punto da cui i piccoli diavoli erano soliti atterrare prima di infiltrarsi nella dimora. Da quella posizione elevata, inoltre, si poteva osservare lo scontro ancora in corso nel cortile sottostante."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il guerriero draconico del Culto del Drago continuava a combattere senza sosta contro le guardie della casata. Mentre il gruppo si affacciava, lo videro scagliare un soldato in aria con un solo colpo della propria mazza, facendolo volare per diversi passi prima che si schiantasse al suolo come un fantoccio."
+        },
+        {
+          "type": "quote",
+          "text": "«Bene. Significa che abbiamo ancora tempo.»"
+        },
+        {
+          "type": "quote",
+          "text": "«Finché quel mostro tiene occupate le guardie, nessuno verrà a cercarci di sotto. Approfittiamone.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rassicurati dal fatto che l'assedio esterno teneva ancora impegnate le difese della villa, gli Extermina si concessero un'ultima pausa prima di proseguire. Qualcuno bevve una pozione per essere certo di affrontare il resto dell'incursione al meglio delle proprie forze."
+        },
+        {
+          "type": "paragraph",
+          "text": "I due tressym, ormai inseparabili dal gruppo, vennero placati con gli ultimi resti di pollo recuperati nelle cucine. Uno dei felini, sazio e soddisfatto, si lasciò perfino portare a spalla senza protestare, accomodandosi come se quel posto gli fosse sempre spettato."
+        },
+        {
+          "type": "quote",
+          "text": "«Adesso siamo anche dog-sitter. Tieni d'occhio l'altro, che non finisca giù dalla feritoia.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Con le ultime informazioni raccolte dalla guardia superstite interrogata nella sessione precedente, restava una sola direzione sensata da seguire: usare la chiave recuperata dal corpo di Thurstwell Vanthampur per raggiungere l'ingresso nascosto ai sotterranei, segnalato presso le cucine."
+        }
+      ]
+    },
+    {
+      "id": "scendiamo-nei-sotterranei",
+      "title": "Scendiamo nei sotterranei",
+      "videoId": "3sEXysfFAKk",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Prima di lasciare il piano superiore, il gruppo si assicurò di richiudere a chiave la porta alle proprie spalle: una precauzione semplice, ma utile a impedire che qualcuno - cultisti del Drago compresi - li seguisse, e a tenere al sicuro i due tressym ormai adottati."
+        },
+        {
+          "type": "quote",
+          "text": "«Voi due restate qui buoni. Se quando torniamo trovo la stanza intera, c'è altro pollo.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Tornati alle cucine, la chiave sottratta a Thurstwell Vanthampur si rivelò esattamente quella necessaria. Un passaggio nascosto, fino a quel momento invisibile a chiunque non conoscesse il segreto della famiglia, si aprì rivelando una scala che scendeva verso i sotterranei. Dal basso saliva un alito d'aria stantia, fredda e dolciastra di vino vecchio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sceso il primo tratto di scale, Kyran avvertì distintamente tre presenze malevole nelle vicinanze, anche se l'oscurità non permetteva di individuarle a colpo d'occhio."
+        },
+        {
+          "type": "quote",
+          "text": "«Tre. Sono lì sotto, e non sono né topi né cantinieri. State pronti.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Il gruppo si fece avanti con prudenza. L'ambiente che si aprì davanti a loro era una cantina asciutta, sorretta da quattro colonne di pietra che si innalzavano fino a un soffitto basso. Lungo le pareti erano allineati dodici barili di legno, alcuni equipaggiati con rubinetti d'ottone: una cantina di vini e liquori, a giudicare dall'aspetto. Al centro della stanza, un cumulo disordinato di casse formava una sorta di piccola catasta."
+        },
+        {
+          "type": "paragraph",
+          "text": "Lo sguardo di Kyran tornò più volte su quel mucchio di legno: le tre presenze venivano da lì."
+        },
+        {
+          "type": "quote",
+          "text": "«Si nascondono nelle casse. Non aspettiamo che escano loro.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Convinta che le presenze si annidassero proprio in quel cumulo, Kyran prese un pezzo di legno acceso e lo gettò contro le casse, che presero lentamente fuoco."
+        },
+        {
+          "type": "paragraph",
+          "text": "L'effetto fu immediato. Tre figure scattarono fuori dalla catasta in fiamme, rivelando la propria natura non appena la luce le illuminò: non semplici imp, ma diavoli ben più grandi e aggressivi, pronti a difendere il proprio nascondiglio con violenza."
+        }
+      ]
+    },
+    {
+      "id": "scontro-in-cantina",
+      "title": "Scontro in cantina",
+      "videoId": "sQof6sFBpt0",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "I tre diavoli si lanciarono all'attacco non appena emersero dalla catasta in fiamme. Uno di loro caricò Nathan con un tridente, mentre gli altri due si dispersero per colpire da angolazioni diverse, sfruttando agilità e ferocia per compensare la propria mole relativamente contenuta."
+        },
+        {
+          "type": "paragraph",
+          "text": "Alaster aprì le danze con un trucchetto necrotico, seguito a stretto giro da un raggio di luce sacra che costrinse una delle creature a indietreggiare, già visibilmente ferita. Aelar tese l'arco e colpì con precisione una delle figure infernali, infondendo la freccia con il proprio sangue per aumentarne la potenza."
+        },
+        {
+          "type": "paragraph",
+          "text": "Kyran avanzò con la spada, incassando in cambio morsi e colpi di coda che si fecero sentire pesantemente. Nonostante la furia con cui i diavoli si gettavano nella mischia, il gruppo riuscì a mantenere il controllo dello scontro, colpo dopo colpo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Fu Alaster a notarlo per primo. Uno dei tre diavoli - il modo in cui si muoveva, la postura, qualche dettaglio difficile da definire - gli ricordava vagamente le creature che proteggevano Amrik Vanthampur alla Lanterna Bassa."
+        },
+        {
+          "type": "quote",
+          "text": "«Quel diavolo... non vi ricorda nulla? Le guardie di Amrik, alla Lanterna Bassa.»"
+        },
+        {
+          "type": "quote",
+          "text": "«Adesso non è il momento. Prima sopravviviamo, poi ci facciamo le domande.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Se ci fosse davvero un legame tra quei diavoli e i guardiani personali di Amrik restava soltanto un'impressione fugace, nulla che il gruppo potesse confermare nel pieno della battaglia."
+        },
+        {
+          "type": "paragraph",
+          "text": "Mentre il combattimento proseguiva, Alaster scagliò un secondo incantesimo, questa volta una spruzzata d'acido che dissolse letteralmente uno dei diavoli, lasciandolo crollare a terra in una pozza fumante."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il secondo cadde poco dopo sotto i colpi combinati di Kyran e Nathan, mentre il terzo, comprendendo che la battaglia era persa, tentò goffamente di allontanarsi lungo la stanza."
+        },
+        {
+          "type": "quote",
+          "text": "«Tu non vai da nessuna parte.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Non gli fu concessa alcuna via di fuga. Alaster evocò una mano scheletrica fatta di energia necrotica che lo raggiunse a distanza, si conficcò nella sua gola e strinse, finché l'ultima scintilla di vita non fu risucchiata via insieme a un grido strozzato."
+        },
+        {
+          "type": "paragraph",
+          "text": "Con i tre diavoli ormai ridotti in cenere o disciolti sul pavimento della cantina, gli Extermina si concessero un momento per riprendere fiato prima di proseguire la perquisizione del sotterraneo."
+        }
+      ]
+    },
+    {
+      "id": "il-bottino-della-cantina",
+      "title": "Il bottino della cantina",
+      "videoId": "R-3Ls44x2qQ",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Con il pericolo immediato scongiurato, restava da occuparsi della catasta di casse ancora in fiamme al centro della stanza. Le lingue di fuoco si allungavano pericolosamente verso i barili più vicini, e l'intera cantina era piena di liquori e botti di vino: il rischio che l'incendio si propagasse non era da sottovalutare."
+        },
+        {
+          "type": "quote",
+          "text": "«Spegniamo tutto, prima che questa cantina ci salti in faccia.»"
+        },
+        {
+          "type": "quote",
+          "text": "«O lasciamo bruciare la villa e ce ne andiamo. Sarebbe più rapido.»"
+        },
+        {
+          "type": "quote",
+          "text": "«E perdere tutto quello che c'è ancora da prendere quaggiù? Neanche per sogno. Si spegne.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Scartata quasi subito l'idea di lasciare semplicemente che la dimora andasse in cenere, il gruppo soffocò le fiamme prima che potessero estendersi ulteriormente."
+        },
+        {
+          "type": "paragraph",
+          "text": "Spento l'incendio, gli Extermina passarono in rassegna i dodici barili allineati lungo le pareti. La maggior parte conteneva vino e distillati di poco conto, pronti a essere rotti senza rimpianti per verificarne il contenuto. Una sola botte, tuttavia, portava un'etichetta scolorita dal tempo che iniziava con le lettere 'EX', e qualcosa nell'aria - forse l'odore, forse soltanto l'istinto - convinse il gruppo che si trattasse di un'annata di tutt'altro livello."
+        },
+        {
+          "type": "quote",
+          "text": "«Questa no. Questa la conserviamo per il brindisi della vittoria.»"
+        },
+        {
+          "type": "quote",
+          "text": "«Ammesso che una vittoria ci sia, e che siamo ancora vivi per brindare.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Decisa l'eccezione, la botte venne aggiunta al bottino del gruppo, mentre le altre vennero scartate dopo una rapida verifica. Restava un'ultima porta da controllare, sul lato opposto della cantina."
+        },
+        {
+          "type": "paragraph",
+          "text": "Prima di avvicinarsi, il gruppo si fermò ad ascoltare con attenzione, cercando qualsiasi indizio di ciò che potesse trovarsi dall'altra parte. Non giunse alcun rumore. Rassicurati, almeno in parte, dal silenzio, gli Extermina apersero la porta e si addentrarono oltre."
+        }
+      ]
+    },
+    {
+      "id": "i-tunnel-sotto-la-villa",
+      "title": "I tunnel sotto la villa",
+      "videoId": "c5nv0RYoF4w",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Oltre la porta, un piccolo topo bianco si eresse sulle zampe posteriori, fissando il gruppo con due occhi dorati innaturalmente intensi. Per un istante un disagio sottile, difficile da definire, attraversò ognuno dei presenti: la sensazione di essere osservati da qualcosa di ben più consapevole di un semplice animale."
+        },
+        {
+          "type": "quote",
+          "text": "«Quel topo ci sta studiando. Non mi piace per niente.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Kyran, più sensibile alle presenze fuori dall'ordinario, ne ebbe la certezza: quel topo non era affatto un topo comune."
+        },
+        {
+          "type": "quote",
+          "text": "«Non è una bestia. C'è qualcosa, dietro quegli occhi. Qualcuno.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Cosa fosse realmente, però, rimase un mistero: dopo averli osservati per qualche istante, la creatura si voltò e scomparve rapidamente lungo il corridoio, lasciandosi alle spalle soltanto altri interrogativi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Al di là della porta si apriva un sistema di tunnel fognari: un canale di acque scure scorreva al centro, fiancheggiato da camminamenti di pietra levigata, con ponticelli ad arco che lo scavalcavano a intervalli regolari. Lanterne disposte lungo le pareti diffondevano una luce verdognola malsana, illuminando un labirinto che, a giudicare dalla sua estensione, si stendeva sotto l'intera proprietà dei Vanthampur."
+        },
+        {
+          "type": "quote",
+          "text": "«Questa non è una cantina. È una città intera, nascosta sotto i loro piedi.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Una prima stanza laterale si rivelò una vera cantina di vini, con quasi duecento bottiglie disposte ordinatamente su rastrelliere di legno. Il gruppo ne recuperò un paio, scelte quasi a caso tra quelle più vecchie, prima di proseguire l'esplorazione dei cunicoli."
+        },
+        {
+          "type": "paragraph",
+          "text": "Una delle diramazioni si interrompeva bruscamente: un crollo deliberato bloccava il passaggio con un muro di detriti, lasciando spazio appena sufficiente per il transito di un piccolo animale, ma non di una persona."
+        },
+        {
+          "type": "quote",
+          "text": "«Da qui ci passa il topo, non noi. Vicolo cieco.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Forse era proprio di lì che il misterioso topo bianco era passato in precedenza; per gli Extermina, in ogni caso, non c'era altra scelta che voltare le spalle e prendere l'altra direzione."
+        },
+        {
+          "type": "paragraph",
+          "text": "Avanzando con cautela lungo l'altro corridoio fognario, il gruppo individuò in lontananza due figure incappucciate accompagnate da un piccolo diavolo alato: due cultisti e un imp, in marcia lungo i tunnel."
+        }
+      ]
+    },
+    {
+      "id": "agguato-nei-tunnel",
+      "title": "Agguato nei tunnel",
+      "videoId": "hv80bYMrnVc",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Gli Extermina si prepararono in silenzio, sfruttando la propria posizione defilata per cogliere di sorpresa il gruppo in arrivo. Si appiattirono contro la pietra umida, trattenendo il respiro, mentre i passi dei cultisti si facevano sempre più vicini."
+        },
+        {
+          "type": "paragraph",
+          "text": "Quando i due furono abbastanza vicini, scattò l'agguato: una freccia e una lama li raggiunsero prima ancora che potessero comprendere cosa stesse accadendo."
+        },
+        {
+          "type": "quote",
+          "text": "«Voi chi siete?»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Fu l'unica domanda che uno dei cultisti riuscì a porre prima che lo scontro si concludesse. Colti completamente di sorpresa, i due fanatici e l'imp che li accompagnava caddero in pochi istanti sotto i colpi combinati del gruppo, senza riuscire a organizzare alcuna difesa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Una rapida ispezione dei corpi confermò quanto già sospettato: tuniche rosse, maschere dorate a forma di volto diabolico, semplici pugnali e un turibolo ancora fumante d'incenso."
+        },
+        {
+          "type": "quote",
+          "text": "«Niente chiavi, niente oro, niente lettere. Viaggiano leggeri, questi fanatici.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Nessuna chiave, nessuna ricchezza: i membri del culto non portavano con sé nulla che potesse rivelare informazioni utili sulla struttura sottostante."
+        },
+        {
+          "type": "paragraph",
+          "text": "Proseguendo con prudenza lungo i tunnel, Alaster - sempre invisibile - avanzò in avanscoperta. Trovata una porta robusta, l'aprì appena quanto bastava per intravedere, dall'altra parte, la sagoma di un diavolo di dimensioni decisamente superiori a quelle incontrate fino a quel momento."
+        },
+        {
+          "type": "paragraph",
+          "text": "Richiuse l'uscio con la massima cautela, prima che la creatura potesse accorgersi della sua presenza, e tornò indietro per avvertire i compagni."
+        },
+        {
+          "type": "quote",
+          "text": "«Là dentro c'è qualcosa di grosso. Molto più grosso di tutto quello che abbiamo incontrato finora. Preparatevi.»"
+        }
+      ]
+    },
+    {
+      "id": "il-diavolo-aguzzino",
+      "title": "Il diavolo aguzzino",
+      "videoId": "q4AkKP6MTxo",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Avvertiti del pericolo, gli Extermina si prepararono ad affrontare la minaccia oltre la porta. Quando questa si spalancò, davanti a loro si trovava un diavolo cornuto di mole imponente, artigli affilati e una coda terminante in un pungiglione osseo: con ogni probabilità lo stesso aguzzino di cui si erano udite voci tempo prima, a proposito delle segrete sotterranee dei Vanthampur."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il combattimento si rivelò più ostico del previsto. La creatura dimostrò una resistenza fuori dal comune contro le armi convenzionali, assorbendo colpi che avrebbero abbattuto qualsiasi avversario umano senza un graffio apparente."
+        },
+        {
+          "type": "quote",
+          "text": "«Le lame normali non lo scalfiscono! Colpitelo da lontano!»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Aelar e Nathan ricorsero ai giavellotti per colpirlo a distanza prima che potesse chiudere lo spazio, mentre Alaster studiava la creatura in cerca di un punto debole da sfruttare con la propria magia."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il diavolo rispose con ferocia, colpendo Kyran con una raffica di artigliate seguita da una violenta frustata di coda. Kyran vacillò pericolosamente, costretta ad arretrare e a curarsi prima di poter tornare in prima linea."
+        },
+        {
+          "type": "paragraph",
+          "text": "Alaster sfruttò ogni residuo di energia arcana rimasta, scagliando raggio dopo raggio di luce sacra contro la creatura, indebolendola progressivamente senza mai riuscire ad abbatterla del tutto."
+        },
+        {
+          "type": "quote",
+          "text": "«Resiste a tutto! Qualcuno gli dia il colpo di grazia, non ho più magia!»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Fu Elis a infliggere il colpo decisivo. Scattando in avanti con una rapidità quasi innaturale, il tiefling si gettò contro il diavolo armato di tre pugnali, colpendolo ripetutamente in una raffica di affondi che lo lasciarono crivellato."
+        },
+        {
+          "type": "paragraph",
+          "text": "Mentre l'ultima ferita si apriva nel suo corpo, il diavolo sollevò lo sguardo verso Elis e, con un filo di voce quasi affettuosa, le accarezzò il volto."
+        },
+        {
+          "type": "quote",
+          "text": "«Tu sei come noi.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Un istante dopo la creatura si incendiò da sola, consumandosi in una vampata di fuoco infernale fino a non lasciare altro che cenere sul pavimento delle gallerie. Le parole pronunciate prima di morire, però, rimasero a lungo nell'aria, pesanti come un interrogativo che Elis non aveva ancora il coraggio di affrontare."
+        },
+        {
+          "type": "quote",
+          "text": "«Non dargli retta, Elis. I diavoli mentono. Anche quando muoiono.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Elis non rispose. Restò a fissare la cenere che si spegneva sul pavimento, in silenzio, finché i compagni non la richiamarono verso le celle che si intravedevano più avanti."
+        }
+      ]
+    },
+    {
+      "id": "le-segrete-dei-vanthampur",
+      "title": "Le segrete dei Vanthampur",
+      "videoId": "9-RW7eRcemk",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Sconfitto l'aguzzino infernale, gli Extermina si trovarono davanti a una fila di celle. Da dietro le sbarre giungevano gemiti soffocati e lamenti, prova vivente di quanto a lungo quella creatura avesse usato i prigionieri per il proprio diletto. L'aria sapeva di sangue secco, sudore e disperazione."
+        },
+        {
+          "type": "quote",
+          "text": "«Quel maledetto diavolo ci torturava mattina e sera, per suo personale divertimento. Vi prego, fateci uscire. Vi diremo tutto quello che sappiamo, ma vogliamo andare via.»"
+        },
+        {
+          "type": "quote",
+          "text": "«State calmi. Il diavolo è morto. Adesso vi tiriamo fuori.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Aperte le celle, la situazione si rivelò più complessa del previsto. Alcuni dei prigionieri erano ormai troppo lontani da poter essere salvati: corpi e menti irrimediabilmente corrotti dalla prolungata tortura infernale, trasformati in lemuri, le anime dannate che popolano i gradi più bassi degli Inferi. Non chiedevano altro che la morte."
+        },
+        {
+          "type": "paragraph",
+          "text": "Gli Extermina, con riluttanza, gliela concessero come ultimo atto di pietà, abbassando lo sguardo a ogni colpo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Tra i prigionieri ancora lucidi se ne distinguevano due. Il primo si fece avanti per primo, con la voce roca di chi non parlava da giorni."
+        },
+        {
+          "type": "quote",
+          "text": "«Mi chiamo Falaster Fisk. Sono un investigatore. Lavoro per una studiosa di Candlekeep, Silvira Savikas: si occupa di questioni e oggetti infernali.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Spiegò di essere stato inviato a controllare la situazione a Elturel, ma di averla trovata già distrutta; le indagini successive lo avevano condotto fino alla villa Vanthampur, dove era stato scoperto e imprigionato."
+        },
+        {
+          "type": "paragraph",
+          "text": "La seconda prigioniera attese che il compagno avesse finito, poi prese la parola con un orgoglio che la tortura non era riuscita a spezzare del tutto."
+        },
+        {
+          "type": "quote",
+          "text": "«Satyr Tion Hun. La mia famiglia è una delle più antiche e nobili di Baldur's Gate. Mi hanno catturata dopo avermi sottratto ciò che custodivamo da generazioni.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Spiegò che si trattava di uno scudo infernale, al cui interno era imprigionata un'entità oscura capace di corrompere chiunque le si avvicinasse troppo. Il suo compito era mantenerlo al sicuro e limitarne l'influenza sulla città; aveva fallito."
+        },
+        {
+          "type": "quote",
+          "text": "«Quello scudo è una maledizione, ma è la mia maledizione. Vi prego: se lo trovate, riportatelo alla mia famiglia.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "La rivelazione gettò una luce nuova su uno scudo già a loro noto. Era lo stesso manufatto che Lord Fauler, il diavolo che li aveva ospitati a cena nella propria villa, aveva chiesto loro di recuperare dai Vanthampur in cambio di una sola, sincera risposta a una domanda del gruppo."
+        },
+        {
+          "type": "quote",
+          "text": "«Lo stesso scudo che vuole Fauler. E che servirebbe a Elturel.»"
+        },
+        {
+          "type": "quote",
+          "text": "«L'artefatto ci serve per Elturel. Con o senza il consenso della sua famiglia, lo scudo lo consegnerò comunque, finché non avrò un'altra soluzione per raggiungere l'Inferno.»"
+        },
+        {
+          "type": "quote",
+          "text": "«Mai fidarsi di un diavolo. Teniamocelo per il momento: indaghiamo prima di decidere a chi consegnarlo davvero.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Dopo una breve discussione, prevalse la cautela: lo scudo sarebbe rimasto nelle mani del gruppo, almeno fino a quando non avessero trovato un modo per verificare le affermazioni di entrambe le parti, magari rivolgendosi a qualcuno con conoscenze più approfondite sulle questioni infernali - come la studiosa di Candlekeep di cui Falaster aveva parlato."
+        },
+        {
+          "type": "paragraph",
+          "text": "Decisero quindi di portare con sé Falaster e Satyr, chiedendo loro di seguirli a distanza di sicurezza per il resto dell'esplorazione."
+        },
+        {
+          "type": "quote",
+          "text": "«Restate dietro di noi. Se incontriamo qualcuno, fingetevi cultisti. Ma se si arriva alle armi, badate a voi stessi: non possiamo proteggervi.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "I due liberati annuirono, ben consapevoli che era già molto più di quanto avessero osato sperare poche ore prima, quando il diavolo aguzzino tornava ogni notte a riscuotere il proprio divertimento."
+        }
+      ]
+    },
+    {
+      "id": "in-fuga-nei-cunicoli",
+      "title": "In fuga nei cunicoli",
+      "videoId": "YHUXQvngzdY",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Per muoversi con maggiore sicurezza nei tratti più affollati delle gallerie, Alaster assunse l'aspetto di uno dei cultisti caduti in precedenza, mascherando così la propria identità agli occhi di eventuali pattuglie."
+        },
+        {
+          "type": "quote",
+          "text": "«Se incrociamo qualcuno, parlo io. Voi tenete la testa bassa e il cappuccio calato.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Con questa precauzione, il gruppo riprese ad avanzare nei cunicoli, ormai consapevole di trovarsi in un complesso di dimensioni ben più vaste di quanto avessero immaginato, esteso ben oltre i confini della villa in superficie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un persistente odore di incenso, lo stesso percepito sui corpi dei cultisti abbattuti poco prima, si diffondeva a intermittenza lungo i corridoi, segno che altre pattuglie si muovevano nelle vicinanze. In un paio di occasioni il gruppo intravide in lontananza piccoli gruppi di figure incappucciate, ma riuscì a evitarli senza essere notato, scivolando lungo percorsi alternativi."
+        },
+        {
+          "type": "quote",
+          "text": "«Sento l'incenso. Sono passati di qui da poco. Restate in silenzio.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Altri tratti di tunnel si rivelarono bloccati da crolli, alcuni evidentemente provocati ad arte per isolare determinate sezioni del complesso, costringendo il gruppo a deviazioni e tentativi successivi prima di trovare una via percorribile."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dopo una lunga marcia cauta tra diramazioni e corridoi apparentemente identici, gli Extermina raggiunsero infine una sezione più profonda del complesso, dove una porta robustamente rinforzata segnalava qualcosa di importante custodito al di là."
+        }
+      ]
+    },
+    {
+      "id": "la-porta-sigillata",
+      "title": "La porta sigillata",
+      "videoId": "l_fcXwprQ6M",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "La porta che si trovarono davanti era robusta, rinforzata in ferro e legno, sigillata da una serie di lucchetti di ottima fattura. Un dettaglio, però, attirò immediatamente l'attenzione del gruppo: i lucchetti erano posizionati all'esterno."
+        },
+        {
+          "type": "quote",
+          "text": "«Guardate i lucchetti. Sono di fuori. Chi è là dentro non è prigioniero: è stato chiuso a chiave da qualcun altro.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Chiunque si trovasse in quella stanza, insomma, non era stato imprigionato nel modo consueto, ma deliberatamente sbarrato dentro da qualcuno che aveva voluto tenerlo lontano dal resto del complesso."
+        },
+        {
+          "type": "paragraph",
+          "text": "Origliando con attenzione, gli Extermina percepirono voci attutite oltre la porta: un uomo, agitato, sembrava discutere con qualcuno rimasto invisibile ai loro orecchi."
+        },
+        {
+          "type": "quote",
+          "text": "«Non volevo che succedesse. Mi ha ingannato. E tu sei l'ultimo che può giudicarmi: hai fatto cose ben peggiori, ne sono certo.»"
+        },
+        {
+          "type": "quote",
+          "text": "«Falaster, Satyr: c'erano altri prigionieri, oltre a voi? Qualcuno tenuto separato?»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Interrogati a riguardo, né Falaster né Satyr seppero indicare altri prigionieri tenuti separati dal resto: per quanto ne sapessero, erano sempre stati soli nelle proprie celle, senza mai sentire parlare di nessun altro custodito altrove."
+        },
+        {
+          "type": "paragraph",
+          "text": "Si valutò per un attimo se forzare semplicemente i lucchetti con la forza, ma il rischio di far rumore era troppo alto."
+        },
+        {
+          "type": "quote",
+          "text": "«Niente spallate. Faccio io, in silenzio. Voi coprite il corridoio.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Elis si fece avanti per tentare di scassinare la serratura, mentre gli altri si disponevano a guardia del corridoio. Il lavoro si rivelò lento e complicato: i lucchetti erano di qualità superiore alla media, e ogni tentativo richiedeva tempo e concentrazione."
+        },
+        {
+          "type": "paragraph",
+          "text": "Proprio mentre si cominciava a fare qualche progresso, un suono metallico e acuto squillò dall'interno della stanza. Qualcuno, dall'altra parte della porta, aveva azionato un piccolo campanello, abbastanza potente da farsi sentire ben oltre i confini di quella stanza sigillata."
+        },
+        {
+          "type": "quote",
+          "text": "«Un allarme. Ci ha venduti. Dobbiamo muoverci, adesso.»"
+        }
+      ]
+    },
+    {
+      "id": "scatta-lallarme",
+      "title": "Scatta l'allarme",
+      "videoId": "yq8LFQ5AE_w",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Consapevoli che indugiare sarebbe stato un errore, gli Extermina decisero di proseguire piuttosto che restare ad attendere chiunque quel campanello avesse richiamato. Mentre si allontanavano lungo i cunicoli, un lungo ululato riecheggiò attraverso le gallerie, proveniente da qualche punto dietro di loro."
+        },
+        {
+          "type": "quote",
+          "text": "«Quello non era un cane qualunque. Affrettiamoci.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Pochi istanti dopo, voltato un angolo, il gruppo si trovò davanti a due cultisti accompagnati da un'enorme creatura simile a un cane, il corpo avvolto da fiamme rossastre che filtravano tra il pelo scuro. La bestia li individuò all'istante, fiutando l'aria con un ringhio basso e minaccioso."
+        },
+        {
+          "type": "paragraph",
+          "text": "Lo scontro fu immediato e brutale. Il cane infernale si lanciò contro Kyran, le fauci che si chiusero attorno al suo braccio in una presa salda, prima di scatenare un soffio di fiamme che la investì in pieno mentre era ancora a terra, mezza immersa nelle acque scure del canale."
+        },
+        {
+          "type": "paragraph",
+          "text": "L'acqua attenuò parzialmente le fiamme, ma non bastò a impedire che Kyran crollasse, ferita e quasi priva di sensi."
+        },
+        {
+          "type": "quote",
+          "text": "«Kyran è giù! Toglietegli quella bestia di dosso!»"
+        },
+        {
+          "type": "paragraph",
+          "text": "I compagni si precipitarono in suo soccorso prima che la bestia tornasse a colpire. Nel frattempo uno dei cultisti pronunciò una formula contro Nathan, costringendolo a lasciar cadere l'arma per un istante di confusione magica."
+        },
+        {
+          "type": "paragraph",
+          "text": "Allo stesso tempo, sottili catene scure scaturirono dal terreno fangoso e si avvinghiarono attorno a Elis, immobilizzandola per qualche prezioso istante prima che riuscisse a liberarsi a forza di strattoni."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nonostante le difficoltà, gli Extermina riuscirono a riprendere il controllo dello scontro. Il cane infernale, colpito ripetutamente da frecce e lame, si afflosciò infine sul pavimento di pietra, le fiamme che lo percorrevano spegnendosi lentamente nell'acqua del canale."
+        },
+        {
+          "type": "paragraph",
+          "text": "Uno dei cultisti tentò di fuggire per dare l'allarme ai propri compagni, ma fu abbattuto prima di poter percorrere più di qualche passo. L'ultimo nemico rimasto, un piccolo imp, venne eliminato poco dopo, chiudendo lo scontro."
+        },
+        {
+          "type": "paragraph",
+          "text": "Esausti, feriti e ormai a corto di pozioni e incantesimi, gli Extermina si fermarono per tirare il fiato."
+        },
+        {
+          "type": "quote",
+          "text": "«Niente più pozioni, poca magia, e la metà di noi a malapena in piedi. Speriamo che dietro queste porte non ci aspetti di peggio.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Davanti a loro si apriva un bivio di più porte e passaggi, ciascuno potenzialmente nascondente l'artefice di tutto quel complotto - o soltanto altri suoi servitori, pronti a difenderla fino alla fine."
+        }
+      ]
+    }
+  ]
+}

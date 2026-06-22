@@ -1,7 +1,7 @@
 {
   "$schema": "./personaggi.schema.json",
   "campagna": "discesa-averno",
-  "ultimoAggiornamento": 19,
+  "ultimoAggiornamento": 21,
   "personaggi": [
     {
       "id": "nathan",
@@ -35,7 +35,9 @@
         16,
         17,
         18,
-        19
+        19,
+        20,
+        21
       ],
       "note": [
         {
@@ -121,15 +123,27 @@
         {
           "sessione": 19,
           "testo": "Al piano inferiore della villa Vanthampur prova a dialogare coi servitori barricati ('Non siamo qui per voi. Restate nascosti'), rinunciando a sfondare la porta una volta capito che sono inermi. Al piano superiore regge da solo la linea contro le guardie d'elite della casata, intercettando con lo scudo calci e fendenti che tentano di scaraventarlo giu per le scale. Immobilizza e ammanetta l'unica guardia superstite per interrogarla. Davanti a Thurstwell Vanthampur, dopo le minacce di Aelar e le suppliche del nobile, vive un dilemma morale tra giustizia e legge: alla fine pronuncia la sentenza 'Io, Nathan, protettore di Helm, ti condanno a morte' e lo decapita (la lama brilla un istante di luce sacra). Nello scontro finale con l'Helmed Horror viene abbattuto privo di sensi da un doppio fendente del costrutto, poi si rialza e torna a combattere fino alla vittoria."
+        },
+        {
+          "sessione": 20,
+          "testo": "Recupera lo scudo infernale dell'Helmed Horror e perquisisce con gli altri lo studio e la camera della Duchessa. Scende nei sotterranei e combatte i diavoli della cantina, l'agguato di cultisti e imp, e il diavolo aguzzino delle segrete. Davanti ai prigionieri liberati (Falaster Fisk e Satyr Tion Hun) sostiene la linea piu cauta sullo scudo infernale, contro la fretta di Aelar di consegnarlo a Fauler. Nello scontro finale contro il cane infernale viene disarmato per un istante da un comando magico di un cultista, ma torna subito in combattimento."
+        },
+        {
+          "sessione": 21,
+          "testo": "Nella camera segreta sotto la villa Vanthampur, trova una collana col simbolo della mano e dell'occhio identico al marchio sul proprio guanto: il primo indizio diretto sull'origine di quel marchio, probabilmente legato a Thavius Kreeg. Affronta la Duchessa trasformata fino quasi a soccombere (resta a un soffio dalla morte per due volte), continuando a frapporsi tra lei e i compagni piu fragili. Dopo la morte della Duchessa, viene risucchiato dalla lotta per la sua anima insieme a Kyran e Aelar, e crolla privo di sensi nel tentativo di staccare Aelar da Kyran; viene rianimato da Ania con una pozione e una scossa poco gentile."
         }
       ],
       "misteri": [
         "Chi è davvero il fratello che secondo Marcus 'ha trovato il suo posto'?",
-        "Quale ordine rappresenta il marchio dell'occhio sul guanto, e che legame ha con il motto di Alaster 'Tra le spine veglia l'occhio'?",
-        "Cosa sa davvero la famiglia Vanthampur della caduta di Elturel, e quale patto infernale la lega ai diavoli e a Thavius Kreeg?",
+        "Quale ordine rappresenta il marchio dell'occhio sul guanto, e che legame ha con il motto di Alaster 'Tra le spine veglia l'occhio'? La collana identica trovata nella camera segreta di Thavius Kreeg (S21) e il primo indizio concreto.",
         "Quale rimorso e dubbio profondo sul proprio scopo ha rivelato il sangue di Nathan alla cena di Fauler?"
       ],
       "correlazioni": [
+        {
+          "personaggio": "thavius-kreeg",
+          "tipo": "legame ignoto",
+          "descrizione": "La collana col simbolo di Helm trovata nella camera segreta di Kreeg sotto la villa Vanthampur e identica al marchio sul guanto di Nathan."
+        },
         {
           "personaggio": "marcus",
           "tipo": "mentore",
@@ -214,7 +228,9 @@
         16,
         17,
         18,
-        19
+        19,
+        20,
+        21
       ],
       "note": [
         {
@@ -304,6 +320,14 @@
         {
           "sessione": 19,
           "testo": "Nelle cucine della villa riconosce nella creatura alata un tressym, un raro gatto alato innocuo, e se lo ingrazia gettandogli un pollo: il felino enormemente sovrappeso lo adotta facendo le fusa, e Aelar mostra un lato inatteso di tenerezza. Al piano superiore combatte le guardie con arco e spada (un tiro troppo potente manca il bersaglio). Conduce l'interrogatorio della guardia superstite e poi di Thurstwell Vanthampur, strappandogli con la forza informazioni su madre, scudo e complotto ('la morte sara l'ultimo dei tuoi problemi') e ottenendone il crollo emotivo. Tramortisce con un colpo alla nuca la guardia interrogata. Contro l'Helmed Horror lo tempesta di frecce intrise di sangue e fuoco."
+        },
+        {
+          "sessione": 20,
+          "testo": "Recupera lo scudo dell'Helmed Horror e perquisisce con gli altri lo studio e la camera della Duchessa, dove scopre il secondo tressym. Combatte i diavoli della cantina, l'agguato nei tunnel e il diavolo aguzzino delle segrete. Davanti a Falaster Fisk e Satyr Tion Hun sostiene che lo scudo infernale vada consegnato a Lord Fauler comunque, 'con o senza il consenso' della famiglia Hun, perche serve a raggiungere Elturel: il gruppo, piu cauto, decide di tenerlo e indagare prima di scegliere."
+        },
+        {
+          "sessione": 21,
+          "testo": "Nello scontro contro la Duchessa Vanthampur applica il Rito Cremisi alla propria freccia per marcarla come bersaglio e la colpisce ripetutamente con Sharpshooter. Dopo la trasformazione concessa da Mizzora, e lui a sferrare il colpo di grazia: una freccia che la trapassa da parte a parte, dalla nuca alla fronte, uccidendola sul colpo. Viene poi risucchiato, insieme a Nathan, nella lotta di Kyran per l'anima della Duchessa, con gli occhi diventati completamente neri."
         }
       ],
       "misteri": [
@@ -311,7 +335,6 @@
         "Cos'è l'Accademia di Elturel e che fine hanno fatto il maestro e i 'fratelli' di Aelar?",
         "Cos'e l'Ordine dei Mutanti e fin dove arrivera la trasformazione di Aelar in 'mutante superiore'?",
         "Quale paura profonda (di essere dimenticato, manipolato, senza controllo) ha rivelato il sangue di Aelar alla cena, e cosa gli e stato 'promesso'?",
-        "Fin dove si spingera Aelar nel considerare ogni vita nella villa un bersaglio legittimo, e quanto profonda sara la frattura con Sylvar e Nathan?",
         "Il tressym adottato da Aelar nelle cucine restera con lui o e solo una parentesi?"
       ],
       "correlazioni": [
@@ -394,7 +417,9 @@
         16,
         17,
         18,
-        19
+        19,
+        20,
+        21
       ],
       "note": [
         {
@@ -500,6 +525,14 @@
         {
           "sessione": 19,
           "testo": "Resta quasi sempre invisibile, esplorando in avanscoperta le stanze del piano superiore mentre i compagni combattono. Schiva all'ultimo una guardia che sfonda una porta certa di aver scovato un intruso; perlustra una stanza con una gigantesca bambola-troll e abiti fuori misura (alloggi di Thurstwell) e un'altra elegante con uno specchio. Contro Thurstwell e i suoi imp scaglia Guiding Bolt potenziati ('Tu sei il prossimo'). Debilitato, nello scontro con l'Helmed Horror prima arretra a bere una pozione, poi distrugge con un Guiding Bolt la seconda spada fluttuante del costrutto."
+        },
+        {
+          "sessione": 20,
+          "testo": "Nello studio dei Vanthampur intuisce che i fogli sulla scrivania descrivono un rituale infernale. Nella cantina sotterranea apre lo scontro coi tre diavoli con un trucchetto necrotico e un Guiding Bolt, ne dissolve uno con uno spruzzo d'acido e finisce il terzo in fuga con una mano scheletrica necrotica che lo strangola a distanza. Assume l'aspetto di un cultista caduto per muoversi piu in sicurezza nei tunnel. Nello scontro contro il diavolo aguzzino delle segrete scaglia raggio dopo raggio di luce sacra per indebolirlo prima che Elis lo finisca."
+        },
+        {
+          "sessione": 21,
+          "testo": "Nella sala rituale dei Vanthampur evoca una mano d'artiglio di pietra per immobilizzare la Duchessa trasformata, senza successo, e viene scaraventato contro l'altare da un suo pugno devastante. Dopo la morte della Duchessa, insieme a Elis distrugge a colpi la statua dedicata a Zariel per spezzare l'effetto che imprigiona i compagni nella lotta per l'anima di lei, scoprendo una mazza magica nascosta nel torso della statua."
         }
       ],
       "misteri": [
@@ -632,7 +665,9 @@
         16,
         17,
         18,
-        19
+        19,
+        20,
+        21
       ],
       "note": [
         {
@@ -726,6 +761,14 @@
         {
           "sessione": 19,
           "testo": "Prova ad aprire le porte barricate dall'interno dalla servitu e capisce che qualcuno vi ha ammassato mobili contro. Al piano superiore combatte le guardie, viene afferrata da un soldato che tenta di immobilizzarla (se ne libera con una gomitata) e con una carica di scudo travolge un avversario, facendolo precipitare oltre la balaustra al piano di sotto. Apre il forziere di Thurstwell rivelando il cilindro infernale. Nello scontro finale benedice i compagni con la magia divina e li tiene in vita con le ultime energie contro l'Helmed Horror."
+        },
+        {
+          "sessione": 20,
+          "testo": "E la prima ad avvertire le tre presenze malevole nascoste nella catasta della cantina e appicca lei stessa il fuoco che le costringe a uscire allo scoperto; combatte in mischia contro i tre diavoli al fianco di Nathan. Nei tunnel percepisce che il misterioso topo bianco dagli occhi dorati non e un animale comune, senza riuscire a capire cosa sia davvero. Contro il diavolo aguzzino delle segrete viene colpita gravemente da artigli e coda e costretta ad arretrare per curarsi. Nello scontro finale viene azzannata e quasi sopraffatta dal cane infernale, che la abbatte con un soffio di fiamme mentre e ancora a terra nell'acqua del canale."
+        },
+        {
+          "sessione": 21,
+          "testo": "Colpisce la Duchessa Vanthampur da dietro con un attacco necrotico che la riduce quasi alla morte, innescando l'intervento di Mizzora. Dopo la morte della Duchessa, scorge il filo rosso della sua anima in fuga dal corpo, lo stesso fenomeno gia visto anni prima attorno a Flenner, e tenta di intrappolarlo con la collana di Helm trovata nella camera segreta di Kreeg. Ingaggia un tiro alla fune soprannaturale contro mani diaboliche per l'anima della Duchessa, risucchiando anche Nathan e Aelar nello stesso reame, e alla fine riesce a strappare l'anima agli Inferi."
         }
       ],
       "misteri": [
@@ -1504,7 +1547,9 @@
         16,
         17,
         18,
-        19
+        19,
+        20,
+        21
       ],
       "note": [
         {
@@ -1570,6 +1615,14 @@
         {
           "sessione": 19,
           "testo": "Al piano superiore della villa colpisce le guardie coi pugnali apparendo e sparendo tra le ombre, recuperando come trofeo gli strani occhialini dei soldati Vanthampur. Studia il misterioso cilindro infernale del forziere di Thurstwell e subisce una violentissima fitta psichica (sangue dagli occhi e dalle orecchie, risata infernale nella mente): l'oggetto e protetto da difese infernali e va riposto. Smonta e ripone nella borsa uno specchio prezioso, forza un secondo forziere (50 mo, 15 ma, un anello col motto 'I cuori di pietra non sanguinano mai') e infligge il colpo decisivo all'Helmed Horror con una serie di affondi precisi."
+        },
+        {
+          "sessione": 20,
+          "testo": "Forza il forziere trappolato nella camera della Duchessa, subendo la nube di veleno invecchiato insieme ai compagni. Nelle segrete infligge il colpo decisivo al diavolo aguzzino con una raffica di pugnali: morendo, la creatura gli accarezza il volto e gli dice 'Tu sei come noi' prima di dissolversi in cenere, lasciandolo visibilmente turbato. Tra i prigionieri liberati incontra Falaster Fisk, investigatore al soldo della studiosa di Candlekeep Silvira Savikas - la stessa Candlekeep che Volo gli aveva indicato nella sessione 16 per studiare le fratture planari. Sostiene la linea cauta sullo scudo infernale, contro la fretta di Aelar di consegnarlo subito a Lord Fauler."
+        },
+        {
+          "sessione": 21,
+          "testo": "Unico oltre ad Ania capace di comprendere l'Infernale, traduce l'iscrizione sul portone della sala rituale e l'invocazione a Zariel pronunciata dalla Duchessa. Dopo la morte di lei, distrugge insieme ad Alaster la statua dedicata a Zariel per spezzare l'effetto che imprigiona i compagni nella lotta per l'anima della Duchessa. Durante lo scontro nota che il proprio legame mentale con gli altri risulta disturbato quando attraversano il reame in cui Kyran lotta per l'anima."
         }
       ],
       "misteri": [
@@ -1578,7 +1631,8 @@
         "Cosa ha causato la perdita dell'ombra di Elis? E davvero collegata al patto con Tyr o a un'altra maledizione?",
         "Chi e la 'grande famiglia' che ha cresciuto Elis, gente 'con piu coraggio di chiunque'?",
         "Chi e il primo amore non corrisposto di Elis, e chi e il bersaglio della vendetta emersa dal suo sangue alla cena?",
-        "Cos'e il cilindro-rompicapo infernale dei Vanthampur che ha quasi ucciso Elis con un attacco psichico, e quale segreto custodisce?"
+        "Cos'e il cilindro-rompicapo infernale dei Vanthampur che ha quasi ucciso Elis con un attacco psichico, e quale segreto custodisce?",
+        "Cosa intendeva il diavolo aguzzino dicendo a Elis 'Tu sei come noi' prima di morire?"
       ],
       "correlazioni": [
         {
@@ -2499,16 +2553,16 @@
     },
     {
       "id": "duchessa-vanthampur",
-      "nome": "Duchessa Vanthampur",
+      "nome": "Duchessa Thalamra Vanthampur",
       "categoria": "secondario",
-      "ruolo": "Patrizia di Baldur's Gate",
-      "razza": "Umana",
-      "eta": "Ignota",
+      "ruolo": "Patrizia di Baldur's Gate, stregona patteggiata con Zariel",
+      "razza": "Umana (trasformata da un patto infernale)",
+      "eta": "Circa 75 anni",
       "immagine": null,
-      "aspetto": "Non ancora vista in scena.",
-      "personalita": "Non ancora delineata; il suo nome viene pronunciato come un avvertimento, una 'lama sottile'.",
-      "background": "Duchessa di Baldur's Gate che controlla fogne e acqua della citta. Ha finanziato generosamente la ristrutturazione delle terme della zona nord, da cui il sospetto di un suo legame con il Culto dei Tre Morti.",
-      "stato": "vivo",
+      "aspetto": "Donna anziana di circa settantacinque anni, ma con braccia massicce quanto le proprie cosce, frutto di una vita di lavoro manuale prima dell'ascesa politica. Dopo l'intervento di Mizzora la sua forma si trasforma in qualcosa di piu grande, piu rapido e apertamente infernale, capace di pugni devastanti; la nuova forma non si dissolve nemmeno con la morte.",
+      "personalita": "Fredda, autoritaria e sprezzante: tratta gli intrusi con un'eleganza gelida, certa della propria superiorita ('io sono l'unica vera infernale qui dentro: voi siete soltanto degli stupidi imitatori'). Devota fino alla fine al proprio patto con Zariel, a cui si rivolge con vera sottomissione.",
+      "background": "Duchessa di Baldur's Gate che controlla fogne e acqua della citta, salita dal nulla dalle fognature fino ai vertici della politica cittadina. Ha finanziato generosamente la ristrutturazione delle terme della zona nord, da cui il sospetto di un suo legame con il Culto dei Tre Morti. Si rivela infine l'architetto, per conto di Zariel, dello stesso patto infernale che ha causato la caduta di Elturel, con Baldur's Gate come prossimo obiettivo.",
+      "stato": "morto",
       "primaApparizione": 7,
       "apparizioni": [
         7,
@@ -2521,7 +2575,9 @@
         14,
         15,
         18,
-        19
+        19,
+        20,
+        21
       ],
       "note": [
         {
@@ -2567,6 +2623,14 @@
         {
           "sessione": 19,
           "testo": "Non compare in scena, ma il suo nome (Thalamra) e il suo ascendente dominano il piano superiore: la guardia superstite rivela che i sotterranei sono 'riservati alla signora Vanthampur' e accessibili solo con chiavi della famiglia. Il figlio Thurstwell custodiva per lei un cilindro infernale-rompicapo e la temeva al punto di credere che lo avrebbe ucciso se avesse parlato. Con la morte di Thurstwell la Duchessa perde il primogenito."
+        },
+        {
+          "sessione": 20,
+          "testo": "Ancora non compare in scena, ma la propria camera privata e il proprio studio rivelano altri due indizi sui suoi traffici: fogli per un 'Rituale della Fiamma di Avernus' e un forziere trappolato con registri infernali in cifre. Le segrete sotto la sua villa, gia segnalate da Sylvar nella sessione 18, si rivelano vere: prigionieri torturati dal suo diavolo aguzzino, tra cui la nobildonna Satyr Tion Hun, derubata di uno scudo infernale che la stessa famiglia Vanthampur custodiva. Il gruppo, esausto, si avvicina sempre di piu a una resa dei conti diretta con lei."
+        },
+        {
+          "sessione": 21,
+          "testo": "COMPARE DI PERSONA E MUORE: nella sala rituale sotto la villa, affiancata da un colosso corazzato, due cani infernali e una decina di fedeli in preghiera, riceve gli Extermina con freddo disprezzo e rivela di sapere gia del Culto del Drago infiltrato in casa. Invoca Zariel davanti a una statua alata, scatenando una furia di battaglia su tutti i combattenti. Ridotta quasi alla morte, viene salvata da Mizzora, fedele consigliera di Zariel, che le concede una 'seconda possibilita' e la trasforma in una forma piu grande e infernale, confermando che Baldur's Gate e il prossimo obiettivo dello stesso piano che ha distrutto Elturel. Nonostante la trasformazione, viene infine uccisa da una freccia di Aelar che la trapassa da parte a parte. La sua anima, vista fuggire dal corpo come un filo rosso, viene contesa da mani infernali e infine sottratta agli Inferi da Kyran e dal gruppo."
         }
       ],
       "misteri": [
@@ -2576,9 +2640,14 @@
         "Che ruolo ha la casata Vanthampur, di cui Mortlock e figlio rinnegato, nel Culto dei Tre Morti?",
         "Chi sono Ivanka e Amrik Vanthampur, e che ruolo hanno nella casata e nei traffici della Duchessa?",
         "Chi e il 'signor Vanthampur' che gestisce la Lanterna Bassa, fratello di Mortlock/Mortlock, e perche ha invitato gli Extermina di sotto?",
-        "Che ruolo hanno i Vanthampur (e i loro diavoli) nella caduta di Elturel e nel patto con Thavius Kreeg?"
+        "Ora che e morta, cosa accadra al resto della casata Vanthampur e al patto con Zariel che lei sosteneva?"
       ],
       "correlazioni": [
+        {
+          "personaggio": "mizzora",
+          "tipo": "patrona infernale",
+          "descrizione": "Le concede una seconda possibilita e la trasforma, confermando il patto diretto con Zariel."
+        },
         {
           "personaggio": "culto-tre-morti",
           "tipo": "sospetta",
@@ -3291,7 +3360,9 @@
         16,
         17,
         18,
-        19
+        19,
+        20,
+        21
       ],
       "note": [
         {
@@ -3325,6 +3396,14 @@
         {
           "sessione": 19,
           "testo": "Dopo l'uccisione del maggiordomo si separa volontariamente dal gruppo: nell'ombra del corridoio lascia che gli altri si allontanino e, su esortazione di Aelar ('Vai a salvare i prigionieri. Provaci almeno'), risponde con un cenno del capo e sparisce diretto ai sotterranei e alle celle, per conto suo. Non partecipa al resto dell'esplorazione del piano superiore."
+        },
+        {
+          "sessione": 20,
+          "testo": "Quasi certamente e lui, in forma di topo, il 'topo bianco dagli occhi dorati' avvistato dagli Extermina nei tunnel fognari sotto la villa: continua per conto proprio la missione di liberare i prigionieri intrapresa in sessione 19, ma viene notato senza essere riconosciuto dai compagni."
+        },
+        {
+          "sessione": 21,
+          "testo": "Tra sessione 20 e 21, ancora in forma di topo, viene catturato dai seguaci della Duchessa e imprigionato nello stesso cerchio magico sacrificale di Ania, nella sala rituale dedicata a Zariel. Quando la lotta contro Thalamra Vanthampur si scatena, libera se stesso e Ania incrinando il cerchio con un'energia druidica innaturale, e in seguito, sempre senza farsi riconoscere, fa crescere delle liane dal pavimento per aiutare in segreto Kyran, Nathan e Aelar nella lotta per l'anima della Duchessa. Nessuno dei compagni, in quel momento, si rende conto che il topo e lui."
         }
       ],
       "misteri": [
@@ -3334,7 +3413,7 @@
         "Chi e Hale, e che ruolo hanno Darren e Hector nella sua sparizione? Lucius Fauler/Fauler ne e l'artefice?",
         "Che debito ha Gullivan con qualcuno alla Lanterna Bassa?",
         "Sylvar cerca un membro di un gruppo di avventurieri assoldato dai Vanthampur un mese fa: e qualcuno legato ad Alaster?",
-        "Cosa nasconde davvero il complesso sotterraneo sorvegliato sotto la villa Vanthampur, pieno di diavoli e prigionieri?"
+        "Come e quando e stato catturato, tra la sessione 20 e la 21, mentre era in forma di topo? E quando i compagni scopriranno che il topo che li ha aiutati era lui?"
       ],
       "correlazioni": [
         {
@@ -3789,34 +3868,46 @@
       "razza": "Umano",
       "eta": "Anziano",
       "immagine": null,
-      "aspetto": "Non visto direttamente in scena.",
+      "aspetto": "Non visto direttamente in scena, ma la sua camera segreta sotto la villa Vanthampur lascia intuire un uomo di rango ecclesiastico elevato, abituato a vivere in fuga.",
       "personalita": "Non ancora delineata; il suo nome viene pronunciato come quello di chi conosce la verita sulla caduta di Elturel.",
       "background": "L'Alto Osservatore, sommo sacerdote del Compagno a Elturel. Secondo le voci avrebbe stretto un patto con l'Inferno. La sopravvissuta di Elturel sostiene di averlo visto a Baldur's Gate insieme a guardie legate ai Vanthampur: se qualcuno conosce la verita sulla fine della citta, e lui.",
       "stato": "vivo",
       "primaApparizione": 15,
       "apparizioni": [
-        15
+        15,
+        21
       ],
       "note": [
         {
           "sessione": 15,
           "testo": "PRIMA MENZIONE: la sopravvissuta di Elturel rivela al gruppo di credere che Thavius Kreeg, l'Alto Osservatore e sacerdote del Compagno (l'uomo che, secondo le voci, avrebbe stretto un patto con l'Inferno), sia a Baldur's Gate. Dice di averlo visto con guardie legate ai Vanthampur e di essere finita a origliare il gruppo proprio seguendoli. Il nome lega Vanthampur, diavoli, Kreeg ed Elturel in un'unica trama."
+        },
+        {
+          "sessione": 21,
+          "testo": "Gli Extermina scoprono, nel complesso sotterraneo dei Vanthampur, una camera abitata di recente e poi abbandonata in fretta: lettere bruciate sulla scrivania, un forziere svuotato, una tunica clericale e una collana col simbolo della mano e dell'occhio di Helm, identico al marchio sul guanto di Nathan. Il gruppo sospetta fortemente che la stanza appartenesse proprio a Thavius Kreeg, fuggito poco prima del loro arrivo dopo aver distrutto ogni prova della propria identita. Non viene incontrato di persona."
         }
       ],
       "misteri": [
         "Thavius Kreeg ha davvero stretto un patto con l'Inferno e provocato la caduta di Elturel?",
-        "Perche Kreeg e a Baldur's Gate insieme a guardie dei Vanthampur, e cosa li lega?"
+        "Perche Kreeg e a Baldur's Gate insieme a guardie dei Vanthampur, e cosa li lega?",
+        "Che legame ha Thavius Kreeg col simbolo di Helm impresso sul guanto di Nathan, trovato identico nella sua camera segreta sotto la villa Vanthampur?",
+        "Dove e fuggito Kreeg dopo aver abbandonato in fretta la propria camera sotto la villa Vanthampur?"
       ],
       "correlazioni": [
         {
           "personaggio": "duchessa-vanthampur",
           "tipo": "alleato (sospetto)",
-          "descrizione": "Visto dalla sopravvissuta in compagnia di guardie legate ai Vanthampur."
+          "descrizione": "Visto dalla sopravvissuta in compagnia di guardie legate ai Vanthampur; la sua camera segreta si trova proprio sotto la villa di lei."
         },
         {
           "personaggio": "reya-mantlemorn",
           "tipo": "braccato da",
           "descrizione": "La sopravvissuta di Elturel cerca di seguirne le tracce a Baldur's Gate."
+        },
+        {
+          "personaggio": "nathan",
+          "tipo": "legame ignoto",
+          "descrizione": "La collana col simbolo di Helm trovata nella sua camera segreta e identica al marchio impresso sul guanto di Nathan."
         }
       ]
     },
@@ -3835,7 +3926,8 @@
       "primaApparizione": 15,
       "apparizioni": [
         15,
-        18
+        18,
+        21
       ],
       "note": [
         {
@@ -3849,19 +3941,23 @@
         {
           "sessione": 18,
           "testo": "Solo citata: prima dell'assalto il gruppo discute se usare la pietra magica donata da Reya per chiamarla, ma Nathan decide che e troppo rischioso ('potrebbe arrivare nel mezzo del massacro') e non sa come reagirebbe il Culto del Drago a una Hellrider armata. La pietra resta intatta e Reya non viene coinvolta nell'operazione."
+        },
+        {
+          "sessione": 21,
+          "testo": "Non compare di persona, ma il gruppo sospetta fortemente che sia lei la misteriosa donna che li ha preceduti nell'infiltrazione della villa Vanthampur (segnalata dal Culto del Drago) e che ha lasciato in fretta la camera segreta sotto la villa, sospettata di appartenere a Thavius Kreeg. Convinti che fosse arrivata fin li proprio cercando lui, gli Extermina spezzano la propria pietra-segnale gemella per farle sapere di trovarsi sotto la villa: nessuna conferma diretta, solo una forte deduzione del gruppo."
         }
       ],
       "misteri": [
         "Qual è l'incidente per cui i Pugni Fiammeggianti la cercano?",
         "Ci si può fidare di lei, o è un'esca?",
         "Che legame ha con gli Hellrider e con la caduta di Elturel?",
-        "Quando e perché il gruppo deciderà di usare la pietra per chiamare Reya?"
+        "Era davvero lei la donna che ha preceduto il gruppo nell'infiltrazione della villa Vanthampur, e ha davvero trovato e perso le tracce di Thavius Kreeg per un soffio?"
       ],
       "correlazioni": [
         {
           "personaggio": "nathan",
           "tipo": "alleata (incerta)",
-          "descrizione": "Affida a Nathan una sfera-segnale per essere chiamata all'occorrenza; lui resta diffidente. Nella S18 Nathan decide di non usare la pietra durante l'assalto per non metterla in pericolo."
+          "descrizione": "Affida a Nathan una sfera-segnale per essere chiamata all'occorrenza; lui resta diffidente. Nella S18 Nathan decide di non usare la pietra durante l'assalto per non metterla in pericolo. Nella S21 il gruppo spezza la propria pietra gemella sospettando che lei li abbia preceduti sotto la villa."
         },
         {
           "personaggio": "thavius-kreeg",
@@ -3950,7 +4046,9 @@
         15,
         16,
         18,
-        19
+        19,
+        20,
+        21
       ],
       "note": [
         {
@@ -3972,12 +4070,21 @@
         {
           "sessione": 19,
           "testo": "Continua ad assaltare frontalmente la villa Vanthampur: dall'interno e dal balcone gli Extermina vedono i cultisti del Drago scontrarsi ancora con le guardie private della casata, tenendo impegnate gran parte delle difese mentre il gruppo esplora i piani della residenza."
+        },
+        {
+          "sessione": 20,
+          "testo": "Dalla piccionaia il gruppo osserva ancora il guerriero draconico del Culto scagliare un soldato Vanthampur in aria con la propria mazza, segno che l'assedio in superficie tiene ancora impegnate le difese della villa. Nei tunnel sotterranei gli Extermina tendono un'imboscata a due cultisti e a un imp in marcia, eliminandoli prima che possano dare l'allarme; piu tardi affrontano altri due cultisti accompagnati dal cane infernale dei Vanthampur."
+        },
+        {
+          "sessione": 21,
+          "testo": "Dopo aver eliminato le guardie cittadine ai piani superiori, un membro del Culto irrompe nella sala rituale dove gli Extermina hanno appena ucciso la Duchessa, rivendicando una vittoria gia ottenuta dal gruppo ('Festa finita, mi dispiace: siamo stati piu veloci'). Si allontana a perquisire le altre stanze della villa; tramite il legame mentale di Elis, gli Extermina origliano i suoi uomini valutare se rivoltarsi anche contro il gruppo, decidendo di rimandare la questione 'a un'altra occasione'."
         }
       ],
       "misteri": [
         "Quali sono le 'proprieta' della corona e della maschera che i mortali 'non comprendono'?",
         "Chi e Arkhan e quale ruolo ha nel Culto del Drago?",
-        "Il Culto del Drago e un nuovo fronte slegato dai Tre Morti, o entrambi convergono sui Vanthampur e su Elturel?"
+        "Il Culto del Drago e un nuovo fronte slegato dai Tre Morti, o entrambi convergono sui Vanthampur e su Elturel?",
+        "Quando, e in che modo, il Culto del Drago deciderà di rivoltarsi contro gli Extermina, come accennato dai suoi stessi uomini in sessione 21?"
       ],
       "correlazioni": [
         {
@@ -4447,15 +4554,25 @@
       "aspetto": "Enorme cane dal pelo scuro percorso da fiamme rossastre che filtrano tra le setole; si muove lentamente annusando l'aria.",
       "personalita": "Bestia da guardia istintiva, vigile, che pattuglia e fiuta gli intrusi.",
       "background": "Creatura infernale a guardia del complesso sotterraneo nascosto sotto la villa Vanthampur.",
-      "stato": "vivo",
+      "stato": "morto",
       "primaApparizione": 18,
       "apparizioni": [
-        18
+        18,
+        20,
+        21
       ],
       "note": [
         {
           "sessione": 18,
           "testo": "Pattuglia i cunicoli isolati delle fogne sotto la villa Vanthampur. Sylvar, in forma di topo, lo avvista mentre annusa l'aria ma non viene individuato; il cane continua la ronda. Una delle prove che l'area sotterranea e sorvegliata."
+        },
+        {
+          "sessione": 20,
+          "testo": "Accompagnato da due cultisti, intercetta gli Extermina nei tunnel dopo che un campanello d'allarme e stato suonato. Azzanna e quasi abbatte Kyran con un soffio di fiamme mentre e a terra nell'acqua del canale, prima di essere finalmente distrutto dal gruppo."
+        },
+        {
+          "sessione": 21,
+          "testo": "Altri due esemplari, diversi da quello distrutto in sessione 20, vegliano sulla Duchessa nella sala rituale: avvolti dall'aura di furia concessa da Zariel, attaccano il gruppo non appena scoppia lo scontro e atterrano Kyran con un soffio di fiamme. Entrambi vengono infine abbattuti durante la battaglia."
         }
       ],
       "misteri": [],
@@ -4482,7 +4599,8 @@
       "primaApparizione": 18,
       "apparizioni": [
         18,
-        19
+        19,
+        20
       ],
       "note": [
         {
@@ -4492,6 +4610,10 @@
         {
           "sessione": 19,
           "testo": "Cinque imp invisibili emergono dal camino della stanza di Thurstwell Vanthampur per difenderlo, sciamando addosso agli Extermina con pungiglioni avvelenati e velocita. Vengono abbattuti uno dopo l'altro; l'ultimo si frappone tra il gruppo e il proprio padrone come scudo vivente, invano. Altri imp infestano i corridoi della villa e vengono eliminati lungo l'esplorazione."
+        },
+        {
+          "sessione": 20,
+          "testo": "Uno scorta due cultisti nei tunnel sotterranei e viene abbattuto con loro in un'imboscata degli Extermina. Un secondo accompagna il cane infernale dei Vanthampur e due cultisti nello scontro finale della sessione, ed e l'ultimo nemico eliminato dal gruppo, ormai esausto."
         }
       ],
       "misteri": [],
@@ -4514,19 +4636,24 @@
       "aspetto": "Figura infernale intravista nella penombra verdognola delle segrete, intenta a frustare un prigioniero incatenato.",
       "personalita": "Crudele e compiaciuto: ride lentamente nutrendosi della sofferenza altrui.",
       "background": "Diavolo che tortura i prigionieri nelle segrete sotterranee del complesso dei Vanthampur.",
-      "stato": "vivo",
+      "stato": "morto",
       "primaApparizione": 18,
       "apparizioni": [
-        18
+        18,
+        20
       ],
       "note": [
         {
           "sessione": 18,
           "testo": "Sylvar, sbirciando sotto una porta, lo vede torturare a frustate un uomo incatenato in una stanza illuminata da una lanterna verdognola, mentre altri prigionieri attendono nell'oscurita. La scoperta conferma che sotto la villa Vanthampur esiste una struttura segreta abitata da diavoli e piena di prigionieri."
+        },
+        {
+          "sessione": 20,
+          "testo": "Affrontato direttamente dagli Extermina, si rivela fortemente resistente alle armi convenzionali e ferisce gravemente Kyran con artigli e coda prima di essere abbattuto da una raffica di pugnali di Elis. Morendo le accarezza il volto e le dice 'Tu sei come noi' prima di incendiarsi e dissolversi in cenere, liberando i prigionieri che torturava da tempo."
         }
       ],
       "misteri": [
-        "Chi sono i prigionieri torturati nelle segrete dei Vanthampur e perche vengono tenuti la sotto?"
+        "Cosa intendeva il diavolo aguzzino dicendo a Elis, in punto di morte, 'Tu sei come noi'?"
       ],
       "correlazioni": [
         {
@@ -4550,12 +4677,17 @@
       "stato": "vivo",
       "primaApparizione": 18,
       "apparizioni": [
-        18
+        18,
+        20
       ],
       "note": [
         {
           "sessione": 18,
           "testo": "Durante l'assalto del Culto del Drago alla villa Vanthampur, Sylvar lo osserva attraverso gli occhi di Aeren mentre incenerisce i difensori col proprio soffio davanti all'ingresso principale, garantendo la distrazione che permette agli Extermina di infiltrarsi dal retro."
+        },
+        {
+          "sessione": 20,
+          "testo": "Avvistato dalla piccionaia del piano superiore, combatte ancora nel cortile contro le guardie Vanthampur: scaglia un soldato in aria con un solo colpo della propria mazza, confermando agli Extermina che l'assedio esterno tiene ancora impegnate le difese della villa."
         }
       ],
       "misteri": [],
@@ -4652,12 +4784,17 @@
       "stato": "vivo",
       "primaApparizione": 19,
       "apparizioni": [
-        19
+        19,
+        20
       ],
       "note": [
         {
           "sessione": 19,
           "testo": "PRIMA APPARIZIONE: gli Extermina lo trovano nelle cucine della villa intento a divorare un pollo crudo. Aelar lo riconosce come tressym, raro gatto alato innocuo, e se lo ingrazia gettandogli il pollo: il felino sovrappeso lo adotta facendo le fusa. Kyran ed Elis lo considerano scherzosamente 'buono da mangiare'; il gatto continua imperterrito a ingrassare."
+        },
+        {
+          "sessione": 20,
+          "testo": "Si scopre che non e solo: un secondo tressym, identico e altrettanto sovrappeso, viene trovato nascosto sotto il letto della Duchessa Thalamra. I due felini seguono il gruppo per buona parte dell'esplorazione, placati a furia di resti di pollo, finche non vengono lasciati al sicuro al piano superiore prima della discesa nei sotterranei."
         }
       ],
       "misteri": [],
@@ -4807,6 +4944,310 @@
           "personaggio": "duchessa-vanthampur",
           "tipo": "guardiano di",
           "descrizione": "Costrutto magico posto a guardia dei segreti della casata Vanthampur."
+        }
+      ]
+    },
+    {
+      "id": "diavoli-cantina-vanthampur",
+      "nome": "I diavoli della cantina dei Vanthampur",
+      "categoria": "avversario",
+      "ruolo": "Guardiani infernali",
+      "razza": "Diavoli (immondi)",
+      "eta": "—",
+      "immagine": null,
+      "aspetto": "Tre figure infernali nascoste in una catasta di casse, rivelate dalla luce delle fiamme: artigli, code e una ferocia che compensa la mole relativamente contenuta.",
+      "personalita": "Aggressivi e territoriali: si lanciano subito all'attacco non appena scoperti, senza tentare la fuga finche non sono ormai allo stremo.",
+      "background": "Tre diavoli nascosti nella cantina di vini del complesso sotterraneo dei Vanthampur, forse posti a guardia della botte e delle scorte, forse di qualcosa di piu importante.",
+      "stato": "morto",
+      "primaApparizione": 20,
+      "apparizioni": [
+        20
+      ],
+      "note": [
+        {
+          "sessione": 20,
+          "testo": "PRIMA APPARIZIONE: Kyran ne avverte la presenza e appicca il fuoco alla catasta di casse in cui si nascondono, costringendoli ad uscire allo scoperto. Nello scontro che segue uno viene dissolto da uno spruzzo d'acido di Alaster, un secondo cade sotto i colpi di Kyran e Nathan, il terzo viene finito da una mano scheletrica necrotica mentre tenta la fuga. Durante il combattimento, il gruppo nota che uno dei tre si muoveva in modo simile ai diavoli di guardia ad Amrik Vanthampur, senza poterne avere conferma."
+        }
+      ],
+      "misteri": [
+        "I diavoli della cantina hanno davvero un legame con 'i diavoli di Amrik' incontrati alla Lanterna Bassa (sessione 15), o si tratta soltanto di una somiglianza superficiale?"
+      ],
+      "correlazioni": [
+        {
+          "personaggio": "duchessa-vanthampur",
+          "tipo": "al servizio di",
+          "descrizione": "Guardiani infernali della cantina nel complesso sotterraneo dei Vanthampur."
+        }
+      ]
+    },
+    {
+      "id": "falaster-fisk",
+      "nome": "Falaster Fisk",
+      "categoria": "alleato",
+      "ruolo": "Investigatore",
+      "razza": "Umano",
+      "eta": "Adulto",
+      "immagine": null,
+      "aspetto": "Non ancora descritto in dettaglio: emaciato e segnato dalla prigionia quando viene liberato dalle segrete dei Vanthampur.",
+      "personalita": "Curioso fino all'imprudenza: ammette lui stesso di essersi fatto scoprire per aver 'curiosato troppo'.",
+      "background": "Investigatore al soldo della studiosa di Candlekeep Silvira Savikas, esperta di questioni e oggetti infernali. Inviato a controllare la situazione a Elturel, l'ha trovata gia distrutta; le indagini successive lo hanno condotto fino alla villa Vanthampur, dove e stato scoperto e imprigionato.",
+      "stato": "vivo",
+      "primaApparizione": 20,
+      "apparizioni": [
+        20,
+        21
+      ],
+      "note": [
+        {
+          "sessione": 20,
+          "testo": "PRIMA APPARIZIONE: liberato dalle segrete dei Vanthampur insieme a Satyr Tion Hun, racconta agli Extermina di lavorare per Silvira Savikas e di essere stato catturato dopo aver indagato sulla villa in seguito alla caduta di Elturel. Segue il gruppo a distanza di sicurezza per il resto dell'esplorazione, disposto a farsi passare per un cultista in caso di necessita."
+        },
+        {
+          "sessione": 21,
+          "testo": "Segue il gruppo a distanza di sicurezza nei sotterranei insieme a Satyr Tion Hun. Quando gli Extermina trovano un passaggio segreto che risale fino alla scuderia della villa, viene fatto evadere insieme a lei, dandosi appuntamento alla taverna del Canto Elfico. Prima di andarsene, accenna a un legame personale con lo scudo infernale recuperato dal gruppo, definendolo 'la mia famiglia'."
+        }
+      ],
+      "misteri": [
+        "Cosa ha scoperto davvero Falaster Fisk indagando sulla villa Vanthampur, oltre a farsi catturare?",
+        "Che legame ha davvero Falaster con lo scudo infernale, se lo definisce 'la mia famiglia' mentre Satyr Tion Hun lo rivendica per la propria casata?"
+      ],
+      "correlazioni": [
+        {
+          "personaggio": "silvira-savikas",
+          "tipo": "al servizio di",
+          "descrizione": "Investigatore al soldo della studiosa di Candlekeep."
+        },
+        {
+          "personaggio": "satyr-tion-hun",
+          "tipo": "compagna di prigionia",
+          "descrizione": "Liberata insieme a lui dalle segrete dei Vanthampur; fuggono di nuovo insieme dalla villa in sessione 21."
+        }
+      ]
+    },
+    {
+      "id": "satyr-tion-hun",
+      "nome": "Satyr Tion Hun",
+      "categoria": "alleato",
+      "ruolo": "Nobildonna / custode di famiglia",
+      "razza": "Umana",
+      "eta": "Adulta",
+      "immagine": null,
+      "aspetto": "Non ancora descritta in dettaglio: segnata dalla prigionia quando viene liberata dalle segrete dei Vanthampur.",
+      "personalita": "Determinata nonostante la prigionia: la sua prima preoccupazione, una volta libera, e il destino dell'artefatto di famiglia, non la propria incolumita.",
+      "background": "Membro di un'antica famiglia nobile di Baldur's Gate, gli Hun, custodi da generazioni di uno scudo infernale al cui interno e imprigionata un'entita oscura capace di corrompere chiunque le si avvicini troppo. Catturata dopo che lo scudo le e stato sottratto.",
+      "stato": "vivo",
+      "primaApparizione": 20,
+      "apparizioni": [
+        20,
+        21
+      ],
+      "note": [
+        {
+          "sessione": 20,
+          "testo": "PRIMA APPARIZIONE: liberata dalle segrete dei Vanthampur insieme a Falaster Fisk, rivela agli Extermina che lo scudo infernale recuperato nella villa appartiene da generazioni alla sua famiglia e che il suo compito era limitarne l'influenza sulla citta. Chiede al gruppo di restituirglielo; gli Extermina, ricordando che lo stesso scudo era stato richiesto da Lord Fauler in cambio di una risposta sincera, scelgono per il momento di tenerlo e indagare prima di decidere a chi consegnarlo."
+        },
+        {
+          "sessione": 21,
+          "testo": "Segue il gruppo a distanza di sicurezza nei sotterranei insieme a Falaster Fisk durante lo scontro con la Duchessa. Viene fatta evadere dalla villa attraverso un passaggio segreto trovato dal gruppo, con appuntamento fissato alla taverna del Canto Elfico tra un giorno o due."
+        }
+      ],
+      "misteri": [
+        "Lo scudo infernale appartiene davvero alla famiglia Hun da generazioni, o e un'altra mezza verita in una trama piena di pretendenti infernali?",
+        "Chi ha sottratto lo scudo alla famiglia Hun e consegnato ai Vanthampur, e perche?",
+        "Perche anche Falaster Fisk rivendica un legame personale con lo stesso scudo che lei chiama artefatto di famiglia?"
+      ],
+      "correlazioni": [
+        {
+          "personaggio": "falaster-fisk",
+          "tipo": "compagno di prigionia",
+          "descrizione": "Liberato insieme a lei dalle segrete dei Vanthampur; fuggono di nuovo insieme dalla villa in sessione 21."
+        },
+        {
+          "personaggio": "lucius-fowler",
+          "tipo": "conteso con",
+          "descrizione": "Lord Fauler ha richiesto agli Extermina lo stesso scudo infernale che Satyr rivendica per la propria famiglia."
+        }
+      ]
+    },
+    {
+      "id": "silvira-savikas",
+      "nome": "Silvira Savikas",
+      "categoria": "secondario",
+      "ruolo": "Studiosa di questioni infernali",
+      "razza": "Ignota",
+      "eta": "Ignota",
+      "immagine": null,
+      "aspetto": "Non ancora vista in scena.",
+      "personalita": "Non ancora delineata.",
+      "background": "Studiosa residente a Candlekeep, esperta di questioni e oggetti infernali. Datrice di lavoro dell'investigatore Falaster Fisk, che ha inviato a controllare la situazione di Elturel e poi a indagare sulla villa Vanthampur.",
+      "stato": "ignoto",
+      "primaApparizione": 20,
+      "apparizioni": [
+        20
+      ],
+      "note": [
+        {
+          "sessione": 20,
+          "testo": "PRIMA MENZIONE: citata da Falaster Fisk, liberato dalle segrete dei Vanthampur, come la studiosa di Candlekeep per cui lavora. Non compare di persona, ma il suo nome si lega alla stessa Candlekeep che Volo aveva indicato a Elis nella sessione 16."
+        }
+      ],
+      "misteri": [
+        "Chi e davvero Silvira Savikas, e quanto sa delle questioni infernali che coinvolgono Elturel e i Vanthampur?"
+      ],
+      "correlazioni": [
+        {
+          "personaggio": "falaster-fisk",
+          "tipo": "datrice di lavoro di",
+          "descrizione": "Ha inviato Falaster Fisk a indagare su Elturel e sulla villa Vanthampur."
+        }
+      ]
+    },
+    {
+      "id": "mizzora",
+      "nome": "Mizzora",
+      "categoria": "avversario",
+      "ruolo": "Consigliera diabolica di Zariel",
+      "razza": "Diavolo",
+      "eta": "Ignota",
+      "immagine": null,
+      "aspetto": "Compare in un boato di fiamme e piume nere cadute dal nulla, dentro un pentacolo di fuoco. Si presenta con un sorriso colmo di superiorita.",
+      "personalita": "Affettuosa e quasi materna verso Thalamra Vanthampur ('cucciola'), ma con un'autorita assoluta che non lascia dubbi su chi comandi davvero. Sprezzante verso i mortali, li giudica un gioco da poco a cui non vale la pena dedicare tempo.",
+      "background": "La piu fedele e vicina consigliera di Zariel, Arciduchessa di Averno. Interviene di persona in soccorso di Thalamra Vanthampur quando la Duchessa, in fin di vita, invoca il patto stretto con la propria signora.",
+      "stato": "vivo",
+      "primaApparizione": 21,
+      "apparizioni": [
+        21
+      ],
+      "note": [
+        {
+          "sessione": 21,
+          "testo": "PRIMA APPARIZIONE: appare in soccorso di Thalamra Vanthampur, ridotta quasi alla morte dal gruppo, e le concede una 'seconda possibilita', l'ultima secondo le sue parole. Confirma che Zariel e soddisfatta del piano della Duchessa e che Baldur's Gate sara 'parte dei suoi piani, come fu Elturel'. Trasforma Thalamra in una forma piu grande e infernale con un baciamano rituale, poi si dissolve in un rivolo di liquame, non senza prima notare gli Extermina e promettere, con un sorriso, di rivederli 'prima o poi'."
+        }
+      ],
+      "misteri": [
+        "Quando e in che modo Mizzora tornera a interagire con gli Extermina, come promesso?",
+        "Quanto e diretto il controllo di Mizzora sui piani di Zariel per Baldur's Gate, ora che la sua pedina Thalamra Vanthampur e morta?"
+      ],
+      "correlazioni": [
+        {
+          "personaggio": "duchessa-vanthampur",
+          "tipo": "patrona di",
+          "descrizione": "Le concede una seconda possibilita e la trasforma, confermando il patto diretto con Zariel."
+        }
+      ]
+    },
+    {
+      "id": "ania",
+      "nome": "Ania",
+      "categoria": "alleato",
+      "ruolo": "Incantatrice misteriosa",
+      "razza": "Ignota (statura minuta, tratti che ricordano insieme un tiefling e un halfling)",
+      "eta": "Ignota",
+      "immagine": null,
+      "aspetto": "Giovane donna di statura minuta, poco piu di un metro e mezzo. Segnata dalla prigionia quando viene liberata dal cerchio magico della Duchessa Vanthampur.",
+      "personalita": "Tagliente, autoritaria e priva di scrupoli: minaccia e poi giustizia a sangue freddo i cultisti indifesi rimasti in preghiera. Riservata sulla propria identita e sui propri scopi, tratta gli Extermina come potenziali strumenti utili piu che come alleati alla pari ('non ho detto a noi, ho detto a me'). Capace di gesti di cura quasi materni verso Nathan, subito dopo aver rivendicato di non essere 'di nessuno'.",
+      "background": "Trovata incatenata, insieme a uno strano topo bianco, nel cerchio magico sacrificale della Duchessa Thalamra Vanthampur, in una sala rituale dedicata a Zariel sotto la villa. Liberata grazie all'energia innaturale del topo, si schiera apertamente contro la Duchessa, rivelandosi un'incantatrice di grande potenza (ispirazione bardica, Unsettling Words, un attacco di energia paragonabile all'Eldritch Blast). Ha riconosciuto il nome di Elturel pronunciato dal gruppo.",
+      "stato": "vivo",
+      "primaApparizione": 21,
+      "apparizioni": [
+        21
+      ],
+      "note": [
+        {
+          "sessione": 21,
+          "testo": "PRIMA APPARIZIONE: imprigionata nel cerchio magico della Duchessa insieme al topo bianco, viene liberata quando l'energia di quest'ultimo incrina l'incantesimo. Si unisce subito allo scontro contro Thalamra Vanthampur, contribuendo con ispirazione bardica, Unsettling Words e un potente attacco di energia. Dopo la morte della Duchessa, rianima Nathan con una pozione e una scossa poco gentile, poi uccide senza pieta, uno dopo l'altro, i cultisti ancora indifesi in preghiera. Resta con il gruppo dopo l'incontro col Culto del Drago, e avvicinata dall'invisibile Alaster le rivela di aver sentito il gruppo nominare Elturel, chiedendo di essere seguita senza spiegare chi sia davvero."
+        }
+      ],
+      "misteri": [
+        "Chi e davvero Ania, e perche era prigioniera nel cerchio magico della Duchessa insieme al topo bianco?",
+        "Che legame ha con Elturel, di cui ha riconosciuto subito il nome?",
+        "Quali sono i suoi reali scopi nel voler 'reclutare' gli Extermina, e perche insiste che le siano utili 'a lei' e non al gruppo?",
+        "Sa che il topo bianco che l'ha liberata non e un animale comune?"
+      ],
+      "correlazioni": [
+        {
+          "personaggio": "duchessa-vanthampur",
+          "tipo": "prigioniera di",
+          "descrizione": "Tenuta incatenata nel cerchio magico sacrificale della Duchessa prima di liberarsi e rivoltarsi contro di lei."
+        },
+        {
+          "personaggio": "sylvar",
+          "tipo": "compagna di prigionia (a sua insaputa)",
+          "descrizione": "Imprigionata nello stesso cerchio magico del topo bianco che e in realta Sylvar; non sa che si tratti di un compagno degli Extermina."
+        },
+        {
+          "personaggio": "nathan",
+          "tipo": "soccorsa da/soccorre",
+          "descrizione": "Lo rianima con una pozione dopo che crolla privo di sensi nella lotta per l'anima della Duchessa."
+        }
+      ]
+    },
+    {
+      "id": "cultisti-zariel-vanthampur",
+      "nome": "I fedeli di Zariel della villa Vanthampur",
+      "categoria": "avversario",
+      "ruolo": "Devoti infernali",
+      "razza": "Vari (perlopiu umani)",
+      "eta": "—",
+      "immagine": null,
+      "aspetto": "Una decina di fedeli rannicchiati in preghiera, indifferenti a tutto cio che li circonda.",
+      "personalita": "Devoti fino all'autoannullamento: continuano a pregare senza sosta anche durante il combattimento contro la propria padrona, indifferenti alla propria sorte.",
+      "background": "Fedeli devoti a Zariel al servizio della Duchessa Thalamra Vanthampur, ne alimentano i rituali pregando senza sosta nella sala sotterranea dedicata alla dea infernale.",
+      "stato": "morto",
+      "primaApparizione": 21,
+      "apparizioni": [
+        21
+      ],
+      "note": [
+        {
+          "sessione": 21,
+          "testo": "PRIMA APPARIZIONE: gli Extermina li sentono pregare in Infernale dietro una porta nei sotterranei e scelgono di non affrontarli. Li ritrovano poco dopo rannicchiati ai piedi della statua di Zariel nella sala rituale della Duchessa, indifferenti allo scontro che si scatena a pochi passi da loro. Sopravvivono all'intero combattimento senza mai reagire, ma vengono infine giustiziati uno dopo l'altro da Ania, in un silenzio quasi rituale, una volta che la Duchessa e morta."
+        }
+      ],
+      "misteri": [],
+      "correlazioni": [
+        {
+          "personaggio": "duchessa-vanthampur",
+          "tipo": "al servizio di",
+          "descrizione": "Fedeli che alimentano con la preghiera continua i rituali della Duchessa dedicati a Zariel."
+        },
+        {
+          "personaggio": "ania",
+          "tipo": "uccisi da",
+          "descrizione": "Giustiziati senza pieta da Ania subito dopo la morte della Duchessa."
+        }
+      ]
+    },
+    {
+      "id": "guardiano-corazzato-vanthampur",
+      "nome": "Il guardiano corazzato della Duchessa",
+      "categoria": "avversario",
+      "ruolo": "Guardia del corpo infernale",
+      "razza": "Ignota (creatura in armatura)",
+      "eta": "Ignota",
+      "immagine": null,
+      "aspetto": "Colosso in armatura pesante, silenzioso, che non si allontana mai dal fianco della Duchessa.",
+      "personalita": "Disciplinato e silenzioso: non pronuncia una parola, limitandosi a frapporsi tra la Duchessa e ogni minaccia.",
+      "background": "Guardia del corpo personale della Duchessa Thalamra Vanthampur nella sala rituale dedicata a Zariel, posta a sua protezione diretta.",
+      "stato": "morto",
+      "primaApparizione": 21,
+      "apparizioni": [
+        21
+      ],
+      "note": [
+        {
+          "sessione": 21,
+          "testo": "PRIMA APPARIZIONE: affianca la Duchessa durante l'incontro con gli Extermina e si frappone subito a un fendente di Nathan, offrendole mezza copertura. Continua a proteggerla per gran parte dello scontro finche non cade sotto i colpi congiunti del gruppo, privando la Duchessa della propria copertura e rivelandone la vera natura infernale."
+        }
+      ],
+      "misteri": [
+        "Che genere di creatura era davvero il guardiano corazzato della Duchessa?"
+      ],
+      "correlazioni": [
+        {
+          "personaggio": "duchessa-vanthampur",
+          "tipo": "al servizio di",
+          "descrizione": "Guardia del corpo personale della Duchessa nella sala rituale."
         }
       ]
     }

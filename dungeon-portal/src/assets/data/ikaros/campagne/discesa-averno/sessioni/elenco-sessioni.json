@@ -104,12 +104,12 @@
         {
           "label": "Sessione 20",
           "sessionNumber": 20,
-          "visible": false
+          "visible": true
         },
         {
           "label": "Sessione 21",
           "sessionNumber": 21,
-          "visible": false
+          "visible": true
         },
         {
           "label": "Sessione 22",
