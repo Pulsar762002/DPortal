@@ -37,6 +37,7 @@ services:
       - "5000:8080"
     volumes:
       - /home/andrea/bitbucket/DPortal/DungeonPortalSolution/uploads:/app/uploads
+      - /home/andrea/bitbucket/DPortal/DungeonPortalSolution/DungonPortalApi/content:/app/content
     restart: always
 
 

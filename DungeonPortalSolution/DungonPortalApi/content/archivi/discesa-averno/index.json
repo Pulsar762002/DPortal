@@ -1,0 +1,152 @@
+{
+  "cartelle": [
+    {
+      "id": "289e3130e4364b83a09a9b2f5715c3c9",
+      "nome": "Appunti",
+      "sottocartelle": [
+        {
+          "id": "abf98da44ad845c4b94129377999b0bf",
+          "nome": "Nodorovo",
+          "sottocartelle": [
+            {
+              "id": "cc20f13c12234709a2dd30bf900bda23",
+              "nome": "Famiglia",
+              "sottocartelle": [],
+              "voci": []
+            }
+          ],
+          "voci": [
+            {
+              "id": "96def8c2fbc04762a689f705e4a2668f",
+              "titolo": "Magione Nodorovo"
+            }
+          ]
+        },
+        {
+          "id": "33fdff620b8843b99689ec8bc38c7f72",
+          "nome": "Terminate",
+          "sottocartelle": [
+            {
+              "id": "b5b542e549814f0693d796fdf8337de9",
+              "nome": "Mercato Nero",
+              "sottocartelle": [],
+              "voci": []
+            },
+            {
+              "id": "caa33640f4a246b795f41f0388f2ae26",
+              "nome": "Porta del Basilisco",
+              "sottocartelle": [],
+              "voci": []
+            },
+            {
+              "id": "0b2e0c12c5104e26805a5e39c4b7935a",
+              "nome": "Taverna del canto elfico",
+              "sottocartelle": [],
+              "voci": []
+            },
+            {
+              "id": "29f91067ad8746468ff61fa0a26a7b03",
+              "nome": "Terme",
+              "sottocartelle": [],
+              "voci": []
+            }
+          ],
+          "voci": []
+        },
+        {
+          "id": "fe1a1d2e18c94b3bbf35a2f30f583e55",
+          "nome": "Vanthampur",
+          "sottocartelle": [
+            {
+              "id": "304c2ef7e3df48808a06a02282909a15",
+              "nome": "Villa",
+              "sottocartelle": [],
+              "voci": []
+            },
+            {
+              "id": "5dac0d5313e147dea7fa53434d213348",
+              "nome": "Lanterna BAssa",
+              "sottocartelle": [],
+              "voci": [
+                {
+                  "id": "379c245f6ef34b948b8a8d3d25025f53",
+                  "titolo": "Lanterna Bassa"
+                }
+              ]
+            }
+          ],
+          "voci": []
+        }
+      ],
+      "voci": []
+    },
+    {
+      "id": "15cef83e95724853a4b3ad67728369de",
+      "nome": "BG",
+      "sottocartelle": [],
+      "voci": [
+        {
+          "id": "84d5953b61634e02b552cacc6c63c44b",
+          "titolo": "Baldur\u0027s Gate"
+        },
+        {
+          "id": "6c7852cafd574a609c825547ec6d3e10",
+          "titolo": "Piazzale"
+        }
+      ]
+    },
+    {
+      "id": "3d0df337f2614365afb8534508525ca8",
+      "nome": "Comandamenti",
+      "sottocartelle": [],
+      "voci": [
+        {
+          "id": "484791ea3552489f8fbf377742bd320f",
+          "titolo": "Reg. Combattimenti"
+        },
+        {
+          "id": "0884dcf6972147a69979c10d43490b50",
+          "titolo": "Reg. Incantesimi"
+        },
+        {
+          "id": "5a12207759604c64b1bc4f2033f69286",
+          "titolo": "Reg. Acquisti e Creazione"
+        },
+        {
+          "id": "a2354329e5514acfadd2eb3afd972534",
+          "titolo": "Reg. Harvest"
+        }
+      ]
+    },
+    {
+      "id": "aa50b3cc045d417e9b3b272e0ac6761a",
+      "nome": "Libri di testo",
+      "sottocartelle": [],
+      "voci": [
+        {
+          "id": "09298e52d7584b268fda4ca2242a4899",
+          "titolo": "Apocalypto"
+        },
+        {
+          "id": "1f22dd3cb59744458e4dfac960029a4c",
+          "titolo": "Breve Trattato sulla Disposizione Geografica dei Nove Inferi"
+        },
+        {
+          "id": "ccfc6add13264853be0db17513fe5806",
+          "titolo": "La Guerra del Sangue"
+        }
+      ]
+    },
+    {
+      "id": "13c516bb7592468e9ea9abcbdecd87c6",
+      "nome": "Test",
+      "sottocartelle": [],
+      "voci": [
+        {
+          "id": "c442564bdedd460a80494b72cf5d2367",
+          "titolo": "test"
+        }
+      ]
+    }
+  ]
+}

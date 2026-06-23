@@ -18,6 +18,17 @@ app.UseStaticFiles(new StaticFileOptions
     FileProvider = new PhysicalFileProvider(uploadsPath),
     RequestPath = "/uploads"
 });
+
+// Cartella "content" (materiale di campagna versionato, es. immagini Archivi) servita sotto /content
+var contentPath = Path.Combine(Directory.GetCurrentDirectory(), "content");
+Directory.CreateDirectory(contentPath);
+
+app.UseStaticFiles(new StaticFileOptions
+{
+    FileProvider = new PhysicalFileProvider(contentPath),
+    RequestPath = "/content"
+});
+
 app.UseStaticFiles(); // wwwroot
 
 app.UseSwagger();
@@ -34,5 +45,6 @@ DbInitializer.Initialize(app.Services);
 app.MapAuthEndpoints();
 app.MapUserEndpoints();
 app.MapAdminEndpoints();
+app.MapArchivioEndpoints();
 
 app.Run();

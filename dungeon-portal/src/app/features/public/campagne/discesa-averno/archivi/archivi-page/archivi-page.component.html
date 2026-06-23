@@ -1,0 +1,51 @@
+<div class="archivi-page">
+
+  <div class="page-header">
+    <h1 class="page-title">Archivi del Master</h1>
+    <p class="page-intro">Appunti, regolamenti e testi raccolti durante la campagna</p>
+  </div>
+
+  <div class="archivi-layout">
+
+    <!-- ===== SIDEBAR CARTELLE/VOCI ===== -->
+    <nav class="sidebar">
+
+      <p class="sidebar-titolo" *ngIf="!indice.cartelle.length">Nessun archivio ancora pubblicato</p>
+
+      <app-archivio-cartella-view-node
+          *ngFor="let cartella of indice.cartelle; let i = index"
+          [cartella]="cartella"
+          [apertaPredefinita]="i === 0"
+          [voceSelezionataId]="voceSelezionata?.id"
+          (apriVoce)="apriVoce($event)">
+      </app-archivio-cartella-view-node>
+
+    </nav>
+
+    <!-- ===== CONTENUTO VOCE ===== -->
+    <main class="main-content">
+
+      <p class="voce-vuota" *ngIf="!voceSelezionata && !caricamentoVoce">
+        Seleziona una voce dall'elenco per leggerla.
+      </p>
+
+      <p class="voce-vuota" *ngIf="caricamentoVoce">Caricamento…</p>
+
+      <article class="voce-card" *ngIf="voceSelezionata && !caricamentoVoce">
+
+        <h2 class="voce-titolo">{{ voceSelezionata.titolo }}</h2>
+
+        <div class="voce-blocks">
+          <app-story-blocks
+              [blocks]="voceSelezionata.blocks || []"
+              [fallbackImageAlt]="voceSelezionata.titolo">
+          </app-story-blocks>
+        </div>
+
+      </article>
+
+    </main>
+
+  </div>
+
+</div>

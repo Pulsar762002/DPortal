@@ -62,6 +62,7 @@ public static class ServiceCollectionExtensions
 
         services.AddScoped<JwtService>();
         services.AddScoped<AvatarService>();
+        services.AddScoped<ArchivioStorageService>();
 
         services.AddEndpointsApiExplorer();
         services.AddSwaggerGen();

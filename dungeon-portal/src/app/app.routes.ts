@@ -80,6 +80,16 @@ export const routes: Routes = [
             .then(m => m.CronacheEditorComponent),
       },
       {
+        path: 'dashboard/archivi',
+        canActivate: [
+          authGuard,
+          roleGuard([ROLES.Master, ROLES.Admin])
+        ],
+        loadComponent: () =>
+          import('./features/master/archivio-editor/archivio-editor.component')
+            .then(m => m.ArchivioEditorComponent),
+      },
+      {
         path: 'campagne',
         canActivate: [authGuard],
         children: [
@@ -135,6 +145,12 @@ export const routes: Routes = [
                 loadComponent: () =>
                   import('./features/public/campagne/discesa-averno/galleria/galleria-page/galleria-page.component')
                     .then(m => m.GalleriaPageComponent)
+              },
+              {
+                path: 'archivi',
+                loadComponent: () =>
+                  import('./features/public/campagne/discesa-averno/archivi/archivi-page/archivi-page.component')
+                    .then(m => m.ArchiviPageComponent)
               }
             ]
           }

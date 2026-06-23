@@ -15,24 +15,6 @@
     color: white;
 }
 
-/* ===== Varianti del paragrafo ===== */
-.chapter .paragraph-italic {
-    font-style: italic;
-}
-
-.chapter .paragraph-emphasis {
-    font-style: italic;
-    text-align: center;
-    color: #e6c36f;
-    letter-spacing: 0.04em;
-    margin: 22px 0;
-}
-
-/* ===== Attribuzione citazione ===== */
-.chapter .quote-author {
-    display: block;
-    margin-top: 8px;
-    font-style: normal;
-    text-align: right;
-    color: rgba(230, 195, 111, 0.8);
-}
+/* Stili dei blocchi (paragraph-italic/emphasis, quote-author, ecc.) sono in
+   shared/story-blocks/story-blocks/story-blocks.component.css, perché quegli
+   elementi ora vivono nel template di quel componente, non in questo. */

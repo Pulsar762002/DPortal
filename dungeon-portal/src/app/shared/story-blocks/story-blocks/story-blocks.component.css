@@ -1,0 +1,43 @@
+@import "../../styles/session-layout.css";
+
+:host {
+    display: contents;
+}
+
+/* Non dipende da un ancestor ".chapter": questo componente è riusato anche
+   fuori dalle sessioni (es. Archivi), dove quella classe non esiste. */
+p {
+    text-align: left;
+}
+
+/* ===== Varianti del paragrafo ===== */
+.paragraph-italic {
+    font-style: italic;
+}
+
+.paragraph-emphasis {
+    font-style: italic;
+    text-align: center;
+    color: #e6c36f;
+    letter-spacing: 0.04em;
+    margin: 22px 0;
+}
+
+/* ===== Attribuzione citazione ===== */
+.quote-author {
+    display: block;
+    margin-top: 8px;
+    font-style: normal;
+    text-align: right;
+    color: rgba(230, 195, 111, 0.8);
+}
+
+/* Codice inline usato nei testi dei blocchi (es. didascalie nella galleria stili) */
+code {
+    font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+    font-size: 0.9em;
+    color: #e6c36f;
+    background: rgba(230, 195, 111, 0.1);
+    padding: 0.05em 0.4em;
+    border-radius: 4px;
+}

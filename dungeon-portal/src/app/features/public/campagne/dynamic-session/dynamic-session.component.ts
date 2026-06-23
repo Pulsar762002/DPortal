@@ -21,23 +21,8 @@ import {
   CampaignSession
 } from '../../../../shared/models/campaign-session.model';
 
-import { SceneBlockComponent }
-  from '../../../../shared/story-blocks/scene-block/scene-block.component';
-
-import { DividerBlockComponent }
-  from '../../../../shared/story-blocks/divider-block/divider-block.component';
-
-import { NoteBlockComponent }
-  from '../../../../shared/story-blocks/note-block/note-block.component';
-
-import { SubtitleBlockComponent }
-  from '../../../../shared/story-blocks/subtitle-block/subtitle-block.component';
-
-import { ListBlockComponent }
-  from '../../../../shared/story-blocks/list-block/list-block.component';
-
-import { SpacerBlockComponent }
-  from '../../../../shared/story-blocks/spacer-block/spacer-block.component';
+import { StoryBlocksComponent }
+  from '../../../../shared/story-blocks/story-blocks/story-blocks.component';
 
 @Component({
   selector: 'app-dynamic-session',
@@ -45,12 +30,7 @@ import { SpacerBlockComponent }
 
   imports: [
     CommonModule,
-    SceneBlockComponent,
-    DividerBlockComponent,
-    NoteBlockComponent,
-    SubtitleBlockComponent,
-    ListBlockComponent,
-    SpacerBlockComponent
+    StoryBlocksComponent
   ],
 
   templateUrl: './dynamic-session.component.html',

@@ -1,0 +1,189 @@
+<div class="archivio-editor">
+
+  <div class="page-header">
+    <h1 class="page-title">Editor Archivi</h1>
+    <p class="page-intro">Gestisci cartelle e voci degli Archivi del Master</p>
+  </div>
+
+  <div class="editor-layout">
+
+    <!-- ===== SIDEBAR: CARTELLE / VOCI ===== -->
+    <nav class="sidebar">
+
+      <div class="nuova-riga">
+        <input
+            type="text"
+            placeholder="Nuova cartella…"
+            [(ngModel)]="nuovoNomeCartellaRadice"
+            (keydown.enter)="creaCartellaRadice()" />
+        <button (click)="creaCartellaRadice()" [disabled]="!nuovoNomeCartellaRadice.trim()">+</button>
+      </div>
+
+      <p class="sidebar-vuota" *ngIf="!indice.cartelle.length">Nessuna cartella ancora.</p>
+
+      <app-archivio-cartella-node
+          *ngFor="let cartella of indice.cartelle"
+          [cartella]="cartella"
+          [voceSelezionataId]="voceSelezionata?.id"
+          (apriVoce)="apriVoce($event.cartellaId, $event.voceId)"
+          (rinominaCartella)="rinominaCartella($event.cartella, $event.nome)"
+          (eliminaCartella)="chiediEliminaCartella($event)"
+          (creaSottocartella)="creaSottocartella($event.cartellaParentId, $event.nome)"
+          (creaVoce)="creaVoce($event.cartellaId, $event.titolo)"
+          (eliminaVoce)="chiediEliminaVoce($event.cartellaId, $event.voce)">
+      </app-archivio-cartella-node>
+
+    </nav>
+
+    <!-- ===== EDITOR VOCE ===== -->
+    <main class="main-content">
+
+      <p class="voce-vuota" *ngIf="!voceSelezionata">Seleziona o crea una voce per modificarla.</p>
+
+      <div class="voce-editor" *ngIf="voceSelezionata">
+
+        <div class="voce-editor-header">
+          <input
+              type="text"
+              class="voce-titolo-input"
+              [(ngModel)]="voceSelezionata.titolo"
+              placeholder="Titolo della voce" />
+          <button class="btn-salva" (click)="salvaVoce()" [disabled]="salvando">
+            {{ salvando ? 'Salvataggio…' : 'Salva' }}
+          </button>
+          <span class="messaggio" *ngIf="messaggio">{{ messaggio }}</span>
+        </div>
+
+        <div class="blocco" *ngFor="let block of voceSelezionata.blocks; let i = index">
+
+          <div class="blocco-header">
+            <span class="blocco-tipo">{{ block.type }}</span>
+            <div class="blocco-azioni">
+              <button (click)="spostaBlocco(i, -1)" [disabled]="i === 0" title="Sposta su">↑</button>
+              <button (click)="spostaBlocco(i, 1)" [disabled]="i === voceSelezionata.blocks.length - 1" title="Sposta giù">↓</button>
+              <button (click)="rimuoviBlocco(i)" title="Elimina blocco">✕</button>
+            </div>
+          </div>
+
+          <!-- PARAGRAPH -->
+          <ng-container *ngIf="block.type === 'paragraph'">
+            <textarea [(ngModel)]="block.text" placeholder="Testo del paragrafo (può contenere HTML)"></textarea>
+            <div class="blocco-opzioni">
+              <label>
+                <input
+                    type="checkbox"
+                    [ngModel]="block.style === 'italic'"
+                    (ngModelChange)="block.style = $event ? 'italic' : undefined" />
+                Corsivo
+              </label>
+              <label>
+                <input
+                    type="checkbox"
+                    [ngModel]="block.variant === 'emphasis'"
+                    (ngModelChange)="block.variant = $event ? 'emphasis' : undefined" />
+                Enfasi
+              </label>
+            </div>
+          </ng-container>
+
+          <!-- SUBTITLE -->
+          <ng-container *ngIf="block.type === 'subtitle'">
+            <input type="text" [(ngModel)]="block.text" placeholder="Testo del sottotitolo" />
+          </ng-container>
+
+          <!-- QUOTE -->
+          <ng-container *ngIf="block.type === 'quote'">
+            <textarea [(ngModel)]="block.text" placeholder="Testo della citazione"></textarea>
+            <input type="text" [(ngModel)]="block.author" placeholder="Autore (opzionale)" />
+          </ng-container>
+
+          <!-- IMAGE -->
+          <ng-container *ngIf="block.type === 'image'">
+            <input type="text" [(ngModel)]="block.src" placeholder="Percorso immagine (src)" />
+            <input type="file" accept="image/*" (change)="caricaImmagine($event, block)" [disabled]="caricandoImmagine" />
+            <input type="text" [(ngModel)]="block.alt" placeholder="Testo alternativo (alt)" />
+            <select [(ngModel)]="block.variant">
+              <option value="left">left</option>
+              <option value="left-small">left-small</option>
+              <option value="left-big">left-big</option>
+              <option value="center">center</option>
+            </select>
+          </ng-container>
+
+          <!-- SCENE -->
+          <ng-container *ngIf="block.type === 'scene'">
+            <input type="text" [(ngModel)]="block.src" placeholder="Percorso immagine (src)" />
+            <input type="file" accept="image/*" (change)="caricaImmagine($event, block)" [disabled]="caricandoImmagine" />
+            <input type="text" [(ngModel)]="block.title" placeholder="Titolo scena" />
+            <input type="text" [(ngModel)]="block.subtitle" placeholder="Sottotitolo (opzionale)" />
+            <input type="text" [(ngModel)]="block.alt" placeholder="Testo alternativo (opzionale)" />
+          </ng-container>
+
+          <!-- DIVIDER -->
+          <ng-container *ngIf="block.type === 'divider'">
+            <select [(ngModel)]="block.variant">
+              <option value="flourish">flourish</option>
+              <option value="rune">rune</option>
+              <option value="plain">plain</option>
+            </select>
+          </ng-container>
+
+          <!-- NOTE -->
+          <ng-container *ngIf="block.type === 'note'">
+            <input type="text" [(ngModel)]="block.title" placeholder="Titolo (opzionale, default «Nota del Master»)" />
+            <textarea [(ngModel)]="block.text" placeholder="Testo della nota (può contenere HTML)"></textarea>
+          </ng-container>
+
+          <!-- LIST -->
+          <ng-container *ngIf="block.type === 'list'">
+            <textarea
+                [ngModel]="getListText(block)"
+                (ngModelChange)="setListText(block, $event)"
+                placeholder="Una voce per riga"></textarea>
+            <select [(ngModel)]="block.variant">
+              <option value="bullet">bullet</option>
+              <option value="number">number</option>
+            </select>
+          </ng-container>
+
+          <!-- SPACER -->
+          <ng-container *ngIf="block.type === 'spacer'">
+            <select [(ngModel)]="block.variant">
+              <option value="small">small</option>
+              <option value="medium">medium</option>
+              <option value="large">large</option>
+            </select>
+          </ng-container>
+
+        </div>
+
+        <div class="aggiungi-blocco">
+          <select [(ngModel)]="tipoNuovoBlocco">
+            <option *ngFor="let tipo of tipiBlocco" [value]="tipo">{{ tipo }}</option>
+          </select>
+          <button (click)="aggiungiBlocco()">+ Aggiungi blocco</button>
+        </div>
+
+      </div>
+
+    </main>
+
+  </div>
+
+  <app-confirm-dialog
+      *ngIf="mostraConfermaEliminaCartella"
+      title="Elimina cartella"
+      message="Eliminare la cartella e tutte le voci contenute? L'operazione non è reversibile."
+      (confirmed)="confermaEliminaCartella()"
+      (closed)="mostraConfermaEliminaCartella = false">
+  </app-confirm-dialog>
+
+  <app-confirm-dialog
+      *ngIf="mostraConfermaEliminaVoce"
+      title="Elimina voce"
+      message="Eliminare questa voce? L'operazione non è reversibile."
+      (confirmed)="confermaEliminaVoce()"
+      (closed)="mostraConfermaEliminaVoce = false">
+  </app-confirm-dialog>
+
+</div>

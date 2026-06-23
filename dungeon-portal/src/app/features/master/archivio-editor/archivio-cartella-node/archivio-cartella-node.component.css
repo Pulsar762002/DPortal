@@ -1,0 +1,107 @@
+input[type="text"] {
+  background: #0d0e14;
+  border: 1px solid rgba(212, 175, 55, 0.25);
+  border-radius: 6px;
+  color: #e4e7f2;
+  padding: 0.45rem 0.6rem;
+  font-size: 0.85rem;
+  font-family: inherit;
+}
+
+input[type="text"]:focus {
+  outline: none;
+  border-color: rgba(212, 175, 55, 0.6);
+}
+
+button {
+  background: rgba(212, 175, 55, 0.12);
+  border: 1px solid rgba(212, 175, 55, 0.3);
+  border-radius: 6px;
+  color: #d4af37;
+  cursor: pointer;
+  padding: 0.4rem 0.7rem;
+  font-size: 0.82rem;
+}
+
+button:hover:not(:disabled) {
+  background: rgba(212, 175, 55, 0.2);
+}
+
+button:disabled {
+  opacity: 0.4;
+  cursor: default;
+}
+
+.cartella {
+  border-top: 1px solid rgba(212, 175, 55, 0.1);
+  padding-top: 0.4rem;
+  margin-top: 0.4rem;
+}
+
+.cartella-header {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+.cartella-chevron-btn {
+  padding: 0.3rem 0.5rem;
+}
+
+.cartella-nome-input {
+  flex: 1;
+  min-width: 0;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  font-size: 0.78rem;
+}
+
+/* L'indentazione cresce naturalmente: ogni livello annidato è dentro il
+   .cartella-body del genitore, quindi il padding si somma da sé. */
+.cartella-body {
+  padding: 0.5rem 0 0.2rem 1.4rem;
+}
+
+.voci-lista {
+  list-style: none;
+  margin: 0 0 0.5rem;
+  padding: 0;
+}
+
+.voci-lista li {
+  display: flex;
+  align-items: center;
+  gap: 0.3rem;
+}
+
+.voce-link {
+  flex: 1;
+  display: block;
+  padding: 0.3rem 0.4rem;
+  text-decoration: none;
+  color: #c8bfa0;
+  font-size: 0.82rem;
+  border-left: 2px solid transparent;
+}
+
+.voce-link:hover {
+  color: #f1ede2;
+}
+
+.voce-link.attiva {
+  background: rgba(212, 175, 55, 0.1);
+  color: #f1ede2;
+  border-left-color: #d4af37;
+}
+
+.nuova-riga {
+  display: flex;
+  gap: 0.4rem;
+  margin-bottom: 0.6rem;
+}
+
+.nuova-riga input {
+  flex: 1;
+  min-width: 0;
+}

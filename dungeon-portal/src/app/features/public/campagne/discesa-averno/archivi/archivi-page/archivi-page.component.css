@@ -1,0 +1,102 @@
+.archivi-page {
+  max-width: 1140px;
+  margin: 0 auto;
+  padding: 1.5rem 1rem 4rem;
+  color: #e4e7f2;
+}
+
+.page-header {
+  background: #13151d;
+  border: 1px solid rgba(212, 175, 55, 0.2);
+  border-radius: 10px;
+  padding: 1.8rem 1.5rem 1.4rem;
+  margin-bottom: 1.8rem;
+  text-align: center;
+}
+
+.page-title {
+  margin: 0 0 0.4rem;
+  color: #d4af37;
+  text-shadow: 0 0 18px rgba(212, 175, 55, 0.25);
+}
+
+.page-intro {
+  margin: 0;
+  font-size: 0.85rem;
+  color: #9ca3af;
+}
+
+/* ---- Layout due colonne ---- */
+.archivi-layout {
+  display: flex;
+  gap: 1.5rem;
+  align-items: flex-start;
+}
+
+/* ===== SIDEBAR ===== */
+.sidebar {
+  width: 260px;
+  flex-shrink: 0;
+  position: sticky;
+  top: 1.5rem;
+  max-height: calc(100vh - 3rem);
+  overflow-y: auto;
+  background: #13151d;
+  border: 1px solid rgba(212, 175, 55, 0.2);
+  border-radius: 10px;
+  padding: 0.6rem 0;
+}
+
+.sidebar-titolo {
+  margin: 0;
+  padding: 0.8rem 1rem;
+  font-size: 0.82rem;
+  color: #6b7280;
+}
+
+/* Stili di .cartella-header/.voci-lista/ecc. sono in
+   archivio-cartella-view-node/archivio-cartella-view-node.component.css. */
+
+/* ===== CONTENUTO PRINCIPALE ===== */
+.main-content {
+  flex: 1;
+  min-width: 0;
+}
+
+.voce-vuota {
+  color: #6b7280;
+  font-size: 0.9rem;
+  padding: 2rem 0;
+  text-align: center;
+}
+
+.voce-card {
+  background: linear-gradient(
+          rgba(15, 20, 35, 0.75),
+          rgba(10, 12, 22, 0.85)
+  );
+  border: 1px solid rgba(230, 195, 111, 0.12);
+  border-radius: 16px;
+  padding: 2rem;
+
+  line-height: 2;
+  font-size: 1.05rem;
+  text-align: justify;
+}
+
+.voce-titolo {
+  margin: 0 0 1.2rem;
+  color: #e6c36f;
+  border-left: 3px solid rgba(230, 195, 111, 0.6);
+  padding-left: 14px;
+}
+
+.voce-blocks {
+  display: block;
+}
+
+.voce-blocks::after {
+  content: "";
+  display: block;
+  clear: both;
+}

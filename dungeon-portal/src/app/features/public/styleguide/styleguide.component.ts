@@ -3,29 +3,19 @@ import { CommonModule } from '@angular/common';
 
 import { CampaignSession } from '../../../shared/models/campaign-session.model';
 
-import { SceneBlockComponent } from '../../../shared/story-blocks/scene-block/scene-block.component';
-import { DividerBlockComponent } from '../../../shared/story-blocks/divider-block/divider-block.component';
-import { NoteBlockComponent } from '../../../shared/story-blocks/note-block/note-block.component';
-import { SubtitleBlockComponent } from '../../../shared/story-blocks/subtitle-block/subtitle-block.component';
-import { ListBlockComponent } from '../../../shared/story-blocks/list-block/list-block.component';
-import { SpacerBlockComponent } from '../../../shared/story-blocks/spacer-block/spacer-block.component';
+import { StoryBlocksComponent } from '../../../shared/story-blocks/story-blocks/story-blocks.component';
 
 /**
  * Galleria degli stili: mostra un esempio di ogni tipo di story-block
- * (e di ogni variante) usando lo stesso layout e gli stessi componenti
- * delle sessioni reali, così la pagina resta sempre fedele agli stili.
+ * (e di ogni variante) usando lo stesso layout e lo stesso componente di
+ * rendering delle sessioni reali, così la pagina resta sempre fedele agli stili.
  */
 @Component({
   selector: 'app-styleguide',
   standalone: true,
   imports: [
     CommonModule,
-    SceneBlockComponent,
-    DividerBlockComponent,
-    NoteBlockComponent,
-    SubtitleBlockComponent,
-    ListBlockComponent,
-    SpacerBlockComponent,
+    StoryBlocksComponent,
   ],
   templateUrl: './styleguide.component.html',
   styleUrl: './styleguide.component.css',

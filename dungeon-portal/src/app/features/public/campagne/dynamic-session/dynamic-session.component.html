@@ -69,71 +69,10 @@
 
                     <!-- BLOCKS -->
                     <div class="chapter-blocks">
-                        <ng-container *ngFor="let block of chapter.blocks || []">
-
-                            <!-- PARAGRAPH -->
-                            <p *ngIf="block.type === 'paragraph'"
-                               [ngClass]="{
-                                   'paragraph-emphasis': block.variant === 'emphasis',
-                                   'paragraph-italic': block.style === 'italic'
-                               }"
-                               [innerHTML]="block.text">
-                            </p>
-
-                            <!-- SUBTITLE -->
-                            <app-subtitle-block
-                                    *ngIf="block.type === 'subtitle'"
-                                    [block]="block">
-                            </app-subtitle-block>
-
-                            <!-- QUOTE -->
-                            <blockquote *ngIf="block.type === 'quote'">
-
-                                {{ block.text }}
-
-                                <cite *ngIf="block.author" class="quote-author">— {{ block.author }}</cite>
-
-                            </blockquote>
-
-                            <!-- IMAGE -->
-                            <img
-                                    *ngIf="block.type === 'image'"
-                                    [src]="block.src"
-                                    [alt]="block.alt || chapter.title"
-                                    [ngClass]="'chapter-image-' + block.variant"
-                            />
-
-                            <!-- SCENE -->
-                            <app-scene-block
-                                    *ngIf="block.type === 'scene'"
-                                    [block]="block">
-                            </app-scene-block>
-
-                            <!-- DIVIDER -->
-                            <app-divider-block
-                                    *ngIf="block.type === 'divider'"
-                                    [block]="block">
-                            </app-divider-block>
-
-                            <!-- NOTE -->
-                            <app-note-block
-                                    *ngIf="block.type === 'note'"
-                                    [block]="block">
-                            </app-note-block>
-
-                            <!-- LIST -->
-                            <app-list-block
-                                    *ngIf="block.type === 'list'"
-                                    [block]="block">
-                            </app-list-block>
-
-                            <!-- SPACER -->
-                            <app-spacer-block
-                                    *ngIf="block.type === 'spacer'"
-                                    [block]="block">
-                            </app-spacer-block>
-
-                        </ng-container>
+                        <app-story-blocks
+                                [blocks]="chapter.blocks || []"
+                                [fallbackImageAlt]="chapter.title">
+                        </app-story-blocks>
                     </div>
 
                 </section>

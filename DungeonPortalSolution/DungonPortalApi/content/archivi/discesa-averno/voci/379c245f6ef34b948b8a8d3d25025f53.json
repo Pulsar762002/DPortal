@@ -1,0 +1,16 @@
+{
+  "id": "379c245f6ef34b948b8a8d3d25025f53",
+  "titolo": "Lanterna Bassa",
+  "blocks": [
+    {
+      "type": "image",
+      "variant": "center",
+      "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-14/LanternaBassa.png",
+      "alt": "Lanterna Bassa"
+    },
+    {
+      "type": "paragraph",
+      "text": "Attraccata permanentemente lungo i moli pi\u00F9 sudici del Porto Esterno di Baldur\u2019s Gate, la Lanterna Bassa \u00E8 una vecchia nave mercantile riconvertita in taverna galleggiante. Lo scafo, enorme e deformato dall\u2019umidit\u00E0, oscilla lentamente nelle acque nere del porto, producendo continui scricchiolii che ricordano lamenti soffocati.\n\nUn tempo la nave doveva essere elegante: fregi scolpiti lungo la prua, legni esotici e vetrate decorate sono ancora visibili sotto strati di sale, muffa e catrame. Ora, per\u00F2, appare come il relitto di qualcosa che avrebbe dovuto affondare anni fa. Catene arrugginite la tengono ancorata al molo, mentre decine di lanterne verdastre pendono dai ponti superiori, illuminando la nebbia con bagliori inquieti.\n\nIl proprietario Leroy Thundreth anche detto \u0022Il Capitano\u0022 \u00E8 un tiefling ex-marinaio che assieme al suo fidato granghietto pirata Crabby gestisce la taverna.\nSa tutto ci\u00F2 che accade nel quartiere e probabilmente anche molto di pi\u00F9. Chi paga abbastanza pu\u00F2 ottenere informazioni, un passaggio clandestino lungo il Chionthar\u2026 o qualcosa di decisamente meno legale.\n\nNelle cabine inferiori della taverna esistono stanze private utilizzate per incontri segreti, gioco d\u2019azzardo e trattative che non dovrebbero comparire nei registri cittadini. Si dice che, in certe notti, da laggi\u00F9 salgano sussurri accompagnati da un odore di zolfo."
+    }
+  ]
+}

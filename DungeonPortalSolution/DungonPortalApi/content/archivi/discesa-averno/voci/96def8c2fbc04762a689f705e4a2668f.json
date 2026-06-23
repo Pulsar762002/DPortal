@@ -1,0 +1,16 @@
+{
+  "id": "96def8c2fbc04762a689f705e4a2668f",
+  "titolo": "Magione Nodorovo",
+  "blocks": [
+    {
+      "type": "image",
+      "variant": "center",
+      "src": "http://localhost:5000/content/archivi/discesa-averno/immagini/0400733d-4347-450c-a101-2a0cca7b415c.png",
+      "alt": "Magione"
+    },
+    {
+      "type": "paragraph",
+      "text": "La Villa Nodorovo sorge ai margini della citt\u00E0 alta, separata dal resto dell\u2019aristocrazia da una lunga strada di cipressi anneriti e cancelli di ferro battuto che nessuno ricorda di aver mai visto aperti durante il giorno. \u00C8 una costruzione immensa, troppo imponente per una casata entrata nella nobilt\u00E0 soltanto da una generazione. Ed \u00E8 proprio questo a renderla oggetto di sussurri e sospetti.\n\nLe sue mura, di pietra scura quasi violacea, sembrano assorbire la luce invece di rifletterla. Alte finestre gotiche percorrono la facciata come occhi cremisi nella notte, illuminate da bagliori rossastri provenienti dall\u2019interno.\n\nIl simbolo della famiglia Nodorovo campeggia sul cancello principale: un occhio dorato circondato da spine nere e serpenti intrecciati. Alcuni sostengono che l\u2019emblema non appartenga a nessuna stirpe conosciuta del continente, e che sia stato portato da terre oltre il mare o recuperato da rovine dimenticate.\n\nLe statue serpentine ai lati dell\u2019ingresso sono talmente realistiche da inquietare persino le guardie cittadine. C\u2019\u00E8 chi giura di averle viste cambiare posizione durante le notti di tempesta.\n\nLa villa stessa \u00E8 un labirinto di corridoi rivestiti in legno nero, saloni illuminati da candelabri d\u2019argento annerito e stanze chiuse da porte prive di maniglia. I domestici parlano poco, si muovono in silenzio e raramente mostrano il volto.\n\nLa famiglia mantiene un comportamento impeccabile nelle occasioni pubbliche: raffinati, colti, generosi con la citt\u00E0 e incredibilmente influenti nonostante il titolo recente. Tuttavia, la loro improvvisa ascesa economica rimane inspiegabile."
+    }
+  ]
+}

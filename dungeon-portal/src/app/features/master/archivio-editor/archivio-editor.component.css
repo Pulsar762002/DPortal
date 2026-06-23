@@ -1,0 +1,187 @@
+.archivio-editor {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 1.5rem 1rem 4rem;
+  color: #e4e7f2;
+}
+
+.page-header {
+  background: #13151d;
+  border: 1px solid rgba(212, 175, 55, 0.2);
+  border-radius: 10px;
+  padding: 1.8rem 1.5rem 1.4rem;
+  margin-bottom: 1.8rem;
+  text-align: center;
+}
+
+.page-title {
+  margin: 0 0 0.4rem;
+  color: #d4af37;
+  text-shadow: 0 0 18px rgba(212, 175, 55, 0.25);
+}
+
+.page-intro {
+  margin: 0;
+  font-size: 0.85rem;
+  color: #9ca3af;
+}
+
+.editor-layout {
+  display: flex;
+  gap: 1.5rem;
+  align-items: flex-start;
+}
+
+input[type="text"], textarea, select {
+  background: #0d0e14;
+  border: 1px solid rgba(212, 175, 55, 0.25);
+  border-radius: 6px;
+  color: #e4e7f2;
+  padding: 0.45rem 0.6rem;
+  font-size: 0.85rem;
+  font-family: inherit;
+}
+
+input[type="text"]:focus, textarea:focus, select:focus {
+  outline: none;
+  border-color: rgba(212, 175, 55, 0.6);
+}
+
+button {
+  background: rgba(212, 175, 55, 0.12);
+  border: 1px solid rgba(212, 175, 55, 0.3);
+  border-radius: 6px;
+  color: #d4af37;
+  cursor: pointer;
+  padding: 0.4rem 0.7rem;
+  font-size: 0.82rem;
+}
+
+button:hover:not(:disabled) {
+  background: rgba(212, 175, 55, 0.2);
+}
+
+button:disabled {
+  opacity: 0.4;
+  cursor: default;
+}
+
+/* ===== SIDEBAR ===== */
+.sidebar {
+  width: 300px;
+  flex-shrink: 0;
+  background: #13151d;
+  border: 1px solid rgba(212, 175, 55, 0.2);
+  border-radius: 10px;
+  padding: 0.8rem;
+}
+
+.sidebar-vuota {
+  color: #6b7280;
+  font-size: 0.82rem;
+  padding: 0.5rem 0.2rem;
+}
+
+.nuova-riga {
+  display: flex;
+  gap: 0.4rem;
+  margin-bottom: 0.6rem;
+}
+
+.nuova-riga input {
+  flex: 1;
+  min-width: 0;
+}
+
+/* Stili di .cartella/.voci-lista/ecc. sono in
+   archivio-cartella-node/archivio-cartella-node.component.css, perché quegli
+   elementi vivono nel template di quel componente (ricorsivo per le
+   sottocartelle), non in questo. */
+
+/* ===== EDITOR VOCE ===== */
+.main-content {
+  flex: 1;
+  min-width: 0;
+}
+
+.voce-vuota {
+  color: #6b7280;
+  font-size: 0.9rem;
+  padding: 2rem;
+  text-align: center;
+}
+
+.voce-editor {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.voce-editor-header {
+  display: flex;
+  align-items: center;
+  gap: 0.7rem;
+}
+
+.voce-titolo-input {
+  flex: 1;
+  font-size: 1rem;
+  font-weight: 600;
+}
+
+.messaggio {
+  font-size: 0.8rem;
+  color: #9ca3af;
+}
+
+.blocco {
+  background: #13151d;
+  border: 1px solid rgba(212, 175, 55, 0.15);
+  border-radius: 10px;
+  padding: 0.8rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.blocco-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.blocco-tipo {
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: #d4af37;
+}
+
+.blocco-azioni {
+  display: flex;
+  gap: 0.3rem;
+}
+
+.blocco textarea {
+  min-height: 80px;
+  resize: vertical;
+}
+
+.blocco-opzioni {
+  display: flex;
+  gap: 1rem;
+  font-size: 0.82rem;
+  color: #c8bfa0;
+}
+
+.blocco-opzioni label {
+  display: flex;
+  align-items: center;
+  gap: 0.3rem;
+}
+
+.aggiungi-blocco {
+  display: flex;
+  gap: 0.5rem;
+  align-items: center;
+}
