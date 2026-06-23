@@ -1,0 +1,59 @@
+.dashboard {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 1.5rem 1rem 4rem;
+  color: #e4e7f2;
+}
+
+.page-header {
+  background: #13151d;
+  border: 1px solid rgba(212, 175, 55, 0.2);
+  border-radius: 10px;
+  padding: 1.8rem 1.5rem 1.4rem;
+  margin-bottom: 1.8rem;
+  text-align: center;
+}
+
+.page-title {
+  margin: 0 0 0.4rem;
+  color: #d4af37;
+  text-shadow: 0 0 18px rgba(212, 175, 55, 0.25);
+}
+
+.page-intro {
+  margin: 0;
+  font-size: 0.85rem;
+  color: #9ca3af;
+}
+
+.campagna-card {
+  background: #13151d;
+  border: 1px solid rgba(212, 175, 55, 0.2);
+  border-radius: 10px;
+  padding: 1.2rem 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.campagna-card h2 {
+  margin: 0 0 0.8rem;
+  color: #d4af37;
+}
+
+.campagna-azioni {
+  display: flex;
+  gap: 1rem;
+}
+
+.campagna-azioni a {
+  background: rgba(212, 175, 55, 0.12);
+  border: 1px solid rgba(212, 175, 55, 0.3);
+  border-radius: 6px;
+  color: #d4af37;
+  padding: 0.4rem 0.9rem;
+  font-size: 0.85rem;
+  text-decoration: none;
+}
+
+.campagna-azioni a:hover {
+  background: rgba(212, 175, 55, 0.2);
+}

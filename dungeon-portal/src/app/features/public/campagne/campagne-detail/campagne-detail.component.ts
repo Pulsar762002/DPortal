@@ -17,6 +17,8 @@ import {
   CampaignDetail
 } from '../../../../core/models/campaign/CampaignDetail';
 
+import { environment } from '../../../../../environments/environment';
+
 @Component({
   selector: 'app-campaign-detail',
 
@@ -60,7 +62,7 @@ export class CampaignDetailComponent implements OnInit {
 
     this.http
         .get<CampaignDetail>(
-            `assets/data/ikaros/campagne/${this.slug}/sessioni/elenco-sessioni.json`
+            `${environment.apiUrl}/api/sessioni/${this.slug}/elenco`
         )
         .subscribe({
 

@@ -1,1 +1,16 @@
-<p>dashboard works!</p>
+<div class="dashboard">
+
+  <div class="page-header">
+    <h1 class="page-title">Dashboard Master</h1>
+    <p class="page-intro">Scegli una campagna per modificarne Archivi e Sessioni</p>
+  </div>
+
+  <div class="campagna-card" *ngFor="let campagna of campagne">
+    <h2>{{ campagna.nome }}</h2>
+    <div class="campagna-azioni">
+      <a [routerLink]="['/dashboard/campagne', campagna.slug, 'archivi']">Editor Archivi</a>
+      <a [routerLink]="['/dashboard/campagne', campagna.slug, 'sessioni']">Editor Sessioni</a>
+    </div>
+  </div>
+
+</div>

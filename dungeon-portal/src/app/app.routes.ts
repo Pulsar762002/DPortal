@@ -67,10 +67,8 @@ export const routes: Routes = [
       },
       {
         path: 'dashboard/campagne',
-        canActivate: [authGuard],
-        loadComponent: () =>
-          import('./features/master/campagne-manager/campagne-manager.component')
-            .then(m => m.CampagneManagerComponent),
+        redirectTo: 'dashboard',
+        pathMatch: 'full'
       },
       {
         path: 'dashboard/cronache',
@@ -80,7 +78,7 @@ export const routes: Routes = [
             .then(m => m.CronacheEditorComponent),
       },
       {
-        path: 'dashboard/archivi',
+        path: 'dashboard/campagne/:slug/archivi',
         canActivate: [
           authGuard,
           roleGuard([ROLES.Master, ROLES.Admin])
@@ -88,6 +86,16 @@ export const routes: Routes = [
         loadComponent: () =>
           import('./features/master/archivio-editor/archivio-editor.component')
             .then(m => m.ArchivioEditorComponent),
+      },
+      {
+        path: 'dashboard/campagne/:slug/sessioni',
+        canActivate: [
+          authGuard,
+          roleGuard([ROLES.Master, ROLES.Admin])
+        ],
+        loadComponent: () =>
+          import('./features/master/sessione-editor/sessione-editor.component')
+            .then(m => m.SessioneEditorComponent),
       },
       {
         path: 'campagne',

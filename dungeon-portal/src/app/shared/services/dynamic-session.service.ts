@@ -3,6 +3,8 @@ import { HttpClient } from '@angular/common/http';
 
 import { Observable } from 'rxjs';
 
+import { environment } from '../../../environments/environment';
+
 import {
     CampaignSession
 } from '../models/campaign-session.model';
@@ -22,7 +24,7 @@ export class DynamicSessionService {
     ): Observable<CampaignSession> {
 
         const path =
-            `assets/data/ikaros/campagne/${campaignSlug}/sessioni/session-${sessionId}.json`;
+            `${environment.apiUrl}/api/sessioni/${campaignSlug}/${sessionId}`;
 
         return this.http.get<CampaignSession>(path);
     }

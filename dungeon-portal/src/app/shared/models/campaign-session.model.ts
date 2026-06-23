@@ -16,3 +16,10 @@ export interface CampaignChapter {
     blocks: StoryBlock[];
 }
 
+/** Voce dell'elenco sessioni (numero, etichetta, visibilità) gestita dall'editor Master. */
+export interface SessioneMeta {
+    sessionNumber: number;
+    label: string;
+    visible: boolean;
+}
+

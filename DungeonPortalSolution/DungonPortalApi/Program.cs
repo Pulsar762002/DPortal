@@ -46,5 +46,6 @@ app.MapAuthEndpoints();
 app.MapUserEndpoints();
 app.MapAdminEndpoints();
 app.MapArchivioEndpoints();
+app.MapSessioneEndpoints();
 
 app.Run();

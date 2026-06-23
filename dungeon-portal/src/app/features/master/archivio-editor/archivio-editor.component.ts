@@ -1,6 +1,8 @@
 import { ChangeDetectorRef, Component, OnInit } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { FormsModule } from '@angular/forms';
+import { ActivatedRoute } from '@angular/router';
+import { map } from 'rxjs';
 
 import { environment } from '../../../../environments/environment';
 import { ArchivioService } from '../../../shared/services/archivio.service';
@@ -10,57 +12,36 @@ import {
   ArchivioVoce,
   ArchivioVoceMeta
 } from '../../../shared/models/archivio.model';
-import { StoryBlock } from '../../../core/models/story-block.model';
 import { ConfirmDialogComponent } from '../../../core/components/confirm-dialog/confirm-dialog.component';
 import { ArchivioCartellaNodeComponent } from './archivio-cartella-node/archivio-cartella-node.component';
-
-type TipoBlocco = StoryBlock['type'];
-
-const TIPI_BLOCCO: TipoBlocco[] =
-    ['paragraph', 'subtitle', 'quote', 'image', 'scene', 'divider', 'note', 'list', 'spacer'];
-
-const BLOCCO_DEFAULT: Record<TipoBlocco, () => StoryBlock> = {
-  paragraph: () => ({ type: 'paragraph', text: '' }),
-  subtitle: () => ({ type: 'subtitle', text: '' }),
-  quote: () => ({ type: 'quote', text: '' }),
-  image: () => ({ type: 'image', variant: 'center', src: '', alt: '' }),
-  scene: () => ({ type: 'scene', src: '', title: '', subtitle: '' }),
-  divider: () => ({ type: 'divider', variant: 'flourish' }),
-  note: () => ({ type: 'note', text: '', title: '' }),
-  list: () => ({ type: 'list', items: [''], variant: 'bullet' }),
-  spacer: () => ({ type: 'spacer', variant: 'medium' }),
-};
+import { StoryBlockFormComponent } from '../../../shared/story-blocks/story-block-form/story-block-form.component';
 
 /**
- * Editor master degli Archivi: gestisce cartelle/voci e i blocchi (story-block)
- * di ciascuna voce tramite un form strutturato (no WYSIWYG), coerente con
- * come oggi si scrivono a mano i JSON delle sessioni.
+ * Editor master degli Archivi: gestisce cartelle/voci; i blocchi (story-block)
+ * di ciascuna voce sono delegati a <app-story-block-form>, condiviso con
+ * l'editor Sessioni.
  */
 @Component({
   selector: 'app-archivio-editor',
   standalone: true,
-  imports: [CommonModule, FormsModule, ConfirmDialogComponent, ArchivioCartellaNodeComponent],
+  imports: [CommonModule, FormsModule, ConfirmDialogComponent, ArchivioCartellaNodeComponent, StoryBlockFormComponent],
   templateUrl: './archivio-editor.component.html',
   styleUrl: './archivio-editor.component.css'
 })
 export class ArchivioEditorComponent implements OnInit {
 
-  /** Unica campagna esistente oggi: niente selettore, evita di costruire
-   *  una UI multi-campagna che non serve ancora a nessuno. */
-  readonly campagnaSlug = 'discesa-averno';
-
-  readonly tipiBlocco = TIPI_BLOCCO;
+  /** Slug della campagna a cui appartiene questo Archivio, letto dalla route
+   *  (`dashboard/campagne/:slug/archivi`). */
+  campagnaSlug = '';
 
   indice: ArchivioIndice = { cartelle: [] };
 
   voceSelezionata?: ArchivioVoce;
 
   nuovoNomeCartellaRadice = '';
-  tipoNuovoBlocco: TipoBlocco = 'paragraph';
 
   salvando = false;
   messaggio = '';
-  caricandoImmagine = false;
 
   mostraConfermaEliminaCartella = false;
   mostraConfermaEliminaVoce = false;
@@ -69,10 +50,12 @@ export class ArchivioEditorComponent implements OnInit {
 
   constructor(
       private archivioService: ArchivioService,
+      private route: ActivatedRoute,
       private cdr: ChangeDetectorRef
   ) {}
 
   ngOnInit(): void {
+    this.campagnaSlug = this.route.snapshot.paramMap.get('slug') ?? '';
     this.caricaIndice();
   }
 
@@ -215,56 +198,9 @@ export class ArchivioEditorComponent implements OnInit {
     });
   }
 
-  // ===== Blocchi =====
-
-  aggiungiBlocco(): void {
-    if (!this.voceSelezionata) return;
-    this.voceSelezionata.blocks.push(BLOCCO_DEFAULT[this.tipoNuovoBlocco]());
-  }
-
-  rimuoviBlocco(index: number): void {
-    if (!this.voceSelezionata) return;
-    this.voceSelezionata.blocks.splice(index, 1);
-  }
-
-  spostaBlocco(index: number, direzione: -1 | 1): void {
-    if (!this.voceSelezionata) return;
-    const blocks = this.voceSelezionata.blocks;
-    const nuovoIndex = index + direzione;
-    if (nuovoIndex < 0 || nuovoIndex >= blocks.length) return;
-    [blocks[index], blocks[nuovoIndex]] = [blocks[nuovoIndex], blocks[index]];
-  }
-
-  /** Carica il file scelto e assegna l'URL risultante a `block.src`, evitando
-   *  di dover incollare a mano un percorso e ricordarsi di rifare il build
-   *  del frontend per ogni nuova immagine (content/ è un volume Docker). */
-  caricaImmagine(event: Event, block: { src: string }): void {
-    const input = event.target as HTMLInputElement;
-    const file = input.files?.[0];
-    if (!file) return;
-
-    this.caricandoImmagine = true;
-    this.archivioService.uploadImmagine(this.campagnaSlug, file).subscribe({
-      next: ({ url }) => {
-        block.src = `${environment.apiUrl}${url}`;
-        this.caricandoImmagine = false;
-        this.cdr.detectChanges();
-      },
-      error: (err) => {
-        console.error('Errore upload immagine', err);
-        this.caricandoImmagine = false;
-        this.cdr.detectChanges();
-      }
-    });
-
-    input.value = '';
-  }
-
-  getListText(block: { items: string[] }): string {
-    return (block.items || []).join('\n');
-  }
-
-  setListText(block: { items: string[] }, value: string): void {
-    block.items = value.split('\n');
-  }
+  /** Upload immagine per <app-story-block-form>: risolve già l'URL assoluto
+   *  (il componente condiviso non conosce campagna/environment). */
+  uploadImmagine = (file: File) =>
+      this.archivioService.uploadImmagine(this.campagnaSlug, file)
+          .pipe(map(({ url }) => `${environment.apiUrl}${url}`));
 }
