@@ -38,11 +38,48 @@
   margin-bottom: 20px;
 }
 
+.campaign-title-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
 .campaign-title {
   font-size: 2rem;
   color: #e6c36f;
   margin-bottom: 15px;
   letter-spacing: 1px;
+}
+
+.archivi-button {
+  display: inline-flex;
+  align-items: center;
+  flex-shrink: 0;
+
+  padding: 10px 22px;
+  margin-bottom: 15px;
+
+  border-radius: 999px;
+  border: 1px solid rgba(230,195,111,0.4);
+
+  background: rgba(230,195,111,0.08);
+  color: #e6c36f;
+
+  font-size: 0.95rem;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+  text-decoration: none;
+  white-space: nowrap;
+
+  transition: all 0.25s ease;
+}
+
+.archivi-button:hover {
+  background: #e6c36f;
+  color: #0f1424;
+  box-shadow: 0 0 14px rgba(230,195,111,0.5);
 }
 
 .campaign-description {

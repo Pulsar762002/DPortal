@@ -5,9 +5,17 @@
         <!-- HEADER -->
         <header class="campaign-header">
 
-            <h1 class="campaign-title">
-                {{ campaign?.title }}
-            </h1>
+            <div class="campaign-title-row">
+
+                <h1 class="campaign-title">
+                    {{ campaign?.title }}
+                </h1>
+
+                <a class="archivi-button" [routerLink]="['/campagne', slug, 'archivi']">
+                    Archivi
+                </a>
+
+            </div>
 
             <p class="campaign-description">
                 {{ campaign?.description }}
