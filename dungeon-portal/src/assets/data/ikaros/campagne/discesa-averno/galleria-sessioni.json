@@ -1,0 +1,1101 @@
+[
+  {
+    "id": 1,
+    "titolo": "Sessione 1",
+    "anchor": "sessione-1",
+    "immagini": [
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-1/Elturel.png",
+        "alt": "Elturel sotto il Compagno",
+        "capitolo": "Elturel, la Città della Luce"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Party/NathanBig.png",
+        "alt": "Nathan",
+        "capitolo": "Nathan, Paladino del Dovere"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Party/AelarBig.png",
+        "alt": "Aelar",
+        "capitolo": "L'incontro con Aelar"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Alleati/FernandRèglisse.png",
+        "alt": "Fernand Règlisse",
+        "capitolo": "Fernand Règlisse"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/Scontri/L'incontro_con_Kyran.png",
+        "alt": "morte",
+        "capitolo": "Finalmente si fa sul serio"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "titolo": "Sessione 2",
+    "anchor": "sessione-2",
+    "immagini": [
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Party/AlasterBig.png",
+        "alt": "Alaster Nodorovo",
+        "capitolo": "Alaster entra in scena"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/Scontri/Assalto_alla_carrozza.png",
+        "alt": "Assalto alla carrozza",
+        "capitolo": "Assalto alla carrozza"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/eventi/Il_Gruppo_si_riunisce.png",
+        "alt": "Il gruppo si riunisce",
+        "capitolo": "Il gruppo di riunisce per la prima volta"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/eventi/Andiamo.png",
+        "alt": "morte",
+        "capitolo": "Cosa faremo?"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/eventi/Alaster/Il_triste_mietitore.png",
+        "alt": "morte",
+        "capitolo": "Il tristo mietitore"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/eventi/In_viaggio.png",
+        "alt": "In viaggio",
+        "capitolo": "Verso Baldur's Gate"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Alleati/BromasRultild.png",
+        "alt": "Bromas",
+        "capitolo": "La carovana dei profughi"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Alleati/GullivanArdic.png",
+        "alt": "Gullivan",
+        "capitolo": "La carovana dei profughi"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Alleati/NueHillstar.png",
+        "alt": "Nue",
+        "capitolo": "La carovana dei profughi"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Alleati/AlyssaTokker.png",
+        "alt": "Alyssa",
+        "capitolo": "La carovana dei profughi"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Alleati/MevilDhirder.png",
+        "alt": "Mevil",
+        "capitolo": "La carovana dei profughi"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Alleati/LianPei.png",
+        "alt": "Lian",
+        "capitolo": "La carovana dei profughi"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/Scontri/Assalto_all_accampamento.png",
+        "alt": "Assalto all'accampamento",
+        "capitolo": "Veniamo attaccati!"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "titolo": "Sessione 3",
+    "anchor": "sessione-3",
+    "immagini": [
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/eventi/Interrogatorio.png",
+        "alt": "Interrogatorio del bandito",
+        "capitolo": "L’Interrogatorio"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-3/Carro.png",
+        "alt": "Carro della carovana",
+        "capitolo": "Si riprende il viaggio"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/eventi/Lian_dove_sei.png",
+        "alt": "Lian nel bosco",
+        "capitolo": "Lian, dove sei?"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-3/Carro2.png",
+        "alt": "La carovana riparte",
+        "capitolo": "Trovato Lian, il viaggio riparte"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/eventi/Non_tuti_possono_entrare.png",
+        "alt": "I rifugiati premono contro la Porta del Basilisco",
+        "capitolo": "Non tutti possono entrare"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/Stemmi/Pugni%20fiammanti.png",
+        "alt": "Lo stemma dei Pugni Fiammanti: un pugno chiuso avvolto dalle fiamme",
+        "capitolo": "I Pugni Fiammanti"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Secondari/Zodge.png",
+        "alt": "Il capitano Zodge",
+        "capitolo": "Il Capitano Zodge"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/eventi/Arruolamento.png",
+        "alt": "Il contratto di arruolamento offerto dal Capitano Zodge",
+        "capitolo": "Arruolamento e Compromessi"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Alleati/Alan_alyth.png",
+        "alt": "Alan, il proprietario elfo della Taverna del Canto Elfico",
+        "capitolo": "Alan, il proprietario della Taverna"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-3/Elis_al_tavolo_0.png",
+        "alt": "La taverna del Canto Elfico primo piano",
+        "capitolo": "Alan, il proprietario della Taverna"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-3/Elis_al_tavolo.png",
+        "alt": "Elis al tavolo",
+        "capitolo": "Elis"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-3/Arrivano_i_pirati.png",
+        "alt": "L’arrivo dei pirati",
+        "capitolo": "L’arrivo dei pirati"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/eventi/Alan_ed_i_pirati.png",
+        "alt": "Alan e i pirati",
+        "capitolo": "Nathan si intromette"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "titolo": "Sessione 4",
+    "anchor": "sessione-4",
+    "immagini": [
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Secondari/Tarina.jpg",
+        "alt": "Tarina",
+        "capitolo": "Vediamo Tarina"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Alleati/Kleyton.jpg",
+        "alt": "Clayton",
+        "capitolo": "Clayton il coboldo"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Secondari/Dorian%20Nodorovo.png",
+        "alt": "Dorian Nodorovo",
+        "capitolo": "Arrivano i soccorsi"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Avversari/CultistaMyrkul.png",
+        "alt": "Cultista di Myrkul",
+        "capitolo": "I cultisti ci attaccano"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Avversari/CultistaBane.png",
+        "alt": "Cultista di Bane",
+        "capitolo": "I cultisti ci attaccano"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Avversari/CultistaBahal.png",
+        "alt": "Cultista di Bhaal",
+        "capitolo": "I cultisti ci attaccano"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "titolo": "Sessione 5",
+    "anchor": "sessione-5",
+    "immagini": [
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Secondari/VisioneKyran.png",
+        "alt": "La figura velata che appare a Kyran nella nebbia",
+        "capitolo": "Kyran... incubo o visione"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Secondari/IncontroAlaster.png",
+        "alt": "L’incontro di Alaster con Clea alla bancarella delle gemme",
+        "capitolo": "Un incontro misterioso per Alaster"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Avversari/Obaja_Black.jpg",
+        "alt": "Obaia Black, il titolare dell’Emporio",
+        "capitolo": "Obaia Black"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/Stemmi/Moneta%20Mirkulita.png",
+        "alt": "La moneta d’osso con il simbolo dei Tre Morti",
+        "capitolo": "Aelar... che errore!"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-5/Sala2TempoMirkuliti.png",
+        "alt": "L’atrio del tempio, con la fiaccola dalle fiamme verdi",
+        "capitolo": "Dèi assetati"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-5/MausoleoTempioMirkul.png",
+        "alt": "Il piccolo mausoleo con le tombe scoperchiate e vuote",
+        "capitolo": "Dèi assetati"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-5/AltareMirkul.png",
+        "alt": "La statua scheletrica di Myrkul, il Signore delle Ossa",
+        "capitolo": "Dèi assetati"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Avversari/Flenner_Alto_Myrkulita.jpg",
+        "alt": "Flenner, l’alto sacerdote di Myrkul",
+        "capitolo": "Il sacerdote Myrkulita"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/Scontri/Combattimento_contro_Flenner.png",
+        "alt": "Combattimento contro Flenner",
+        "capitolo": "Lo scontro con il sacerdote"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "titolo": "Sessione 6",
+    "anchor": "sessione-6",
+    "immagini": [
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/Scontri/La_morte_di_Flenner.png",
+        "alt": "La morte di Flenner",
+        "capitolo": "Il peso del silenzio"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/eventi/essenza.png",
+        "alt": "L’essenza azzurrina si solleva dal petto di Flenner",
+        "capitolo": "L’essenza che non svanisce"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/eventi/Elis/Il_Giuramento_Di_Elis.png",
+        "alt": "Il Giuramento di Elis",
+        "capitolo": "Il Giuramento di Sangue"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/Oggetti/tomo_flenner.png",
+        "alt": "Tomo di Flenner",
+        "capitolo": "Il Libro dei Morti"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/eventi/Elis/elis_maledizione.png",
+        "alt": "Elis e la maledizione",
+        "capitolo": "Un’ingenuità di Elis"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Secondari/Derek.png",
+        "alt": "Derek",
+        "capitolo": "Aelar e Kyran vanno in erboristeria"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "titolo": "Sessione 7",
+    "anchor": "sessione-7",
+    "immagini": [
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Secondari/David_Norman.png",
+        "alt": "David Norman",
+        "capitolo": "Nathan ed Elis nel tempio di Helm"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Secondari/Roland%20Revengar.png",
+        "alt": "Roland Revengar",
+        "capitolo": "Nathan ed Elis nel tempio di Helm"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/eventi/Nathan/Il_giuramento_di_nathan.png",
+        "alt": "Il giuramento di Nathan",
+        "capitolo": "Il giuramento di Nathan"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/eventi/Lo_Studio_Del_Libro.png",
+        "alt": "Lo studio del libro di Flenner",
+        "capitolo": "Il contenuto del tomo di Flenner"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/eventi/Alaster/La_Muta_Di_Alaster.png",
+        "alt": "La muta di Alaster",
+        "capitolo": "La muta di Alaster"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/eventi/Aelar/Aelar_Muta.png",
+        "alt": "Aelar affronta la seconda mutazione",
+        "capitolo": "La seconda mutazione di Aelar"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "titolo": "Sessione 8",
+    "anchor": "sessione-8",
+    "immagini": [
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/eventi/Alaster/Il serpentello.png",
+        "alt": "Il serpente apparso nella stanza di Alaster",
+        "capitolo": "La muta del serpente"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/eventi/Alaster/Tatuaggio.png",
+        "alt": "Il tatuaggio serpentino sul braccio di Alaster",
+        "capitolo": "La muta del serpente"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-8/terme.png",
+        "alt": "Ingresso delle terme",
+        "capitolo": "Il velo del vapore"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-8/terme_giardino.png",
+        "alt": "Giardino interno delle terme",
+        "capitolo": "Il velo del vapore"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-8/terme_accesso.png",
+        "alt": "Ingresso interno delle terme",
+        "capitolo": "Maschere e velluto"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Secondari/Camilla.png",
+        "alt": "Camilla",
+        "capitolo": "Pelle e silenzi"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Secondari/boh.png",
+        "alt": "Massaggiatrice delle terme",
+        "capitolo": "Crepe sotto il marmo"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "titolo": "Sessione 9",
+    "anchor": "sessione-9",
+    "immagini": [
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-9/Zodge_in_the%20_office.png",
+        "alt": "zodge",
+        "capitolo": "Il prezzo delle informazioni"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-9/Preparativi_Missione_Terme.png",
+        "alt": "preparativi",
+        "capitolo": "Preparativi nella quiete"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-9/Primo%20Scontro%20alle%20Terme.png",
+        "alt": "scontro",
+        "capitolo": "Il primo sangue"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-9/Accesso%20Al%20Covo.png",
+        "alt": "accesso",
+        "capitolo": "Il varco nascosto"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-9/Le%20tre%20porte.png",
+        "alt": "porte",
+        "capitolo": "Le profondità dei Tre Morti"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-9/Altare1.png",
+        "alt": "altare",
+        "capitolo": "L’altare e il silenzio degli assassini"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "titolo": "Sessione 10",
+    "anchor": "sessione-10",
+    "immagini": [
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-10/PrimoIncontro.png",
+        "alt": "Primo incontro con i cultisti nelle terme sommerse",
+        "capitolo": "L’inganno di Elis"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-10/Scontro.png",
+        "alt": "Lo scontro contro la cultista della Mano e il Console di Ferro di Bane",
+        "capitolo": "Lo scontro all’ultimo sangue"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-10/Il Superstite.png",
+        "alt": "Il prigioniero incatenato, unico superstite della stanza",
+        "capitolo": "Un inaspettato superstite"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-10/AltroAltareMirkulita.png",
+        "alt": "Un altro altare myrkulita nelle profondità delle terme",
+        "capitolo": "Procediamo l’esplorazione"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-10/ScontroConFlenner.png",
+        "alt": "Lo scontro contro Flenner, tornato come non morto",
+        "capitolo": "Il ritorno di Flenner"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-10/Resti e Tombe.png",
+        "alt": "Resti e tombe violate lungo i corridoi funerari delle terme",
+        "capitolo": "Un altro corpo"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-10/Altra Superstite.png",
+        "alt": "Alaster davanti alla strana tomba di Helena",
+        "capitolo": "Alaster e la strana tomba"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-10/AltraSuperstite.png",
+        "alt": "Vendetta Cress, l'altra superstite liberata dalle catene",
+        "capitolo": "Un’altra superstite"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "titolo": "Sessione 11",
+    "anchor": "sessione-11",
+    "immagini": [
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-11/IlSangueDeiDimenticati.png",
+        "alt": "La cripta crollata e il sarcofago colmo di sangue",
+        "capitolo": "Il sangue dei dimenticati"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-11/Scontro.png",
+        "alt": "L'imboscata degli accoliti nel corridoio stretto",
+        "capitolo": "La porta che si apre da sola"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-11/Passaggio Segreto.png",
+        "alt": "Il passaggio segreto che si apre nella muratura",
+        "capitolo": "Il tavolo dei morti e il passaggio nascosto"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-11/Incontriamo Motlock.png",
+        "alt": "Il gigante che combatte i cultisti nel passaggio allagato",
+        "capitolo": "Il gigante e il dovere"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-11/Clayton cosa fai.png",
+        "alt": "Clayton si irrigidisce davanti a una presenza che riconosce",
+        "capitolo": "La nube nera e il volto duplicato"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-11/Compare Orin.png",
+        "alt": "La donna di sangue che si rivela nel combattimento",
+        "capitolo": "La nube nera e il volto duplicato"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-11/Orin e Nathan.png",
+        "alt": "Due Nathan identici emergono dalla nube nera",
+        "capitolo": "La nube nera e il volto duplicato"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-11/Nathan contro Nathan.png",
+        "alt": "Un Nathan colpisce l'altro per dimostrare la verità",
+        "capitolo": "Due Nathans e una sola verità"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-11/Salviamo Mortlock.png",
+        "alt": "Orin ferito interrogato dal gruppo nel passaggio allagato",
+        "capitolo": "La fede, il sangue e la scelta"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "titolo": "Sessione 12",
+    "anchor": "sessione-12",
+    "immagini": [
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-12/Bottino1.png",
+        "alt": "Bottina nel tempio dei Mirkuliti",
+        "capitolo": "Il bottino dei culti e le crepe della fiducia"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-12/Le tre statue.png",
+        "alt": "Bottina nel tempio dei Mirkuliti",
+        "capitolo": "Le statue del culto e il tesoro sepolto"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-12/Il Tesoro dei cultisti.png",
+        "alt": "Bottina nel tempio dei Mirkuliti",
+        "capitolo": "Le statue del culto e il tesoro sepolto"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-12/La potenza delle statue.png",
+        "alt": "Bottina nel tempio dei Mirkuliti",
+        "capitolo": "Il peso degli dèi morti"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-12/Zodge.png",
+        "alt": "Bottina nel tempio dei Mirkuliti",
+        "capitolo": "Il giudizio del Capitano Zodge"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-12/La Citta' Alta.png",
+        "alt": "Bottina nel tempio dei Mirkuliti",
+        "capitolo": "Il filo di Romeo"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-12/Romeo.png",
+        "alt": "Bottina nel tempio dei Mirkuliti",
+        "capitolo": "Il filo di Romeo"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "titolo": "Sessione 13",
+    "anchor": "sessione-13",
+    "immagini": [
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-13/Citta' Alta di Giorno 2.png",
+        "alt": "Veduta della Città Alta di Baldur's Gate al tramonto",
+        "capitolo": "Il cuore dorato e le ombre che seguono"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-13/Dorian1.png",
+        "alt": "Dorian Nodorovo avanza tra la folla della piazza",
+        "capitolo": "Il fratello maggiore e il peso del nome"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-13/Dorian2.png",
+        "alt": "Dorian Nodorovo, il fratello maggiore di Alaster",
+        "capitolo": "Il fratello maggiore e il peso del nome"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-13/Ingresso Villa Nodorovo.png",
+        "alt": "L'ingresso interno della Villa Nodorovo",
+        "capitolo": "La Villa Nodorovo"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-13/Incontriamo Alyssandra.png",
+        "alt": "Alyssandra Nodorovo corre incontro al fratello",
+        "capitolo": "Alyssandra e il volto che nessuno vede"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-13/Incontriamo Seraphine.png",
+        "alt": "Seraphine Lirael Nodorovo, la padrona di casa",
+        "capitolo": "Seraphine Nodorovo"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-13/Vassander Nodorovo.png",
+        "alt": "Vassander Nodorovo, il capofamiglia",
+        "capitolo": "Vassander Nodorovo"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-13/La sala del Gala.png",
+        "alt": "Gala",
+        "capitolo": "Arriviamo al ricevimento"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-13/Alaster elegante.png",
+        "alt": "Alaster elegante",
+        "capitolo": "Arriviamo al ricevimento"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-13/Elis elegante.png",
+        "alt": "Elis elegante",
+        "capitolo": "Arriviamo al ricevimento"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-13/Nathan elegante.png",
+        "alt": "Nathan elegante",
+        "capitolo": "Arriviamo al ricevimento"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-13/Aelar elegante.png",
+        "alt": "Aelar elegante",
+        "capitolo": "Arriviamo al ricevimento"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-13/Kyran elegante.png",
+        "alt": "Kyran elegante",
+        "capitolo": "Arriviamo al ricevimento"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-13/Alaster ed Elis.png",
+        "alt": "Alaster ed Elis al gala",
+        "capitolo": "Arriviamo al ricevimento"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-13/Aelar e Kyran.png",
+        "alt": "Aelar e Kyran in disparte al gala",
+        "capitolo": "Arriviamo al ricevimento"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-13/Sylvar al gala.png",
+        "alt": "Sylvar",
+        "capitolo": "Sylvar si introduce"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-13/Alaster ed Elis con il nobile.png",
+        "alt": "Adam Whitburn",
+        "capitolo": "Sylvar si introduce"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-13/Sylvar e Fauler.png",
+        "alt": "Sylvar",
+        "capitolo": "L’uomo che aspettava Darren"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-13/Gortash.png",
+        "alt": "Gortash",
+        "capitolo": "Il brindisi di Gortash"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "titolo": "Sessione 14",
+    "anchor": "sessione-14",
+    "immagini": [
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-14/Riposo dopo il gala.png",
+        "alt": "Riposo dai Nodorovo",
+        "capitolo": "Il silenzio prima del sonno"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-14/Flenner_Sogno_Parte1.png",
+        "alt": "Nella nebbia nel sogno",
+        "capitolo": "La distesa della nebbia"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-14/Flenner_Sogno_Parte2.png",
+        "alt": "Nella nebbia nel sogno",
+        "capitolo": "La distesa della nebbia"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-14/Colazione 1.png",
+        "alt": "Colazione",
+        "capitolo": "La colazione dei Nodorovo"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-14/Colazione 2.png",
+        "alt": "Colazione e Kyran",
+        "capitolo": "La colazione dei Nodorovo"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-14/Sylvar 1.png",
+        "alt": "Sylvar si risveglia nella stanza dei Nodorovo",
+        "capitolo": "Ombre nella stanza di Sylvar"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-14/Sylvar 2.png",
+        "alt": "Sylvar e Gullivan nella stanza",
+        "capitolo": "Ombre nella stanza di Sylvar"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-14/01_Incontro_con_Orman.png",
+        "alt": "Incontriamo Orman",
+        "capitolo": "Il peso delle maledizioni"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-14/02_Purificazione_della_Spada.png",
+        "alt": "Purificazione della spada",
+        "capitolo": "Il peso delle maledizioni"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-14/03_Diagnosi_di_Elis.png",
+        "alt": "Elis...",
+        "capitolo": "Il peso delle maledizioni"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-14/04_Espulsione_della_Maledizione.png",
+        "alt": "Purificazione di Elis",
+        "capitolo": "Il peso delle maledizioni"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-14/Lanterna_2.png",
+        "alt": "I Corvi",
+        "capitolo": "La Lanterna Bassa"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-14/Lanterna_3.png",
+        "alt": "Entriamo",
+        "capitolo": "Sotto coperta"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/luoghi/sessione-14/Incontriamo_GUllivan.png",
+        "alt": "Sylvar si risveglia nella stanza dei Nodorovo",
+        "capitolo": "Sotto coperta"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "titolo": "Sessione 17",
+    "anchor": "sessione-17",
+    "immagini": [
+      {
+        "src": "assets/campaigns/discesa-averno/sessione17/preparativi-assalto.webp",
+        "alt": "Il gruppo riunito alla Taverna del Canto Elfico mentre prepara l’assalto alla villa Vanthampur",
+        "capitolo": "Preparativi per l’assalto"
+      },
+      {
+        "src": "assets/campaigns/discesa-averno/sessione17/ricognizione-citta-alta.webp",
+        "alt": "Il gruppo discute strategie e ricognizioni per infiltrarsi nella villa Vanthampur nella Città Alta",
+        "capitolo": "Mettiamo a punto un piano per il pomeriggio"
+      },
+      {
+        "src": "assets/campaigns/discesa-averno/sessione17/magione-nodorovo.webp",
+        "alt": "Il gruppo raggiunge la magione Nodorovo nella Città Alta di Baldur's Gate",
+        "capitolo": "Alla magione Nodorovo"
+      },
+      {
+        "src": "assets/campaigns/discesa-averno/sessione17/ricognizioni-citta-alta.webp",
+        "alt": "Il gruppo organizza le ricognizioni nella Città Alta all'interno della magione Nodorovo",
+        "capitolo": "Organizziamo le ricognizioni"
+      },
+      {
+        "src": "assets/campaigns/discesa-averno/sessione17/nathan-addestramento.webp",
+        "alt": "Nathan combatte in allenamento contro il capo delle guardie della magione Nodorovo",
+        "capitolo": "Nathan si addestra"
+      },
+      {
+        "src": "assets/campaigns/discesa-averno/sessione17/ricognizione-villa-vanthampur.webp",
+        "alt": "Aelar osserva la villa Vanthampur attraverso Aeren mentre Sylvar esplora le fogne",
+        "capitolo": "Il gruppo si divide"
+      },
+      {
+        "src": "assets/campaigns/discesa-averno/sessione17/dal-fabbro.webp",
+        "alt": "Alaster e il gruppo discutono con il mastro fabbro Ferroteso nella forgia della Città Alta",
+        "capitolo": "Dal fabbro"
+      },
+      {
+        "src": "assets/campaigns/discesa-averno/sessione17/sylvar-topo-fogne.webp",
+        "alt": "Sylvar trasformato in topo attraversa le fogne della Città Alta di Baldur's Gate",
+        "capitolo": "Sylvar il topo"
+      },
+      {
+        "src": "assets/campaigns/discesa-averno/sessione17/kyran-incontro-kenku.webp",
+        "alt": "Kyran incontra un misterioso Kenku nei vicoli della Città Alta",
+        "capitolo": "Lo strano incontro di Kyran"
+      },
+      {
+        "src": "assets/campaigns/discesa-averno/sessione17/kanbos-ritorno.webp",
+        "alt": "Kanbos emerge dalle ombre davanti a Kyran nei vicoli di Baldur's Gate",
+        "capitolo": "Lo strano incontro di Kyran"
+      },
+      {
+        "src": "assets/campaigns/discesa-averno/sessione17/sylvar-fogne-vanthampur.webp",
+        "alt": "Sylvar esplora le fogne isolate sotto la villa Vanthampur",
+        "capitolo": "Sylvar e le fogne"
+      },
+      {
+        "src": "assets/campaigns/discesa-averno/sessione17/torre-ramazith.webp",
+        "alt": "L'interno della Torre di Ramazith pieno di libri fluttuanti e oggetti magici",
+        "capitolo": "La Torre di Ramazith"
+      },
+      {
+        "src": "assets/campaigns/discesa-averno/sessione17/kyran-fuga-demoni.webp",
+        "alt": "Kyran fugge nei vicoli della Città Alta inseguita da creature demoniache",
+        "capitolo": "Kyran e i suoi demoni"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "titolo": "Sessione 18",
+    "anchor": "sessione-18",
+    "immagini": [
+      {
+        "src": "assets/campaigns/discesa-averno/sessione18/le-fogne.webp",
+        "alt": "Sylvar esplora una sezione nascosta delle fogne sotto la Città Alta di Baldur's Gate",
+        "capitolo": "Le fogne"
+      },
+      {
+        "src": "assets/campaigns/discesa-averno/sessione18/cane-infernale-fogne.webp",
+        "alt": "Un cane infernale pattuglia i cunicoli nascosti sotto la villa Vanthampur",
+        "capitolo": "Le fogne"
+      },
+      {
+        "src": "assets/campaigns/discesa-averno/sessione18/guardie-ovunque.webp",
+        "alt": "Sylvar osserva una pattuglia infernale nei cunicoli sotterranei sotto la villa Vanthampur",
+        "capitolo": "Guardie ovunque"
+      },
+      {
+        "src": "assets/campaigns/discesa-averno/sessione18/prigionieri-sotterranei.webp",
+        "alt": "Un diavolo tortura un prigioniero all'interno delle segrete sotterranee dei Vanthampur",
+        "capitolo": "Guardie ovunque"
+      },
+      {
+        "src": "assets/campaigns/discesa-averno/sessione18/kyran-che-successo.webp",
+        "alt": "Gli Extermina interrogano Kyran dopo lo scontro con i demoni evocati da Kanbos",
+        "capitolo": "Kyran... che è successo?"
+      },
+      {
+        "src": "assets/campaigns/discesa-averno/sessione18/arrivano-le-guardie.webp",
+        "alt": "Le guardie della Città Alta raggiungono gli Extermina dopo lo scontro con i demoni",
+        "capitolo": "Arrivano le guardie"
+      },
+      {
+        "src": "assets/campaigns/discesa-averno/sessione18/harvesting-demoni.webp",
+        "alt": "Gli Extermina recuperano componenti dai corpi dei demoni abbattuti nei vicoli della Città Alta",
+        "capitolo": "Harvesting"
+      },
+      {
+        "src": "assets/campaigns/discesa-averno/sessione18/ritrovo-prima-della-spedizione.webp",
+        "alt": "Gli Extermina si riuniscono al tramonto per pianificare l'infiltrazione nella villa Vanthampur",
+        "capitolo": "Ci incontriamo per la spedizione"
+      },
+      {
+        "src": "assets/campaigns/discesa-averno/sessione18/lupo-ombra-nathan.webp",
+        "alt": "Nathan richiama il proprio destriero d'ombra sotto forma di enorme lupo nero",
+        "capitolo": "Ci incontriamo per la spedizione"
+      },
+      {
+        "src": "assets/campaigns/discesa-averno/sessione18/alaster-vestito-di-nero.webp",
+        "alt": "Alaster indossa eleganti abiti nobiliari neri prima dell'infiltrazione nella villa Vanthampur",
+        "capitolo": "Ci incontriamo per la spedizione"
+      },
+      {
+        "src": "assets/campaigns/discesa-averno/sessione18/contatto-culto-drago.webp",
+        "alt": "Un emissario del Culto del Drago raggiunge gli Extermina poco prima dell'assalto alla villa Vanthampur",
+        "capitolo": "Il culto ci contatta"
+      },
+      {
+        "src": "assets/campaigns/discesa-averno/sessione18/zorbat-pianifica-assalto.webp",
+        "alt": "Zorbat studia la piantina della villa Vanthampur poco prima dell'attacco",
+        "capitolo": "Il culto ci contatta"
+      },
+      {
+        "src": "assets/campaigns/discesa-averno/sessione18/culto-pronto-all-assalto.webp",
+        "alt": "I membri del Culto del Drago si preparano all'assalto contro la villa Vanthampur",
+        "capitolo": "Si attacca"
+      },
+      {
+        "src": "assets/campaigns/discesa-averno/sessione18/extermina-appostati.webp",
+        "alt": "Gli Extermina osservano la villa Vanthampur nascosti nell'oscurità",
+        "capitolo": "Si attacca"
+      },
+      {
+        "src": "assets/campaigns/discesa-averno/sessione18/preparativi-infiltrazione.webp",
+        "alt": "Gli Extermina si preparano all'infiltrazione mentre il Culto del Drago attacca la villa Vanthampur",
+        "capitolo": "Entriamo in azione"
+      },
+      {
+        "src": "assets/campaigns/discesa-averno/sessione18/scalando-il-muro.webp",
+        "alt": "Gli Extermina tentano di superare le mura posteriori della villa Vanthampur",
+        "capitolo": "Entriamo in azione"
+      },
+      {
+        "src": "assets/campaigns/discesa-averno/sessione18/dragonide-del-culto.webp",
+        "alt": "Un possente guerriero draconico del Culto del Drago semina distruzione davanti alla villa Vanthampur",
+        "capitolo": "Siamo dentro"
+      },
+      {
+        "src": "assets/campaigns/discesa-averno/sessione18/lo-stalliere.webp",
+        "alt": "Lo stalliere della villa Vanthampur cerca disperatamente di calmare i cavalli spaventati",
+        "capitolo": "Siamo dentro"
+      },
+      {
+        "src": "assets/campaigns/discesa-averno/sessione18/ingresso-villa-vanthampur.webp",
+        "alt": "L'ingresso interno della villa Vanthampur esplorato dagli Extermina",
+        "capitolo": "Siamo dentro"
+      },
+      {
+        "src": "assets/campaigns/discesa-averno/sessione18/statua-vanthampur.webp",
+        "alt": "La grottesca statua di Thalamra Vanthampur che domina l'ingresso della villa",
+        "capitolo": "Siamo dentro"
+      },
+      {
+        "src": "assets/campaigns/discesa-averno/sessione18/imp-in-agguato.webp",
+        "alt": "Piccoli imp invisibili osservano gli Extermina dalle ombre della villa Vanthampur",
+        "capitolo": "Primi scontri infernali"
+      },
+      {
+        "src": "assets/campaigns/discesa-averno/sessione18/eliminazione-imp.webp",
+        "alt": "Gli Extermina eliminano rapidamente gli imp nascosti nella villa Vanthampur",
+        "capitolo": "Primi scontri infernali"
+      },
+      {
+        "src": "assets/campaigns/discesa-averno/sessione18/maggiordomo-vanthampur.webp",
+        "alt": "L'anziano maggiordomo della villa Vanthampur osserva silenziosamente un corridoio",
+        "capitolo": "Primi scontri infernali"
+      },
+      {
+        "src": "assets/campaigns/discesa-averno/sessione18/maggiordomo-giustiziato.webp",
+        "alt": "Il maggiordomo dei Vanthampur cade trafitto dalla freccia di Aelar",
+        "capitolo": "Aelar spacca il gruppo"
+      },
+      {
+        "src": "assets/campaigns/discesa-averno/sessione18/scontro-tra-compagni.webp",
+        "alt": "Gli Extermina si confrontano duramente dopo l'uccisione del maggiordomo",
+        "capitolo": "Aelar spacca il gruppo"
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "titolo": "Artwork — Party",
+    "anchor": "artwork-party",
+    "immagini": [
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Party/Aelar/aelar-thaedrim-liadon_headshot-20260610-2239.png",
+        "alt": "Aelar Thaedrim Liadon — volto",
+        "capitolo": "Aelar"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Party/Aelar/aelar-thaedrim-liadon_full-body-front-20260610-2239.png",
+        "alt": "Aelar Thaedrim Liadon — ritratto frontale",
+        "capitolo": "Aelar"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Party/Aelar/aelar-thaedrim-liadon_full-body-back-20260610-2239.png",
+        "alt": "Aelar Thaedrim Liadon — ritratto di spalle",
+        "capitolo": "Aelar"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Party/Aelar/aelar-thaedrim-liadon_side-20260610-2239.png",
+        "alt": "Aelar Thaedrim Liadon — profilo",
+        "capitolo": "Aelar"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Party/Aelar/ChatGPT Image Jun 11, 2026, 12_23_03 AM.png",
+        "alt": "Aelar — illustrazione",
+        "capitolo": "Aelar"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Party/Aelar/ChatGPT Image Jun 11, 2026, 12_37_27 AM.png",
+        "alt": "Aelar — illustrazione 2",
+        "capitolo": "Aelar"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Party/Alaster/alaster-nodorovo_headshot-20260610-2248.png",
+        "alt": "Alaster Nodorovo — volto",
+        "capitolo": "Alaster"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Party/Alaster/alaster-nodorovo_full-body-front-20260610-2249.png",
+        "alt": "Alaster Nodorovo — ritratto frontale",
+        "capitolo": "Alaster"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Party/Alaster/alaster-nodorovo_full-body-back-20260610-2248.png",
+        "alt": "Alaster Nodorovo — ritratto di spalle",
+        "capitolo": "Alaster"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Party/Alaster/alaster-nodorovo_side-20260610-2249.png",
+        "alt": "Alaster Nodorovo — profilo",
+        "capitolo": "Alaster"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Party/Alaster/ChatGPT Image Jun 11, 2026, 12_52_23 AM.png",
+        "alt": "Alaster — illustrazione",
+        "capitolo": "Alaster"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Party/Alaster/62015d3c-950e-4e29-8c54-1f0550f7b8cd.png",
+        "alt": "Alaster — illustrazione 2",
+        "capitolo": "Alaster"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Party/Elis/elis_headshot-20260610-2314.png",
+        "alt": "Elis — volto",
+        "capitolo": "Elis"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Party/Elis/elis_full-body-front-20260610-2313.png",
+        "alt": "Elis — ritratto frontale",
+        "capitolo": "Elis"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Party/Elis/elis_full-body-back-20260610-2314.png",
+        "alt": "Elis — ritratto di spalle",
+        "capitolo": "Elis"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Party/Elis/elis_side-20260610-2314.png",
+        "alt": "Elis — profilo",
+        "capitolo": "Elis"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Party/Elis/ChatGPT Image Jun 11, 2026, 01_09_10 AM.png",
+        "alt": "Elis — illustrazione",
+        "capitolo": "Elis"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Party/Elis/ChatGPT Image Jun 11, 2026, 01_10_14 AM.png",
+        "alt": "Elis — illustrazione 2",
+        "capitolo": "Elis"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Party/Kyran/kyran_headshot-20260610-2323.png",
+        "alt": "Kyran — volto",
+        "capitolo": "Kyran"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Party/Kyran/untitled-character_full-body-front-20260610-2322.png",
+        "alt": "Kyran — ritratto frontale",
+        "capitolo": "Kyran"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Party/Kyran/kyran_full-body-back-20260610-2323.png",
+        "alt": "Kyran — ritratto di spalle",
+        "capitolo": "Kyran"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Party/Kyran/kyran_side-20260610-2323.png",
+        "alt": "Kyran — profilo",
+        "capitolo": "Kyran"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Party/Kyran/ChatGPT Image Jun 11, 2026, 01_17_46 AM.png",
+        "alt": "Kyran — illustrazione",
+        "capitolo": "Kyran"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Party/Kyran/ChatGPT Image Jun 11, 2026, 01_18_38 AM.png",
+        "alt": "Kyran — illustrazione 2",
+        "capitolo": "Kyran"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Party/Nathan/nathan_headshot-20260610-2258.png",
+        "alt": "Nathan — volto",
+        "capitolo": "Nathan"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Party/Nathan/nathan_full-body-front-20260610-2258.png",
+        "alt": "Nathan — ritratto frontale",
+        "capitolo": "Nathan"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Party/Nathan/nathan_full-body-back-20260610-2258.png",
+        "alt": "Nathan — ritratto di spalle",
+        "capitolo": "Nathan"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Party/Nathan/nathan_side-20260610-2259.png",
+        "alt": "Nathan — profilo",
+        "capitolo": "Nathan"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Party/Nathan/Nathan_Scheda.png",
+        "alt": "Nathan — scheda personaggio",
+        "capitolo": "Nathan"
+      },
+      {
+        "src": "assets/data/ikaros/campagne/discesa-averno/personaggi/Party/Nathan/ChatGPT Image Jun 11, 2026, 12_55_31 AM.png",
+        "alt": "Nathan — illustrazione",
+        "capitolo": "Nathan"
+      }
+    ]
+  }
+]

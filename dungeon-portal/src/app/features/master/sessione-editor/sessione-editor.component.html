@@ -1,0 +1,123 @@
+<div class="sessione-editor">
+
+  <div class="page-header">
+    <h1 class="page-title">Editor Sessioni</h1>
+    <p class="page-intro">Crea e modifica le sessioni di campagna del Master</p>
+  </div>
+
+  <div class="editor-layout">
+
+    <!-- ===== SIDEBAR: ELENCO SESSIONI ===== -->
+    <nav class="sidebar">
+
+      <div class="nuova-riga">
+        <input
+            type="text"
+            placeholder="Nuova sessione…"
+            [(ngModel)]="nuovaEtichettaSessione"
+            (keydown.enter)="creaSessione()" />
+        <button (click)="creaSessione()" [disabled]="!nuovaEtichettaSessione.trim()">+</button>
+      </div>
+
+      <p class="sidebar-vuota" *ngIf="!voci.length">Nessuna sessione ancora.</p>
+
+      <div
+          class="voce-sessione"
+          *ngFor="let voce of voci"
+          [class.selezionata]="sessioneSelezionata?.id === voce.sessionNumber">
+
+        <span class="voce-numero">#{{ voce.sessionNumber }}</span>
+
+        <input
+            type="text"
+            class="voce-etichetta-input"
+            [ngModel]="voce.label"
+            (ngModelChange)="voce.label = $event"
+            (blur)="aggiornaEtichetta(voce, voce.label)"
+            (click)="apriSessione(voce.sessionNumber)" />
+
+        <label class="voce-visibile" title="Visibile nella lista pubblica">
+          <input
+              type="checkbox"
+              [ngModel]="voce.visible"
+              (ngModelChange)="aggiornaVisibilita(voce, $event)" />
+        </label>
+
+        <button class="voce-elimina" (click)="chiediEliminaSessione(voce)" title="Elimina sessione">✕</button>
+
+      </div>
+
+    </nav>
+
+    <!-- ===== EDITOR SESSIONE ===== -->
+    <main class="main-content">
+
+      <p class="sessione-vuota" *ngIf="!sessioneSelezionata">Seleziona o crea una sessione per modificarla.</p>
+
+      <div class="sessione-editor-contenuto" *ngIf="sessioneSelezionata">
+
+        <div class="sessione-editor-header">
+          <input
+              type="text"
+              class="sessione-titolo-input"
+              [(ngModel)]="sessioneSelezionata.title"
+              placeholder="Titolo della sessione" />
+          <input
+              type="text"
+              class="sessione-video-input"
+              [(ngModel)]="sessioneSelezionata.videoId"
+              placeholder="ID video YouTube (opzionale)" />
+          <button class="btn-salva" (click)="salvaSessione()" [disabled]="salvando">
+            {{ salvando ? 'Salvataggio…' : 'Salva' }}
+          </button>
+          <span class="messaggio" *ngIf="messaggio">{{ messaggio }}</span>
+        </div>
+
+        <!-- ===== CAPITOLI ===== -->
+        <div class="capitoli-tabs">
+          <div
+              class="capitolo-tab"
+              *ngFor="let capitolo of sessioneSelezionata.chapters; let i = index"
+              [class.selezionato]="capitoloSelezionatoId === capitolo.id"
+              (click)="capitoloSelezionatoId = capitolo.id">
+            <span>{{ capitolo.title || 'Capitolo senza titolo' }}</span>
+            <div class="capitolo-tab-azioni">
+              <button (click)="spostaCapitolo(i, -1); $event.stopPropagation()" [disabled]="i === 0" title="Sposta su">↑</button>
+              <button (click)="spostaCapitolo(i, 1); $event.stopPropagation()" [disabled]="i === sessioneSelezionata.chapters.length - 1" title="Sposta giù">↓</button>
+              <button (click)="rimuoviCapitolo(capitolo.id); $event.stopPropagation()" title="Elimina capitolo">✕</button>
+            </div>
+          </div>
+          <button class="capitolo-aggiungi" (click)="aggiungiCapitolo()">+ Nuovo capitolo</button>
+        </div>
+
+        <p class="sessione-vuota" *ngIf="!sessioneSelezionata.chapters.length">Nessun capitolo ancora: aggiungine uno per iniziare a scrivere.</p>
+
+        <ng-container *ngIf="capitoloSelezionato as capitolo">
+
+          <div class="capitolo-editor-header">
+            <input type="text" class="capitolo-titolo-input" [(ngModel)]="capitolo.title" placeholder="Titolo del capitolo" />
+            <input type="text" class="capitolo-video-input" [(ngModel)]="capitolo.videoId" placeholder="ID video YouTube (opzionale)" />
+          </div>
+
+          <app-story-block-form
+              [blocks]="capitolo.blocks"
+              [uploadImmagine]="uploadImmagine">
+          </app-story-block-form>
+
+        </ng-container>
+
+      </div>
+
+    </main>
+
+  </div>
+
+  <app-confirm-dialog
+      *ngIf="mostraConfermaEliminaSessione"
+      title="Elimina sessione"
+      message="Eliminare questa sessione? L'operazione non è reversibile."
+      (confirmed)="confermaEliminaSessione()"
+      (closed)="mostraConfermaEliminaSessione = false">
+  </app-confirm-dialog>
+
+</div>

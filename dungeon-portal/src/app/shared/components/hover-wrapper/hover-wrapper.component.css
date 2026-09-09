@@ -1,0 +1,32 @@
+:host { display: inline; }
+
+.character-name{
+  cursor:pointer;
+  color:inherit;
+  font-weight:inherit;
+}
+
+/* opzionale: per dare un minimo "tooltip feeling" */
+.character-name:hover{
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.hover-card {
+  position: fixed;
+  z-index: 99999;
+  isolation: isolate;
+  width: 900px;
+  max-width: 92vw;
+
+  background: #0f1422;   /* pieno, niente alpha */
+  backdrop-filter: none; /* 🔥 fondamentale */
+
+  border-radius: 18px;
+  padding: 35px;
+
+  border: 1px solid rgba(230,195,111,0.3);
+
+  box-shadow:
+    0 40px 100px rgba(0,0,0,0.9);
+}

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300">
+  <rect width="400" height="300" fill="#1a1412"/>
+  <rect x="1" y="1" width="398" height="298" fill="none" stroke="#5a3e2b" stroke-width="1.5" stroke-dasharray="8,4"/>
+  <line x1="140" y1="100" x2="260" y2="200" stroke="#5a3e2b" stroke-width="2"/>
+  <line x1="260" y1="100" x2="140" y2="200" stroke="#5a3e2b" stroke-width="2"/>
+  <rect x="130" y="92" width="140" height="116" rx="4" fill="none" stroke="#5a3e2b" stroke-width="2"/>
+  <circle cx="170" cy="126" r="10" fill="none" stroke="#5a3e2b" stroke-width="2"/>
+  <polyline points="130,180 160,148 185,168 220,130 270,180" fill="none" stroke="#5a3e2b" stroke-width="2"/>
+  <text x="200" y="236" font-family="Georgia, serif" font-size="13" fill="#7a5c3a" text-anchor="middle" letter-spacing="2">ILLUSTRAZIONE</text>
+  <text x="200" y="254" font-family="Georgia, serif" font-size="13" fill="#7a5c3a" text-anchor="middle" letter-spacing="2">NON DISPONIBILE</text>
+</svg>

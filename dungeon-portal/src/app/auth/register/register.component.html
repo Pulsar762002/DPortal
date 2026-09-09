@@ -1,0 +1,157 @@
+<section class="auth-wrapper">
+  <div class="auth-card">
+
+    <h1>Crea il tuo account</h1>
+
+    <form [formGroup]="registerForm" (ngSubmit)="onRegister()">
+
+      <!-- EMAIL -->
+      <div class="form-group">
+        <label>Email</label>
+        <input type="email" formControlName="email" />
+
+        <small class="error"
+               *ngIf="getControl('email')?.touched && getControl('email')?.errors?.['required']">
+          Email obbligatoria
+        </small>
+
+        <small class="error"
+               *ngIf="getControl('email')?.touched && getControl('email')?.errors?.['email']">
+          Inserisci un'email valida
+        </small>
+      </div>
+
+      <!-- NICKNAME -->
+      <div class="form-group">
+        <label>Nickname</label>
+        <input type="text" formControlName="nickname" />
+
+        <small class="error" *ngIf="f['nickname'].touched && f['nickname'].errors?.['required']">
+          Nickname obbligatorio
+        </small>
+
+        <small class="error" *ngIf="f['nickname'].touched && f['nickname'].errors?.['minlength']">
+          Minimo 3 caratteri
+        </small>
+      </div>
+
+      <!-- PASSWORD -->
+      <div class="form-group">
+        <label>Password</label>
+        <input type="password" formControlName="password" />
+
+        <small class="error" *ngIf="f['password'].touched && f['password'].errors?.['required']">
+          Password obbligatoria
+        </small>
+
+        <small class="error" *ngIf="f['password'].touched && f['password'].errors?.['minlength']">
+          Minimo 6 caratteri
+        </small>
+      </div>
+
+      <!-- CONFERMA PASSWORD -->
+      <div class="form-group">
+        <label>Conferma Password</label>
+        <input type="password" formControlName="confirmPassword" />
+
+        <small class="error" *ngIf="f['confirmPassword'].touched && f['confirmPassword'].errors?.['required']">
+          Conferma la password
+        </small>
+
+        <small class="error" *ngIf="f['confirmPassword'].touched && f['confirmPassword'].errors?.['mismatch']">
+          Le password non coincidono
+        </small>
+      </div>
+
+      <!-- AVATAR -->
+      <div class="form-group">
+        <label>Avatar</label>
+
+        <input
+          type="file"
+          accept="image/*"
+          (change)="onFileSelected($event)"
+        />
+
+        <!-- Cropper -->
+        <div class="cropper-wrapper" *ngIf="imageChangedEvent">
+          <image-cropper
+            [imageChangedEvent]="imageChangedEvent"
+            [maintainAspectRatio]="true"
+            [aspectRatio]="1"
+            [resizeToWidth]="256"
+            [cropperMinWidth]="100"
+            [cropperMinHeight]="100"
+            format="png"
+            [roundCropper]="true"
+            (imageCropped)="imageCropped($event)">
+          </image-cropper>
+        </div>
+
+        <!-- Preview -->
+        <div class="avatar-preview" *ngIf="croppedImage">
+          <p>Anteprima:</p>
+          <img [src]="croppedImage" />
+        </div>
+      </div>
+
+
+      <label>Data di nascita</label>
+      <input type="date" formControlName="birthDate" placeholder="dd/MM/yyyy"/>
+
+      <small class="error"
+             *ngIf="getControl('birthDate')?.touched && getControl('birthDate')?.errors?.['required']">
+        Data di nascita obbligatoria
+      </small>
+
+      <div class="checkbox-group">
+        <input type="checkbox" formControlName="ageDisclaimer" id="ageDisclaimer" />
+        <label for="ageDisclaimer">
+          Dichiaro che l'età indicata è veritiera e sotto mia esclusiva responsabilità.
+        </label>
+      </div>
+
+      <small class="error"
+             *ngIf="getControl('ageDisclaimer')?.touched && getControl('ageDisclaimer')?.errors?.['required']">
+        Devi confermare la dichiarazione di responsabilità
+      </small>
+
+      <small class="error"
+             *ngIf="registerForm.errors?.['underage']">
+        Devi avere almeno 18 anni per registrarti
+      </small>
+
+      <div class="checkbox-group">
+        <input type="checkbox" formControlName="termsAccepted" id="termsAccepted" />
+        <label for="termsAccepted">
+          Accetto i Termini di Servizio e dichiaro di comprendere che Dungeon Portal
+          non è responsabile dei contenuti generati dagli utenti.
+        </label>
+      </div>
+
+      <small class="error"
+             *ngIf="getControl('termsAccepted')?.touched && getControl('termsAccepted')?.errors?.['required']">
+        Devi accettare i termini per procedere
+      </small>
+
+
+
+<!--      <div class="g-recaptcha"></div>-->
+
+<!--      <small class="error" *ngIf="captchaInvalid">-->
+<!--        Devi completare il captcha-->
+<!--      </small>-->
+
+      <button
+        type="submit"
+        class="register-btn"
+        [disabled]="registerForm.invalid">
+        Registrati
+      </button>
+
+
+
+    </form>
+
+  </div>
+</section>

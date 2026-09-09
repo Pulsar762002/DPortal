@@ -1,0 +1,52 @@
+.luogo-secondario-secondario-wrapper {
+  display: flex;
+  gap: 2rem;
+  padding: 1.8rem;
+  margin-bottom: 3rem;
+
+  background: rgba(20, 20, 20, 0.75);
+  border: 1px solid rgba(212, 175, 55, 0.3);
+  border-radius: 12px;
+
+  backdrop-filter: blur(6px);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.luogo-secondario-wrapper:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.6);
+}
+
+.luogo-secondario-image img {
+  width: 160px;
+  border-radius: 10px;
+  border: 2px solid rgba(212, 175, 55, 0.5);
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.8);
+}
+
+.luogo-secondario-content {
+  flex: 1;
+}
+
+.luogo-secondario-nome {
+  margin: 0 0 1rem 0;
+  font-size: 1.5rem;
+  color: #d4af37;
+  text-shadow: 0 0 8px rgba(212, 175, 55, 0.4);
+}
+
+.luogo-secondario-info {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.luogo-secondario-info li {
+  margin-bottom: 0.9rem;
+  line-height: 1.6;
+  color: #f1e6c8;
+}
+
+.luogo-secondario-info strong {
+  color: #ffffff;
+}

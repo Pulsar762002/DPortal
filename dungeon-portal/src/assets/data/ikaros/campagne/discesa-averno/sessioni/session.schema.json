@@ -1,0 +1,173 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://dungeon-portal/session.schema.json",
+  "title": "Sessione di campagna",
+  "description": "Struttura di un file session-<N>.json (CampaignSession).",
+  "type": "object",
+  "required": ["id", "title", "chapters"],
+  "additionalProperties": false,
+  "properties": {
+    "$schema": { "type": "string" },
+    "id": {
+      "type": "integer",
+      "description": "Numero della sessione. Deve combaciare col nome file (session-<id>.json) e col sessionNumber in elenco-sessioni.json."
+    },
+    "title": { "type": "string", "description": "Titolo mostrato nella sidebar." },
+    "videoId": { "type": "string", "description": "ID YouTube opzionale; vuoto = nessun bottone play." },
+    "chapters": {
+      "type": "array",
+      "description": "Capitoli della sessione, nell'ordine in cui appaiono.",
+      "items": { "$ref": "#/definitions/chapter" }
+    }
+  },
+  "definitions": {
+    "chapter": {
+      "type": "object",
+      "required": ["id", "title", "blocks"],
+      "additionalProperties": false,
+      "properties": {
+        "id": { "type": "string", "description": "Ancora univoca per la sidebar (es. 'arrivo-al-covo')." },
+        "title": { "type": "string" },
+        "videoId": { "type": "string", "description": "ID YouTube opzionale del capitolo." },
+        "blocks": {
+          "type": "array",
+          "description": "Blocchi narrativi, nell'ordine di lettura.",
+          "items": { "$ref": "#/definitions/block" }
+        }
+      }
+    },
+    "block": {
+      "oneOf": [
+        { "$ref": "#/definitions/paragraphBlock" },
+        { "$ref": "#/definitions/quoteBlock" },
+        { "$ref": "#/definitions/subtitleBlock" },
+        { "$ref": "#/definitions/imageBlock" },
+        { "$ref": "#/definitions/sceneBlock" },
+        { "$ref": "#/definitions/dividerBlock" },
+        { "$ref": "#/definitions/noteBlock" },
+        { "$ref": "#/definitions/listBlock" },
+        { "$ref": "#/definitions/spacerBlock" }
+      ]
+    },
+    "paragraphBlock": {
+      "type": "object",
+      "title": "Paragrafo",
+      "required": ["type", "text"],
+      "additionalProperties": false,
+      "properties": {
+        "id": { "type": "string" },
+        "type": { "const": "paragraph" },
+        "variant": { "enum": ["emphasis"], "description": "Enfasi tipografica (centrato, dorato)." },
+        "style": { "enum": ["italic"], "description": "Stile inline (corsivo)." },
+        "text": { "type": "string", "description": "Testo del paragrafo. Può contenere HTML." }
+      }
+    },
+    "quoteBlock": {
+      "type": "object",
+      "title": "Citazione",
+      "required": ["type", "text"],
+      "additionalProperties": false,
+      "properties": {
+        "id": { "type": "string" },
+        "type": { "const": "quote" },
+        "variant": { "type": "string" },
+        "text": { "type": "string", "description": "Battuta / citazione." },
+        "author": { "type": "string", "description": "Attribuzione opzionale." }
+      }
+    },
+    "subtitleBlock": {
+      "type": "object",
+      "title": "Sotto-titolo",
+      "required": ["type", "text"],
+      "additionalProperties": false,
+      "properties": {
+        "id": { "type": "string" },
+        "type": { "const": "subtitle" },
+        "text": { "type": "string", "description": "Testo del sotto-titolo." }
+      }
+    },
+    "listBlock": {
+      "type": "object",
+      "title": "Elenco",
+      "required": ["type", "items"],
+      "additionalProperties": false,
+      "properties": {
+        "id": { "type": "string" },
+        "type": { "const": "list" },
+        "variant": { "enum": ["bullet", "number"], "description": "Puntato (default) o numerato." },
+        "items": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "Voci dell'elenco; ognuna può contenere HTML."
+        }
+      }
+    },
+    "spacerBlock": {
+      "type": "object",
+      "title": "Spazio",
+      "required": ["type"],
+      "additionalProperties": false,
+      "properties": {
+        "id": { "type": "string" },
+        "type": { "const": "spacer" },
+        "variant": { "enum": ["small", "medium", "large"], "description": "Altezza dello spazio (default: medium)." }
+      }
+    },
+    "imageBlock": {
+      "type": "object",
+      "title": "Immagine",
+      "required": ["type", "variant", "src"],
+      "additionalProperties": false,
+      "properties": {
+        "id": { "type": "string" },
+        "type": { "const": "image" },
+        "variant": {
+          "enum": ["left", "left-small", "left-big", "center"],
+          "description": "Posizione/dimensione; left* flotta a sinistra col testo che scorre attorno."
+        },
+        "src": { "type": "string", "description": "Percorso, es. assets/data/ikaros/campagne/<slug>/luoghi/sessione-<N>/file.png" },
+        "alt": { "type": "string" }
+      }
+    },
+    "sceneBlock": {
+      "type": "object",
+      "title": "Scena (establishing shot)",
+      "required": ["type", "src"],
+      "additionalProperties": false,
+      "properties": {
+        "id": { "type": "string" },
+        "type": { "const": "scene" },
+        "src": { "type": "string", "description": "Immagine a tutta larghezza." },
+        "title": { "type": "string", "description": "Titolo sovrimpresso (maiuscolo)." },
+        "subtitle": { "type": "string", "description": "Sottotitolo opzionale (es. luogo, momento)." },
+        "alt": { "type": "string" }
+      }
+    },
+    "dividerBlock": {
+      "type": "object",
+      "title": "Separatore ornamentale",
+      "required": ["type"],
+      "additionalProperties": false,
+      "properties": {
+        "id": { "type": "string" },
+        "type": { "const": "divider" },
+        "variant": {
+          "enum": ["flourish", "rune", "plain"],
+          "description": "Decoro centrale (default: flourish)."
+        }
+      }
+    },
+    "noteBlock": {
+      "type": "object",
+      "title": "Nota del Master",
+      "required": ["type", "text"],
+      "additionalProperties": false,
+      "properties": {
+        "id": { "type": "string" },
+        "type": { "const": "note" },
+        "title": { "type": "string", "description": "Etichetta; default 'Nota del Master'." },
+        "text": { "type": "string", "description": "Testo della nota. Può contenere HTML." }
+      }
+    }
+  }
+}

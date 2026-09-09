@@ -1,0 +1,82 @@
+<div class="campaign-detail-container">
+
+    <div class="campaign-card">
+
+        <!-- HEADER -->
+        <header class="campaign-header">
+
+            <div class="campaign-title-row">
+
+                <h1 class="campaign-title">
+                    {{ campaign?.title }}
+                </h1>
+
+                <a class="archivi-button" [routerLink]="['/campagne', slug, 'archivi']">
+                    Archivi
+                </a>
+
+            </div>
+
+            <p class="campaign-description">
+                {{ campaign?.description }}
+            </p>
+
+        </header>
+
+        <!-- INDEX -->
+        <nav class="campaign-index">
+
+            <section
+                    class="index-section"
+                    *ngFor="let section of campaign?.sections">
+
+                <h2 class="index-title">
+                    {{ section.title }}
+                </h2>
+
+                <ng-container [ngSwitch]="section.type">
+
+                    <!-- SESSIONI GRID (cerchi con numero + label) -->
+                    <ul *ngSwitchCase="'sessions'" class="index-list sessions-grid">
+                        <li *ngFor="let item of section.items">
+                            <ng-container *ngIf="isVisible(item)">
+                                <a [routerLink]="['/campagne', slug, 'sessione', item.sessionNumber]">
+                                    <span class="index-number">{{ item.sessionNumber }}</span>
+                                    <span class="index-text">{{ item.label }}</span>
+                                </a>
+                            </ng-container>
+                        </li>
+                    </ul>
+
+                    <!-- LINKS-GRID (stesso layout ma con fragment) -->
+                    <ul *ngSwitchCase="'links-grid'" class="index-list sessions-grid">
+                        <li *ngFor="let item of section.items">
+                            <ng-container *ngIf="isVisible(item)">
+                                <a [routerLink]="getRoute(item)" [fragment]="item.fragment">
+                                    <span class="index-number">{{ item.sessionNumber }}</span>
+                                    <span class="index-text">{{ item.label }}</span>
+                                </a>
+                            </ng-container>
+                        </li>
+                    </ul>
+
+                    <!-- LISTA NORMALE (links verticali) -->
+                    <ul *ngSwitchDefault class="index-list" [class.secondary]="section.type === 'links'">
+                        <li *ngFor="let item of section.items">
+                            <ng-container *ngIf="isVisible(item)">
+                                <a [routerLink]="getRoute(item)" [fragment]="item.fragment">
+                                    {{ item.label }}
+                                </a>
+                            </ng-container>
+                        </li>
+                    </ul>
+
+                </ng-container>
+
+            </section>
+
+        </nav>
+
+    </div>
+
+</div>

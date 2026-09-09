@@ -1,0 +1,11 @@
+<span class="character-name"
+      (mouseenter)="show()"
+      (mouseleave)="hide()">
+
+  {{ l.nome }}
+
+  <div class="hover-card" *ngIf="isVisible">
+    <app-luogo-card [l]="l"></app-luogo-card>
+  </div>
+
+</span>

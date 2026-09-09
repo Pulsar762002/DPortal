@@ -1,0 +1,69 @@
+<div class="admin-wrapper">
+  <div class="admin-card">
+
+    <h2 class="admin-title">Gestione Land</h2>
+
+    <table class="lands-table">
+      <thead>
+      <tr>
+        <th>Slug</th>
+        <th>Nome</th>
+        <th></th>
+      </tr>
+      </thead>
+      <tbody>
+      <tr *ngFor="let land of lands" [class.selected]="land.slug === selectedSlug">
+        <td>{{ land.slug }}</td>
+        <td>{{ land.nome }}</td>
+        <td>
+          <button (click)="selezionaLand(land.slug)">Gestisci master</button>
+        </td>
+      </tr>
+      </tbody>
+    </table>
+
+    <h3 class="section-title">Nuova Land</h3>
+    <form class="inline-form" (ngSubmit)="creaLand()">
+      <input name="newSlug" [(ngModel)]="newSlug" placeholder="slug (es. fabula)" required />
+      <input name="newNome" [(ngModel)]="newNome" placeholder="Nome" required />
+      <input name="newLore" [(ngModel)]="newLore" placeholder="Regole/lore (opzionale)" />
+      <button type="submit">Crea Land</button>
+    </form>
+    <p class="error" *ngIf="creaError">{{ creaError }}</p>
+
+    <div class="land-detail" *ngIf="selectedDetail">
+
+      <h3 class="section-title">Master di {{ selectedDetail.nome }}</h3>
+
+      <ul class="plain-list">
+        <li *ngFor="let m of selectedDetail.masters">
+          &#64;{{ m.nickname }}
+          <span *ngIf="m.isPrincipale" class="badge">Principale</span>
+        </li>
+        <li *ngIf="!selectedDetail.masters.length">Nessun master ancora assegnato.</li>
+      </ul>
+
+      <h4 class="section-title">Aggiungi master</h4>
+      <form class="inline-form" (ngSubmit)="aggiungiMaster()">
+        <select name="masterUserId" [(ngModel)]="masterUserId" required>
+          <option value="" disabled selected>Seleziona utente</option>
+          <option *ngFor="let u of users" [value]="u.id">{{ u.nickname || u.email }} ({{ u.role }})</option>
+        </select>
+        <label class="checkbox-label">
+          <input type="checkbox" name="masterIsPrincipale" [(ngModel)]="masterIsPrincipale" />
+          Principale
+        </label>
+        <button type="submit">Aggiungi</button>
+      </form>
+      <p class="error" *ngIf="masterError">{{ masterError }}</p>
+
+      <h4 class="section-title">Campagne</h4>
+      <ul class="plain-list">
+        <li *ngFor="let c of selectedDetail.campagne">{{ c.nome }} ({{ c.slug }})</li>
+        <li *ngIf="!selectedDetail.campagne.length">Nessuna campagna ancora avviata.</li>
+      </ul>
+
+    </div>
+
+  </div>
+</div>

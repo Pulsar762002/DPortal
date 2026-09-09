@@ -1,0 +1,44 @@
+<div class="personaggi-page-container">
+
+  <div class="page-header">
+    <h1 class="page-title">Personaggi – Le Cronache dell'Averno</h1>
+  </div>
+
+  <div class="personaggi-layout">
+
+    <!-- ===== SIDEBAR INDICE ===== -->
+    <nav class="sidebar">
+      <p class="sidebar-titolo">Categorie</p>
+      <a
+        *ngFor="let s of sezioni"
+        class="sidebar-link"
+        [href]="'#' + s.anchor"
+        (click)="scrollTo($event, s.anchor)">
+        {{ s.label }}
+      </a>
+    </nav>
+
+    <!-- ===== CONTENUTO ===== -->
+    <div class="main-content">
+
+      <section id="principali">
+        <app-principali></app-principali>
+      </section>
+
+      <section id="alleati">
+        <app-alleati></app-alleati>
+      </section>
+
+      <section id="secondari">
+        <app-secondari></app-secondari>
+      </section>
+
+      <section id="minori">
+        <app-minori></app-minori>
+      </section>
+
+    </div>
+
+  </div>
+
+</div>
