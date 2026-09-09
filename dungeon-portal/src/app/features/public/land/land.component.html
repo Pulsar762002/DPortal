@@ -1,1 +1,16 @@
-<p>land works!</p>
+<div class="land-section">
+
+  <div class="page-header">
+    <h1 class="page-title">Land</h1>
+    <p class="page-intro">I mondi condivisi del portale</p>
+  </div>
+
+  <div class="land-card" *ngFor="let l of lands">
+    <h2>
+      <a [routerLink]="['/land', l.slug]">{{ l.nome }}</a>
+    </h2>
+  </div>
+
+  <p *ngIf="!lands.length">Nessuna Land ancora disponibile.</p>
+
+</div>

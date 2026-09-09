@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import { ChangeDetectorRef, Component, OnInit } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { HttpClient } from '@angular/common/http';
 import { environment } from '../../../../environments/environment';
@@ -21,19 +21,22 @@ export class UsersComponent implements OnInit {
   pendingRole: string | null = null;
   showEditModal = false;
   showEditDialog = false;
+  showDeleteConfirm = false;
   selectedUser: any = null;
 
 
-  constructor(private http: HttpClient) {}
+  constructor(private http: HttpClient, private cdr: ChangeDetectorRef) {}
 
   ngOnInit() {
-    console.log('Eccomi');
     this.loadUsers();
   }
 
   loadUsers() {
     this.http.get<any[]>(`${this.apiUrl}/api/admin/users`)
-      .subscribe(data => this.users = data);
+      .subscribe(data => {
+        this.users = data;
+        this.cdr.detectChanges();
+      });
   }
 
   changeRole(user: any, role: string) {
@@ -42,6 +45,7 @@ export class UsersComponent implements OnInit {
       {}
     ).subscribe(() => {
       user.role = role;
+      this.cdr.detectChanges();
     });
   }
 
@@ -60,6 +64,7 @@ export class UsersComponent implements OnInit {
     ).subscribe(() => {
       this.pendingUser.role = this.pendingRole;
       this.showConfirm = false;
+      this.cdr.detectChanges();
     });
   }
 
@@ -78,8 +83,48 @@ export class UsersComponent implements OnInit {
       Object.assign(this.selectedUser, updatedData);
 
       this.showEditDialog = false;
+      this.cdr.detectChanges();
     });
   }
 
+  toggleActive(user: any) {
+    const isActive = !user.isActive;
+
+    this.http.put(
+      `${this.apiUrl}/api/admin/users/${user.id}/status`,
+      { isActive }
+    ).subscribe({
+      next: () => {
+        user.isActive = isActive;
+        this.cdr.detectChanges();
+      },
+      error: err => alert(err?.error?.message ?? 'Operazione non riuscita')
+    });
+  }
+
+  requestDelete(user: any) {
+    this.pendingUser = user;
+    this.pendingRole = null;
+    this.showDeleteConfirm = true;
+  }
+
+  confirmDelete() {
+    if (!this.pendingUser) return;
+
+    this.http.delete(
+      `${this.apiUrl}/api/admin/users/${this.pendingUser.id}`
+    ).subscribe({
+      next: () => {
+        this.users = this.users.filter(u => u.id !== this.pendingUser.id);
+        this.showDeleteConfirm = false;
+        this.cdr.detectChanges();
+      },
+      error: err => {
+        alert(err?.error?.message ?? 'Impossibile eliminare l\'utente');
+        this.showDeleteConfirm = false;
+        this.cdr.detectChanges();
+      }
+    });
+  }
 
 }

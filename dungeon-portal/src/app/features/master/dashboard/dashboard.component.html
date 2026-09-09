@@ -6,11 +6,95 @@
   </div>
 
   <div class="campagna-card" *ngFor="let campagna of campagne">
-    <h2>{{ campagna.nome }}</h2>
-    <div class="campagna-azioni">
-      <a [routerLink]="['/dashboard/campagne', campagna.slug, 'archivi']">Editor Archivi</a>
-      <a [routerLink]="['/dashboard/campagne', campagna.slug, 'sessioni']">Editor Sessioni</a>
-    </div>
+
+    <ng-container *ngIf="editingSlug !== campagna.slug; else formModifica">
+      <h2>{{ campagna.nome }}</h2>
+      <div class="campagna-azioni">
+        <a [routerLink]="['/dashboard/campagne', campagna.slug, 'archivi']">Editor Archivi</a>
+        <a [routerLink]="['/dashboard/campagne', campagna.slug, 'sessioni']">Editor Sessioni</a>
+        <button type="button" class="modifica-btn" (click)="apriModifica(campagna)">Modifica</button>
+        <button type="button" class="elimina-btn" (click)="richiediEliminazione(campagna)">Elimina</button>
+      </div>
+    </ng-container>
+
+    <ng-template #formModifica>
+      <h3 class="section-title">Modifica campagna</h3>
+      <form class="modifica-form" (ngSubmit)="salvaModifica()">
+
+        <label class="campo">
+          <span>Nome</span>
+          <input name="editNome" [(ngModel)]="editNome" required />
+        </label>
+
+        <label class="campo">
+          <span>Descrizione <small>(riga vuota = nuovo paragrafo)</small></span>
+          <textarea name="editDescrizione" [(ngModel)]="editDescrizione" rows="6"></textarea>
+        </label>
+
+        <div class="anteprima-testo" *ngIf="paragrafiAnteprima(editDescrizione) as ps">
+          <p *ngFor="let p of ps; let first = first; let last = last"
+             [class.intro]="first"
+             [class.final]="last && ps.length > 1">
+            {{ p }}
+          </p>
+        </div>
+
+        <label class="campo">
+          <span>URL immagine di copertina <small>(oppure carica un file qui sotto)</small></span>
+          <input name="editImmagineUrl" [(ngModel)]="editImmagineUrl" placeholder="https://..." />
+        </label>
+
+        <label class="campo">
+          <span>Carica immagine dal computer</span>
+          <input type="file" accept="image/png,image/jpeg,image/gif,image/webp" (change)="caricaImmagine($event)" [disabled]="caricandoImmagine" />
+        </label>
+        <p class="caricamento" *ngIf="caricandoImmagine">Caricamento in corso...</p>
+
+        <img *ngIf="editImmagineUrl" [src]="editImmagineUrl" class="anteprima-immagine" alt="Anteprima immagine campagna" />
+
+        <div class="modifica-azioni">
+          <button type="submit">Salva</button>
+          <button type="button" class="annulla-btn" (click)="annullaModifica()">Annulla</button>
+        </div>
+
+        <p class="error" *ngIf="modificaError">{{ modificaError }}</p>
+      </form>
+    </ng-template>
+
+  </div>
+
+  <p class="success" *ngIf="modificaSalvataggio">Campagna aggiornata.</p>
+  <p class="error" *ngIf="eliminaError">{{ eliminaError }}</p>
+
+  <div class="nuova-campagna">
+    <h3 class="section-title">Nuova campagna</h3>
+    <form class="inline-form" (ngSubmit)="creaCampagna()">
+      <input name="newSlug" [(ngModel)]="newSlug" placeholder="slug (es. discesa-averno)" required />
+      <input name="newNome" [(ngModel)]="newNome" placeholder="Nome" required />
+      <textarea name="newDescrizione" [(ngModel)]="newDescrizione" placeholder="Descrizione (opzionale, righe vuote separano i paragrafi)" rows="4"></textarea>
+      <input name="newImmagineUrl" [(ngModel)]="newImmagineUrl" placeholder="URL immagine di copertina (opzionale)" />
+
+      <select name="newLandId" [(ngModel)]="newLandId">
+        <option value="">Nessuna Land</option>
+        <option *ngFor="let l of lands" [value]="l.id">{{ l.nome }}</option>
+      </select>
+
+      <select *ngIf="isAdmin" name="newMasterUserId" [(ngModel)]="newMasterUserId" required>
+        <option value="" disabled selected>Master</option>
+        <option *ngFor="let u of adminUsers" [value]="u.id">{{ u.nickname || u.email }}</option>
+      </select>
+
+      <button type="submit">Crea campagna</button>
+    </form>
+    <p class="error" *ngIf="creaError">{{ creaError }}</p>
   </div>
 
 </div>
+
+<app-confirm-dialog
+  *ngIf="showDeleteConfirm"
+  [title]="'Elimina campagna'"
+  [message]="'Sei sicuro di voler eliminare definitivamente \'' + pendingDelete?.nome + '\'? L\'operazione non è reversibile (i contenuti di sessioni/archivi su disco non vengono cancellati).'"
+  (confirmed)="confermaEliminazione()"
+  (closed)="showDeleteConfirm = false; pendingDelete = null">
+</app-confirm-dialog>

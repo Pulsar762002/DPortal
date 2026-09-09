@@ -103,4 +103,33 @@
   opacity: 0.9;
 }
 
+.action-buttons button.toggle {
+  background: #6d6d6d;
+  color: white;
+}
+
+.action-buttons button.delete {
+  background: #7a1f1f;
+  color: white;
+}
+
+/* STATUS BADGE */
+
+.status-badge {
+  padding: 4px 10px;
+  border-radius: 8px;
+  font-size: 12px;
+  font-weight: 500;
+  text-transform: uppercase;
+}
+
+.status-badge.active {
+  background: #2e7d32;
+}
+
+.status-badge.inactive {
+  background: #555;
+  opacity: 0.7;
+}
+
 

@@ -9,6 +9,7 @@
         <th>Email</th>
         <th>Nickname</th>
         <th>Ruolo</th>
+        <th>Stato</th>
         <th>Azioni</th>
       </tr>
       </thead>
@@ -26,11 +27,21 @@
         </td>
 
         <td>
+            <span class="status-badge" [ngClass]="user.isActive ? 'active' : 'inactive'">
+              {{ user.isActive ? 'Attivo' : 'Disabilitato' }}
+            </span>
+        </td>
+
+        <td>
           <div class="action-buttons">
             <button class="user" (click)="requestRoleChange(user, 'USER')">User</button>
             <button class="master" (click)="requestRoleChange(user, 'MASTER')">Master</button>
             <button class="admin" (click)="requestRoleChange(user, 'ADMIN')">Admin</button>
             <button (click)="openEdit(user)">Modifica</button>
+            <button class="toggle" (click)="toggleActive(user)">
+              {{ user.isActive ? 'Disabilita' : 'Abilita' }}
+            </button>
+            <button class="delete" (click)="requestDelete(user)">Elimina</button>
           </div>
         </td>
 
@@ -53,3 +64,10 @@
   (saved)="handleSave($event)"
   (closed)="showEditDialog = false">
 </app-edit-user-dialog>
+<app-confirm-dialog
+  *ngIf="showDeleteConfirm"
+  [title]="'Elimina Utente'"
+  [message]="'Sei sicuro di voler eliminare definitivamente ' + pendingUser?.email + '? L\'operazione non è reversibile.'"
+  (confirmed)="confirmDelete()"
+  (closed)="showDeleteConfirm = false">
+</app-confirm-dialog>

@@ -1,13 +1,14 @@
 import { HttpErrorResponse, HttpInterceptorFn } from '@angular/common/http';
-import { inject } from '@angular/core';
+import { ApplicationRef, inject } from '@angular/core';
 import { Router } from '@angular/router';
-import { catchError, throwError } from 'rxjs';
+import { catchError, finalize, throwError } from 'rxjs';
 import { AuthService } from './auth.service';
 
 export const authInterceptor: HttpInterceptorFn = (req, next) => {
 
   const router = inject(Router);
   const authService = inject(AuthService);
+  const appRef = inject(ApplicationRef);
 
   // localStorage non esiste lato server (SSR/prerender): senza questa guardia
   // l'interceptor lancia e ogni richiesta HTTP fallisce durante il render server.
@@ -31,6 +32,10 @@ export const authInterceptor: HttpInterceptorFn = (req, next) => {
         authService.logout(router.url);
       }
       return throwError(() => err);
-    })
+    }),
+    // App zoneless: senza questo, i componenti che assegnano il risultato di
+    // subscribe() a un campo normale (non signal) restano non ridisegnati
+    // finché un altro evento (es. un click) non forza un nuovo giro di CD.
+    finalize(() => appRef.tick())
   );
 };

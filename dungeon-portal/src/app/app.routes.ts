@@ -172,6 +172,13 @@ export const routes: Routes = [
             .then(m => m.LandComponent),
       },
       {
+        path: 'land/:slug',
+        canActivate: [authGuard],
+        loadComponent: () =>
+          import('./features/public/land/land-detail/land-detail.component')
+            .then(m => m.LandDetailComponent),
+      },
+      {
         path: 'profile',
         canActivate: [authGuard],
         loadComponent: () =>
@@ -187,6 +194,16 @@ export const routes: Routes = [
         loadComponent: () =>
           import('./features/admin/users/users.component')
             .then(m => m.UsersComponent),
+      },
+      {
+        path: 'admin/land',
+        canActivate: [
+          authGuard,
+          roleGuard([ROLES.Admin])
+        ],
+        loadComponent: () =>
+          import('./features/admin/land/admin-land.component')
+            .then(m => m.AdminLandComponent),
       },
 
     ]

@@ -1,53 +1,35 @@
 <div class="campaign-section">
 
-  <div class="campaign-card">
+  <!-- Campagne registrate via Land/Campagna (API-driven) -->
+  <div class="campaign-card" *ngFor="let c of campagne">
 
     <div class="campaign-header">
-      <h2>Discesa nell'Averno</h2>
+      <h2>{{ c.nome }}</h2>
     </div>
 
     <div class="campaign-content">
-
-      <div class="campaign-text">
-        <p class="intro">
-          Non c’è eroe senza colpa, né inferno senza memoria.
+      <div class="campaign-text" *ngIf="paragrafi(c.descrizione) as ps">
+        <p *ngFor="let p of ps; let first = first; let last = last"
+           [class.intro]="first"
+           [class.final]="last && ps.length > 1">
+          {{ p }}
         </p>
-
-        <p>
-          Baldur’s Gate è sull’orlo del caos, logorata da vizi e ambizione.
-          Le voci parlano di Elturel, la città perduta, trascinata giù in un lampo
-          di luce rovesciata. Le autorità negano, i chierici tacciono,
-          e il popolo trema.
-        </p>
-
-        <p>
-          Ma la verità è più terribile di quanto chiunque osi ammettere:
-          l’Averno ha aperto le sue porte, e presto le fiamme lambiranno
-          anche la superficie.
-        </p>
+        <p *ngIf="ps.length === 0" class="descrizione">Una nuova cronaca sta per iniziare.</p>
 
         <p class="final">
-          La discesa è cominciata… Benvenuti all’Inferno.
-        </p>
-
-        <p class="final">
-          <a [routerLink]="['/campagne', 'discesa-averno']"
-             (click)="test()"
-             class="chronicles-button">
+          <a [routerLink]="['/campagne', c.slug]" class="chronicles-button">
             Vai alle cronache
           </a>
         </p>
       </div>
 
-      <div class="campaign-party">
-        <img src="/assets/data/ikaros/campagne/discesa-averno/avernus-party.jpg" alt="Party Discesa nell'Averno">
+      <div class="campaign-party" *ngIf="c.immagineUrl">
+        <img [src]="c.immagineUrl" [alt]="'Immagine campagna ' + c.nome">
       </div>
-
     </div>
 
     <div class="campaign-footer">
-      Master:
-      <a routerLink="/masters/ikaros">&#64;Ikaros</a>
+      Master: &#64;{{ c.masterNickname }}
     </div>
 
   </div>
