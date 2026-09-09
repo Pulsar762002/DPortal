@@ -20,6 +20,7 @@ public static class AuthEndpoints
                 .FirstOrDefaultAsync(u => u.Email == request.Email);
 
             if (user == null ||
+                !user.IsActive ||
                 !BCrypt.Net.BCrypt.Verify(request.Password, user.PasswordHash))
                 return Results.Unauthorized();
 

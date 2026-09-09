@@ -1,3 +1,4 @@
+using System.Security.Claims;
 using DungeonPortal.Api.Models.Requests;
 using DungeonPortal.Api.Services;
 
@@ -39,6 +40,8 @@ public static class ArchivioEndpoints
         archivi.MapPost("/{campagna}/cartelle", async (
             string campagna,
             CreaCartellaRequest request,
+            ClaimsPrincipal claims,
+            CampagnaOwnershipService ownership,
             ArchivioStorageService storage) =>
         {
             if (!IsValidSegment(campagna))
@@ -46,6 +49,9 @@ public static class ArchivioEndpoints
 
             if (request.CartellaParentId != null && !IsValidSegment(request.CartellaParentId))
                 return Results.BadRequest();
+
+            if (!await ownership.CanWriteAsync(claims, campagna))
+                return Results.Forbid();
 
             var cartella = await storage.CreaCartellaAsync(campagna, request.Nome, request.CartellaParentId);
             return cartella is null ? Results.NotFound() : Results.Ok(cartella);
@@ -55,10 +61,15 @@ public static class ArchivioEndpoints
             string campagna,
             string cartellaId,
             RinominaCartellaRequest request,
+            ClaimsPrincipal claims,
+            CampagnaOwnershipService ownership,
             ArchivioStorageService storage) =>
         {
             if (!IsValidSegment(campagna) || !IsValidSegment(cartellaId))
                 return Results.BadRequest();
+
+            if (!await ownership.CanWriteAsync(claims, campagna))
+                return Results.Forbid();
 
             var ok = await storage.RinominaCartellaAsync(campagna, cartellaId, request.Nome);
             return ok ? Results.Ok() : Results.NotFound();
@@ -67,10 +78,15 @@ public static class ArchivioEndpoints
         archivi.MapDelete("/{campagna}/cartelle/{cartellaId}", async (
             string campagna,
             string cartellaId,
+            ClaimsPrincipal claims,
+            CampagnaOwnershipService ownership,
             ArchivioStorageService storage) =>
         {
             if (!IsValidSegment(campagna) || !IsValidSegment(cartellaId))
                 return Results.BadRequest();
+
+            if (!await ownership.CanWriteAsync(claims, campagna))
+                return Results.Forbid();
 
             var ok = await storage.EliminaCartellaAsync(campagna, cartellaId);
             return ok ? Results.Ok() : Results.NotFound();
@@ -80,10 +96,15 @@ public static class ArchivioEndpoints
             string campagna,
             string cartellaId,
             CreaVoceRequest request,
+            ClaimsPrincipal claims,
+            CampagnaOwnershipService ownership,
             ArchivioStorageService storage) =>
         {
             if (!IsValidSegment(campagna) || !IsValidSegment(cartellaId))
                 return Results.BadRequest();
+
+            if (!await ownership.CanWriteAsync(claims, campagna))
+                return Results.Forbid();
 
             var voce = await storage.CreaVoceAsync(campagna, cartellaId, request.Titolo, request.Blocks);
             return voce is null ? Results.NotFound() : Results.Ok(voce);
@@ -93,10 +114,15 @@ public static class ArchivioEndpoints
             string campagna,
             string voceId,
             AggiornaVoceRequest request,
+            ClaimsPrincipal claims,
+            CampagnaOwnershipService ownership,
             ArchivioStorageService storage) =>
         {
             if (!IsValidSegment(campagna) || !IsValidSegment(voceId))
                 return Results.BadRequest();
+
+            if (!await ownership.CanWriteAsync(claims, campagna))
+                return Results.Forbid();
 
             var ok = await storage.AggiornaVoceAsync(campagna, voceId, request.Titolo, request.Blocks);
             return ok ? Results.Ok() : Results.NotFound();
@@ -105,10 +131,15 @@ public static class ArchivioEndpoints
         archivi.MapDelete("/{campagna}/voci/{voceId}", async (
             string campagna,
             string voceId,
+            ClaimsPrincipal claims,
+            CampagnaOwnershipService ownership,
             ArchivioStorageService storage) =>
         {
             if (!IsValidSegment(campagna) || !IsValidSegment(voceId))
                 return Results.BadRequest();
+
+            if (!await ownership.CanWriteAsync(claims, campagna))
+                return Results.Forbid();
 
             var ok = await storage.EliminaVoceAsync(campagna, voceId);
             return ok ? Results.Ok() : Results.NotFound();
@@ -117,10 +148,15 @@ public static class ArchivioEndpoints
         archivi.MapPost("/{campagna}/immagini", async (
             string campagna,
             IFormFile? file,
+            ClaimsPrincipal claims,
+            CampagnaOwnershipService ownership,
             ArchivioStorageService storage) =>
         {
             if (!IsValidSegment(campagna))
                 return Results.BadRequest();
+
+            if (!await ownership.CanWriteAsync(claims, campagna))
+                return Results.Forbid();
 
             if (file is null || file.Length == 0)
                 return Results.BadRequest("Nessun file ricevuto.");

@@ -3,6 +3,7 @@ using System;
 using DungeonPortal.Api.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 
@@ -11,9 +12,11 @@ using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 namespace Dungeon_Portal_Api.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    partial class AppDbContextModelSnapshot : ModelSnapshot
+    [Migration("20260908134112_AddLandAndCampagna")]
+    partial class AddLandAndCampagna
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -32,14 +35,10 @@ namespace Dungeon_Portal_Api.Migrations
                         .HasColumnType("timestamp with time zone");
 
                     b.Property<string>("Descrizione")
-                        .HasMaxLength(4000)
-                        .HasColumnType("character varying(4000)");
+                        .HasMaxLength(1000)
+                        .HasColumnType("character varying(1000)");
 
-                    b.Property<string>("ImmagineUrl")
-                        .HasMaxLength(500)
-                        .HasColumnType("character varying(500)");
-
-                    b.Property<Guid?>("LandId")
+                    b.Property<Guid>("LandId")
                         .HasColumnType("uuid");
 
                     b.Property<Guid>("MasterUserId")
@@ -186,7 +185,8 @@ namespace Dungeon_Portal_Api.Migrations
                     b.HasOne("DungeonPortal.Api.Models.Land", "Land")
                         .WithMany("Campagne")
                         .HasForeignKey("LandId")
-                        .OnDelete(DeleteBehavior.Restrict);
+                        .OnDelete(DeleteBehavior.Restrict)
+                        .IsRequired();
 
                     b.HasOne("DungeonPortal.Api.Models.User", "MasterUser")
                         .WithMany()

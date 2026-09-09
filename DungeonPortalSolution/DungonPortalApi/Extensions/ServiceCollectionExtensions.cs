@@ -64,6 +64,8 @@ public static class ServiceCollectionExtensions
         services.AddScoped<AvatarService>();
         services.AddScoped<ArchivioStorageService>();
         services.AddScoped<SessioneStorageService>();
+        services.AddScoped<CampagnaOwnershipService>();
+        services.AddScoped<CampagnaImmagineStorageService>();
 
         services.AddEndpointsApiExplorer();
         services.AddSwaggerGen();

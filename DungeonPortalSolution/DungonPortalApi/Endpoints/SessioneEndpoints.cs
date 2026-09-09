@@ -1,3 +1,4 @@
+using System.Security.Claims;
 using DungeonPortal.Api.Models.Requests;
 using DungeonPortal.Api.Services;
 
@@ -38,10 +39,15 @@ public static class SessioneEndpoints
         sessioni.MapPost("/{campagna}/elenco/voci", async (
             string campagna,
             CreaSessioneRequest request,
+            ClaimsPrincipal claims,
+            CampagnaOwnershipService ownership,
             SessioneStorageService storage) =>
         {
             if (!IsValidSegment(campagna))
                 return Results.BadRequest();
+
+            if (!await ownership.CanWriteAsync(claims, campagna))
+                return Results.Forbid();
 
             return Results.Ok(await storage.CreaSessioneAsync(campagna, request.Label));
         }).RequireAuthorization(policy => policy.RequireRole("MASTER", "ADMIN"));
@@ -50,10 +56,15 @@ public static class SessioneEndpoints
             string campagna,
             int sessionNumber,
             AggiornaVoceElencoRequest request,
+            ClaimsPrincipal claims,
+            CampagnaOwnershipService ownership,
             SessioneStorageService storage) =>
         {
             if (!IsValidSegment(campagna))
                 return Results.BadRequest();
+
+            if (!await ownership.CanWriteAsync(claims, campagna))
+                return Results.Forbid();
 
             var ok = await storage.AggiornaVoceElencoAsync(campagna, sessionNumber, request.Label, request.Visible);
             return ok ? Results.Ok() : Results.NotFound();
@@ -62,10 +73,15 @@ public static class SessioneEndpoints
         sessioni.MapDelete("/{campagna}/elenco/voci/{sessionNumber:int}", async (
             string campagna,
             int sessionNumber,
+            ClaimsPrincipal claims,
+            CampagnaOwnershipService ownership,
             SessioneStorageService storage) =>
         {
             if (!IsValidSegment(campagna))
                 return Results.BadRequest();
+
+            if (!await ownership.CanWriteAsync(claims, campagna))
+                return Results.Forbid();
 
             var ok = await storage.EliminaSessioneAsync(campagna, sessionNumber);
             return ok ? Results.Ok() : Results.NotFound();
@@ -87,10 +103,15 @@ public static class SessioneEndpoints
             string campagna,
             int sessionNumber,
             AggiornaSessioneRequest request,
+            ClaimsPrincipal claims,
+            CampagnaOwnershipService ownership,
             SessioneStorageService storage) =>
         {
             if (!IsValidSegment(campagna))
                 return Results.BadRequest();
+
+            if (!await ownership.CanWriteAsync(claims, campagna))
+                return Results.Forbid();
 
             var ok = await storage.AggiornaSessioneAsync(campagna, sessionNumber, request.Title, request.VideoId, request.Chapters);
             return ok ? Results.Ok() : Results.NotFound();
@@ -99,10 +120,15 @@ public static class SessioneEndpoints
         sessioni.MapPost("/{campagna}/immagini", async (
             string campagna,
             IFormFile? file,
+            ClaimsPrincipal claims,
+            CampagnaOwnershipService ownership,
             SessioneStorageService storage) =>
         {
             if (!IsValidSegment(campagna))
                 return Results.BadRequest();
+
+            if (!await ownership.CanWriteAsync(claims, campagna))
+                return Results.Forbid();
 
             if (file is null || file.Length == 0)
                 return Results.BadRequest("Nessun file ricevuto.");

@@ -7,3 +7,5 @@ public record AdminUpdateUserRequest(
     string Role,
     string? Password
 );
+
+public record UpdateUserStatusRequest(bool IsActive);

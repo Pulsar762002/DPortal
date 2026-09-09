@@ -1,3 +1,4 @@
+using System.Security.Claims;
 using DungeonPortal.Api.Data;
 using DungeonPortal.Api.Models.Requests;
 using Microsoft.EntityFrameworkCore;
@@ -21,7 +22,8 @@ public static class AdminEndpoints
                     u.Id,
                     u.Email,
                     u.Nickname,
-                    u.Role
+                    u.Role,
+                    u.IsActive
                 })
                 .ToListAsync();
 
@@ -80,6 +82,53 @@ public static class AdminEndpoints
                 user.PasswordHash = BCrypt.Net.BCrypt.HashPassword(request.Password);
             }
 
+            await db.SaveChangesAsync();
+
+            return Results.Ok();
+        });
+
+        admin.MapPut("/users/{id:guid}/status", async (
+            Guid id,
+            UpdateUserStatusRequest request,
+            ClaimsPrincipal claims,
+            AppDbContext db) =>
+        {
+            var callerId = claims.FindFirstValue(ClaimTypes.NameIdentifier);
+            if (callerId is not null && Guid.Parse(callerId) == id)
+                return Results.BadRequest(new { message = "Non puoi abilitare/disabilitare te stesso" });
+
+            var user = await db.Users.FindAsync(id);
+            if (user == null)
+                return Results.NotFound();
+
+            user.IsActive = request.IsActive;
+            await db.SaveChangesAsync();
+
+            return Results.Ok();
+        });
+
+        admin.MapDelete("/users/{id:guid}", async (
+            Guid id,
+            ClaimsPrincipal claims,
+            AppDbContext db) =>
+        {
+            var callerId = claims.FindFirstValue(ClaimTypes.NameIdentifier);
+            if (callerId is not null && Guid.Parse(callerId) == id)
+                return Results.BadRequest(new { message = "Non puoi eliminare te stesso" });
+
+            var user = await db.Users.FindAsync(id);
+            if (user == null)
+                return Results.NotFound();
+
+            var isMasterDiCampagna = await db.Campagne.AnyAsync(c => c.MasterUserId == id);
+            var isMasterDiLand = await db.LandMasters.AnyAsync(m => m.UserId == id);
+            if (isMasterDiCampagna || isMasterDiLand)
+                return Results.BadRequest(new
+                {
+                    message = "Questo utente è master di una o più campagne/Land: rimuovilo da lì prima di eliminarlo"
+                });
+
+            db.Users.Remove(user);
             await db.SaveChangesAsync();
 
             return Results.Ok();

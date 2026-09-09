@@ -1,0 +1,15 @@
+{
+  "sections": [
+    {
+      "title": "I. Sessioni",
+      "type": "sessions",
+      "items": [
+        {
+          "label": "Sessione 1",
+          "sessionNumber": 1,
+          "visible": false
+        }
+      ]
+    }
+  ]
+}

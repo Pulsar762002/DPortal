@@ -42,6 +42,8 @@ docker-compose.yml_back
 *.jpg
 !dungeon-portal/src/**/*.png
 !dungeon-portal/src/**/*.jpg
+!DungeonPortalSolution/**/*.png
+!DungeonPortalSolution/**/*.jpg
 
 # Build output frontend
 dungeon-portal/dist/
