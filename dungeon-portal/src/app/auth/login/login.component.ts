@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import { ChangeDetectorRef, Component } from '@angular/core';
 import { AuthService } from '../../core/services/auth.service';
 import { Router, RouterLink, ActivatedRoute } from '@angular/router';
 import { FormsModule } from '@angular/forms';
@@ -20,20 +20,20 @@ export class LoginComponent {
   constructor(
     private authService: AuthService,
     private router: Router,
-    private route: ActivatedRoute
+    private route: ActivatedRoute,
+    private cdr: ChangeDetectorRef
   ) {}
 
   onLogin() {
     this.authService.login(this.email, this.password).subscribe({
       next: () => {
-
         const returnUrl =
           this.route.snapshot.queryParamMap.get('returnUrl') || '/';
-          console.log(returnUrl);
         this.router.navigateByUrl(returnUrl);
       },
       error: () => {
         this.error = 'Credenziali non valide';
+        this.cdr.detectChanges();
       }
     });
   }

@@ -1,5 +1,75 @@
 {
   "id": "ccfc6add13264853be0db17513fe5806",
   "titolo": "La Guerra del Sangue",
-  "blocks": []
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Vi sono guerre che durano anni, guerre che durano secoli, e poi vi \u00E8 la Guerra di Sangue."
+    },
+    {
+      "type": "paragraph",
+      "text": "Nessun mortale ricorda il giorno in cui ebbe inizio. Alcuni saggi sostengono che fosse gi\u00E0 in corso quando le prime stelle furono accese dagli d\u00E8i; altri affermano che nacque insieme al primo atto di malvagit\u00E0 compiuto nell\u0027universo. Qualunque sia la verit\u00E0, una cosa \u00E8 certa: il fragore delle sue battaglie non ha mai cessato di riecheggiare attraverso i piani dell\u0027esistenza.\n"
+    },
+    {
+      "type": "paragraph",
+      "text": "L\u00E0 dove il cielo non conosce sole e la terra \u00E8 fatta di cenere e ossa, le legioni infernali marciano senza sosta. Dai profondi abissi del caos emergono i demoni, creature generate dalla furia primordiale della distruzione. Essi non desiderano regni da governare n\u00E9 tesori da accumulare. Desiderano soltanto consumare, annientare e ridurre ogni cosa al nulla.\n"
+    },
+    {
+      "type": "paragraph",
+      "text": "Contro di loro si schierano i diavoli dei Nove Inferi. Non meno crudeli dei loro nemici, essi combattono con disciplina e metodo. Le loro armate avanzano in ranghi ordinati, guidate da generali immortali che pianificano campagne destinate a protrarsi per millenni. Dove i demoni sono una tempesta, i diavoli sono una fortezza.\n"
+    },
+    {
+      "type": "paragraph",
+      "text": "Tra queste due potenze si estende un campo di battaglia pi\u00F9 vasto di qualsiasi mondo mortale. Interi piani vengono devastati, fiumi di anime scorrono verso il fronte e citt\u00E0 infernali sorgono e cadono nel tempo necessario a un mortale per nascere e morire."
+    },
+    {
+      "type": "paragraph",
+      "text": "Eppure la tragedia pi\u00F9 grande non appartiene n\u00E9 ai demoni n\u00E9 ai diavoli."
+    },
+    {
+      "type": "paragraph",
+      "text": "Essa appartiene alle anime dei mortali."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ogni giorno, uomini, elfi, nani e innumerevoli altre creature lasciano il mondo dei vivi. Alcuni trovano pace. Altri vengono trascinati nei Piani Inferiori, dove diventano materia prima per la guerra. Forgiati nuovamente in forme mostruose, privati dei ricordi e dell\u0027identit\u00E0, vengono gettati nelle battaglie senza fine che alimentano il conflitto."
+    },
+    {
+      "type": "paragraph",
+      "text": "Molti eroi hanno sognato di porre termine a questa guerra."
+    },
+    {
+      "type": "paragraph",
+      "text": "Nessuno vi \u00E8 riuscito."
+    },
+    {
+      "type": "paragraph",
+      "text": "Perch\u00E9 la pi\u00F9 terribile delle verit\u00E0 \u00E8 custodita dagli arcimaghi e dagli d\u00E8i stessi: la Guerra di Sangue potrebbe essere necessaria.\n"
+    },
+    {
+      "type": "paragraph",
+      "text": "Se i diavoli ottenessero la vittoria, le loro legioni, finalmente libere dal nemico ancestrale, rivolgerebbero lo sguardo verso i mondi mortali. Se fossero invece i demoni a prevalere, il caos dell\u0027Abisso si riverserebbe come un\u0027inondazione su ogni piano dell\u0027esistenza.\n"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cos\u00EC il multiverso rimane sospeso su una lama affilata.\n"
+    },
+    {
+      "type": "paragraph",
+      "text": "Milioni muoiono affinch\u00E9 nessuno vinca."
+    },
+    {
+      "type": "paragraph",
+      "text": "E mentre i mortali trascorrono le loro brevi vite ignari di tutto ci\u00F2, oltre il velo della realt\u00E0 le trombe infernali continuano a suonare."
+    },
+    {
+      "type": "paragraph",
+      "text": "La Guerra di Sangue infuria ancora."
+    },
+    {
+      "type": "quote",
+      "text": "E probabilmente infurier\u00E0 fino all\u0027ultimo giorno della creazione.\n",
+      "author": "Zevlor"
+    }
+  ]
 }

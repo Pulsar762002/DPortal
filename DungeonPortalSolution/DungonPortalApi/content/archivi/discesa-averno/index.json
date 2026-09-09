@@ -12,7 +12,24 @@
               "id": "cc20f13c12234709a2dd30bf900bda23",
               "nome": "Famiglia",
               "sottocartelle": [],
-              "voci": []
+              "voci": [
+                {
+                  "id": "57a36e54bb22476c86ce6b723f43ffea",
+                  "titolo": "Barone Vassander Thorn Nodorovo"
+                },
+                {
+                  "id": "3ca9fb0fcacd47fa9314a06abea0b042",
+                  "titolo": "Lady Seraphine Lirael Nodorovo"
+                },
+                {
+                  "id": "db06b6ba181846979d6c20faa3b6dece",
+                  "titolo": "Dorian Thorn Nodorovo"
+                },
+                {
+                  "id": "4e8dc4875357438ca59a8db757c2c6c9",
+                  "titolo": "Lyssandra Thorn Nodorovo"
+                }
+              ]
             }
           ],
           "voci": [
@@ -24,31 +41,83 @@
         },
         {
           "id": "33fdff620b8843b99689ec8bc38c7f72",
-          "nome": "Terminate",
+          "nome": "QUEST Terminate",
           "sottocartelle": [
             {
               "id": "b5b542e549814f0693d796fdf8337de9",
               "nome": "Mercato Nero",
               "sottocartelle": [],
-              "voci": []
+              "voci": [
+                {
+                  "id": "716aa8c525fe4bc0beb017a70031f821",
+                  "titolo": "Mercato"
+                },
+                {
+                  "id": "297a11445b2f46129f8b3b2cf7113cc2",
+                  "titolo": "Emporio Black"
+                }
+              ]
             },
             {
               "id": "caa33640f4a246b795f41f0388f2ae26",
               "nome": "Porta del Basilisco",
               "sottocartelle": [],
-              "voci": []
+              "voci": [
+                {
+                  "id": "4cd689ce7ee94c9f916a98ec7febb67b",
+                  "titolo": "Porta del Basilisco"
+                }
+              ]
             },
             {
               "id": "0b2e0c12c5104e26805a5e39c4b7935a",
               "nome": "Taverna del canto elfico",
               "sottocartelle": [],
-              "voci": []
+              "voci": [
+                {
+                  "id": "1f2531286cfa425888c98c21015d9396",
+                  "titolo": "Esterno"
+                },
+                {
+                  "id": "2cbafd56ce3841e8a7b1ee28dc4c046c",
+                  "titolo": "Alan Alyth"
+                },
+                {
+                  "id": "97a2fab0f609476998cb6c03098b9637",
+                  "titolo": "Tarina"
+                }
+              ]
             },
             {
               "id": "29f91067ad8746468ff61fa0a26a7b03",
               "nome": "Terme",
-              "sottocartelle": [],
-              "voci": []
+              "sottocartelle": [
+                {
+                  "id": "b71ff9dbb92c4aa78881b47b866e32a6",
+                  "nome": "Massaggiatrici",
+                  "sottocartelle": [],
+                  "voci": [
+                    {
+                      "id": "d5b03f1da1414defbd0e88117d4f450f",
+                      "titolo": "Carmilla (genasi dell\u0027acqua)"
+                    },
+                    {
+                      "id": "cb623856dffe4280b8ae259f2fcbf967",
+                      "titolo": "Jenny"
+                    },
+                    {
+                      "id": "a7b6899d3d2e40fd8024a21d872b8a26",
+                      "titolo": "Anna"
+                    }
+                  ]
+                }
+              ],
+              "voci": [
+                {
+                  "id": "4b2d0bb53b0542bebee643115ecde836",
+                  "titolo": "Aspetto"
+                }
+              ]
             }
           ],
           "voci": []
@@ -61,7 +130,20 @@
               "id": "304c2ef7e3df48808a06a02282909a15",
               "nome": "Villa",
               "sottocartelle": [],
-              "voci": []
+              "voci": [
+                {
+                  "id": "576dd707f00c4043b36c4788702990c4",
+                  "titolo": "Aspetto"
+                },
+                {
+                  "id": "6c86cc2aa5db4656a5b69adc5da501c1",
+                  "titolo": "Oggetti presi"
+                },
+                {
+                  "id": "96bab8d708a04d8e84f7070acf720f9e",
+                  "titolo": "Immagini"
+                }
+              ]
             },
             {
               "id": "5dac0d5313e147dea7fa53434d213348",
@@ -70,7 +152,7 @@
               "voci": [
                 {
                   "id": "379c245f6ef34b948b8a8d3d25025f53",
-                  "titolo": "Lanterna Bassa"
+                  "titolo": "Taverna"
                 }
               ]
             }
@@ -83,12 +165,28 @@
     {
       "id": "15cef83e95724853a4b3ad67728369de",
       "nome": "BG",
-      "sottocartelle": [],
-      "voci": [
+      "sottocartelle": [
         {
-          "id": "84d5953b61634e02b552cacc6c63c44b",
-          "titolo": "Baldur\u0027s Gate"
-        },
+          "id": "0b0eb80cbd0745f4b7ba327e5b2016d1",
+          "nome": "Baldur\u0027s Gate",
+          "sottocartelle": [],
+          "voci": [
+            {
+              "id": "cb9602a9edc64aa6ab373f85bf5c5d0c",
+              "titolo": "Citta\u0027 Alta"
+            },
+            {
+              "id": "821cd6015c9f45e18d18e2611817706b",
+              "titolo": "Citt\u00E0 bassa"
+            },
+            {
+              "id": "0041f3e31b4c4063bbc435f78cdbaef3",
+              "titolo": "Tempio di Helm"
+            }
+          ]
+        }
+      ],
+      "voci": [
         {
           "id": "6c7852cafd574a609c825547ec6d3e10",
           "titolo": "Piazzale"
@@ -134,17 +232,6 @@
         {
           "id": "ccfc6add13264853be0db17513fe5806",
           "titolo": "La Guerra del Sangue"
-        }
-      ]
-    },
-    {
-      "id": "13c516bb7592468e9ea9abcbdecd87c6",
-      "nome": "Test",
-      "sottocartelle": [],
-      "voci": [
-        {
-          "id": "c442564bdedd460a80494b72cf5d2367",
-          "titolo": "test"
         }
       ]
     }

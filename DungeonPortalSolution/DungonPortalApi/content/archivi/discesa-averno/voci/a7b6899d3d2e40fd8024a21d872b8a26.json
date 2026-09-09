@@ -1,0 +1,12 @@
+{
+  "id": "a7b6899d3d2e40fd8024a21d872b8a26",
+  "titolo": "Anna",
+  "blocks": [
+    {
+      "type": "image",
+      "variant": "center",
+      "src": "/api/content/archivi/discesa-averno/immagini/389ed1d7-c216-4c4b-9b53-4ea0f85d8b00.png",
+      "alt": "Figlia di Jenny"
+    }
+  ]
+}

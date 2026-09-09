@@ -1,0 +1,12 @@
+{
+  "id": "96bab8d708a04d8e84f7070acf720f9e",
+  "titolo": "Immagini",
+  "blocks": [
+    {
+      "type": "image",
+      "variant": "center",
+      "src": "/api/content/archivi/discesa-averno/immagini/5678eda3-8916-408c-833f-167bb4fab007.png",
+      "alt": ""
+    }
+  ]
+}

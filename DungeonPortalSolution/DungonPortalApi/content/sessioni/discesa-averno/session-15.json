@@ -1,5 +1,4 @@
 {
-  "$schema": "./session.schema.json",
   "id": 15,
   "title": "Sessione 15",
   "videoId": "st4USmMZo5E",
@@ -10,6 +9,12 @@
       "videoId": "875iosFzlGs",
       "blocks": [
         {
+          "type": "image",
+          "variant": "left-big",
+          "src": "/api/content/sessioni/discesa-averno/immagini/e0999041-a094-4d31-92f2-393c95eadd56.png",
+          "alt": "Taverna Bassa Piano Inferiore"
+        },
+        {
           "type": "paragraph",
           "text": "Il piano inferiore della nave sembrava il riflesso deformato del salone superiore."
         },
@@ -19,15 +24,15 @@
         },
         {
           "type": "paragraph",
-          "text": "Ma tutto appariva più stretto."
+          "text": "Ma tutto appariva pi\u00F9 stretto."
         },
         {
           "type": "paragraph",
-          "text": "Più pesante."
+          "text": "Pi\u00F9 pesante."
         },
         {
           "type": "paragraph",
-          "text": "Come se il legno stesso della nave si fosse contratto attorno a chiunque scendesse abbastanza in profondità da arrivare lì sotto."
+          "text": "Come se il legno stesso della nave si fosse contratto attorno a chiunque scendesse abbastanza in profondit\u00E0 da arrivare l\u00EC sotto."
         },
         {
           "type": "paragraph",
@@ -59,7 +64,7 @@
         },
         {
           "type": "paragraph",
-          "text": "La gente scendeva lì sotto per parlare lontano da orecchie indiscrete."
+          "text": "La gente scendeva l\u00EC sotto per parlare lontano da orecchie indiscrete."
         },
         {
           "type": "paragraph",
@@ -67,7 +72,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Il gruppo avanzò lentamente nel salone."
+          "text": "Il gruppo avanz\u00F2 lentamente nel salone."
         },
         {
           "type": "paragraph",
@@ -75,16 +80,16 @@
         },
         {
           "type": "paragraph",
-          "text": "E mentre attraversavano la sala, Sylvar appoggiò una mano sulla spalla di Aelar e l’altra su Nathan."
+          "text": "E mentre attraversavano la sala, Sylvar appoggi\u00F2 una mano sulla spalla di Aelar e l\u2019altra su Nathan."
         },
         {
           "type": "quote",
-          "text": "«Dai, ragazzi… siamo diventati famosi.»",
+          "text": "\u00ABDai, ragazzi\u2026 siamo diventati famosi.\u00BB",
           "variant": "normal"
         },
         {
           "type": "paragraph",
-          "text": "Un istante dopo, il legame psichico si insinuò silenziosamente tra le loro menti."
+          "text": "Un istante dopo, il legame psichico si insinu\u00F2 silenziosamente tra le loro menti."
         },
         {
           "type": "paragraph",
@@ -96,28 +101,28 @@
         },
         {
           "type": "paragraph",
-          "text": "La voce di Sylvar risuonò direttamente nei loro pensieri."
+          "text": "La voce di Sylvar risuon\u00F2 direttamente nei loro pensieri."
         },
         {
           "type": "quote",
-          "text": "«Mi sentite?»",
+          "text": "\u00ABMi sentite?\u00BB",
           "variant": "normal"
         },
         {
           "type": "paragraph",
-          "text": "Nathan annuì appena."
+          "text": "Nathan annu\u00EC appena."
         },
         {
           "type": "paragraph",
-          "text": "Aelar rispose con un lieve movimento del capo, senza interrompere l’osservazione dell’ambiente."
+          "text": "Aelar rispose con un lieve movimento del capo, senza interrompere l\u2019osservazione dell\u2019ambiente."
         },
         {
           "type": "paragraph",
-          "text": "Dietro il bancone, un Kenku stava lucidando un boccale con uno straccio talmente sporco da sembrare più utile a diffondere il sudiciume che a pulirlo."
+          "text": "Dietro il bancone, un Kenku stava lucidando un boccale con uno straccio talmente sporco da sembrare pi\u00F9 utile a diffondere il sudiciume che a pulirlo."
         },
         {
           "type": "paragraph",
-          "text": "La creatura inclinò appena il capo quando il gruppo passò davanti al bancone."
+          "text": "La creatura inclin\u00F2 appena il capo quando il gruppo pass\u00F2 davanti al bancone."
         },
         {
           "type": "paragraph",
@@ -126,6 +131,12 @@
         {
           "type": "paragraph",
           "text": "Troppo attentamente."
+        },
+        {
+          "type": "image",
+          "variant": "left-big",
+          "src": "/api/content/sessioni/discesa-averno/immagini/73bde1f7-0059-458d-acce-87ee24740045.png",
+          "alt": "La guardia di Elturel"
         },
         {
           "type": "paragraph",
@@ -141,11 +152,11 @@
         },
         {
           "type": "paragraph",
-          "text": "Lo svuotò in un unico movimento."
+          "text": "Lo svuot\u00F2 in un unico movimento."
         },
         {
           "type": "paragraph",
-          "text": "Poi batté il vetro sul bancone."
+          "text": "Poi batt\u00E9 il vetro sul bancone."
         },
         {
           "type": "paragraph",
@@ -153,15 +164,15 @@
         },
         {
           "type": "paragraph",
-          "text": "E si alzò."
+          "text": "E si alz\u00F2."
         },
         {
           "type": "paragraph",
-          "text": "Camminò nella direzione opposta a quella del gruppo senza neppure rallentare."
+          "text": "Cammin\u00F2 nella direzione opposta a quella del gruppo senza neppure rallentare."
         },
         {
           "type": "paragraph",
-          "text": "E nel passare accanto a Sylvar, gli sbatté contro una spalla."
+          "text": "E nel passare accanto a Sylvar, gli sbatt\u00E9 contro una spalla."
         },
         {
           "type": "paragraph",
@@ -173,51 +184,51 @@
         },
         {
           "type": "quote",
-          "text": "«Scusa.»",
+          "text": "\u00ABScusa.\u00BB",
           "variant": "normal"
         },
         {
           "type": "paragraph",
-          "text": "Non si fermò."
+          "text": "Non si ferm\u00F2."
         },
         {
           "type": "paragraph",
-          "text": "Non si voltò."
+          "text": "Non si volt\u00F2."
         },
         {
           "type": "paragraph",
-          "text": "Continuò semplicemente a camminare."
+          "text": "Continu\u00F2 semplicemente a camminare."
         },
         {
           "type": "paragraph",
-          "text": "Sylvar si controllò immediatamente le tasche."
+          "text": "Sylvar si controll\u00F2 immediatamente le tasche."
         },
         {
           "type": "quote",
-          "text": "«Perché sempre io?»",
+          "text": "\u00ABPerch\u00E9 sempre io?\u00BB",
           "variant": "normal"
         },
         {
           "type": "paragraph",
-          "text": "Elis sbuffò una risata."
+          "text": "Elis sbuff\u00F2 una risata."
         },
         {
           "type": "quote",
-          "text": "«Perché sei quello più ricco.»",
+          "text": "\u00ABPerch\u00E9 sei quello pi\u00F9 ricco.\u00BB",
           "variant": "normal"
         },
         {
           "type": "paragraph",
-          "text": "Sylvar sistemò con calma il proprio abito."
+          "text": "Sylvar sistem\u00F2 con calma il proprio abito."
         },
         {
           "type": "quote",
-          "text": "«La ricchezza non si nasconde negli abiti.»",
+          "text": "\u00ABLa ricchezza non si nasconde negli abiti.\u00BB",
           "variant": "normal"
         },
         {
           "type": "paragraph",
-          "text": "La donna sparì verso le scale superiori senza aggiungere altro."
+          "text": "La donna spar\u00EC verso le scale superiori senza aggiungere altro."
         },
         {
           "type": "paragraph",
@@ -225,45 +236,45 @@
         },
         {
           "type": "paragraph",
-          "text": "Lì li attendeva un uomo diverso dagli altri."
+          "text": "L\u00EC li attendeva un uomo diverso dagli altri."
         },
         {
           "type": "paragraph",
-          "text": "Più armato."
+          "text": "Pi\u00F9 armato."
         },
         {
           "type": "paragraph",
-          "text": "Più ordinato."
+          "text": "Pi\u00F9 ordinato."
         },
         {
           "type": "paragraph",
-          "text": "Più pericoloso."
+          "text": "Pi\u00F9 pericoloso."
         },
         {
           "type": "paragraph",
-          "text": "Non aveva l’aria del bruto raccattato per strada."
+          "text": "Non aveva l\u2019aria del bruto raccattato per strada."
         },
         {
           "type": "paragraph",
-          "text": "Aveva l’aria di qualcuno pagato per uccidere con professionalità."
+          "text": "Aveva l\u2019aria di qualcuno pagato per uccidere con professionalit\u00E0."
         },
         {
           "type": "quote",
-          "text": "«Fermi.»",
+          "text": "\u00ABFermi.\u00BB",
           "variant": "normal"
         },
         {
           "type": "paragraph",
-          "text": "La sua mano si mosse lentamente verso l’elsa."
+          "text": "La sua mano si mosse lentamente verso l\u2019elsa."
         },
         {
           "type": "quote",
-          "text": "«Qui non si entra armati.»",
+          "text": "\u00ABQui non si entra armati.\u00BB",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "«Lasciate tutte le vostre armi fuori.»",
+          "text": "\u00ABLasciate tutte le vostre armi fuori.\u00BB",
           "variant": "normal"
         },
         {
@@ -288,21 +299,21 @@
         },
         {
           "type": "quote",
-          "text": "«Bel modo di accogliere degli ospiti.»",
+          "text": "\u00ABBel modo di accogliere degli ospiti.\u00BB",
           "variant": "normal"
         },
         {
           "type": "paragraph",
-          "text": "L’uomo non batté ciglio."
+          "text": "L\u2019uomo non batt\u00E9 ciglio."
         },
         {
           "type": "quote",
-          "text": "«È la prassi.»",
+          "text": "\u00AB\u00C8 la prassi.\u00BB",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "«E il signor Vanthampur non ama aspettare.»",
+          "text": "\u00ABE il signor Vanthampur non ama aspettare.\u00BB",
           "variant": "normal"
         },
         {
@@ -311,7 +322,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Poi il gruppo iniziò lentamente a consegnare le armi."
+          "text": "Poi il gruppo inizi\u00F2 lentamente a consegnare le armi."
         },
         {
           "type": "paragraph",
@@ -335,36 +346,36 @@
         },
         {
           "type": "paragraph",
-          "text": "L’uomo lo osservava con crescente esasperazione mentre continuavano ad apparire lame da posti improbabili."
+          "text": "L\u2019uomo lo osservava con crescente esasperazione mentre continuavano ad apparire lame da posti improbabili."
         },
         {
           "type": "paragraph",
-          "text": "Perfino Nathan finì per cedere il proprio equipaggiamento senza protestare."
+          "text": "Perfino Nathan fin\u00EC per cedere il proprio equipaggiamento senza protestare."
         },
         {
           "type": "paragraph",
-          "text": "Sylvar, invece, si fermò un istante prima di porgere la spada."
+          "text": "Sylvar, invece, si ferm\u00F2 un istante prima di porgere la spada."
         },
         {
           "type": "paragraph",
-          "text": "La guardò."
+          "text": "La guard\u00F2."
         },
         {
           "type": "paragraph",
-          "text": "Poi sollevò lentamente gli occhi verso il bandito."
+          "text": "Poi sollev\u00F2 lentamente gli occhi verso il bandito."
         },
         {
           "type": "quote",
-          "text": "«Abbine cura. Ci tengo moltissimo.»",
+          "text": "\u00ABAbbine cura. Ci tengo moltissimo.\u00BB",
           "variant": "normal"
         },
         {
           "type": "paragraph",
-          "text": "L’uomo rimase impassibile."
+          "text": "L\u2019uomo rimase impassibile."
         },
         {
           "type": "quote",
-          "text": "«Tranquillo. Non la toccherò.»",
+          "text": "\u00ABTranquillo. Non la toccher\u00F2.\u00BB",
           "variant": "normal"
         },
         {
@@ -373,19 +384,19 @@
         },
         {
           "type": "paragraph",
-          "text": "La pietra brillò debolmente."
+          "text": "La pietra brill\u00F2 debolmente."
         },
         {
           "type": "paragraph",
-          "text": "Poi diventò rossa."
+          "text": "Poi divent\u00F2 rossa."
         },
         {
           "type": "paragraph",
-          "text": "Gli occhi dell’uomo si spostarono lentamente verso Sylvar."
+          "text": "Gli occhi dell\u2019uomo si spostarono lentamente verso Sylvar."
         },
         {
           "type": "quote",
-          "text": "«Sembra che tu abbia dimenticato qualcosa.»",
+          "text": "\u00ABSembra che tu abbia dimenticato qualcosa.\u00BB",
           "variant": "normal"
         },
         {
@@ -394,15 +405,15 @@
         },
         {
           "type": "paragraph",
-          "text": "Poi Sylvar sospirò appena."
+          "text": "Poi Sylvar sospir\u00F2 appena."
         },
         {
           "type": "paragraph",
-          "text": "E consegnò anche l’ultima lama nascosta."
+          "text": "E consegn\u00F2 anche l\u2019ultima lama nascosta."
         },
         {
           "type": "paragraph",
-          "text": "La sfera tornò verde."
+          "text": "La sfera torn\u00F2 verde."
         },
         {
           "type": "paragraph",
@@ -410,12 +421,12 @@
         },
         {
           "type": "quote",
-          "text": "«Prego.»",
+          "text": "\u00ABPrego.\u00BB",
           "variant": "normal"
         },
         {
           "type": "paragraph",
-          "text": "E finalmente, disarmati e osservati da decine di occhi, il gruppo attraversò la soglia."
+          "text": "E finalmente, disarmati e osservati da decine di occhi, il gruppo attravers\u00F2 la soglia."
         }
       ]
     },
@@ -424,6 +435,12 @@
       "title": "Amrik Vanthampur",
       "videoId": "DaYbVMnIOXs",
       "blocks": [
+        {
+          "type": "image",
+          "variant": "left-big",
+          "src": "/api/content/sessioni/discesa-averno/immagini/31f4b9a4-6e50-4763-9bca-2f8364f05276.png",
+          "alt": "Amrick"
+        },
         {
           "type": "paragraph",
           "text": "La stanza oltre la porta non era grande."
@@ -438,15 +455,15 @@
         },
         {
           "type": "paragraph",
-          "text": "Più sporca."
+          "text": "Pi\u00F9 sporca."
         },
         {
           "type": "paragraph",
-          "text": "Più discreta."
+          "text": "Pi\u00F9 discreta."
         },
         {
           "type": "paragraph",
-          "text": "Più pericolosa."
+          "text": "Pi\u00F9 pericolosa."
         },
         {
           "type": "paragraph",
@@ -454,7 +471,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Seduto su una poltrona, con un calice in mano e un piatto di carne ancora a metà davanti a sé, l’uomo li stava già osservando."
+          "text": "Seduto su una poltrona, con un calice in mano e un piatto di carne ancora a met\u00E0 davanti a s\u00E9, l\u2019uomo li stava gi\u00E0 osservando."
         },
         {
           "type": "paragraph",
@@ -490,7 +507,7 @@
         },
         {
           "type": "paragraph",
-          "text": "L’altra immobile accanto alla poltrona."
+          "text": "L\u2019altra immobile accanto alla poltrona."
         },
         {
           "type": "paragraph",
@@ -510,7 +527,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Nathan attivò silenziosamente il proprio senso divino."
+          "text": "Nathan attiv\u00F2 silenziosamente il proprio senso divino."
         },
         {
           "type": "paragraph",
@@ -518,11 +535,11 @@
         },
         {
           "type": "paragraph",
-          "text": "E la risposta arrivò immediatamente."
+          "text": "E la risposta arriv\u00F2 immediatamente."
         },
         {
           "type": "paragraph",
-          "text": "<em>Fiend.</em>"
+          "text": "\u003Cem\u003EFiend.\u003C/em\u003E"
         },
         {
           "type": "paragraph",
@@ -538,7 +555,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Sylvar osservò le creature con calma studiata."
+          "text": "Sylvar osserv\u00F2 le creature con calma studiata."
         },
         {
           "type": "paragraph",
@@ -550,25 +567,25 @@
         },
         {
           "type": "paragraph",
-          "text": "Ma non serviva essere studiosi per capire che quella stanza puzzava d’Inferi."
+          "text": "Ma non serviva essere studiosi per capire che quella stanza puzzava d\u2019Inferi."
         },
         {
           "type": "quote",
-          "text": "«Amici tuoi?»",
+          "text": "\u00ABAmici tuoi?\u00BB",
           "variant": "normal"
         },
         {
           "type": "paragraph",
-          "text": "Elis lanciò un’occhiata distratta ai diavoli."
+          "text": "Elis lanci\u00F2 un\u2019occhiata distratta ai diavoli."
         },
         {
           "type": "quote",
-          "text": "«No.»",
+          "text": "\u00ABNo.\u00BB",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "«Amici di amici.»",
+          "text": "\u00ABAmici di amici.\u00BB",
           "variant": "normal"
         },
         {
@@ -581,54 +598,54 @@
         },
         {
           "type": "quote",
-          "text": "«Benvenuti.»",
+          "text": "\u00ABBenvenuti.\u00BB",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "«Benvenuti tutti quanti.»",
-          "variant": "normal"
-        },
-        {
-          "type": "paragraph",
-          "text": "Sylvar inclinò leggermente il capo."
-        },
-        {
-          "type": "quote",
-          "text": "«Lord Vanthampur.»",
+          "text": "\u00ABBenvenuti tutti quanti.\u00BB",
           "variant": "normal"
         },
         {
           "type": "paragraph",
-          "text": "Amrik alzò appena una mano."
+          "text": "Sylvar inclin\u00F2 leggermente il capo."
         },
         {
           "type": "quote",
-          "text": "«Non siamo così formali.»",
-          "variant": "normal"
-        },
-        {
-          "type": "quote",
-          "text": "«Non con voi, almeno.»",
-          "variant": "normal"
-        },
-        {
-          "type": "quote",
-          "text": "«Chiamatemi semplicemente Amrik.»",
+          "text": "\u00ABLord Vanthampur.\u00BB",
           "variant": "normal"
         },
         {
           "type": "paragraph",
-          "text": "Indicò i posti attorno al tavolo."
+          "text": "Amrik alz\u00F2 appena una mano."
         },
         {
           "type": "quote",
-          "text": "«Prego. Sedetevi pure.»",
+          "text": "\u00ABNon siamo cos\u00EC formali.\u00BB",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "«Temo di non avere abbastanza poltrone per tutti.»",
+          "text": "\u00ABNon con voi, almeno.\u00BB",
+          "variant": "normal"
+        },
+        {
+          "type": "quote",
+          "text": "\u00ABChiamatemi semplicemente Amrik.\u00BB",
+          "variant": "normal"
+        },
+        {
+          "type": "paragraph",
+          "text": "Indic\u00F2 i posti attorno al tavolo."
+        },
+        {
+          "type": "quote",
+          "text": "\u00ABPrego. Sedetevi pure.\u00BB",
+          "variant": "normal"
+        },
+        {
+          "type": "quote",
+          "text": "\u00ABTemo di non avere abbastanza poltrone per tutti.\u00BB",
           "variant": "normal"
         },
         {
@@ -637,7 +654,7 @@
         },
         {
           "type": "paragraph",
-          "text": "In posizione perfetta per osservare contemporaneamente l’interno della sala e il corridoio oltre l’ingresso."
+          "text": "In posizione perfetta per osservare contemporaneamente l\u2019interno della sala e il corridoio oltre l\u2019ingresso."
         },
         {
           "type": "paragraph",
@@ -657,7 +674,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Elis, invece, si lasciò andare con la disinvoltura irritante di chi sembrava sentirsi a casa ovunque ci fossero criminali e pessime idee."
+          "text": "Elis, invece, si lasci\u00F2 andare con la disinvoltura irritante di chi sembrava sentirsi a casa ovunque ci fossero criminali e pessime idee."
         },
         {
           "type": "paragraph",
@@ -665,22 +682,22 @@
         },
         {
           "type": "quote",
-          "text": "«Ordinate pure ciò che desiderate.»",
+          "text": "\u00ABNaturalmente offro io.\u00BB",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "«Naturalmente offro io.»",
+          "text": "\u00ABOrdinate pure ci\u00F2 che desiderate.\u00BB",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "«Non vorrei lasciare assetati i miei ospiti.»",
+          "text": "\u00ABNon vorrei lasciare assetati i miei ospiti.\u00BB",
           "variant": "normal"
         },
         {
           "type": "paragraph",
-          "text": "Davanti a loro venne aperto un menù sorprendentemente raffinato."
+          "text": "Davanti a loro venne aperto un men\u00F9 sorprendentemente raffinato."
         },
         {
           "type": "paragraph",
@@ -716,7 +733,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Per qualche secondo, la tensione della stanza si incrinò sotto il peso dell’assurdità della situazione."
+          "text": "Per qualche secondo, la tensione della stanza si incrin\u00F2 sotto il peso dell\u2019assurdit\u00E0 della situazione."
         },
         {
           "type": "paragraph",
@@ -732,12 +749,12 @@
         },
         {
           "type": "quote",
-          "text": "«Un Fairy Fire, grazie.»",
+          "text": "\u00ABUn Fairy Fire, grazie.\u00BB",
           "variant": "normal"
         },
         {
           "type": "paragraph",
-          "text": "Sylvar parlò per primo."
+          "text": "Sylvar parl\u00F2 per primo."
         },
         {
           "type": "paragraph",
@@ -745,7 +762,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Aelar preferì non ordinare nulla."
+          "text": "Aelar prefer\u00EC non ordinare nulla."
         },
         {
           "type": "paragraph",
@@ -753,7 +770,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Amrik ascoltò tutte le ordinazioni con aria quasi divertita."
+          "text": "Amrik ascolt\u00F2 tutte le ordinazioni con aria quasi divertita."
         },
         {
           "type": "paragraph",
@@ -761,30 +778,30 @@
         },
         {
           "type": "quote",
-          "text": "«Porta ciò che hanno ordinato.»",
+          "text": "\u00ABPorta ci\u00F2 che hanno ordinato.\u00BB",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "«E dite al barista di fare in fretta.»",
+          "text": "\u00ABE dite al barista di fare in fretta.\u00BB",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "«Non voglio che si sciolga il ghiaccio.»",
+          "text": "\u00ABNon voglio che si sciolga il ghiaccio.\u00BB",
           "variant": "normal"
         },
         {
           "type": "paragraph",
-          "text": "Il mercenario annuì senza parlare."
+          "text": "Il mercenario annu\u00EC senza parlare."
         },
         {
           "type": "paragraph",
-          "text": "E quando il silenzio tornò nella stanza, Amrik fece ruotare lentamente il vino nel calice."
+          "text": "E quando il silenzio torn\u00F2 nella stanza, Amrik fece ruotare lentamente il vino nel calice."
         },
         {
           "type": "paragraph",
-          "text": "Gli occhi passarono da uno all’altro."
+          "text": "Gli occhi passarono da uno all\u2019altro."
         },
         {
           "type": "paragraph",
@@ -800,7 +817,7 @@
         },
         {
           "type": "quote",
-          "text": "«Ora…»",
+          "text": "\u00ABOra\u2026\u00BB",
           "variant": "normal"
         },
         {
@@ -809,7 +826,7 @@
         },
         {
           "type": "quote",
-          "text": "«Se vogliamo rompere il ghiaccio…»",
+          "text": "\u00ABSe vogliamo rompere il ghiaccio\u2026\u00BB",
           "variant": "normal"
         }
       ]
@@ -821,7 +838,7 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Amrik osservò il gruppo oltre il bordo del calice."
+          "text": "Amrik osserv\u00F2 il gruppo oltre il bordo del calice."
         },
         {
           "type": "paragraph",
@@ -837,7 +854,7 @@
         },
         {
           "type": "quote",
-          "text": "«Vedo che trovate la mia compagnia… peculiare.»",
+          "text": "\u00ABVedo che trovate la mia compagnia\u2026 peculiare.\u00BB",
           "variant": "normal"
         },
         {
@@ -854,17 +871,17 @@
         },
         {
           "type": "quote",
-          "text": "«Oh, non badateci.»",
+          "text": "\u00ABOh, non badateci.\u00BB",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "«Sono soltanto… protezione.»",
+          "text": "\u00ABSono soltanto\u2026 protezione.\u00BB",
           "variant": "normal"
         },
         {
           "type": "paragraph",
-          "text": "Aelar continuò a fissare le creature infernali."
+          "text": "Aelar continu\u00F2 a fissare le creature infernali."
         },
         {
           "type": "paragraph",
@@ -876,12 +893,12 @@
         },
         {
           "type": "quote",
-          "text": "«Dei demoni?»",
+          "text": "\u00ABDei demoni?\u00BB",
           "variant": "normal"
         },
         {
           "type": "paragraph",
-          "text": "Uno dei diavoli inclinò lentamente il capo."
+          "text": "Uno dei diavoli inclin\u00F2 lentamente il capo."
         },
         {
           "type": "paragraph",
@@ -889,22 +906,22 @@
         },
         {
           "type": "quote",
-          "text": "«Beh… non sono io a giudicare.»",
+          "text": "\u00ABBeh\u2026 non sono io a giudicare.\u00BB",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "«Il loro compito è soltanto garantire la mia sicurezza e assicurarsi che nessuno tenti di appropriarsi di denaro che non gli appartiene.»",
+          "text": "\u00ABIl loro compito \u00E8 soltanto garantire la mia sicurezza e assicurarsi che nessuno tenti di appropriarsi di denaro che non gli appartiene.\u00BB",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "«Sono qui esclusivamente a titolo di protezione.»",
+          "text": "\u00ABSono qui esclusivamente a titolo di protezione.\u00BB",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "«Tranquilli.»",
+          "text": "\u00ABTranquilli.\u00BB",
           "variant": "normal"
         },
         {
@@ -929,7 +946,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Gli insegnamenti del tempio gli tornavano alla mente uno dopo l’altro."
+          "text": "Gli insegnamenti del tempio gli tornavano alla mente uno dopo l\u2019altro."
         },
         {
           "type": "paragraph",
@@ -945,7 +962,7 @@
         },
         {
           "type": "quote",
-          "text": "«Quindi siete riuscito a… convincerli?»",
+          "text": "\u00ABQuindi siete riuscito a\u2026 convincerli?\u00BB",
           "variant": "normal"
         },
         {
@@ -954,21 +971,21 @@
         },
         {
           "type": "quote",
-          "text": "«Il nostro rapporto è basato sulla collaborazione.»",
+          "text": "\u00ABIl nostro rapporto \u00E8 basato sulla collaborazione.\u00BB",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "«Ma obbediscono alle mie richieste.»",
+          "text": "\u00ABMa obbediscono alle mie richieste.\u00BB",
           "variant": "normal"
         },
         {
           "type": "paragraph",
-          "text": "La frase rimase sospesa nell’aria come qualcosa di volutamente ambiguo."
+          "text": "La frase rimase sospesa nell\u2019aria come qualcosa di volutamente ambiguo."
         },
         {
           "type": "paragraph",
-          "text": "Aelar notò immediatamente lo sguardo di Nathan."
+          "text": "Aelar not\u00F2 immediatamente lo sguardo di Nathan."
         },
         {
           "type": "paragraph",
@@ -980,20 +997,20 @@
         },
         {
           "type": "paragraph",
-          "text": "E in quel momento, per la prima volta da quando erano entrati nella stanza, l’idea che la caduta di Elturel e i Vanthampur potessero essere collegati smise di sembrare soltanto una teoria."
+          "text": "E in quel momento, per la prima volta da quando erano entrati nella stanza, l\u2019idea che la caduta di Elturel e i Vanthampur potessero essere collegati smise di sembrare soltanto una teoria."
         },
         {
           "type": "paragraph",
-          "text": "Amrik posò il calice."
+          "text": "Amrik pos\u00F2 il calice."
         },
         {
           "type": "quote",
-          "text": "«Ma veniamo al dunque.»",
+          "text": "\u00ABMa veniamo al dunque.\u00BB",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "«La voce degli eroi di Baldur’s Gate si è diffusa molto rapidamente su questa nave.»",
+          "text": "\u00ABLa voce degli eroi di Baldur\u2019s Gate si \u00E8 diffusa molto rapidamente su questa nave.\u00BB",
           "variant": "normal"
         },
         {
@@ -1002,12 +1019,12 @@
         },
         {
           "type": "quote",
-          "text": "«Queste travi hanno orecchie.»",
+          "text": "\u00ABQueste travi hanno orecchie.\u00BB",
           "variant": "normal"
         },
         {
           "type": "paragraph",
-          "text": "Gallivan evitò immediatamente qualsiasi contatto visivo."
+          "text": "Gallivan evit\u00F2 immediatamente qualsiasi contatto visivo."
         },
         {
           "type": "paragraph",
@@ -1015,64 +1032,64 @@
         },
         {
           "type": "quote",
-          "text": "«Quindi ci avete invitati soltanto per conoscerci?»",
+          "text": "\u00ABQuindi ci avete invitati soltanto per conoscerci?\u00BB",
           "variant": "normal"
         },
         {
           "type": "paragraph",
-          "text": "Amrik allargò lentamente le mani."
+          "text": "Amrik allarg\u00F2 lentamente le mani."
         },
         {
           "type": "quote",
-          "text": "«Oh, assolutamente.»",
+          "text": "\u00ABOh, assolutamente.\u00BB",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "«Ho sentito che avete eliminato il Culto dei Tre Morti.»",
+          "text": "\u00ABHo sentito che avete eliminato il Culto dei Tre Morti.\u00BB",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "«I miei complimenti.»",
-          "variant": "normal"
-        },
-        {
-          "type": "paragraph",
-          "text": "Il sorriso di Sylvar si fece più sottile."
-        },
-        {
-          "type": "quote",
-          "text": "«Pensavo di trovarmi davanti a un professionista.»",
-          "variant": "normal"
-        },
-        {
-          "type": "quote",
-          "text": "«Chiedere informazioni gratis, nel vostro mestiere, non è molto elegante.»",
+          "text": "\u00ABI miei complimenti.\u00BB",
           "variant": "normal"
         },
         {
           "type": "paragraph",
-          "text": "Per la prima volta, Amrik sembrò sinceramente divertito."
+          "text": "Il sorriso di Sylvar si fece pi\u00F9 sottile."
         },
         {
           "type": "quote",
-          "text": "«Signor Nodorovo, giusto?»",
+          "text": "\u00ABPensavo di trovarmi davanti a un professionista.\u00BB",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "«La vostra famiglia è entrata da poco nelle alte sfere della città…»",
-          "variant": "normal"
-        },
-        {
-          "type": "quote",
-          "text": "«eppure vi siete adattato sorprendentemente in fretta.»",
+          "text": "\u00ABChiedere informazioni gratis, nel vostro mestiere, non \u00E8 molto elegante.\u00BB",
           "variant": "normal"
         },
         {
           "type": "paragraph",
-          "text": "Sylvar non abbassò mai lo sguardo."
+          "text": "Per la prima volta, Amrik sembr\u00F2 sinceramente divertito."
+        },
+        {
+          "type": "quote",
+          "text": "\u00ABSignor Nodorovo, giusto?\u00BB",
+          "variant": "normal"
+        },
+        {
+          "type": "quote",
+          "text": "\u00ABLa vostra famiglia \u00E8 entrata da poco nelle alte sfere della citt\u00E0\u2026\u00BB",
+          "variant": "normal"
+        },
+        {
+          "type": "quote",
+          "text": "\u00ABeppure vi siete adattato sorprendentemente in fretta.\u00BB",
+          "variant": "normal"
+        },
+        {
+          "type": "paragraph",
+          "text": "Sylvar non abbass\u00F2 mai lo sguardo."
         },
         {
           "type": "paragraph",
@@ -1080,12 +1097,12 @@
         },
         {
           "type": "quote",
-          "text": "«Io presto denaro.»",
+          "text": "\u00ABIo presto denaro.\u00BB",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "«Non informazioni.»",
+          "text": "\u00ABNon informazioni.\u00BB",
           "variant": "normal"
         },
         {
@@ -1094,26 +1111,26 @@
         },
         {
           "type": "quote",
-          "text": "«Il mio era soltanto altruismo.»",
+          "text": "\u00ABIl mio era soltanto altruismo.\u00BB",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "«Avendo una linea diretta con uno dei Patriar, avrei potuto trasmettere eventuali informazioni molto più rapidamente delle normali vie burocratiche.»",
+          "text": "\u00ABAvendo una linea diretta con uno dei Patriar, avrei potuto trasmettere eventuali informazioni molto pi\u00F9 rapidamente delle normali vie burocratiche.\u00BB",
           "variant": "normal"
         },
         {
           "type": "paragraph",
-          "text": "Nathan parlò prima che Sylvar potesse rispondere."
+          "text": "Nathan parl\u00F2 prima che Sylvar potesse rispondere."
         },
         {
           "type": "quote",
-          "text": "«Avremmo preferito riferire tutto direttamente ai Patriar durante il gala.»",
+          "text": "\u00ABAvremmo preferito riferire tutto direttamente ai Patriar durante il gala.\u00BB",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "«Ma non ne abbiamo visto nessuno.»",
+          "text": "\u00ABMa non ne abbiamo visto nessuno.\u00BB",
           "variant": "normal"
         },
         {
@@ -1130,12 +1147,12 @@
         },
         {
           "type": "quote",
-          "text": "«Strano.»",
+          "text": "\u00ABStrano.\u00BB",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "«Dove si trovava vostra madre quella sera?»",
+          "text": "\u00ABDove si trovava vostra madre quella sera?\u00BB",
           "variant": "normal"
         },
         {
@@ -1144,21 +1161,21 @@
         },
         {
           "type": "quote",
-          "text": "«Mia madre è una donna molto impegnata.»",
+          "text": "\u00ABMia madre \u00E8 una donna molto impegnata.\u00BB",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "«Così come gli altri Patriar, immagino.»",
+          "text": "\u00ABCos\u00EC come gli altri Patriar, immagino.\u00BB",
           "variant": "normal"
         },
         {
           "type": "paragraph",
-          "text": "In quel momento la porta si aprì."
+          "text": "In quel momento la porta si apr\u00EC."
         },
         {
           "type": "paragraph",
-          "text": "Il Kenku entrò trasportando le bevande."
+          "text": "Il Kenku entr\u00F2 trasportando le bevande."
         },
         {
           "type": "paragraph",
@@ -1166,7 +1183,7 @@
         },
         {
           "type": "paragraph",
-          "text": "L’Eldritch Storm emanava un odore pungente di gin e agrumi."
+          "text": "L\u2019Eldritch Storm emanava un odore pungente di gin e agrumi."
         },
         {
           "type": "paragraph",
@@ -1174,21 +1191,21 @@
         },
         {
           "type": "paragraph",
-          "text": "Sylvar sollevò lentamente il proprio bicchiere."
+          "text": "Sylvar sollev\u00F2 lentamente il proprio bicchiere."
         },
         {
           "type": "quote",
-          "text": "«Siamo sinceramente dispiaciuti per i danni subiti dalla vostra famiglia.»",
+          "text": "\u00ABSiamo sinceramente dispiaciuti per i danni subiti dalla vostra famiglia.\u00BB",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "«Dev’essere stato terribile scoprire che sotto le vostre terme si nascondeva un culto.»",
+          "text": "\u00ABDev\u2019essere stato terribile scoprire che sotto le vostre terme si nascondeva un culto.\u00BB",
           "variant": "normal"
         },
         {
           "type": "paragraph",
-          "text": "Amrik lo osservò a lungo."
+          "text": "Amrik lo osserv\u00F2 a lungo."
         },
         {
           "type": "paragraph",
@@ -1196,40 +1213,40 @@
         },
         {
           "type": "quote",
-          "text": "«Il marcio è ovunque.»",
+          "text": "\u00ABIl marcio \u00E8 ovunque.\u00BB",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "«Perfino sotto il proprio naso.»",
+          "text": "\u00ABPerfino sotto il proprio naso.\u00BB",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "«Questa volta ha colpito la mia famiglia.»",
+          "text": "\u00ABQuesta volta ha colpito la mia famiglia.\u00BB",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "«Ma sapremo rimetterci in piedi.»",
+          "text": "\u00ABMa sapremo rimetterci in piedi.\u00BB",
           "variant": "normal"
         },
         {
           "type": "paragraph",
-          "text": "Sollevò il calice verso di loro."
+          "text": "Sollev\u00F2 il calice verso di loro."
         },
         {
           "type": "quote",
-          "text": "«Agli eroi di Baldur’s Gate.»",
+          "text": "\u00ABAgli eroi di Baldur\u2019s Gate.\u00BB",
           "variant": "normal"
         },
         {
           "type": "paragraph",
-          "text": "Nathan sfiorò appena il bicchiere con le labbra."
+          "text": "Nathan sfior\u00F2 appena il bicchiere con le labbra."
         },
         {
           "type": "paragraph",
-          "text": "Aelar analizzò rapidamente il sapore."
+          "text": "Aelar analizz\u00F2 rapidamente il sapore."
         },
         {
           "type": "paragraph",
@@ -1253,16 +1270,16 @@
         },
         {
           "type": "paragraph",
-          "text": "Amrik appoggiò il bicchiere."
+          "text": "Amrik appoggi\u00F2 il bicchiere."
         },
         {
           "type": "quote",
-          "text": "«In realtà vi ho convocati qui per conto di un mio collaboratore.»",
+          "text": "\u00ABIn realt\u00E0 vi ho convocati qui per conto di un mio collaboratore.\u00BB",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "«O forse dovrei dire… qualcuno da cui dipendo leggermente.»",
+          "text": "\u00ABO forse dovrei dire\u2026 qualcuno da cui dipendo leggermente.\u00BB",
           "variant": "normal"
         },
         {
@@ -1271,25 +1288,25 @@
         },
         {
           "type": "paragraph",
-          "text": "Ma Nathan sentì immediatamente il peso nascosto dietro quella frase."
+          "text": "Ma Nathan sent\u00EC immediatamente il peso nascosto dietro quella frase."
         },
         {
           "type": "quote",
-          "text": "«Dovreste averlo incontrato durante il gala in vostro onore.»",
+          "text": "\u00ABDovreste averlo incontrato durante il gala in vostro onore.\u00BB",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "«Mi ha chiesto di recapitarvi questo invito.»",
+          "text": "\u00ABMi ha chiesto di recapitarvi questo invito.\u00BB",
           "variant": "normal"
         },
         {
           "type": "paragraph",
-          "text": "Amrik schioccò lentamente le dita."
+          "text": "Amrik schiocc\u00F2 lentamente le dita."
         },
         {
           "type": "paragraph",
-          "text": "Il diavolo più grande si mosse immediatamente."
+          "text": "Il diavolo pi\u00F9 grande si mosse immediatamente."
         },
         {
           "type": "paragraph",
@@ -1301,11 +1318,11 @@
         },
         {
           "type": "paragraph",
-          "text": "Quando passò accanto al tavolo, un forte odore di zolfo invase la stanza."
+          "text": "Quando pass\u00F2 accanto al tavolo, un forte odore di zolfo invase la stanza."
         },
         {
           "type": "paragraph",
-          "text": "La creatura si fermò accanto a Sylvar."
+          "text": "La creatura si ferm\u00F2 accanto a Sylvar."
         },
         {
           "type": "paragraph",
@@ -1320,7 +1337,7 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Il diavolo si fermò accanto a Sylvar, e con lui calò un’ondata di calore secco."
+          "text": "Il diavolo si ferm\u00F2 accanto a Sylvar, e con lui cal\u00F2 un\u2019ondata di calore secco."
         },
         {
           "type": "paragraph",
@@ -1332,7 +1349,7 @@
         },
         {
           "type": "paragraph",
-          "text": "E insieme all’odore di zolfo arrivò qualcosa di peggiore."
+          "text": "E insieme all\u2019odore di zolfo arriv\u00F2 qualcosa di peggiore."
         },
         {
           "type": "paragraph",
@@ -1348,7 +1365,7 @@
         },
         {
           "type": "quote",
-          "text": "«E chi sarebbe costui?»",
+          "text": "\u00ABE chi sarebbe costui?\u00BB",
           "variant": "normal"
         },
         {
@@ -1361,7 +1378,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Troppe mezze verità."
+          "text": "Troppe mezze verit\u00E0."
         },
         {
           "type": "paragraph",
@@ -1373,7 +1390,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Sylvar aprì la lettera."
+          "text": "Sylvar apr\u00EC la lettera."
         },
         {
           "type": "paragraph",
@@ -1397,7 +1414,7 @@
         },
         {
           "type": "paragraph",
-          "text": "La proposta di discutere di affari e lavoro in un ambiente più tranquillo."
+          "text": "La proposta di discutere di affari e lavoro in un ambiente pi\u00F9 tranquillo."
         },
         {
           "type": "paragraph",
@@ -1413,7 +1430,7 @@
         },
         {
           "type": "quote",
-          "text": "«Lo conoscete?»",
+          "text": "\u00ABLo conoscete?\u00BB",
           "variant": "normal"
         },
         {
@@ -1426,17 +1443,17 @@
         },
         {
           "type": "quote",
-          "text": "«Il Lord Fauler è un benefattore.»",
+          "text": "\u00ABIl Lord Fauler \u00E8 un benefattore.\u00BB",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "«Ha rapporti di lavoro con la mia famiglia da diverso tempo.»",
+          "text": "\u00ABHa rapporti di lavoro con la mia famiglia da diverso tempo.\u00BB",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "«Dovreste considerarvi onorati di poter incontrare una persona tanto… squisita.»",
+          "text": "\u00ABDovreste considerarvi onorati di poter incontrare una persona tanto\u2026 squisita.\u00BB",
           "variant": "normal"
         },
         {
@@ -1445,17 +1462,17 @@
         },
         {
           "type": "quote",
-          "text": "«Interessante.»",
+          "text": "\u00ABInteressante.\u00BB",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "«E di cosa si occupa questo benefattore?»",
+          "text": "\u00ABE di cosa si occupa questo benefattore?\u00BB",
           "variant": "normal"
         },
         {
           "type": "paragraph",
-          "text": "Amrik si appoggiò allo schienale della poltrona."
+          "text": "Amrik si appoggi\u00F2 allo schienale della poltrona."
         },
         {
           "type": "paragraph",
@@ -1471,22 +1488,22 @@
         },
         {
           "type": "quote",
-          "text": "«Il Lord Fauler ha interessi in diversi settori.»",
+          "text": "\u00ABIl Lord Fauler ha interessi in diversi settori.\u00BB",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "«Ma non è mia abitudine fare domande ai miei benefattori.»",
+          "text": "\u00ABMa non \u00E8 mia abitudine fare domande ai miei benefattori.\u00BB",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "«Collabora con la mia famiglia per alcune questioni… delicate.»",
+          "text": "\u00ABCollabora con la mia famiglia per alcune questioni\u2026 delicate.\u00BB",
           "variant": "normal"
         },
         {
           "type": "paragraph",
-          "text": "Aelar non si lasciò convincere da quella risposta."
+          "text": "Aelar non si lasci\u00F2 convincere da quella risposta."
         },
         {
           "type": "paragraph",
@@ -1494,11 +1511,11 @@
         },
         {
           "type": "paragraph",
-          "text": "I diavoli immobili ai lati della stanza rendevano ogni parola pronunciata lì dentro più pesante del dovuto."
+          "text": "I diavoli immobili ai lati della stanza rendevano ogni parola pronunciata l\u00EC dentro pi\u00F9 pesante del dovuto."
         },
         {
           "type": "quote",
-          "text": "«E riguardo la paga?»",
+          "text": "\u00ABE riguardo la paga?\u00BB",
           "variant": "normal"
         },
         {
@@ -1507,49 +1524,49 @@
         },
         {
           "type": "quote",
-          "text": "«Ah… finalmente una domanda concreta.»",
+          "text": "\u00ABAh\u2026 finalmente una domanda concreta.\u00BB",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "«Se avete bisogno di denaro, la mia famiglia può essere estremamente generosa.»",
+          "text": "\u00ABSe avete bisogno di denaro, la mia famiglia pu\u00F2 essere estremamente generosa.\u00BB",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "«Potrei offrirvi un prestito di centocinquanta monete d’oro.»",
+          "text": "\u00ABPotrei offrirvi un prestito di centocinquanta monete d\u2019oro.\u00BB",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "«Dieci anni per restituirlo.»",
+          "text": "\u00ABDieci anni per restituirlo.\u00BB",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "«Con un tasso assolutamente vantaggioso.»",
+          "text": "\u00ABCon un tasso assolutamente vantaggioso.\u00BB",
           "variant": "normal"
         },
         {
           "type": "paragraph",
-          "text": "Sylvar abbassò lentamente lo sguardo verso le proprie mani."
+          "text": "Sylvar abbass\u00F2 lentamente lo sguardo verso le proprie mani."
         },
         {
           "type": "paragraph",
-          "text": "Poi tornò a fissare Amrik."
+          "text": "Poi torn\u00F2 a fissare Amrik."
         },
         {
           "type": "quote",
-          "text": "«Complimenti per la vostra generosità.»",
+          "text": "\u00ABComplimenti per la vostra generosit\u00E0.\u00BB",
           "variant": "normal"
         },
         {
           "type": "paragraph",
-          "text": "Il tono era così elegante da risultare quasi offensivo."
+          "text": "Il tono era cos\u00EC elegante da risultare quasi offensivo."
         },
         {
           "type": "paragraph",
-          "text": "Amrik sembrò cogliere perfettamente l’ironia."
+          "text": "Amrik sembr\u00F2 cogliere perfettamente l\u2019ironia."
         },
         {
           "type": "paragraph",
@@ -1557,30 +1574,30 @@
         },
         {
           "type": "quote",
-          "text": "«La mia famiglia sa essere molto disponibile con chi se lo merita.»",
+          "text": "\u00ABLa mia famiglia sa essere molto disponibile con chi se lo merita.\u00BB",
           "variant": "normal"
         },
         {
           "type": "paragraph",
-          "text": "Sylvar intrecciò lentamente le dita."
+          "text": "Sylvar intrecci\u00F2 lentamente le dita."
         },
         {
           "type": "quote",
-          "text": "«Le ricompense ci interessano relativamente.»",
+          "text": "\u00ABLe ricompense ci interessano relativamente.\u00BB",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "«Quello che ci interessa davvero è capire chi siano i nostri alleati.»",
+          "text": "\u00ABQuello che ci interessa davvero \u00E8 capire chi siano i nostri alleati.\u00BB",
           "variant": "normal"
         },
         {
           "type": "paragraph",
-          "text": "Nel pronunciare quell’ultima parola, lasciò scivolare deliberatamente lo sguardo verso i diavoli."
+          "text": "Nel pronunciare quell\u2019ultima parola, lasci\u00F2 scivolare deliberatamente lo sguardo verso i diavoli."
         },
         {
           "type": "paragraph",
-          "text": "Amrik seguì il movimento."
+          "text": "Amrik segu\u00EC il movimento."
         },
         {
           "type": "paragraph",
@@ -1588,22 +1605,22 @@
         },
         {
           "type": "quote",
-          "text": "«Gli alleati sono difficili da trovare.»",
+          "text": "\u00ABGli alleati sono difficili da trovare.\u00BB",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "«È molto più facile crearsi dei nemici.»",
+          "text": "\u00AB\u00C8 molto pi\u00F9 facile crearsi dei nemici.\u00BB",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "«E vi assicuro che il Lord Fauler non è il genere di persona che vorreste avere contro.»",
+          "text": "\u00ABE vi assicuro che il Lord Fauler non \u00E8 il genere di persona che vorreste avere contro.\u00BB",
           "variant": "normal"
         },
         {
           "type": "paragraph",
-          "text": "Nathan sentì immediatamente il peso nascosto dietro quella frase."
+          "text": "Nathan sent\u00EC immediatamente il peso nascosto dietro quella frase."
         },
         {
           "type": "paragraph",
@@ -1615,26 +1632,26 @@
         },
         {
           "type": "paragraph",
-          "text": "Amrik tornò lentamente sull’argomento del Culto dei Tre Morti."
+          "text": "Amrik torn\u00F2 lentamente sull\u2019argomento del Culto dei Tre Morti."
         },
         {
           "type": "quote",
-          "text": "«Quindi… siete davvero sicuri di non avere altro da riferire?»",
+          "text": "\u00ABQuindi\u2026 siete davvero sicuri di non avere altro da riferire?\u00BB",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "«Avete trovato qualcosa di particolare?»",
+          "text": "\u00ABAvete trovato qualcosa di particolare?\u00BB",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "«Qualche persona sospetta?»",
+          "text": "\u00ABQualche persona sospetta?\u00BB",
           "variant": "normal"
         },
         {
           "type": "paragraph",
-          "text": "Aelar percepì immediatamente qualcosa nel tono di quella domanda."
+          "text": "Aelar percep\u00EC immediatamente qualcosa nel tono di quella domanda."
         },
         {
           "type": "paragraph",
@@ -1650,20 +1667,20 @@
         },
         {
           "type": "paragraph",
-          "text": "Sylvar, invece, sembrò divertirsi."
+          "text": "Sylvar, invece, sembr\u00F2 divertirsi."
         },
         {
           "type": "quote",
-          "text": "«In realtà c’era una cosa che ci ha colpito parecchio.»",
+          "text": "\u00ABIn realt\u00E0 c\u2019era una cosa che ci ha colpito parecchio.\u00BB",
           "variant": "normal"
         },
         {
           "type": "paragraph",
-          "text": "Amrik ascoltò senza interrompere."
+          "text": "Amrik ascolt\u00F2 senza interrompere."
         },
         {
           "type": "paragraph",
-          "text": "Sylvar iniziò a descrivere le statue trovate nel tempio."
+          "text": "Sylvar inizi\u00F2 a descrivere le statue trovate nel tempio."
         },
         {
           "type": "paragraph",
@@ -1671,15 +1688,15 @@
         },
         {
           "type": "paragraph",
-          "text": "L’armatura rossa."
+          "text": "L\u2019armatura rossa."
         },
         {
           "type": "paragraph",
-          "text": "L’elmo scuro."
+          "text": "L\u2019elmo scuro."
         },
         {
           "type": "paragraph",
-          "text": "La lancia rivolta verso l’alto."
+          "text": "La lancia rivolta verso l\u2019alto."
         },
         {
           "type": "paragraph",
@@ -1695,21 +1712,21 @@
         },
         {
           "type": "paragraph",
-          "text": "Quando Sylvar terminò, il figlio dei Vanthampur allargò appena le mani."
+          "text": "Quando Sylvar termin\u00F2, il figlio dei Vanthampur allarg\u00F2 appena le mani."
         },
         {
           "type": "quote",
-          "text": "«Mia madre ha insistito perché ricevessi la migliore istruzione possibile.»",
+          "text": "\u00ABMia madre ha insistito perch\u00E9 ricevessi la migliore istruzione possibile.\u00BB",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "«Ma temo di non poter rispondere alle vostre domande.»",
+          "text": "\u00ABMa temo di non poter rispondere alle vostre domande.\u00BB",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "«Non facevo parte del culto.»",
+          "text": "\u00ABNon facevo parte del culto.\u00BB",
           "variant": "normal"
         },
         {
@@ -1718,17 +1735,17 @@
         },
         {
           "type": "quote",
-          "text": "«È stato lei a chiedermi se ci fosse qualcosa di strano.»",
+          "text": "\u00AB\u00C8 stato lei a chiedermi se ci fosse qualcosa di strano.\u00BB",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "«Per me quella era una cosa decisamente strana.»",
+          "text": "\u00ABPer me quella era una cosa decisamente strana.\u00BB",
           "variant": "normal"
         },
         {
           "type": "paragraph",
-          "text": "Per la prima volta, Amrik sembrò perdere per un istante il controllo della conversazione."
+          "text": "Per la prima volta, Amrik sembr\u00F2 perdere per un istante il controllo della conversazione."
         },
         {
           "type": "paragraph",
@@ -1736,21 +1753,21 @@
         },
         {
           "type": "paragraph",
-          "text": "Poi tornò a sorridere."
+          "text": "Poi torn\u00F2 a sorridere."
         },
         {
           "type": "quote",
-          "text": "«Intendevo dire se avete incontrato qualcuno fuori posto.»",
+          "text": "\u00ABIntendevo dire se avete incontrato qualcuno fuori posto.\u00BB",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "«Qualcuno che non avrebbe dovuto trovarsi lì.»",
+          "text": "\u00ABQualcuno che non avrebbe dovuto trovarsi l\u00EC.\u00BB",
           "variant": "normal"
         },
         {
           "type": "paragraph",
-          "text": "Nathan e Aelar si scambiarono un’occhiata rapida."
+          "text": "Nathan e Aelar si scambiarono un\u2019occhiata rapida."
         },
         {
           "type": "paragraph",
@@ -1758,7 +1775,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Aelar percepì immediatamente il cambiamento nella stanza."
+          "text": "Aelar percep\u00EC immediatamente il cambiamento nella stanza."
         },
         {
           "type": "paragraph",
@@ -1766,35 +1783,35 @@
         },
         {
           "type": "paragraph",
-          "text": "O cercando di capire se loro l’avessero trovato."
+          "text": "O cercando di capire se loro l\u2019avessero trovato."
         },
         {
           "type": "paragraph",
-          "text": "Sylvar continuò a parlare con calma studiata."
+          "text": "Sylvar continu\u00F2 a parlare con calma studiata."
         },
         {
           "type": "quote",
-          "text": "«Abbiamo trovato dei cadaveri.»",
+          "text": "\u00ABAbbiamo trovato dei cadaveri.\u00BB",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "«Servitori.»",
+          "text": "\u00ABServitori.\u00BB",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "«Nobili.»",
+          "text": "\u00ABNobili.\u00BB",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "«E nell’ultima stanza ci siamo imbattuti in una donna molto alta.»",
+          "text": "\u00ABE nell\u2019ultima stanza ci siamo imbattuti in una donna molto alta.\u00BB",
           "variant": "normal"
         },
         {
           "type": "paragraph",
-          "text": "Nathan fulminò immediatamente Sylvar con lo sguardo."
+          "text": "Nathan fulmin\u00F2 immediatamente Sylvar con lo sguardo."
         },
         {
           "type": "paragraph",
@@ -1802,15 +1819,15 @@
         },
         {
           "type": "paragraph",
-          "text": "Aelar sentì la tensione salire di colpo."
+          "text": "Aelar sent\u00EC la tensione salire di colpo."
         },
         {
           "type": "paragraph",
-          "text": "E attraverso il legame mentale percepì immediatamente il pensiero di Nathan."
+          "text": "E attraverso il legame mentale percep\u00EC immediatamente il pensiero di Nathan."
         },
         {
           "type": "quote",
-          "text": "«State pronti a qualsiasi cosa.»",
+          "text": "\u00ABState pronti a qualsiasi cosa.\u00BB",
           "variant": "normal"
         },
         {
@@ -1831,25 +1848,25 @@
         },
         {
           "type": "quote",
-          "text": "«Sono felice che siate riusciti a uscire vivi da quella situazione.»",
+          "text": "\u00ABSono felice che siate riusciti a uscire vivi da quella situazione.\u00BB",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "«Dev’essere stato difficile affrontare tutti quei pazzi fanatici.»",
+          "text": "\u00ABDev\u2019essere stato difficile affrontare tutti quei pazzi fanatici.\u00BB",
           "variant": "normal"
         },
         {
           "type": "paragraph",
-          "text": "Sollevò di nuovo il calice."
+          "text": "Sollev\u00F2 di nuovo il calice."
         },
         {
           "type": "paragraph",
-          "text": "E il sorriso tornò lentamente sul suo volto."
+          "text": "E il sorriso torn\u00F2 lentamente sul suo volto."
         },
         {
           "type": "quote",
-          "text": "«Sono certo che Baldur’s Gate vi ricorderà come salvatori.»",
+          "text": "\u00ABSono certo che Baldur\u2019s Gate vi ricorder\u00E0 come salvatori.\u00BB",
           "variant": "normal"
         }
       ]
@@ -1861,7 +1878,7 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Per qualche secondo nella stanza regnò soltanto il crepitio delle lanterne."
+          "text": "Per qualche secondo nella stanza regn\u00F2 soltanto il crepitio delle lanterne."
         },
         {
           "type": "paragraph",
@@ -1873,7 +1890,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Eppure l’intera stanza sembrava in tensione."
+          "text": "Eppure l\u2019intera stanza sembrava in tensione."
         },
         {
           "type": "paragraph",
@@ -1885,16 +1902,16 @@
         },
         {
           "type": "quote",
-          "text": "«Posso chiedervi anch’io qualcosa?»",
+          "text": "\u00ABPosso chiedervi anch\u2019io qualcosa?\u00BB",
           "variant": "normal"
         },
         {
           "type": "paragraph",
-          "text": "Amrik inclinò appena il capo."
+          "text": "Amrik inclin\u00F2 appena il capo."
         },
         {
           "type": "quote",
-          "text": "«Naturalmente.»",
+          "text": "\u00ABNaturalmente.\u00BB",
           "variant": "normal"
         },
         {
@@ -1903,26 +1920,26 @@
         },
         {
           "type": "paragraph",
-          "text": "Come se una parte di lui si aspettasse ancora di dover combattere da un momento all’altro."
+          "text": "Come se una parte di lui si aspettasse ancora di dover combattere da un momento all\u2019altro."
         },
         {
           "type": "quote",
-          "text": "«Siamo stranieri in questa città.»",
+          "text": "\u00ABSiamo stranieri in questa citt\u00E0.\u00BB",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "«E voi fate parte di una delle famiglie più influenti di Baldur’s Gate.»",
+          "text": "\u00ABE voi fate parte di una delle famiglie pi\u00F9 influenti di Baldur\u2019s Gate.\u00BB",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "«Avete avuto notizie riguardo Elturel?»",
+          "text": "\u00ABAvete avuto notizie riguardo Elturel?\u00BB",
           "variant": "normal"
         },
         {
           "type": "paragraph",
-          "text": "Per la prima volta da quando era iniziato l’incontro, il sorriso di Amrik sembrò quasi autentico."
+          "text": "Per la prima volta da quando era iniziato l\u2019incontro, il sorriso di Amrik sembr\u00F2 quasi autentico."
         },
         {
           "type": "paragraph",
@@ -1930,27 +1947,27 @@
         },
         {
           "type": "quote",
-          "text": "«Elturel…»",
+          "text": "\u00ABElturel\u2026\u00BB",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "«Una tragedia terribile.»",
+          "text": "\u00ABUna tragedia terribile.\u00BB",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "«Tutti quei morti.»",
+          "text": "\u00ABTutti quei morti.\u00BB",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "«La città inghiottita tra le fiamme… dev’essere stata una scena raccapricciante.»",
+          "text": "\u00ABLa citt\u00E0 inghiottita tra le fiamme\u2026 dev\u2019essere stata una scena raccapricciante.\u00BB",
           "variant": "normal"
         },
         {
           "type": "paragraph",
-          "text": "Nathan lo fissò."
+          "text": "Nathan lo fiss\u00F2."
         },
         {
           "type": "paragraph",
@@ -1978,21 +1995,21 @@
         },
         {
           "type": "quote",
-          "text": "«Avete descritto tutto perfettamente.»",
+          "text": "\u00ABAvete descritto tutto perfettamente.\u00BB",
           "variant": "normal"
         },
         {
           "type": "paragraph",
-          "text": "Amrik alzò appena le spalle."
+          "text": "Amrik alz\u00F2 appena le spalle."
         },
         {
           "type": "quote",
-          "text": "«Ho informatori affidabili.»",
+          "text": "\u00ABHo informatori affidabili.\u00BB",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "«E le voci riguardo draghi, fiamme e portali erano troppo assurde per essere ignorate.»",
+          "text": "\u00ABE le voci riguardo draghi, fiamme e portali erano troppo assurde per essere ignorate.\u00BB",
           "variant": "normal"
         },
         {
@@ -2013,24 +2030,24 @@
         },
         {
           "type": "paragraph",
-          "text": "Quel genere di uomo capace di guardarti negli occhi mentre nasconde metà della verità."
+          "text": "Quel genere di uomo capace di guardarti negli occhi mentre nasconde met\u00E0 della verit\u00E0."
         },
         {
           "type": "paragraph",
-          "text": "Forse anche di più."
+          "text": "Forse anche di pi\u00F9."
         },
         {
           "type": "quote",
-          "text": "«Girano voci secondo cui la città sarebbe stata trascinata all’Inferno.»",
+          "text": "\u00ABGirano voci secondo cui la citt\u00E0 sarebbe stata trascinata all\u2019Inferno.\u00BB",
           "variant": "normal"
         },
         {
           "type": "paragraph",
-          "text": "Aelar osservò immediatamente la reazione dei diavoli."
+          "text": "Aelar osserv\u00F2 immediatamente la reazione dei diavoli."
         },
         {
           "type": "paragraph",
-          "text": "Quello più grande non si mosse."
+          "text": "Quello pi\u00F9 grande non si mosse."
         },
         {
           "type": "paragraph",
@@ -2046,11 +2063,11 @@
         },
         {
           "type": "paragraph",
-          "text": "Nathan lo notò."
+          "text": "Nathan lo not\u00F2."
         },
         {
           "type": "paragraph",
-          "text": "E sentì immediatamente un nodo serrarsi nello stomaco."
+          "text": "E sent\u00EC immediatamente un nodo serrarsi nello stomaco."
         },
         {
           "type": "paragraph",
@@ -2062,21 +2079,21 @@
         },
         {
           "type": "quote",
-          "text": "«Sono certo che prima o poi emergerà la verità.»",
+          "text": "\u00ABSono certo che prima o poi emerger\u00E0 la verit\u00E0.\u00BB",
           "variant": "normal"
         },
         {
           "type": "paragraph",
-          "text": "Nathan non abbassò lo sguardo."
+          "text": "Nathan non abbass\u00F2 lo sguardo."
         },
         {
           "type": "quote",
-          "text": "«Se doveste avere occasione di parlare con chiunque sia coinvolto in questa storia…»",
+          "text": "\u00ABSe doveste avere occasione di parlare con chiunque sia coinvolto in questa storia\u2026\u00BB",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "«fategli sapere che stiamo cercando i nostri compagni.»",
+          "text": "\u00ABfategli sapere che stiamo cercando i nostri compagni.\u00BB",
           "variant": "normal"
         },
         {
@@ -2089,20 +2106,20 @@
         },
         {
           "type": "quote",
-          "text": "«Sono sicuro che otterrete delle risposte molto prima di quanto immaginiate.»",
+          "text": "\u00ABSono sicuro che otterrete delle risposte molto prima di quanto immaginiate.\u00BB",
           "variant": "normal"
         },
         {
           "type": "paragraph",
-          "text": "Quella frase colpì il gruppo come una lama nascosta."
+          "text": "Quella frase colp\u00EC il gruppo come una lama nascosta."
         },
         {
           "type": "paragraph",
-          "text": "Nathan si irrigidì."
+          "text": "Nathan si irrigid\u00EC."
         },
         {
           "type": "paragraph",
-          "text": "Aelar sentì immediatamente il pericolo dietro quelle parole."
+          "text": "Aelar sent\u00EC immediatamente il pericolo dietro quelle parole."
         },
         {
           "type": "paragraph",
@@ -2110,31 +2127,31 @@
         },
         {
           "type": "paragraph",
-          "text": "Molto più di quanto stesse dicendo."
+          "text": "Molto pi\u00F9 di quanto stesse dicendo."
         },
         {
           "type": "paragraph",
-          "text": "E ormai nessuno nella stanza aveva più dubbi."
+          "text": "E ormai nessuno nella stanza aveva pi\u00F9 dubbi."
         },
         {
           "type": "paragraph",
-          "text": "Mentre il gruppo rifletteva in silenzio, Amrik si voltò leggermente verso il diavoletto più piccolo."
+          "text": "Mentre il gruppo rifletteva in silenzio, Amrik si volt\u00F2 leggermente verso il diavoletto pi\u00F9 piccolo."
         },
         {
           "type": "paragraph",
-          "text": "Portò una mano davanti alle labbra."
+          "text": "Port\u00F2 una mano davanti alle labbra."
         },
         {
           "type": "paragraph",
-          "text": "E sussurrò qualcosa."
+          "text": "E sussurr\u00F2 qualcosa."
         },
         {
           "type": "paragraph",
-          "text": "Elis tese immediatamente l’orecchio."
+          "text": "Elis tese immediatamente l\u2019orecchio."
         },
         {
           "type": "paragraph",
-          "text": "Riuscì a cogliere soltanto frammenti."
+          "text": "Riusc\u00EC a cogliere soltanto frammenti."
         },
         {
           "type": "paragraph",
@@ -2146,7 +2163,7 @@
         },
         {
           "type": "paragraph",
-          "text": "E un’altra parola."
+          "text": "E un\u2019altra parola."
         },
         {
           "type": "paragraph",
@@ -2154,7 +2171,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Il tiefling sentì immediatamente un brivido."
+          "text": "Il tiefling sent\u00EC immediatamente un brivido."
         },
         {
           "type": "paragraph",
@@ -2166,7 +2183,7 @@
         },
         {
           "type": "paragraph",
-          "text": "E all’improvviso tutto acquistò senso."
+          "text": "E all\u2019improvviso tutto acquist\u00F2 senso."
         },
         {
           "type": "paragraph",
@@ -2178,11 +2195,11 @@
         },
         {
           "type": "paragraph",
-          "text": "Qualcuno, laggiù nel tempio, doveva essere sopravvissuto."
+          "text": "Qualcuno, laggi\u00F9 nel tempio, doveva essere sopravvissuto."
         },
         {
           "type": "paragraph",
-          "text": "O almeno lui sperava che fosse così."
+          "text": "O almeno lui sperava che fosse cos\u00EC."
         },
         {
           "type": "paragraph",
@@ -2190,35 +2207,35 @@
         },
         {
           "type": "quote",
-          "text": "«C’era una donna molto alta.»",
+          "text": "\u00ABC\u2019era una donna molto alta.\u00BB",
           "variant": "normal"
         },
         {
           "type": "paragraph",
-          "text": "Nathan lo fulminò immediatamente con lo sguardo."
+          "text": "Nathan lo fulmin\u00F2 immediatamente con lo sguardo."
         },
         {
           "type": "paragraph",
-          "text": "Ma Sylvar continuò senza esitazioni."
+          "text": "Ma Sylvar continu\u00F2 senza esitazioni."
         },
         {
           "type": "quote",
-          "text": "«Quando siamo arrivati, c’erano soltanto cadaveri.»",
+          "text": "\u00ABQuando siamo arrivati, c\u2019erano soltanto cadaveri.\u00BB",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "«Cultisti morti.»",
+          "text": "\u00ABCultisti morti.\u00BB",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "«Forse qualche servitore.»",
+          "text": "\u00ABForse qualche servitore.\u00BB",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "«Difficile dirlo.»",
+          "text": "\u00ABDifficile dirlo.\u00BB",
           "variant": "normal"
         },
         {
@@ -2235,12 +2252,12 @@
         },
         {
           "type": "quote",
-          "text": "«Sono felice che siate riusciti a uscirne vivi.»",
+          "text": "\u00ABSono felice che siate riusciti a uscirne vivi.\u00BB",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "«Affrontare tutti quei fanatici dev’essere stato… spiacevole.»",
+          "text": "\u00ABAffrontare tutti quei fanatici dev\u2019essere stato\u2026 spiacevole.\u00BB",
           "variant": "normal"
         },
         {
@@ -2249,38 +2266,38 @@
         },
         {
           "type": "paragraph",
-          "text": "Poi, improvvisamente, sparì."
+          "text": "Poi, improvvisamente, spar\u00EC."
         },
         {
           "type": "paragraph",
-          "text": "Un piccolo sbuffo d’aria."
+          "text": "Un piccolo sbuffo d\u2019aria."
         },
         {
           "type": "paragraph",
-          "text": "E più nulla."
+          "text": "E pi\u00F9 nulla."
         },
         {
           "type": "paragraph",
-          "text": "Amrik si alzò lentamente dalla poltrona."
+          "text": "Amrik si alz\u00F2 lentamente dalla poltrona."
         },
         {
           "type": "quote",
-          "text": "«Bene, signori.»",
+          "text": "\u00ABBene, signori.\u00BB",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "«È stato un vero piacere.»",
+          "text": "\u00AB\u00C8 stato un vero piacere.\u00BB",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "«Spero che i cocktail della Lanterna Bassa siano stati di vostro gradimento.»",
+          "text": "\u00ABSpero che i cocktail della Lanterna Bassa siano stati di vostro gradimento.\u00BB",
           "variant": "normal"
         },
         {
           "type": "paragraph",
-          "text": "Il sorriso tornò sul suo volto."
+          "text": "Il sorriso torn\u00F2 sul suo volto."
         },
         {
           "type": "paragraph",
@@ -2296,26 +2313,26 @@
         },
         {
           "type": "quote",
-          "text": "«E mi raccomando…»",
+          "text": "\u00ABE mi raccomando\u2026\u00BB",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "«non perdete l’invito del Lord Fauler.»",
+          "text": "\u00ABnon perdete l\u2019invito del Lord Fauler.\u00BB",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "«Consideratelo un consiglio da gentiluomo a gentiluomini.»",
+          "text": "\u00ABConsideratelo un consiglio da gentiluomo a gentiluomini.\u00BB",
           "variant": "normal"
         },
         {
           "type": "paragraph",
-          "text": "Sylvar inclinò lentamente il capo."
+          "text": "Sylvar inclin\u00F2 lentamente il capo."
         },
         {
           "type": "quote",
-          "text": "«Avremo molto di cui parlare, allora.»",
+          "text": "\u00ABAvremo molto di cui parlare, allora.\u00BB",
           "variant": "normal"
         },
         {
@@ -2324,21 +2341,21 @@
         },
         {
           "type": "paragraph",
-          "text": "Ma stavolta, nei suoi occhi, non c’era alcun calore."
+          "text": "Ma stavolta, nei suoi occhi, non c\u2019era alcun calore."
         },
         {
           "type": "quote",
-          "text": "«Oh, sì.»",
+          "text": "\u00ABOh, s\u00EC.\u00BB",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "«Ne sono assolutamente certo.»",
+          "text": "\u00ABNe sono assolutamente certo.\u00BB",
           "variant": "normal"
         },
         {
           "type": "paragraph",
-          "text": "Poco dopo il gruppo lasciò la stanza."
+          "text": "Poco dopo il gruppo lasci\u00F2 la stanza."
         },
         {
           "type": "paragraph",
@@ -2346,15 +2363,15 @@
         },
         {
           "type": "paragraph",
-          "text": "Il capitano li salutò con falsa cordialità."
+          "text": "Il capitano li salut\u00F2 con falsa cordialit\u00E0."
         },
         {
           "type": "paragraph",
-          "text": "Ma appena il gruppo uscì dalla Lanterna Bassa, l’aria di Baldur’s Gate sembrò improvvisamente più fredda."
+          "text": "Ma appena il gruppo usc\u00EC dalla Lanterna Bassa, l\u2019aria di Baldur\u2019s Gate sembr\u00F2 improvvisamente pi\u00F9 fredda."
         },
         {
           "type": "paragraph",
-          "text": "E nessuno di loro riusciva più a togliersi dalla testa lo stesso pensiero."
+          "text": "E nessuno di loro riusciva pi\u00F9 a togliersi dalla testa lo stesso pensiero."
         },
         {
           "type": "paragraph",
@@ -2366,7 +2383,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Erano coinvolti molto più profondamente di quanto avessero immaginato."
+          "text": "Erano coinvolti molto pi\u00F9 profondamente di quanto avessero immaginato."
         }
       ]
     },
@@ -2377,11 +2394,11 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Quando il gruppo uscì dalla Lanterna Bassa, la pioggia si era ormai ridotta a una lieve pioggerellina."
+          "text": "Quando il gruppo usc\u00EC dalla Lanterna Bassa, la pioggia si era ormai ridotta a una lieve pioggerellina."
         },
         {
           "type": "paragraph",
-          "text": "L’acqua scivolava lentamente sui pontili di Baldur’s Gate."
+          "text": "L\u2019acqua scivolava lentamente sui pontili di Baldur\u2019s Gate."
         },
         {
           "type": "paragraph",
@@ -2389,7 +2406,7 @@
         },
         {
           "type": "paragraph",
-          "text": "E per un istante sembrò quasi che tutto fosse tornato normale."
+          "text": "E per un istante sembr\u00F2 quasi che tutto fosse tornato normale."
         },
         {
           "type": "paragraph",
@@ -2405,11 +2422,11 @@
         },
         {
           "type": "paragraph",
-          "text": "Quando il gruppo si avvicinò, la figura sollevò lentamente il capo."
+          "text": "Quando il gruppo si avvicin\u00F2, la figura sollev\u00F2 lentamente il capo."
         },
         {
           "type": "paragraph",
-          "text": "Sotto gli stracci qualcosa brillò."
+          "text": "Sotto gli stracci qualcosa brill\u00F2."
         },
         {
           "type": "paragraph",
@@ -2441,12 +2458,12 @@
         },
         {
           "type": "quote",
-          "text": "«Voi siete quelli venuti da Elturel.»",
+          "text": "\u00ABVoi siete quelli venuti da Elturel.\u00BB",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "«Quelli che hanno sconfitto il Culto dei Tre Morti.»",
+          "text": "\u00ABQuelli che hanno sconfitto il Culto dei Tre Morti.\u00BB",
           "variant": "normal"
         },
         {
@@ -2459,7 +2476,7 @@
         },
         {
           "type": "quote",
-          "text": "«Nel caso fossimo noi?»",
+          "text": "\u00ABNel caso fossimo noi?\u00BB",
           "variant": "normal"
         },
         {
@@ -2468,17 +2485,17 @@
         },
         {
           "type": "quote",
-          "text": "«È una domanda retorica.»",
+          "text": "\u00AB\u00C8 una domanda retorica.\u00BB",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "«Conosco già la risposta.»",
+          "text": "\u00ABConosco gi\u00E0 la risposta.\u00BB",
           "variant": "normal"
         },
         {
           "type": "paragraph",
-          "text": "Sylvar osservò attentamente il volto della sconosciuta."
+          "text": "Sylvar osserv\u00F2 attentamente il volto della sconosciuta."
         },
         {
           "type": "paragraph",
@@ -2486,7 +2503,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Aelar, invece, percepì immediatamente qualcosa di diverso rispetto agli incontri precedenti."
+          "text": "Aelar, invece, percep\u00EC immediatamente qualcosa di diverso rispetto agli incontri precedenti."
         },
         {
           "type": "paragraph",
@@ -2502,21 +2519,21 @@
         },
         {
           "type": "quote",
-          "text": "«Cosa vuoi da noi?»",
+          "text": "\u00ABCosa vuoi da noi?\u00BB",
           "variant": "normal"
         },
         {
           "type": "paragraph",
-          "text": "Prima ancora che la donna potesse rispondere, Nathan sentì la voce mentale di Sylvar."
+          "text": "Prima ancora che la donna potesse rispondere, Nathan sent\u00EC la voce mentale di Sylvar."
         },
         {
           "type": "quote",
-          "text": "«Controlla se senti presenze infernali nei dintorni.»",
+          "text": "\u00ABControlla se senti presenze infernali nei dintorni.\u00BB",
           "variant": "normal"
         },
         {
           "type": "paragraph",
-          "text": "Nathan attivò nuovamente i propri sensi."
+          "text": "Nathan attiv\u00F2 nuovamente i propri sensi."
         },
         {
           "type": "paragraph",
@@ -2524,7 +2541,7 @@
         },
         {
           "type": "paragraph",
-          "text": "E immediatamente percepì qualcosa."
+          "text": "E immediatamente percep\u00EC qualcosa."
         },
         {
           "type": "paragraph",
@@ -2552,25 +2569,25 @@
         },
         {
           "type": "paragraph",
-          "text": "Nathan non cambiò espressione."
+          "text": "Nathan non cambi\u00F2 espressione."
         },
         {
           "type": "paragraph",
-          "text": "Ma attraverso il collegamento mentale la sua voce arrivò immediatamente agli altri."
+          "text": "Ma attraverso il collegamento mentale la sua voce arriv\u00F2 immediatamente agli altri."
         },
         {
           "type": "quote",
-          "text": "«Ci stanno osservando.»",
+          "text": "\u00ABCi stanno osservando.\u00BB",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "«Due immondi sui tetti.»",
+          "text": "\u00ABDue immondi sui tetti.\u00BB",
           "variant": "normal"
         },
         {
           "type": "paragraph",
-          "text": "Sylvar si avvicinò lentamente alla donna."
+          "text": "Sylvar si avvicin\u00F2 lentamente alla donna."
         },
         {
           "type": "paragraph",
@@ -2578,7 +2595,7 @@
         },
         {
           "type": "quote",
-          "text": "«Piacere.»",
+          "text": "\u00ABPiacere.\u00BB",
           "variant": "normal"
         },
         {
@@ -2587,20 +2604,20 @@
         },
         {
           "type": "paragraph",
-          "text": "E nello stesso istante Sylvar attivò il proprio dono telepatico."
+          "text": "E nello stesso istante Sylvar attiv\u00F2 il proprio dono telepatico."
         },
         {
           "type": "paragraph",
-          "text": "La voce si insinuò direttamente nella mente della sconosciuta."
+          "text": "La voce si insinu\u00F2 direttamente nella mente della sconosciuta."
         },
         {
           "type": "quote",
-          "text": "«Non parlare apertamente.»",
+          "text": "\u00ABNon parlare apertamente.\u00BB",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "«Qualcuno ci sta ascoltando.»",
+          "text": "\u00ABQualcuno ci sta ascoltando.\u00BB",
           "variant": "normal"
         },
         {
@@ -2613,7 +2630,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Continuò a muovere le labbra normalmente."
+          "text": "Continu\u00F2 a muovere le labbra normalmente."
         },
         {
           "type": "paragraph",
@@ -2621,7 +2638,7 @@
         },
         {
           "type": "quote",
-          "text": "«Ho bisogno del vostro aiuto.»",
+          "text": "\u00ABHo bisogno del vostro aiuto.\u00BB",
           "variant": "normal"
         },
         {
@@ -2638,12 +2655,12 @@
         },
         {
           "type": "quote",
-          "text": "«Quello che è successo a Elturel non deve sparire nel silenzio.»",
+          "text": "\u00ABQuello che \u00E8 successo a Elturel non deve sparire nel silenzio.\u00BB",
           "variant": "normal"
         },
         {
           "type": "paragraph",
-          "text": "Aelar si irrigidì immediatamente."
+          "text": "Aelar si irrigid\u00EC immediatamente."
         },
         {
           "type": "paragraph",
@@ -2651,38 +2668,38 @@
         },
         {
           "type": "paragraph",
-          "text": "La donna continuò."
+          "text": "La donna continu\u00F2."
         },
         {
           "type": "quote",
-          "text": "«Facevo parte della guardia cittadina di Elturel.»",
+          "text": "\u00ABFacevo parte della guardia cittadina di Elturel.\u00BB",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "«Mi stavo allenando fuori città quando è successo il disastro.»",
+          "text": "\u00ABMi stavo allenando fuori citt\u00E0 quando \u00E8 successo il disastro.\u00BB",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "«Quando sono tornata… ho trovato soltanto il cratere.»",
+          "text": "\u00ABQuando sono tornata\u2026 ho trovato soltanto il cratere.\u00BB",
           "variant": "normal"
         },
         {
           "type": "paragraph",
-          "text": "Per un istante nessuno parlò."
+          "text": "Per un istante nessuno parl\u00F2."
         },
         {
           "type": "paragraph",
-          "text": "Il ricordo di Elturel che scompariva tra le catene e le fiamme tornò violento nella mente del gruppo, e con esso quel rosso che nessun tramonto conosce."
+          "text": "Il ricordo di Elturel che scompariva tra le catene e le fiamme torn\u00F2 violento nella mente del gruppo, e con esso quel rosso che nessun tramonto conosce."
         },
         {
           "type": "paragraph",
-          "text": "La donna spiegò di aver scortato un gruppo di superstiti fino a Baldur’s Gate."
+          "text": "La donna spieg\u00F2 di aver scortato un gruppo di superstiti fino a Baldur\u2019s Gate."
         },
         {
           "type": "paragraph",
-          "text": "Di essersi introdotta illegalmente in città."
+          "text": "Di essersi introdotta illegalmente in citt\u00E0."
         },
         {
           "type": "paragraph",
@@ -2690,21 +2707,21 @@
         },
         {
           "type": "quote",
-          "text": "«Ma non è questo il punto.»",
+          "text": "\u00ABMa non \u00E8 questo il punto.\u00BB",
           "variant": "normal"
         },
         {
           "type": "paragraph",
-          "text": "La sua voce mentale si fece più dura."
+          "text": "La sua voce mentale si fece pi\u00F9 dura."
         },
         {
           "type": "quote",
-          "text": "«Credo che Thavius Kreeg sia qui a Baldur’s Gate.»",
+          "text": "\u00ABCredo che Thavius Kreeg sia qui a Baldur\u2019s Gate.\u00BB",
           "variant": "normal"
         },
         {
           "type": "paragraph",
-          "text": "Il nome colpì il gruppo come una frustata."
+          "text": "Il nome colp\u00EC il gruppo come una frustata."
         },
         {
           "type": "paragraph",
@@ -2712,7 +2729,7 @@
         },
         {
           "type": "paragraph",
-          "text": "L’Alto Osservatore."
+          "text": "L\u2019Alto Osservatore."
         },
         {
           "type": "paragraph",
@@ -2720,11 +2737,11 @@
         },
         {
           "type": "paragraph",
-          "text": "L’uomo che, secondo le voci, aveva stretto un patto con l’Inferno."
+          "text": "L\u2019uomo che, secondo le voci, aveva stretto un patto con l\u2019Inferno."
         },
         {
           "type": "quote",
-          "text": "«Come lo sai?»",
+          "text": "\u00ABCome lo sai?\u00BB",
           "variant": "normal"
         },
         {
@@ -2733,27 +2750,27 @@
         },
         {
           "type": "quote",
-          "text": "«Non ne sono certa.»",
+          "text": "\u00ABNon ne sono certa.\u00BB",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "«Ma l’ho visto assieme a delle guardie legate ai Vanthampur.»",
+          "text": "\u00ABMa l\u2019ho visto assieme a delle guardie legate ai Vanthampur.\u00BB",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "«Ho cercato di seguirli.»",
+          "text": "\u00ABHo cercato di seguirli.\u00BB",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "«Ed è così che ho origliato la vostra conversazione.»",
+          "text": "\u00ABEd \u00E8 cos\u00EC che ho origliato la vostra conversazione.\u00BB",
           "variant": "normal"
         },
         {
           "type": "paragraph",
-          "text": "Nathan incrociò lentamente le braccia."
+          "text": "Nathan incroci\u00F2 lentamente le braccia."
         },
         {
           "type": "paragraph",
@@ -2781,53 +2798,53 @@
         },
         {
           "type": "quote",
-          "text": "«Pensi che Kreeg sappia cosa sia successo alla città?»",
+          "text": "\u00ABPensi che Kreeg sappia cosa sia successo alla citt\u00E0?\u00BB",
           "variant": "normal"
         },
         {
           "type": "paragraph",
-          "text": "La donna annuì immediatamente."
+          "text": "La donna annu\u00EC immediatamente."
         },
         {
           "type": "quote",
-          "text": "«Se qualcuno conosce la verità… è lui.»",
+          "text": "\u00ABSe qualcuno conosce la verit\u00E0\u2026 \u00E8 lui.\u00BB",
           "variant": "normal"
         },
         {
           "type": "paragraph",
-          "text": "Sylvar osservò attentamente la donna."
+          "text": "Sylvar osserv\u00F2 attentamente la donna."
         },
         {
           "type": "paragraph",
-          "text": "Poi parlò con tono più calmo."
+          "text": "Poi parl\u00F2 con tono pi\u00F9 calmo."
         },
         {
           "type": "quote",
-          "text": "«Pedinare i Vanthampur da sola è una pessima idea.»",
+          "text": "\u00ABPedinare i Vanthampur da sola \u00E8 una pessima idea.\u00BB",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "«La loro villa sarà piena di guardie.»",
+          "text": "\u00ABLa loro villa sar\u00E0 piena di guardie.\u00BB",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "«E se ti catturano, sparirai senza lasciare traccia.»",
+          "text": "\u00ABE se ti catturano, sparirai senza lasciare traccia.\u00BB",
           "variant": "normal"
         },
         {
           "type": "paragraph",
-          "text": "La donna abbassò appena lo sguardo."
+          "text": "La donna abbass\u00F2 appena lo sguardo."
         },
         {
           "type": "quote",
-          "text": "«Potrei restare con voi.»",
+          "text": "\u00ABPotrei restare con voi.\u00BB",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "«Ma attirerei soltanto altra attenzione.»",
+          "text": "\u00ABMa attirerei soltanto altra attenzione.\u00BB",
           "variant": "normal"
         },
         {
@@ -2840,7 +2857,7 @@
         },
         {
           "type": "quote",
-          "text": "«Non sappiamo ancora se possiamo fidarci.»",
+          "text": "\u00ABNon sappiamo ancora se possiamo fidarci.\u00BB",
           "variant": "normal"
         },
         {
@@ -2861,12 +2878,12 @@
         },
         {
           "type": "quote",
-          "text": "«Quando avrete bisogno di me, distruggetela.»",
+          "text": "\u00ABQuando avrete bisogno di me, distruggetela.\u00BB",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "«Capirò che dovrò raggiungervi.»",
+          "text": "\u00ABCapir\u00F2 che dovr\u00F2 raggiungervi.\u00BB",
           "variant": "normal"
         },
         {
@@ -2875,16 +2892,16 @@
         },
         {
           "type": "quote",
-          "text": "«E se fossi tu ad avere bisogno d’aiuto?»",
+          "text": "\u00ABE se fossi tu ad avere bisogno d\u2019aiuto?\u00BB",
           "variant": "normal"
         },
         {
           "type": "paragraph",
-          "text": "La donna accennò un sorriso stanco."
+          "text": "La donna accenn\u00F2 un sorriso stanco."
         },
         {
           "type": "quote",
-          "text": "«Allora romperò la mia.»",
+          "text": "\u00ABAllora romper\u00F2 la mia.\u00BB",
           "variant": "normal"
         },
         {
@@ -2897,12 +2914,12 @@
         },
         {
           "type": "quote",
-          "text": "«Non posso restare oltre.»",
+          "text": "\u00ABNon posso restare oltre.\u00BB",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "«Se scoprono che vi ho contattati, avrò addosso metà città.»",
+          "text": "\u00ABSe scoprono che vi ho contattati, avr\u00F2 addosso met\u00E0 citt\u00E0.\u00BB",
           "variant": "normal"
         },
         {
@@ -2915,15 +2932,15 @@
         },
         {
           "type": "paragraph",
-          "text": "Poi si voltò."
+          "text": "Poi si volt\u00F2."
         },
         {
           "type": "paragraph",
-          "text": "Attraversò rapidamente il vicolo."
+          "text": "Attravers\u00F2 rapidamente il vicolo."
         },
         {
           "type": "paragraph",
-          "text": "E pochi istanti dopo sparì nell’oscurità di Baldur’s Gate."
+          "text": "E pochi istanti dopo spar\u00EC nell\u2019oscurit\u00E0 di Baldur\u2019s Gate."
         }
       ]
     },
@@ -2934,7 +2951,7 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "La donna sparì nell’oscurità del vicolo senza voltarsi."
+          "text": "La donna spar\u00EC nell\u2019oscurit\u00E0 del vicolo senza voltarsi."
         },
         {
           "type": "paragraph",
@@ -2942,11 +2959,11 @@
         },
         {
           "type": "paragraph",
-          "text": "Poi Sylvar sbuffò lentamente."
+          "text": "Poi Sylvar sbuff\u00F2 lentamente."
         },
         {
           "type": "quote",
-          "text": "«Buona fortuna.»",
+          "text": "\u00ABBuona fortuna.\u00BB",
           "variant": "normal"
         },
         {
@@ -2959,11 +2976,11 @@
         },
         {
           "type": "paragraph",
-          "text": "Aelar osservò il punto in cui era sparita."
+          "text": "Aelar osserv\u00F2 il punto in cui era sparita."
         },
         {
           "type": "paragraph",
-          "text": "Poi guardò Nathan."
+          "text": "Poi guard\u00F2 Nathan."
         },
         {
           "type": "paragraph",
@@ -2979,15 +2996,15 @@
         },
         {
           "type": "paragraph",
-          "text": "Tutto stava iniziando a intrecciarsi in qualcosa di molto più grande di loro."
+          "text": "Tutto stava iniziando a intrecciarsi in qualcosa di molto pi\u00F9 grande di loro."
         },
         {
           "type": "paragraph",
-          "text": "Sylvar si passò una mano sul volto."
+          "text": "Sylvar si pass\u00F2 una mano sul volto."
         },
         {
           "type": "quote",
-          "text": "«Credo sia il caso di tornare in locanda.»",
+          "text": "\u00ABCredo sia il caso di tornare in locanda.\u00BB",
           "variant": "normal"
         },
         {
@@ -3020,16 +3037,16 @@
         },
         {
           "type": "quote",
-          "text": "«Tu invece no.»",
+          "text": "\u00ABTu invece no.\u00BB",
           "variant": "normal"
         },
         {
           "type": "paragraph",
-          "text": "Gallivan sbatté le palpebre."
+          "text": "Gallivan sbatt\u00E9 le palpebre."
         },
         {
           "type": "quote",
-          "text": "«Cosa c’è che non va?»",
+          "text": "\u00ABCosa c\u2019\u00E8 che non va?\u00BB",
           "variant": "normal"
         },
         {
@@ -3050,113 +3067,113 @@
         },
         {
           "type": "paragraph",
-          "text": "Troppa gente che sembrava sapere già chi fossero."
+          "text": "Troppa gente che sembrava sapere gi\u00E0 chi fossero."
         },
         {
           "type": "quote",
-          "text": "«Possiamo fidarci di te?»",
+          "text": "\u00ABPossiamo fidarci di te?\u00BB",
           "variant": "normal"
         },
         {
           "type": "paragraph",
-          "text": "Gallivan sembrò sinceramente offeso."
+          "text": "Gallivan sembr\u00F2 sinceramente offeso."
         },
         {
           "type": "quote",
-          "text": "«Io sono la persona più affidabile che abbiate incontrato oggi.»",
+          "text": "\u00ABIo sono la persona pi\u00F9 affidabile che abbiate incontrato oggi.\u00BB",
           "variant": "normal"
         },
         {
           "type": "paragraph",
-          "text": "Sylvar incrociò lentamente le braccia."
+          "text": "Sylvar incroci\u00F2 lentamente le braccia."
         },
         {
           "type": "quote",
-          "text": "«Capirai che, dal nostro punto di vista, la situazione appare… curiosa.»",
+          "text": "\u00ABCapirai che, dal nostro punto di vista, la situazione appare\u2026 curiosa.\u00BB",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "«Compari al gala.»",
+          "text": "\u00ABCompari al gala.\u00BB",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "«Poi ci ritroviamo invitati da un Vanthampur.»",
+          "text": "\u00ABPoi ci ritroviamo invitati da un Vanthampur.\u00BB",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "«E adesso scopriamo che hai contatti con persone che noi non conosciamo.»",
-          "variant": "normal"
-        },
-        {
-          "type": "paragraph",
-          "text": "Gallivan sbuffò."
-        },
-        {
-          "type": "quote",
-          "text": "«Io ero al gala per i miei motivi.»",
-          "variant": "normal"
-        },
-        {
-          "type": "quote",
-          "text": "«E non conosco davvero Amrik.»",
-          "variant": "normal"
-        },
-        {
-          "type": "quote",
-          "text": "«Ci ho parlato una volta sola.»",
-          "variant": "normal"
-        },
-        {
-          "type": "quote",
-          "text": "«Dovevo incontrare Lucius alla locanda, non certo ritrovarmi in mezzo a tutta questa follia.»",
+          "text": "\u00ABE adesso scopriamo che hai contatti con persone che noi non conosciamo.\u00BB",
           "variant": "normal"
         },
         {
           "type": "paragraph",
-          "text": "Aelar lo osservò ancora per qualche secondo."
-        },
-        {
-          "type": "paragraph",
-          "text": "Poi si voltò verso il resto del gruppo."
+          "text": "Gallivan sbuff\u00F2."
         },
         {
           "type": "quote",
-          "text": "«Che ne dite?»",
-          "variant": "normal"
-        },
-        {
-          "type": "paragraph",
-          "text": "Elis scrollò appena le spalle."
-        },
-        {
-          "type": "quote",
-          "text": "«Abbiamo appena affrontato un culto assassino.»",
+          "text": "\u00ABIo ero al gala per i miei motivi.\u00BB",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "«Non credo che il bardo sia il problema peggiore della serata.»",
+          "text": "\u00ABE non conosco davvero Amrik.\u00BB",
+          "variant": "normal"
+        },
+        {
+          "type": "quote",
+          "text": "\u00ABCi ho parlato una volta sola.\u00BB",
+          "variant": "normal"
+        },
+        {
+          "type": "quote",
+          "text": "\u00ABDovevo incontrare Lucius alla locanda, non certo ritrovarmi in mezzo a tutta questa follia.\u00BB",
           "variant": "normal"
         },
         {
           "type": "paragraph",
-          "text": "Gallivan sospirò teatralmente."
+          "text": "Aelar lo osserv\u00F2 ancora per qualche secondo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi si volt\u00F2 verso il resto del gruppo."
         },
         {
           "type": "quote",
-          "text": "«Finalmente qualcuno con del buon senso.»",
+          "text": "\u00ABChe ne dite?\u00BB",
           "variant": "normal"
         },
         {
           "type": "paragraph",
-          "text": "Sylvar lo ignorò completamente."
+          "text": "Elis scroll\u00F2 appena le spalle."
         },
         {
           "type": "quote",
-          "text": "«Da dove vieni davvero?»",
+          "text": "\u00ABAbbiamo appena affrontato un culto assassino.\u00BB",
+          "variant": "normal"
+        },
+        {
+          "type": "quote",
+          "text": "\u00ABNon credo che il bardo sia il problema peggiore della serata.\u00BB",
+          "variant": "normal"
+        },
+        {
+          "type": "paragraph",
+          "text": "Gallivan sospir\u00F2 teatralmente."
+        },
+        {
+          "type": "quote",
+          "text": "\u00ABFinalmente qualcuno con del buon senso.\u00BB",
+          "variant": "normal"
+        },
+        {
+          "type": "paragraph",
+          "text": "Sylvar lo ignor\u00F2 completamente."
+        },
+        {
+          "type": "quote",
+          "text": "\u00ABDa dove vieni davvero?\u00BB",
           "variant": "normal"
         },
         {
@@ -3165,12 +3182,12 @@
         },
         {
           "type": "quote",
-          "text": "«Berdusk.»",
+          "text": "\u00ABBerdusk.\u00BB",
           "variant": "normal"
         },
         {
           "type": "paragraph",
-          "text": "Nathan annuì lentamente."
+          "text": "Nathan annu\u00EC lentamente."
         },
         {
           "type": "paragraph",
@@ -3202,11 +3219,11 @@
         },
         {
           "type": "paragraph",
-          "text": "E Baldur’s Gate sembrava improvvisamente molto più silenziosa."
+          "text": "E Baldur\u2019s Gate sembrava improvvisamente molto pi\u00F9 silenziosa."
         },
         {
           "type": "quote",
-          "text": "«I nemici vanno tenuti più vicini degli amici.»",
+          "text": "\u00ABI nemici vanno tenuti pi\u00F9 vicini degli amici.\u00BB",
           "variant": "normal"
         },
         {
@@ -3215,20 +3232,20 @@
         },
         {
           "type": "quote",
-          "text": "«Questa frase finirà malissimo.»",
+          "text": "\u00ABQuesta frase finir\u00E0 malissimo.\u00BB",
           "variant": "normal"
         },
         {
           "type": "paragraph",
-          "text": "Fu in quel momento che Kyran si fermò."
+          "text": "Fu in quel momento che Kyran si ferm\u00F2."
         },
         {
           "type": "paragraph",
-          "text": "Lo sguardo fisso davanti a sé."
+          "text": "Lo sguardo fisso davanti a s\u00E9."
         },
         {
           "type": "paragraph",
-          "text": "Il gruppo seguì automaticamente la direzione dei suoi occhi."
+          "text": "Il gruppo segu\u00EC automaticamente la direzione dei suoi occhi."
         },
         {
           "type": "paragraph",
@@ -3256,11 +3273,11 @@
         },
         {
           "type": "paragraph",
-          "text": "Il dragonide avanzò lentamente."
+          "text": "Il dragonide avanz\u00F2 lentamente."
         },
         {
           "type": "paragraph",
-          "text": "Inspirò profondamente."
+          "text": "Inspir\u00F2 profondamente."
         },
         {
           "type": "paragraph",
@@ -3268,21 +3285,21 @@
         },
         {
           "type": "quote",
-          "text": "«Sento un odore… familiare.»",
+          "text": "\u00ABSento un odore\u2026 familiare.\u00BB",
           "variant": "normal"
         },
         {
           "type": "paragraph",
-          "text": "Nathan portò immediatamente una mano verso l’elsa."
+          "text": "Nathan port\u00F2 immediatamente una mano verso l\u2019elsa."
         },
         {
           "type": "quote",
-          "text": "«Avete qualcosa che ci appartiene.»",
+          "text": "\u00ABAvete qualcosa che ci appartiene.\u00BB",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "«E sarebbe il caso di ridarcelo.»",
+          "text": "\u00ABE sarebbe il caso di ridarcelo.\u00BB",
           "variant": "normal"
         },
         {
@@ -3291,11 +3308,11 @@
         },
         {
           "type": "paragraph",
-          "text": "La tensione si tese all’istante."
+          "text": "La tensione si tese all\u2019istante."
         },
         {
           "type": "quote",
-          "text": "«E cosa vi apparterrebbe, esattamente?»",
+          "text": "\u00ABE cosa vi apparterrebbe, esattamente?\u00BB",
           "variant": "normal"
         },
         {
@@ -3304,12 +3321,12 @@
         },
         {
           "type": "quote",
-          "text": "«Odorate di tesoro.»",
+          "text": "\u00ABOdorate di tesoro.\u00BB",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "«Tesoro che appartiene al nostro ordine.»",
+          "text": "\u00ABTesoro che appartiene al nostro ordine.\u00BB",
           "variant": "normal"
         },
         {
@@ -3330,21 +3347,21 @@
         },
         {
           "type": "paragraph",
-          "text": "E nello stesso istante il dragonide pronunciò finalmente il nome."
+          "text": "E nello stesso istante il dragonide pronunci\u00F2 finalmente il nome."
         },
         {
           "type": "quote",
-          "text": "«Il Culto del Drago.»",
+          "text": "\u00ABIl Culto del Drago.\u00BB",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "«Al servizio della Regina di Tutti i Draghi.»",
+          "text": "\u00ABAl servizio della Regina di Tutti i Draghi.\u00BB",
           "variant": "normal"
         },
         {
           "type": "paragraph",
-          "text": "Aelar percepì immediatamente il cambio di atmosfera."
+          "text": "Aelar percep\u00EC immediatamente il cambio di atmosfera."
         },
         {
           "type": "paragraph",
@@ -3360,21 +3377,21 @@
         },
         {
           "type": "paragraph",
-          "text": "Alaster tentò di mantenere il controllo."
+          "text": "Alaster tent\u00F2 di mantenere il controllo."
         },
         {
           "type": "quote",
-          "text": "«Beh, siete arrivati tardi.»",
+          "text": "\u00ABBeh, siete arrivati tardi.\u00BB",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "«Abbiamo già consegnato tutto a un uomo sulla nave.»",
+          "text": "\u00ABAbbiamo gi\u00E0 consegnato tutto a un uomo sulla nave.\u00BB",
           "variant": "normal"
         },
         {
           "type": "paragraph",
-          "text": "Il dragonide si avvicinò lentamente."
+          "text": "Il dragonide si avvicin\u00F2 lentamente."
         },
         {
           "type": "paragraph",
@@ -3390,19 +3407,19 @@
         },
         {
           "type": "paragraph",
-          "text": "Il dragonide inspirò ancora."
+          "text": "Il dragonide inspir\u00F2 ancora."
         },
         {
           "type": "paragraph",
-          "text": "Poi si fermò davanti a Sylvar."
+          "text": "Poi si ferm\u00F2 davanti a Sylvar."
         },
         {
           "type": "paragraph",
-          "text": "Annusò l’aria attorno a lui."
+          "text": "Annus\u00F2 l\u2019aria attorno a lui."
         },
         {
           "type": "quote",
-          "text": "«No.»",
+          "text": "\u00ABNo.\u00BB",
           "variant": "normal"
         },
         {
@@ -3411,29 +3428,29 @@
         },
         {
           "type": "paragraph",
-          "text": "Ancora più vicino."
+          "text": "Ancora pi\u00F9 vicino."
         },
         {
           "type": "paragraph",
-          "text": "Infine si fermò davanti ad Alaster."
+          "text": "Infine si ferm\u00F2 davanti ad Alaster."
         },
         {
           "type": "paragraph",
-          "text": "E questa volta il sorriso sparì."
+          "text": "E questa volta il sorriso spar\u00EC."
         },
         {
           "type": "quote",
-          "text": "«Tu.»",
+          "text": "\u00ABTu.\u00BB",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "«Tu hai qualcosa di molto più importante.»",
+          "text": "\u00ABTu hai qualcosa di molto pi\u00F9 importante.\u00BB",
           "variant": "normal"
         },
         {
           "type": "paragraph",
-          "text": "Alaster tentò ancora di bluffare."
+          "text": "Alaster tent\u00F2 ancora di bluffare."
         },
         {
           "type": "paragraph",
@@ -3445,20 +3462,20 @@
         },
         {
           "type": "paragraph",
-          "text": "Ma il dragonide percepì comunque una traccia troppo forte."
+          "text": "Ma il dragonide percep\u00EC comunque una traccia troppo forte."
         },
         {
           "type": "paragraph",
-          "text": "Con un movimento improvviso lo afferrò per il bavero e lo sollevò da terra con un solo braccio."
+          "text": "Con un movimento improvviso lo afferr\u00F2 per il bavero e lo sollev\u00F2 da terra con un solo braccio."
         },
         {
           "type": "quote",
-          "text": "«Ridammi ciò che è nostro.»",
+          "text": "\u00ABRidammi ci\u00F2 che \u00E8 nostro.\u00BB",
           "variant": "normal"
         },
         {
           "type": "paragraph",
-          "text": "Aeren si lanciò immediatamente in avanti."
+          "text": "Aeren si lanci\u00F2 immediatamente in avanti."
         },
         {
           "type": "paragraph",
@@ -3466,11 +3483,11 @@
         },
         {
           "type": "paragraph",
-          "text": "Ma uno degli uomini dietro reagì con velocità fulminea."
+          "text": "Ma uno degli uomini dietro reag\u00EC con velocit\u00E0 fulminea."
         },
         {
           "type": "paragraph",
-          "text": "Una balestra si alzò."
+          "text": "Una balestra si alz\u00F2."
         },
         {
           "type": "paragraph",
@@ -3478,29 +3495,29 @@
         },
         {
           "type": "paragraph",
-          "text": "E il dardo attraversò il corpo spettrale del gufo."
+          "text": "E il dardo attravers\u00F2 il corpo spettrale del gufo."
         },
         {
           "type": "paragraph",
-          "text": "Aelar sentì immediatamente l’impulso di reagire."
+          "text": "Aelar sent\u00EC immediatamente l\u2019impulso di reagire."
         },
         {
           "type": "paragraph",
-          "text": "Il dragonide, però, non stava scherzando."
+          "text": "Il dragonide, per\u00F2, non stava scherzando."
         },
         {
           "type": "quote",
-          "text": "«Ridateci ciò che appartiene al Culto.»",
+          "text": "\u00ABRidateci ci\u00F2 che appartiene al Culto.\u00BB",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "«E saremo lieti di andarcene.»",
+          "text": "\u00ABE saremo lieti di andarcene.\u00BB",
           "variant": "normal"
         },
         {
           "type": "paragraph",
-          "text": "Poi avvicinò lentamente il muso al volto di Alaster."
+          "text": "Poi avvicin\u00F2 lentamente il muso al volto di Alaster."
         },
         {
           "type": "paragraph",
@@ -3508,17 +3525,17 @@
         },
         {
           "type": "quote",
-          "text": "«Piccolo umano.»",
+          "text": "\u00ABPiccolo umano.\u00BB",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "«Dammelo subito.»",
+          "text": "\u00ABDammelo subito.\u00BB",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "«Oppure sarò costretto a strapparlo dal tuo cadavere ancora caldo.»",
+          "text": "\u00ABOppure sar\u00F2 costretto a strapparlo dal tuo cadavere ancora caldo.\u00BB",
           "variant": "normal"
         }
       ]
@@ -3538,7 +3555,7 @@
         },
         {
           "type": "paragraph",
-          "text": "L’altra aperta in attesa."
+          "text": "L\u2019altra aperta in attesa."
         },
         {
           "type": "paragraph",
@@ -3554,12 +3571,12 @@
         },
         {
           "type": "quote",
-          "text": "«Possiamo restituirvi il tesoro.»",
+          "text": "\u00ABPossiamo restituirvi il tesoro.\u00BB",
           "variant": "normal"
         },
         {
           "type": "paragraph",
-          "text": "Alaster parlò lentamente."
+          "text": "Alaster parl\u00F2 lentamente."
         },
         {
           "type": "paragraph",
@@ -3571,12 +3588,12 @@
         },
         {
           "type": "quote",
-          "text": "«Adesso che abbiamo capito chi siete.»",
+          "text": "\u00ABAdesso che abbiamo capito chi siete.\u00BB",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "«Ma magari vi interessa sapere anche chi vi ha derubati davvero.»",
+          "text": "\u00ABMa magari vi interessa sapere anche chi vi ha derubati davvero.\u00BB",
           "variant": "normal"
         },
         {
@@ -3585,16 +3602,16 @@
         },
         {
           "type": "paragraph",
-          "text": "Fumo nero uscì lentamente dalle narici."
+          "text": "Fumo nero usc\u00EC lentamente dalle narici."
         },
         {
           "type": "quote",
-          "text": "«Sappiamo benissimo chi ci ha sottratto il tesoro.»",
+          "text": "\u00ABSappiamo benissimo chi ci ha sottratto il tesoro.\u00BB",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "«Quei maledetti del Culto dei Tre Morti.»",
+          "text": "\u00ABQuei maledetti del Culto dei Tre Morti.\u00BB",
           "variant": "normal"
         },
         {
@@ -3603,29 +3620,29 @@
         },
         {
           "type": "quote",
-          "text": "«No.»",
+          "text": "\u00ABNo.\u00BB",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "«Non sono stati loro.»",
+          "text": "\u00ABNon sono stati loro.\u00BB",
           "variant": "normal"
         },
         {
           "type": "paragraph",
-          "text": "Il dragonide si irrigidì."
+          "text": "Il dragonide si irrigid\u00EC."
         },
         {
           "type": "paragraph",
-          "text": "Non parlò."
+          "text": "Non parl\u00F2."
         },
         {
           "type": "paragraph",
-          "text": "Ma la sua attenzione cambiò immediatamente."
+          "text": "Ma la sua attenzione cambi\u00F2 immediatamente."
         },
         {
           "type": "paragraph",
-          "text": "Aelar lo notò subito."
+          "text": "Aelar lo not\u00F2 subito."
         },
         {
           "type": "paragraph",
@@ -3633,7 +3650,7 @@
         },
         {
           "type": "quote",
-          "text": "«Siete vendicativi, giusto?»",
+          "text": "\u00ABSiete vendicativi, giusto?\u00BB",
           "variant": "normal"
         },
         {
@@ -3642,12 +3659,12 @@
         },
         {
           "type": "quote",
-          "text": "«Facciamo ciò che la nostra dea ci ordina di fare.»",
+          "text": "\u00ABFacciamo ci\u00F2 che la nostra dea ci ordina di fare.\u00BB",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "«Se ci ordinasse di radere al suolo questa città… lo faremmo.»",
+          "text": "\u00ABSe ci ordinasse di radere al suolo questa citt\u00E0\u2026 lo faremmo.\u00BB",
           "variant": "normal"
         },
         {
@@ -3660,34 +3677,34 @@
         },
         {
           "type": "paragraph",
-          "text": "Ma Alaster sembrava perfettamente a suo agio nel parlare con fanatici pronti a incendiare Baldur’s Gate."
+          "text": "Ma Alaster sembrava perfettamente a suo agio nel parlare con fanatici pronti a incendiare Baldur\u2019s Gate."
         },
         {
           "type": "quote",
-          "text": "«Non vogliamo altri nemici.»",
+          "text": "\u00ABNon vogliamo altri nemici.\u00BB",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "«E i veri responsabili di questa situazione sono altri.»",
+          "text": "\u00ABE i veri responsabili di questa situazione sono altri.\u00BB",
           "variant": "normal"
         },
         {
           "type": "paragraph",
-          "text": "Il dragonide lo fissò negli occhi."
+          "text": "Il dragonide lo fiss\u00F2 negli occhi."
         },
         {
           "type": "paragraph",
-          "text": "Poi allentò lentamente la presa sui suoi vestiti."
+          "text": "Poi allent\u00F2 lentamente la presa sui suoi vestiti."
         },
         {
           "type": "quote",
-          "text": "«Restituiscilo.»",
+          "text": "\u00ABRestituiscilo.\u00BB",
           "variant": "normal"
         },
         {
           "type": "paragraph",
-          "text": "Alaster lo osservò per qualche secondo."
+          "text": "Alaster lo osserv\u00F2 per qualche secondo."
         },
         {
           "type": "paragraph",
@@ -3695,7 +3712,7 @@
         },
         {
           "type": "quote",
-          "text": "«Pseudo-drago.»",
+          "text": "\u00ABPseudo-drago.\u00BB",
           "variant": "normal"
         },
         {
@@ -3708,15 +3725,15 @@
         },
         {
           "type": "paragraph",
-          "text": "Aelar sentì immediatamente il momento esatto in cui tutta la situazione rischiò di precipitare."
+          "text": "Aelar sent\u00EC immediatamente il momento esatto in cui tutta la situazione rischi\u00F2 di precipitare."
         },
         {
           "type": "paragraph",
-          "text": "Il dragonide non reagì subito."
+          "text": "Il dragonide non reag\u00EC subito."
         },
         {
           "type": "paragraph",
-          "text": "Ma il modo in cui le sue pupille si strinsero bastò a far capire quanto quella parola lo avesse irritato."
+          "text": "Ma il modo in cui le sue pupille si strinsero bast\u00F2 a far capire quanto quella parola lo avesse irritato."
         },
         {
           "type": "paragraph",
@@ -3728,7 +3745,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Poi Alaster infilò lentamente una mano nella borsa."
+          "text": "Poi Alaster infil\u00F2 lentamente una mano nella borsa."
         },
         {
           "type": "paragraph",
@@ -3740,7 +3757,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Il cultista dietro il dragonide si avvicinò immediatamente."
+          "text": "Il cultista dietro il dragonide si avvicin\u00F2 immediatamente."
         },
         {
           "type": "paragraph",
@@ -3756,30 +3773,30 @@
         },
         {
           "type": "quote",
-          "text": "«Per voi sono così importanti?»",
+          "text": "\u00ABPer voi sono cos\u00EC importanti?\u00BB",
           "variant": "normal"
         },
         {
           "type": "paragraph",
-          "text": "Il dragonide annuì lentamente."
+          "text": "Il dragonide annu\u00EC lentamente."
         },
         {
           "type": "quote",
-          "text": "«Appartengono alla nostra regina.»",
+          "text": "\u00ABAppartengono alla nostra regina.\u00BB",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "«Possiedono proprietà che voi mortali non comprendete.»",
+          "text": "\u00ABPossiedono propriet\u00E0 che voi mortali non comprendete.\u00BB",
           "variant": "normal"
         },
         {
           "type": "paragraph",
-          "text": "Alaster approfittò immediatamente dell’apertura."
+          "text": "Alaster approfitt\u00F2 immediatamente dell\u2019apertura."
         },
         {
           "type": "quote",
-          "text": "«Eppure non vi interessa sapere chi li ha rubati davvero.»",
+          "text": "\u00ABEppure non vi interessa sapere chi li ha rubati davvero.\u00BB",
           "variant": "normal"
         },
         {
@@ -3788,16 +3805,16 @@
         },
         {
           "type": "paragraph",
-          "text": "Poi Alaster continuò."
+          "text": "Poi Alaster continu\u00F2."
         },
         {
           "type": "quote",
-          "text": "«I Vanthampur.»",
+          "text": "\u00ABI Vanthampur.\u00BB",
           "variant": "normal"
         },
         {
           "type": "paragraph",
-          "text": "Il nome sembrò disgustare il cultista."
+          "text": "Il nome sembr\u00F2 disgustare il cultista."
         },
         {
           "type": "paragraph",
@@ -3809,22 +3826,22 @@
         },
         {
           "type": "quote",
-          "text": "«Nobili di Baldur’s Gate.»",
+          "text": "\u00ABNobili di Baldur\u2019s Gate.\u00BB",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "«Persone viscide.»",
+          "text": "\u00ABPersone viscide.\u00BB",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "«Persone che potrebbero aver preso qualcosa che appartiene alla vostra dea.»",
+          "text": "\u00ABPersone che potrebbero aver preso qualcosa che appartiene alla vostra dea.\u00BB",
           "variant": "normal"
         },
         {
           "type": "paragraph",
-          "text": "Il dragonide osservò Alaster a lungo."
+          "text": "Il dragonide osserv\u00F2 Alaster a lungo."
         },
         {
           "type": "paragraph",
@@ -3832,7 +3849,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Poi, improvvisamente, Alaster parlò in dragonico."
+          "text": "Poi, improvvisamente, Alaster parl\u00F2 in dragonico."
         },
         {
           "type": "paragraph",
@@ -3860,11 +3877,11 @@
         },
         {
           "type": "paragraph",
-          "text": "Ma bastò osservare la reazione del dragonide per capire che qualcosa era cambiato."
+          "text": "Ma bast\u00F2 osservare la reazione del dragonide per capire che qualcosa era cambiato."
         },
         {
           "type": "quote",
-          "text": "«Tu parli la lingua della mia razza.»",
+          "text": "\u00ABTu parli la lingua della mia razza.\u00BB",
           "variant": "normal"
         },
         {
@@ -3873,17 +3890,17 @@
         },
         {
           "type": "quote",
-          "text": "«Staresti bene tra le nostre fila.»",
+          "text": "\u00ABStaresti bene tra le nostre fila.\u00BB",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "«La dea potrebbe avere grandi progetti per te.»",
+          "text": "\u00ABLa dea potrebbe avere grandi progetti per te.\u00BB",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "«Forse persino Arkhan potrebbe interessarsi a te.»",
+          "text": "\u00ABForse persino Arkhan potrebbe interessarsi a te.\u00BB",
           "variant": "normal"
         },
         {
@@ -3904,40 +3921,40 @@
         },
         {
           "type": "quote",
-          "text": "«Allora forse possiamo aiutarci a vicenda.»",
+          "text": "\u00ABAllora forse possiamo aiutarci a vicenda.\u00BB",
           "variant": "normal"
         },
         {
           "type": "paragraph",
-          "text": "Il dragonide sbuffò lentamente."
+          "text": "Il dragonide sbuff\u00F2 lentamente."
         },
         {
           "type": "quote",
-          "text": "«Noi colpiremo i Vanthampur.»",
+          "text": "\u00ABNoi colpiremo i Vanthampur.\u00BB",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "«Li colpiremo nel luogo dove si sentono più sicuri.»",
+          "text": "\u00ABLi colpiremo nel luogo dove si sentono pi\u00F9 sicuri.\u00BB",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "«Nella loro casa.»",
-          "variant": "normal"
-        },
-        {
-          "type": "paragraph",
-          "text": "Alaster annuì lentamente."
-        },
-        {
-          "type": "quote",
-          "text": "«Preferiremmo agire insieme.»",
+          "text": "\u00ABNella loro casa.\u00BB",
           "variant": "normal"
         },
         {
           "type": "paragraph",
-          "text": "Il dragonide lo fissò ancora per qualche secondo."
+          "text": "Alaster annu\u00EC lentamente."
+        },
+        {
+          "type": "quote",
+          "text": "\u00ABPreferiremmo agire insieme.\u00BB",
+          "variant": "normal"
+        },
+        {
+          "type": "paragraph",
+          "text": "Il dragonide lo fiss\u00F2 ancora per qualche secondo."
         },
         {
           "type": "paragraph",
@@ -3945,7 +3962,7 @@
         },
         {
           "type": "quote",
-          "text": "«Zorbat.»",
+          "text": "\u00ABZorbat.\u00BB",
           "variant": "normal"
         },
         {
@@ -3954,7 +3971,7 @@
         },
         {
           "type": "quote",
-          "text": "«Alaster.»",
+          "text": "\u00ABAlaster.\u00BB",
           "variant": "normal"
         },
         {
@@ -3971,22 +3988,22 @@
         },
         {
           "type": "quote",
-          "text": "«Avete un giorno.»",
+          "text": "\u00ABAvete un giorno.\u00BB",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "«Noi faremo gli ultimi preparativi.»",
+          "text": "\u00ABNoi faremo gli ultimi preparativi.\u00BB",
           "variant": "normal"
         },
         {
           "type": "quote",
-          "text": "«Poi attaccheremo.»",
+          "text": "\u00ABPoi attaccheremo.\u00BB",
           "variant": "normal"
         },
         {
           "type": "paragraph",
-          "text": "E con questo il Culto del Drago si allontanò sotto la pioggia."
+          "text": "E con questo il Culto del Drago si allontan\u00F2 sotto la pioggia."
         },
         {
           "type": "paragraph",
@@ -4006,7 +4023,7 @@
         },
         {
           "type": "quote",
-          "text": "«Voi siete completamente fuori di testa.»",
+          "text": "\u00ABVoi siete completamente fuori di testa.\u00BB",
           "variant": "normal"
         },
         {
@@ -4015,12 +4032,12 @@
         },
         {
           "type": "quote",
-          "text": "«E pensa che ci hai conosciuti solo oggi.»",
+          "text": "\u00ABE pensa che ci hai conosciuti solo oggi.\u00BB",
           "variant": "normal"
         },
         {
           "type": "paragraph",
-          "text": "Nathan si passò lentamente una mano sul volto."
+          "text": "Nathan si pass\u00F2 lentamente una mano sul volto."
         },
         {
           "type": "paragraph",
@@ -4028,11 +4045,11 @@
         },
         {
           "type": "paragraph",
-          "text": "E la parte peggiore era che forse…"
+          "text": "E la parte peggiore era che forse\u2026"
         },
         {
           "type": "paragraph",
-          "text": "forse quella non era nemmeno la decisione più folle presa quel giorno."
+          "text": "forse quella non era nemmeno la decisione pi\u00F9 folle presa quel giorno."
         }
       ]
     }

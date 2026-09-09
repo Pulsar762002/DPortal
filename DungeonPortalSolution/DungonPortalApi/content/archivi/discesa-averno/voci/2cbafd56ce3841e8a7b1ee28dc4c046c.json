@@ -1,0 +1,16 @@
+{
+  "id": "2cbafd56ce3841e8a7b1ee28dc4c046c",
+  "titolo": "Alan Alyth",
+  "blocks": [
+    {
+      "type": "image",
+      "variant": "center",
+      "src": "/api/content/archivi/discesa-averno/immagini/510c3281-e78a-4d42-9a59-8952a60a5eb7.png",
+      "alt": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "Alan \u00E8 un \u0022giovane\u0022 elfo proprietario della locanda del canto elfico."
+    }
+  ]
+}

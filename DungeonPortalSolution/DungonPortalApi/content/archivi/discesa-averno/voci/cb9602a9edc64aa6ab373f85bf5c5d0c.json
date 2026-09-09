@@ -1,0 +1,22 @@
+{
+  "id": "cb9602a9edc64aa6ab373f85bf5c5d0c",
+  "titolo": "Citta\u0027 Alta",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "La Citt\u00E0 Alta, dove vivono i patriar dell\u2019aristocrazia di Baldur\u2019s Gate, \u00E8 un luogo di bellezza e splendore, dove magnifiche sculture pubbliche si ergono accanto a manieri storici, teatri e boutique di alta classe e minuscoli giardini cinti da mura di pietra e nascosti tra i viali come gemme segrete.\n\nI fiori che sbocciano lungo i viali delimitati da file di alberi scacciano qualsiasi miasma vagante che riesca a salire dai quartieri sottostanti meno fortunati. Sete e velluti, trecce d\u2019oro e pellicce di visone, diamanti limpidi come l\u2019acqua e perle luminose sono tutte viste comuni nella Citt\u00E0 Alta ed difficili da trovare negli altri quartieri, se non in forma di volgari imitazioni.\n\nOgni casa nella Citt\u00E0 Alta trasuda privilegio e ricchezza. Luci magiche illuminano le strade sempre pulite, a volte dotate anche di incantamenti che respingono la nebbia che sale dal fiume. Molti dei templi principali della citt\u00E0 si trovano in questo quartiere, a ulteriore prova del fatto che le fedi antepongono i ricchi e potenti della citt\u00E0 ai congreganti dalla tasche pi\u00F9 vuote. I migliori negozi di vini, sartorie e gioiellerie si trovano tutti nella Citt\u00E0 Alta, dove il rituale serale della Guardia di allontanare chiunque non sia un residente ribadisce la natura lussuosa ed esclusiva del luogo. Chi \u00E8 privo di un distintivo elargito dalla Guardia o lasciapassare di un patriar deve andarsene dalla Citt\u00E0 Alta al tramonto, senza eccezioni.\n\nGli abitanti della Citt\u00E0 Alta si sentono in dovere di preservare le apparenze e mantengono una facciata di lusso e privilegio anche a costo di impegnare tutto ci\u00F2 che possiedono. Riconoscere di essere poveri in questo quartiere significa riconoscere di avere fallito miseramente. Lo smaccato snobismo dei patriar fomenta un profondo risentimento negli abitanti della Citt\u00E0 Bassa e della Citt\u00E0 Esterna, che possono solo osservare chi si gode la bellavita sotto i loro occhi, ma vengono esclusi da ogni cosa ad eccezione di qualche briciola. La Guardia \u00E8 spietata nell\u2019allontanare mendicanti e contestatori dalle porte, dove un pedaggio d\u2019accesso applicato arbitrariamente ai non residenti e a chi non porta un distintivo della Guardia o non \u00E8 scortato impedisce l\u2019atto pratico a tutti i poveri di mettere piede in questo quartiere. Un patriar sorpreso al di fuori della Citt\u00E0 Alta dopo il tramonto rischia di conseguenza di essere rapinato, malmenato o peggio."
+    },
+    {
+      "type": "spacer",
+      "variant": "medium"
+    },
+    {
+      "type": "subtitle",
+      "text": "Distretti"
+    },
+    {
+      "type": "paragraph",
+      "text": "Borgo dei Manieri. Le residenze pi\u00F9 sontuose si trovano sul lato ovest della Citt\u00E0 Alta. Molti membri del Parlamento dei Pari vivono qui, come anche famiglie antiche e orgogliose, che possono vantare una dinastia risalente ai tempi di Balduran. Giardini pensili, cortili con fontane e frutteti privati adornano molte di queste eleganti dimore.\n\nPiazzale Il mercato principale e il pi\u00F9 grande spazio civico all\u2019aperto di Baldur\u2019s Gate \u00E8 il Piazzale, dove ogni giorno all\u2019alba i venditori allestiscono le loro bancarelle ed esibiscono le loro merci. La musica di strada e le esibizioni rumorose sono vietate ogni notte e i venditori che non risiedono nella Citt\u00E0 Alta devono fare i bagagli ed andarsene. Il Piazzale \u00E8 un luogo frenetico di giorno e desolato di notte, ad eccezione dei giorni di festa e di quelli in cui ospita qualche grande celebrazione.\n\nTempli. Grandi cattedrali e santuari di ogni genere svettano in questo distretto centrale, dove l\u2019Alta Casa delle Meraviglie di Gond \u00E8 l\u2019edificio pi\u00F9 imponente di tutti. Sacerdoti avvolti in lussuose vesti cerimoniali e congreganti vestiti di tutto punto sono una vista ricorrente in questa parte della citt\u00E0.\n\nVie della Cittadella. La parte settentrionale della Citt\u00E0 Alta \u00E8 dominata dalla Cittadella, dove la Guardia si addestra, dispone di caserme e stalle e anche di qualche cella. Oltre la Cittadella, questo distretto include molti negozi e le case relativamente modeste, ma comunque di gran lusso, che appartengono a pochi abitanti della Citt\u00E0 Alta che non sono patriar."
+    }
+  ]
+}

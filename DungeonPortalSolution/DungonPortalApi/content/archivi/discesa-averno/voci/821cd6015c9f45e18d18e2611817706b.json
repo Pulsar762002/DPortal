@@ -1,0 +1,34 @@
+{
+  "id": "821cd6015c9f45e18d18e2611817706b",
+  "titolo": "Citt\u00E0 bassa",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Una serie di scoscesi distretti a forma di falce di luna forma il quartiere che ospita gli abitanti comuni di Baldur\u2019s Gate. La Citt\u00E0 Bassa \u00E8 un caotico groviglio di edifici dai tetti a tegola ammassati gli uni sugli altri e di strette vie lastricate attraversate da ponti e contrafforti concepiti per evitare che i debordanti caseggiati crollino sulle strade.\n\nPer quanto la Citt\u00E0 Bassa possa essere affollata e rumorosa durante il giorno, quando i mille negozi brulicano di clienti, di notte il quartiere diventa inquietantemente silenzioso. Sebbene le strade buie siano illuminate da lampioni e frequentate da portatori di lanterne, sono tutt\u2019altro che sicure e i cittadini che non devono gestire una taverna o un altro locale notturno tendono a chiudere le porte a chiave e a sprangare le loro pittoresche imposte quando dalle rive del fiume si alza la nebbia.\n\nQuasi tutti gli abitanti della Citt\u00E0 Bassa praticano un mestiere di qualche tipo. I crimini di tutti i generi dilagano, dalle piccole operazioni di contrabbando alle rapine agli omicidi a viso aperto. Sebbene il governo cittadino tenti di arginare la criminalit\u00E0 pagando i Pugni Fiammanti per pattugliare le strade, a volte i mercanti si comportano pi\u00F9 da esercito di occupazione che da forza di polizia vera e propria e scendono pi\u00F9 portati a spaccare teste indiscriminatamente che a condurre indagini delicate. Di conseguenza, la maggior parte degli abitanti \u00E8 pronta a invocare l\u2019aiuto dei Pugni quando \u00E8 aggredita da evidenti criminali, ma anche a fare fronte comune unendosi in una squadra per guardarsi le spalle a vicenda e regolare i conti che richiedono pi\u00F9 discrezione. In un ambiente del genere, le leggi sono spesso considerate suggerimenti: sebbene la maggior parte dei residenti sia composta soltanto da gente comune che desidera tirare avanti, c\u2019\u00E8 del vero nel vecchio adagio che recita che tutti hanno un segreto da nascondere a Baldur\u2019s Gate."
+    },
+    {
+      "type": "divider",
+      "variant": "flourish"
+    },
+    {
+      "type": "subtitle",
+      "text": "Le Porte"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le tre porte della Citt\u00E0 Bassa sono ricche di significati logistici, storici e metaforici. Anche se non \u00E8 necessario alcun distintivo per passare dalle porte collegate alla Citt\u00E0 Esterna, l\u2019uso di qualsiasi porta prevede un pedaggio di 5 mr e un\u2019arbitraria ispezione dei carichi e degli individui sospetti.\n\nPorta del Basilisco. Questa porta decorata con molte statue si apre nelle mura orientali della citt\u00E0 e collega la Citt\u00E0 Bassa alla grande Strada della Costa, che attraversa buona parte della Citt\u00E0 Esterna e si inoltra a sudovest verso l\u2019Amn, il Tethyr e il Calimshan.\n\nPorta della Scogliera. Questa nebbiosa porta minore conferisce accesso al distretto di Ripa Scoscesa e ai suoi cimiteri. Stando alle storie che si raccontano, Porta della Scogliera \u00E8 infestata dagli spiriti dei vecchi cittadini che cercano di rientrare in citt\u00E0 per fare ritorno alle loro case, ma la gente del luogo sa che le eventuali sparizioni sono pi\u00F9 probabilmente da attribuirsi a una rapina improvvisata e a una lunga caduta fino al fiume sottostante.\n\nPorta di Baldur. La pi\u00F9 vecchia e meno imponente delle porte cittadine resta comunque il cuore della citt\u00E0. In qualit\u00E0 di unica porta che consente alla gente comune di entrare nelle Vecchie Mura, la Porta di Baldur incarna lo squilibrio di potere tra i patriar della ricca Citt\u00E0 Alta e i popolani della Citt\u00E0 Bassa. Un tempo era l\u2019unica porta che conduceva al porto ed \u00E8 ancora l\u2019arteria principale che vede transitare le ricchezze dal porto alle dimore dei patriar."
+    },
+    {
+      "type": "divider",
+      "variant": "flourish"
+    },
+    {
+      "type": "subtitle",
+      "text": "Distretti"
+    },
+    {
+      "type": "paragraph",
+      "text": "Brampton. Il distretto all\u2019estremit\u00E0 est della Citt\u00E0 Bassa \u00E8 noto per la sua povert\u00E0 e la sua posizione la pi\u00F9 svantaggiosa per i residenti che ambiscono a servire gli abitanti della Citt\u00E0 Alta, ma la pi\u00F9 vantaggiosa per contrabbandare le merci provenienti da Rivington senza pagare le tasse.\n\nCatasta. Questo distretto con forte presenza della classe media pu\u00F2 contare sulla presenza di vari negozi, ma tende a essere innanzitutto un distretto residenziale, che offre ai lavoratori cittadini case antiche a prezzi ragionevoli e soltanto una moderata probabilit\u00E0 di essere pugnalati per la strada.\n\nCrinale Fiorito. Gli abitanti pi\u00F9 ricchi ed eleganti della Citt\u00E0 Bassa vivono nel distretto di Crinale Fiorito, da cui godono di una vista maestosa, dove tra un caseggiato e l\u2019altro spuntano botteghe e locali alla moda e dove i terrazzamenti e i giardini pensili generano esplosioni di colori sgargianti.\n\nStrada Ripida. Come via pi\u00F9 diretta dal porto alla Citt\u00E0 Alta attraverso la Porta di Baldur, Strada Ripida ha il vantaggio naturale di beneficiare dei soldi dei viaggiatori pi\u00F9 ricchi: molti dei negozi di maggior successo si affacciano su queste vie drammaticamente scoscese. Questo fa di Strada Ripida il distretto della Citt\u00E0 Bassa che i patriar tendono a visitare pi\u00F9 frequentemente, quindi le pattuglie dei Pugni Fiammanti sono pi\u00F9 frequenti del solito in quest\u2019area.\n\nTorre Marina. In questo distretto, tutto ruota attorno alla Torre Marina di Balduran. I migliori armaioli e fabbricanti di armature si trovano qui, come anche le residenze dei mercenari dei Pugni Fiammanti e delle loro famiglie. Sale da ballo, arene, taverne e altre delizie si contendono le posizioni di spicco lungo il viale che conduce alla fortezza, nella speranza di essere il primo luogo in cui si imbatter\u00E0 un mercenario impaziente di fare baldoria.\n\nVia Est. La Via Est, che ospita la Porta del basilisco , \u00E8 la zona d\u2019ingresso principale che si collega alla Citt\u00E0 Esterna e al resto del mondo e offre servizi di tutti i generi ai viaggiatori grazie a una moltitudine di locande, portatori, scorte per carovane e cos\u00EC via, nonch\u00E9 ai residenti della Citt\u00E0 Esterna in cerca di qualche lusso della Citt\u00E0 Bassa a un prezzo ragionevole."
+    }
+  ]
+}

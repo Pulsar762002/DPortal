@@ -1,0 +1,24 @@
+{
+  "id": "297a11445b2f46129f8b3b2cf7113cc2",
+  "titolo": "Emporio Black",
+  "blocks": [
+    {
+      "type": "image",
+      "variant": "center",
+      "src": "/api/content/archivi/discesa-averno/immagini/bb723c97-f07d-4a31-9697-22b5aa478dd6.png",
+      "alt": "Black"
+    },
+    {
+      "type": "paragraph",
+      "text": "Questo emporio, locato nella zona del mercato nero, commercia componenti alchemici e organiche di diverse qualit\u00E0.\nIngredienti illegali e difficilmente reperibili sono alla merc\u00E8 de miglior offerente, essenziali per la formulazione di manicotti magici e unguenti dalle propriet\u00E0 sconosciute."
+    },
+    {
+      "type": "paragraph",
+      "text": "Il proprietario dell\u0027emporio, Obaja Black , si \u00E8 rivelato in poco tempo un myrkulita sotto copertura."
+    },
+    {
+      "type": "paragraph",
+      "text": "Questo locale nasconde un segreto tra i segreti, un accesso nascosto ad un luogo di culto affiliato al Dio delle ossa Myrkul, qui il party ha incontrato Flenner l\u0027alto myrkulita, uno dei tre capi del culto dei tre morti e ha posto fine alla sua influenza sulla citt\u00E0."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "716aa8c525fe4bc0beb017a70031f821",
+  "titolo": "Mercato",
+  "blocks": [
+    {
+      "type": "image",
+      "variant": "center",
+      "src": "/api/content/archivi/discesa-averno/immagini/4446c75a-3cc8-49e8-afe4-e05c8c6f8b36.png",
+      "alt": "Mercato"
+    },
+    {
+      "type": "paragraph",
+      "text": "Il mercato nero \u00E8 il vero cuore economico di qualsiasi grandi citt\u00E0, qui, ogni cosa \u00E8 acquistabile e vendibile."
+    },
+    {
+      "type": "spacer",
+      "variant": "small"
+    },
+    {
+      "type": "paragraph",
+      "text": "Situato nella zona sud della citt\u00E0 bassa, i vicoli stretti e i numerosi svincoli rendono questo luogo naturalmente difficile da trovare."
+    },
+    {
+      "type": "spacer",
+      "variant": "small"
+    },
+    {
+      "type": "paragraph",
+      "text": "Appostati sulle strade bancarelle con i pi\u00F9 disperati oggetti fanno sembrare questa via mercantile una strada quasi normale, ma i veri affari vengono svolti dentro gli edifici, lontano da occhi indiscreti."
+    },
+    {
+      "type": "spacer",
+      "variant": "small"
+    },
+    {
+      "type": "paragraph",
+      "text": "Non \u00E8 raro essere perseguitati da venditori ambulanti o rischiare uno scippo, in queste vie la peggio feccia di Baldur\u0027s Gate vive la propria quotidianit\u00E0, lontano dalle ronde dei pugni fiammanti o dalla guardia cittadina."
+    },
+    {
+      "type": "spacer",
+      "variant": "small"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sono diversi i signori del crimine che operano in questa zona ma tutti fanno capo alla Gilda, la pi\u00F9 grande organizzazione criminale di tutta costa della spada."
+    }
+  ]
+}

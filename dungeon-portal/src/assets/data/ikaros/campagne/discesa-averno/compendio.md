@@ -3,9 +3,9 @@
 > File generato automaticamente da `personaggi.json` e `luoghi.json`
 > tramite `strumenti/genera-compendio.py`. Non modificare a mano.
 > Lo stato immagine è verificato sui file reali in `src/`.
-> Ultimo aggiornamento dati: sessione 19.
+> Ultimo aggiornamento dati: sessione 21.
 
-**Immagini:** 65/146 presenti, 81 mancanti.
+**Immagini:** 65/158 presenti, 93 mancanti.
 
 ## Personaggi
 
@@ -13,12 +13,12 @@
 
 | Personaggio | Ruolo | Razza | Stato | Sessioni | Immagine | File |
 |---|---|---|---|---|---|---|
-| **Nathan** | Paladino (Sentinella di Helm) | Umano | vivo | 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19 | ✅ presente | NathanBig.png |
-| **Aelar Thaedrim** | Cacciatore di sangue / arciere | Elfo | vivo | 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19 | ✅ presente | AelarBig.png |
-| **Alaster Nodorovo** | Nobile stregone | Umano (apparente) | vivo | 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19 | ✅ presente | AlasterBig.png |
-| **Kyran** | Warlock del Crepuscolo | Elfo | vivo | 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19 | ✅ presente | KyranBig.png |
-| **Elis** | Informatore / devoto di Tyr | Tiefling | vivo | 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19 | ✅ presente | ElisBig.png |
-| **Sylvar** | Druido / cercatore | Umano (apparente) | vivo | 13, 14, 16, 17, 18, 19 | ✅ presente | Sylvar al gala.png |
+| **Nathan** | Paladino (Sentinella di Helm) | Umano | vivo | 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21 | ✅ presente | NathanBig.png |
+| **Aelar Thaedrim** | Cacciatore di sangue / arciere | Elfo | vivo | 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21 | ✅ presente | AelarBig.png |
+| **Alaster Nodorovo** | Nobile stregone | Umano (apparente) | vivo | 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21 | ✅ presente | AlasterBig.png |
+| **Kyran** | Warlock del Crepuscolo | Elfo | vivo | 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21 | ✅ presente | KyranBig.png |
+| **Elis** | Informatore / devoto di Tyr | Tiefling | vivo | 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21 | ✅ presente | ElisBig.png |
+| **Sylvar** | Druido / cercatore | Umano (apparente) | vivo | 13, 14, 16, 17, 18, 19, 20, 21 | ✅ presente | Sylvar al gala.png |
 
 ### Alleati
 
@@ -38,8 +38,11 @@
 | **Clayton** | Inventore (coboldo) | Coboldo | vivo | 4, 5, 6, 7, 8, 9, 10, 11, 12 | ✅ presente | Kleyton.jpg |
 | **Vendetta Cress** | Mercante di vini | Tiefling | vivo | 10, 12 | ✅ presente | Vendetta_Cress.png |
 | **Mortlock Vanthampur** | Gigante guerriero | Gigante | vivo | 11, 12 | ✅ presente | Mortlock_Vanthampur.png |
-| **Reya Mantlemorn** | Hellrider / ex guardia di Elturel | Umana | vivo | 15, 18 | ✅ presente | Reya_Mantlemorn.png |
+| **Reya Mantlemorn** | Hellrider / ex guardia di Elturel | Umana | vivo | 15, 18, 21 | ✅ presente | Reya_Mantlemorn.png |
 | **Destriero d'ombra di Kyran** | Cavalcatura evocata | Lupo d'ombra | vivo | 18 | ✅ presente | Destriero_d_ombra.png |
+| **Falaster Fisk** | Investigatore | Umano | vivo | 20, 21 | ❌ assente | — |
+| **Satyr Tion Hun** | Nobildonna / custode di famiglia | Umana | vivo | 20, 21 | ❌ assente | — |
+| **Ania** | Incantatrice misteriosa | Ignota (statura minuta, tratti che ricordano insieme un tiefling e un halfling) | vivo | 21 | ❌ assente | — |
 
 ### Secondari
 
@@ -64,7 +67,7 @@
 | **Camilla** | Massaggiatrice delle terme | Sconosciuta (non umana) | vivo | 8 | ✅ presente | Camilla.png |
 | **Massaggiatrice delle terme** | Massaggiatrice / informatrice involontaria | Umana | vivo | 8 | ✅ presente | boh.png |
 | **Addetto delle terme** | Maitre / gestore di sala | Umano | vivo | 8 | ❌ assente | — |
-| **Duchessa Vanthampur** | Patrizia di Baldur's Gate | Umana | vivo | 7, 8, 9, 10, 11, 12, 13, 14, 15, 18, 19 | ❌ assente | — |
+| **Duchessa Thalamra Vanthampur** | Patrizia di Baldur's Gate, stregona patteggiata con Zariel | Umana (trasformata da un patto infernale) | morto | 7, 8, 9, 10, 11, 12, 13, 14, 15, 18, 19, 20, 21 | ❌ assente | — |
 | **Clem Joss** | Presunto nobile / prigioniero | Umano | vivo | 10 | ❌ assente | — |
 | **Orin (cultista ferito)** | Cultista ferito / informatore | Umano | vivo | 11 | ❌ assente | — |
 | **Romeo Ravenshade** | Sarto | Umano | vivo | 12 | ❌ assente | — |
@@ -87,9 +90,10 @@
 | **Capo delle guardie Nodorovo** | Capo delle guardie di casa Nodorovo | Ignota | vivo | 17 | ❌ assente | — |
 | **Stalliere dei Vanthampur** | Stalliere | Umano | vivo | 17, 18 | ❌ assente | — |
 | **Maggiordomo dei Vanthampur** | Maggiordomo | Umano | morto | 18, 19 | ❌ assente | — |
-| **Il tressym dei Vanthampur** | Animale da compagnia | Tressym (gatto alato) | vivo | 19 | ❌ assente | — |
+| **Il tressym dei Vanthampur** | Animale da compagnia | Tressym (gatto alato) | vivo | 19, 20 | ❌ assente | — |
 | **Guardia superstite dei Vanthampur** | Guardia della villa | Umano | vivo | 19 | ❌ assente | — |
 | **Servitu barricata dei Vanthampur** | Personale di servizio della villa | Umani | vivo | 19 | ❌ assente | — |
+| **Silvira Savikas** | Studiosa di questioni infernali | Ignota | ignoto | 20 | ❌ assente | — |
 
 ### Avversari
 
@@ -111,18 +115,22 @@
 | **Amrik Vanthampur** | Usuraio nobile / figlio dei Vanthampur | Umano | vivo | 15, 16 | ❌ assente | — |
 | **I diavoli di Amrik** | Guardie infernali | Diavoli (fiend) | vivo | 15 | ❌ assente | — |
 | **Thurstwell Vanthampur** | Primogenito della casata Vanthampur | Umano | morto | 15, 19 | ❌ assente | — |
-| **Thavius Kreeg** | Alto Osservatore del Compagno | Umano | vivo | 15 | ❌ assente | — |
+| **Thavius Kreeg** | Alto Osservatore del Compagno | Umano | vivo | 15, 21 | ❌ assente | — |
 | **Zorvath** | Dragonide del Culto del Drago | Dragonide | vivo | 15, 17, 18 | ❌ assente | — |
-| **Culto del Drago** | Setta draconica | Vari (dragonidi e umani) | vivo | 15, 16, 18, 19 | ❌ assente | — |
+| **Culto del Drago** | Setta draconica | Vari (dragonidi e umani) | vivo | 15, 16, 18, 19, 20, 21 | ❌ assente | — |
 | **Il maggiordomo di Fauler** | Maggiordomo infernale | Diavolo (creatura alata) | vivo | 16 | ❌ assente | — |
 | **Kar'vos** | Esule del Reame delle Ombre | Elfo shadar-kai | vivo | 17 | ❌ assente | — |
 | **Demoni di Kar'vos** | Creature evocate | Demoni / creature delle ombre | morto | 17 | ❌ assente | — |
-| **Cane infernale dei Vanthampur** | Bestia da guardia infernale | Cane infernale (immondo) | vivo | 18 | ❌ assente | — |
-| **Imp dei Vanthampur** | Diavoletti esploratori | Imp (diavoli) | morto | 18, 19 | ❌ assente | — |
-| **Diavolo aguzzino dei Vanthampur** | Carnefice infernale | Diavolo (immondo) | vivo | 18 | ❌ assente | — |
-| **Guerriero draconico del Culto del Drago** | Combattente draconico | Dragonide | vivo | 18 | ❌ assente | — |
+| **Cane infernale dei Vanthampur** | Bestia da guardia infernale | Cane infernale (immondo) | morto | 18, 20, 21 | ❌ assente | — |
+| **Imp dei Vanthampur** | Diavoletti esploratori | Imp (diavoli) | morto | 18, 19, 20 | ❌ assente | — |
+| **Diavolo aguzzino dei Vanthampur** | Carnefice infernale | Diavolo (immondo) | morto | 18, 20 | ❌ assente | — |
+| **Guerriero draconico del Culto del Drago** | Combattente draconico | Dragonide | vivo | 18, 20 | ❌ assente | — |
 | **Guardie d'elite dei Vanthampur** | Guardie scelte della casata | Umani | morto | 19 | ❌ assente | — |
 | **Helmed Horror dei Vanthampur** | Guardiano magico (costrutto) | Costrutto (armatura animata) | morto | 19 | ❌ assente | — |
+| **I diavoli della cantina dei Vanthampur** | Guardiani infernali | Diavoli (immondi) | morto | 20 | ❌ assente | — |
+| **Mizzora** | Consigliera diabolica di Zariel | Diavolo | vivo | 21 | ❌ assente | — |
+| **I fedeli di Zariel della villa Vanthampur** | Devoti infernali | Vari (perlopiu umani) | morto | 21 | ❌ assente | — |
+| **Il guardiano corazzato della Duchessa** | Guardia del corpo infernale | Ignota (creatura in armatura) | morto | 21 | ❌ assente | — |
 
 ## Luoghi
 
@@ -171,17 +179,21 @@
 | **Candlekeep** | citta | — | ignoto | 16 | ❌ assente | — |
 | **Armeria di Ferroteso** | bottega | Città Alta di Baldur's Gate | intatto | 17, 18 | ❌ assente | — |
 | **Torre di Ramazith** | struttura | Città Alta di Baldur's Gate | intatto | 17, 18 | ❌ assente | — |
-| **Villa Vanthampur** | edificio | Città Alta di Baldur's Gate | danneggiato | 17, 18, 19 | ❌ assente | — |
+| **Villa Vanthampur** | edificio | Città Alta di Baldur's Gate | danneggiato | 17, 18, 19, 20, 21 | ❌ assente | — |
 | **Fogne di Baldur's Gate** | struttura | Baldur's Gate | danneggiato | 17, 18 | ❌ assente | — |
-| **Complesso sotterraneo dei Vanthampur** | struttura | Fogne di Baldur's Gate | intatto | 18 | ❌ assente | — |
-| **Segrete dei Vanthampur** | struttura | Complesso sotterraneo dei Vanthampur | intatto | 18 | ❌ assente | — |
+| **Complesso sotterraneo dei Vanthampur** | struttura | Fogne di Baldur's Gate | intatto | 18, 20, 21 | ❌ assente | — |
+| **Segrete dei Vanthampur** | struttura | Complesso sotterraneo dei Vanthampur | intatto | 18, 20 | ❌ assente | — |
 | **Interni della villa Vanthampur** | struttura | Villa Vanthampur | danneggiato | 18, 19 | ❌ assente | — |
 | **Casa sicura del Culto del Drago** | edificio | Città Alta di Baldur's Gate | intatto | 18 | ❌ assente | — |
 | **Cucine della villa Vanthampur** | struttura | Villa Vanthampur | danneggiato | 19 | ❌ assente | — |
-| **Piano superiore della villa Vanthampur** | struttura | Villa Vanthampur | danneggiato | 19 | ❌ assente | — |
+| **Piano superiore della villa Vanthampur** | struttura | Villa Vanthampur | danneggiato | 19, 20 | ❌ assente | — |
+| **Camera della Duchessa Vanthampur** | struttura | Piano superiore della villa Vanthampur | danneggiato | 20 | ❌ assente | — |
+| **Cantina della villa Vanthampur** | struttura | Complesso sotterraneo dei Vanthampur | intatto | 20 | ❌ assente | — |
+| **La camera segreta di Kreeg** | struttura | Complesso sotterraneo dei Vanthampur | intatto | 21 | ❌ assente | — |
+| **Sala rituale dei Vanthampur** | struttura | Complesso sotterraneo dei Vanthampur | danneggiato | 21 | ❌ assente | — |
 
 ## Immagini mancanti
 
-**Personaggi senza ritratto:** Marcus, Marta, Amico di Nathan, Genitori di Alaster, Granduca Ulder Ravengard, Goblin del bosco, Cocchiere di Alaster, Banda di predoni, Pirati del Canto Elfico, Culto dei Tre Morti, Pugni Fiammanti, Darmian, Scona, Addetto delle terme, Duchessa Vanthampur, Clem Joss, Orin, Orin (cultista ferito), Accoliti del Culto, Romeo Ravenshade, Le tre statue degli dèi morti, Taddeus, Farah Claydon, Oliver, Leroy Thundreth, Amrik Vanthampur, I diavoli di Amrik, Thurstwell Vanthampur, Thavius Kreeg, Zorvath, Culto del Drago, Il maggiordomo di Fauler, Volothamp Geddarm, Bibliotecaria della Citta Bassa, Seraphine (la cantante di Elturel), Ferroteso, Bryn, Marusin (Mary) Clover, Lorroakan, Kenku messaggero, Kar'vos, Demoni di Kar'vos, Capo delle guardie Nodorovo, Stalliere dei Vanthampur, Cane infernale dei Vanthampur, Imp dei Vanthampur, Diavolo aguzzino dei Vanthampur, Guerriero draconico del Culto del Drago, Maggiordomo dei Vanthampur, Il tressym dei Vanthampur, Guardie d'elite dei Vanthampur, Guardia superstite dei Vanthampur, Servitu barricata dei Vanthampur, Helmed Horror dei Vanthampur
+**Personaggi senza ritratto:** Marcus, Marta, Amico di Nathan, Genitori di Alaster, Granduca Ulder Ravengard, Goblin del bosco, Cocchiere di Alaster, Banda di predoni, Pirati del Canto Elfico, Culto dei Tre Morti, Pugni Fiammanti, Darmian, Scona, Addetto delle terme, Duchessa Thalamra Vanthampur, Clem Joss, Orin, Orin (cultista ferito), Accoliti del Culto, Romeo Ravenshade, Le tre statue degli dèi morti, Taddeus, Farah Claydon, Oliver, Leroy Thundreth, Amrik Vanthampur, I diavoli di Amrik, Thurstwell Vanthampur, Thavius Kreeg, Zorvath, Culto del Drago, Il maggiordomo di Fauler, Volothamp Geddarm, Bibliotecaria della Citta Bassa, Seraphine (la cantante di Elturel), Ferroteso, Bryn, Marusin (Mary) Clover, Lorroakan, Kenku messaggero, Kar'vos, Demoni di Kar'vos, Capo delle guardie Nodorovo, Stalliere dei Vanthampur, Cane infernale dei Vanthampur, Imp dei Vanthampur, Diavolo aguzzino dei Vanthampur, Guerriero draconico del Culto del Drago, Maggiordomo dei Vanthampur, Il tressym dei Vanthampur, Guardie d'elite dei Vanthampur, Guardia superstite dei Vanthampur, Servitu barricata dei Vanthampur, Helmed Horror dei Vanthampur, I diavoli della cantina dei Vanthampur, Falaster Fisk, Satyr Tion Hun, Silvira Savikas, Mizzora, Ania, I fedeli di Zariel della villa Vanthampur, Il guardiano corazzato della Duchessa
 
-**Luoghi senza immagine:** Il Compagno, Tempio delle Divinità, Orfanotrofio di Marta, Gilda degli Avventurieri, Il Seme di Papavero, Campi della Morte, Strada lungo il Chionthar, Città esterna di Baldur's Gate, Emporio Black, Mercato nero, Erboristeria La Rosa Canina, Sacrestia del Tempio di Helm, Porto di Baldur's Gate, Stanza di Amrik (Lanterna Bassa), Biblioteca della Citta Bassa, Villa di Fauler, Candlekeep, Armeria di Ferroteso, Torre di Ramazith, Villa Vanthampur, Fogne di Baldur's Gate, Complesso sotterraneo dei Vanthampur, Segrete dei Vanthampur, Interni della villa Vanthampur, Casa sicura del Culto del Drago, Cucine della villa Vanthampur, Piano superiore della villa Vanthampur
+**Luoghi senza immagine:** Il Compagno, Tempio delle Divinità, Orfanotrofio di Marta, Gilda degli Avventurieri, Il Seme di Papavero, Campi della Morte, Strada lungo il Chionthar, Città esterna di Baldur's Gate, Emporio Black, Mercato nero, Erboristeria La Rosa Canina, Sacrestia del Tempio di Helm, Porto di Baldur's Gate, Stanza di Amrik (Lanterna Bassa), Biblioteca della Citta Bassa, Villa di Fauler, Candlekeep, Armeria di Ferroteso, Torre di Ramazith, Villa Vanthampur, Fogne di Baldur's Gate, Complesso sotterraneo dei Vanthampur, Segrete dei Vanthampur, Interni della villa Vanthampur, Casa sicura del Culto del Drago, Cucine della villa Vanthampur, Piano superiore della villa Vanthampur, Camera della Duchessa Vanthampur, Cantina della villa Vanthampur, La camera segreta di Kreeg, Sala rituale dei Vanthampur

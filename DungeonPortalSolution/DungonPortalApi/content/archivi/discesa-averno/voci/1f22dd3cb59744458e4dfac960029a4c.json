@@ -1,5 +1,137 @@
 {
   "id": "1f22dd3cb59744458e4dfac960029a4c",
   "titolo": "Breve Trattato sulla Disposizione Geografica dei Nove Inferi",
-  "blocks": []
+  "blocks": [
+    {
+      "type": "note",
+      "text": "Estratto da \u0022Breve Trattato sulla Disposizione Geografica dei Nove Inferi\u0022 prima edizione 1403 DC, attribuito al magistrato-planarista Cassian Eltan di Baldur\u0027s Gate. Le annotazioni marginali indicano che l\u0027autore non visit\u00F2 mai personalmente gli Inferi e raccolse le informazioni da mercanti planari, cultisti pentiti e testimonianze spesso contraddittorie.",
+      "title": "Journal Entry"
+    },
+    {
+      "type": "divider",
+      "variant": "flourish"
+    },
+    {
+      "type": "quote",
+      "text": "Sebbene numerosi studiosi abbiano tentato di rappresentare Baator tramite mappe, tali sforzi si sono rivelati di dubbia utilit\u00E0. Pare infatti che la distanza tra due luoghi possa mutare secondo la volont\u00E0 dei signori infernali, le necessit\u00E0 della Guerra di Sangue o semplicemente per irritare i cartografi. Questa osservazione, pur non rigorosamente verificata, appare estremamente plausibile.",
+      "author": "Prefazione dell\u0027Autore"
+    },
+    {
+      "type": "divider",
+      "variant": "flourish"
+    },
+    {
+      "type": "subtitle",
+      "text": "Primo Infero: Avernus"
+    },
+    {
+      "type": "paragraph",
+      "text": "Avernus costituisce la porta d\u0027ingresso ai Nove Inferi e il principale fronte della Guerra di Sangue. \u00C8 una terra di roccia nera, colline desolate, fiumi di magma e campi di battaglia che si estendono fino all\u0027orizzonte. Qui si raccolgono le legioni infernali prima di marciare contro i demoni dell\u0027Abisso.\n\nLa sovrana attuale \u00E8 Zariel, un essere celestiale secondo alcune cronache, che ha preso il posto dell\u0027arcidiavolo Bel. Si sconsiglia vivamente di verificare tale affermazione direttamente."
+    },
+    {
+      "type": "divider",
+      "variant": "rune"
+    },
+    {
+      "type": "subtitle",
+      "text": "Secondo Infero: Dis"
+    },
+    {
+      "type": "paragraph",
+      "text": "Dis \u00E8 occupato quasi interamente da una gigantesca citt\u00E0 di ferro arroventato. Le sue mura sono immense, le sue strade formano un labirinto e il suo centro \u00E8 dominato dalla celebre Torre di Ferro. Nessuno studioso concorda sulla reale estensione della citt\u00E0; alcuni sostengono che sia infinita, altri che semplicemente nessuno abbia mai trovato l\u0027uscita.\n\nIl suo signore \u00E8 Dispater, noto per una paranoia tanto sviluppata da essere considerata una forma superiore di prudenza."
+    },
+    {
+      "type": "divider",
+      "variant": "rune"
+    },
+    {
+      "type": "subtitle",
+      "text": "Terzo Infero: Minauros"
+    },
+    {
+      "type": "paragraph",
+      "text": "Minauros \u00E8 una palude sconfinata di fango, pioggia acida, nebbia e malattie. Ogni cosa sembra lentamente sprofondare. Anche le citt\u00E0, apparentemente, condividono questa tendenza.\n\nQui regna Mammon, la cui ossessione per la ricchezza \u00E8 tale che persino altri diavoli la considerano eccessiva."
+    },
+    {
+      "type": "divider",
+      "variant": "rune"
+    },
+    {
+      "type": "subtitle",
+      "text": "Quarto Infero: Flegesto"
+    },
+    {
+      "type": "paragraph",
+      "text": "Flegesto, o Phlegethos secondo la denominazione pi\u00F9 erudita, \u00E8 ci\u00F2 che i poeti immaginano quando pensano all\u0027inferno: vulcani, laghi di fuoco, fiumi di lava e montagne incandescenti. L\u0027aria stessa brucia i polmoni.\n\n\u00C8 governato congiuntamente da Belial e sua figlia Fierna, la cui corte \u00E8 celebre per trasformare piacere e dolore in concetti quasi indistinguibili."
+    },
+    {
+      "type": "divider",
+      "variant": "rune"
+    },
+    {
+      "type": "subtitle",
+      "text": "Quinto Infero: Stygia"
+    },
+    {
+      "type": "paragraph",
+      "text": "Stygia \u00E8 un oceano ghiacciato percorso dal Fiume Stige. Immensi iceberg galleggiano sotto un cielo oscuro, mentre tempeste e fulmini azzurri attraversano il paesaggio.\n\nQui governa Levistus, il quale, secondo la maggior parte delle fonti, \u00E8 imprigionato in un gigantesco iceberg.\n\nL\u0027autore riconosce che governare un regno mentre si \u00E8 incarcerati rappresenta un notevole risultato amministrativo."
+    },
+    {
+      "type": "divider",
+      "variant": "rune"
+    },
+    {
+      "type": "subtitle",
+      "text": "Sesto Infero: Malbolge"
+    },
+    {
+      "type": "paragraph",
+      "text": "Malbolge consiste in una colossale catena montuosa soggetta a continui crolli, frane e terremoti. Nessuna costruzione sembra destinata a durare a lungo, caratteristica che molti architetti giudicano problematica.\n\nLa sovrana \u00E8 Glasya, figlia di Asmodeus e figura temuta persino tra i diavoli."
+    },
+    {
+      "type": "divider",
+      "variant": "rune"
+    },
+    {
+      "type": "subtitle",
+      "text": "Settimo Infero: Maladomini"
+    },
+    {
+      "type": "divider",
+      "variant": "rune"
+    },
+    {
+      "type": "paragraph",
+      "text": "Maladomini appare come una successione infinita di citt\u00E0 decadenti, rovine monumentali e opere incompiute. Pare che il suo signore distrugga continuamente le proprie creazioni per ricostruirle da capo.\n\nIl piano \u00E8 governato da Baalzebul, esempio vivente del fatto che l\u0027ambizione eccessiva possa avere conseguenze spiacevoli."
+    },
+    {
+      "type": "subtitle",
+      "text": "Ottavo Infero: Cania"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cania \u00E8 un deserto di ghiaccio eterno, spazzato da venti tanto gelidi da congelare la carne e l\u0027anima con uguale facilit\u00E0. Qui vengono custoditi segreti magici che persino molti arcimaghi esitano a studiare.\n\nIl suo sovrano \u00E8 Mephistopheles, forse il pi\u00F9 potente degli Arcidiavoli dopo Asmodeus stesso."
+    },
+    {
+      "type": "divider",
+      "variant": "rune"
+    },
+    {
+      "type": "subtitle",
+      "text": "Nono Infero: Nessus"
+    },
+    {
+      "type": "paragraph",
+      "text": "Infine si giunge a Nessus, il cuore dei Nove Inferi. Le descrizioni sono discordanti: alcuni parlano di una pianura sospesa nel vuoto rosso, altri di una voragine senza fondo. Tutti concordano per\u00F2 su un punto: qui risiede Asmodeus.\n\nNessus rappresenta il centro politico, spirituale e militare dell\u0027intera gerarchia infernale. Da questo luogo vengono emanati gli ordini che governano miliardi di diavoli e determinano il destino di innumerevoli anime."
+    },
+    {
+      "type": "divider",
+      "variant": "plain"
+    },
+    {
+      "type": "note",
+      "text": "Dopo aver esaminato le testimonianze disponibili, il sottoscritto conclude che visitare i Nove Inferi costituisce un metodo estremamente inefficiente per ampliare le proprie conoscenze geografiche. Pertanto raccomando al lettore di limitarsi allo studio delle presenti pagine e di evitare qualunque spedizione sul campo, salvo possedere una notevole quantit\u00E0 di magia protettiva, una fede incrollabile o un\u0027eccessiva fiducia nelle proprie capacit\u00E0. Entrambe le ultime due condizioni tendono a produrre risultati simili.",
+      "title": "Conclusione dell\u0027autore"
+    }
+  ]
 }

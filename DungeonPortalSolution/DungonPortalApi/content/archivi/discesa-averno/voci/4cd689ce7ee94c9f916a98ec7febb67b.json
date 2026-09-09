@@ -1,0 +1,32 @@
+{
+  "id": "4cd689ce7ee94c9f916a98ec7febb67b",
+  "titolo": "Porta del Basilisco",
+  "blocks": [
+    {
+      "type": "image",
+      "variant": "center",
+      "src": "/api/content/archivi/discesa-averno/immagini/e21f398e-3e16-4f4e-b0f0-d8d4ed692436.png",
+      "alt": "Porta del Basilisco"
+    },
+    {
+      "type": "paragraph",
+      "text": "Il cancello tra la Citt\u00E0 Esterna e la Citt\u00E0 Bassa di Baldur\u0027s Gate \u00E8 una struttura imponente, pensata pi\u00F9 per imporre autorit\u00E0 che per accogliere. Alte mura di pietra grigia lo incorniciano, consumate dal tempo e dalla salsedine del Chionthar, mentre le ante rinforzate in legno e ferro portano i segni di decenni di assedi, rivolte e chiusure forzate."
+    },
+    {
+      "type": "spacer",
+      "variant": "small"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ai lati dell\u2019arco pendono grandi drappi araldici, visibili anche da lontano: il simbolo del potere cittadino sventola come un monito costante per chi entra. Torce e lanterne restano accese anche di giorno, proiettando una luce calda che contrasta con l\u2019austerit\u00E0 della pietra."
+    },
+    {
+      "type": "spacer",
+      "variant": "small"
+    },
+    {
+      "type": "paragraph",
+      "text": "Il cancello \u00E8 presidiato senza sosta dai Pugni Fiammanti, la temuta compagnia mercenaria al servizio della citt\u00E0. Le guardie, armate e corazzate, controllano documenti, merci e volti con sguardi esperti. Qui il traffico rallenta, le voci si abbassano e ogni passaggio diventa un atto sorvegliato: la Citt\u00E0 Bassa non \u00E8 per tutti, e il cancello lo ricorda a chiunque osi varcarlo."
+    }
+  ]
+}

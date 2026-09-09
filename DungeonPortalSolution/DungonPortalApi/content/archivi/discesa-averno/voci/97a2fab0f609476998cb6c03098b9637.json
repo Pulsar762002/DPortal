@@ -1,0 +1,32 @@
+{
+  "id": "97a2fab0f609476998cb6c03098b9637",
+  "titolo": "Tarina",
+  "blocks": [
+    {
+      "type": "image",
+      "variant": "center",
+      "src": "/api/content/archivi/discesa-averno/immagini/60e2fba6-c523-4aeb-a5dc-11c651cc705f.png",
+      "alt": "Tarina"
+    },
+    {
+      "type": "paragraph",
+      "text": "Tarina \u00E8 una giovane umana sui 25 anni, di statura abbastanza minuta e dai capeli corti ramati."
+    },
+    {
+      "type": "spacer",
+      "variant": "small"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sulle braccia porta dei tatuaggi che rappresentano un passato marinaresco. Rifugiata nella taverna del canto elfico per diverse settimane, Tarina, si \u00E8 nascosta da un gruppo di pirati che si sono rivelati successivamente suoi ex compagni di ciurma.\nInizialmente diceva che questo gruppo la cercava per abusare di lei, ma poi ha confessato di aver sottratto il tesoro della loro nave ed essere fuggita."
+    },
+    {
+      "type": "spacer",
+      "variant": "small"
+    },
+    {
+      "type": "paragraph",
+      "text": "Dopo che i suoi ex compagni sono stati uccisi dal party lei ha deciso che torner\u00E0 a fare quello che faceva sempre: sopravvivere."
+    }
+  ]
+}

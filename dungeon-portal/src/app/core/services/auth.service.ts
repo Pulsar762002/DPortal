@@ -59,11 +59,11 @@ export class AuthService {
     return hasAnyRole(this.getRole(), allowed);
   }
 
-  logout() {
+  logout(returnUrl?: string) {
     localStorage.removeItem('token');
     localStorage.removeItem('user');
     this.authState.next(false);
-    this.router.navigate(['/login']);
+    this.router.navigate(['/login'], returnUrl ? { queryParams: { returnUrl } } : undefined);
   }
 
   getToken(): string | null {

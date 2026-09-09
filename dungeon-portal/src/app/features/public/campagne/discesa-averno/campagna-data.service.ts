@@ -1,7 +1,23 @@
 import { Injectable } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
-import { Observable } from 'rxjs';
-import { map, shareReplay } from 'rxjs/operators';
+import { Observable, ReplaySubject } from 'rxjs';
+import { map, share } from 'rxjs/operators';
+
+/**
+ * http.get() completes right after its single emission, so a plain shareReplay({refCount:true})
+ * never actually reconnects: by the time refCount could drop to 0, the source has already
+ * completed and the replay buffer is frozen forever. share() with resetOnComplete/
+ * resetOnRefCountZero discards the connector in both cases, so the next subscriber triggers
+ * a genuine new HTTP request while concurrent subscribers on the same page still share one call.
+ */
+function shareLatest<T>() {
+  return share<T>({
+    connector: () => new ReplaySubject<T>(1),
+    resetOnError: false,
+    resetOnComplete: true,
+    resetOnRefCountZero: true,
+  });
+}
 
 /** Categoria di un personaggio, rispecchia le cartelle personaggi/. */
 export type CategoriaPersonaggio = 'party' | 'alleato' | 'avversario' | 'secondario';
@@ -94,19 +110,26 @@ const BASE = 'assets/data/ikaros/campagne/discesa-averno';
 @Injectable({ providedIn: 'root' })
 export class CampagnaDataService {
 
-  private personaggi$?: Observable<Personaggio[]>;
-  private luoghi$?: Observable<Luogo[]>;
-  private eventi$?: Observable<Evento[]>;
+  private readonly personaggi$: Observable<Personaggio[]>;
+  private readonly luoghi$: Observable<Luogo[]>;
+  private readonly eventi$: Observable<Evento[]>;
 
-  constructor(private http: HttpClient) {}
+  constructor(private http: HttpClient) {
+    this.personaggi$ = this.http
+      .get<PersonaggiFile>(`${BASE}/personaggi.json`)
+      .pipe(map(f => f.personaggi ?? []), shareLatest());
 
-  /** Tutti i personaggi (cache condivisa). */
+    this.luoghi$ = this.http
+      .get<LuoghiFile>(`${BASE}/luoghi.json`)
+      .pipe(map(f => f.luoghi ?? []), shareLatest());
+
+    this.eventi$ = this.http
+      .get<EventiFile>(`${BASE}/eventi.json`)
+      .pipe(map(f => f.eventi ?? []), shareLatest());
+  }
+
+  /** Tutti i personaggi (cache condivisa finché almeno un componente è iscritto). */
   getPersonaggi(): Observable<Personaggio[]> {
-    if (!this.personaggi$) {
-      this.personaggi$ = this.http
-        .get<PersonaggiFile>(`${BASE}/personaggi.json`)
-        .pipe(map(f => f.personaggi ?? []), shareReplay(1));
-    }
     return this.personaggi$;
   }
 
@@ -140,23 +163,13 @@ export class CampagnaDataService {
     };
   }
 
-  /** Tutti i luoghi (cache condivisa). */
+  /** Tutti i luoghi (cache condivisa finché almeno un componente è iscritto). */
   getLuoghi(): Observable<Luogo[]> {
-    if (!this.luoghi$) {
-      this.luoghi$ = this.http
-        .get<LuoghiFile>(`${BASE}/luoghi.json`)
-        .pipe(map(f => f.luoghi ?? []), shareReplay(1));
-    }
     return this.luoghi$;
   }
 
-  /** Tutti gli eventi (cache condivisa). */
+  /** Tutti gli eventi (cache condivisa finché almeno un componente è iscritto). */
   getEventi(): Observable<Evento[]> {
-    if (!this.eventi$) {
-      this.eventi$ = this.http
-        .get<EventiFile>(`${BASE}/eventi.json`)
-        .pipe(map(f => f.eventi ?? []), shareReplay(1));
-    }
     return this.eventi$;
   }
 }

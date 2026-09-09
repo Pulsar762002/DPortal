@@ -8,11 +8,7 @@
   "projects": {
     "dungeon-portal": {
       "projectType": "application",
-      "schematics": {
-        "@schematics/angular:component": {
-          "skipTests": true
-        }
-      },
+      "schematics": {},
       "root": "",
       "sourceRoot": "src",
       "prefix": "app",
@@ -25,8 +21,7 @@
             "assets": [
               {
                 "glob": "**/*",
-                "input": "public",
-                "output": "/"
+                "input": "public"
               },
               "src/assets"
             ],

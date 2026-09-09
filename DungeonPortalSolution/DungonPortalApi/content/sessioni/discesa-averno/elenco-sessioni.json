@@ -110,6 +110,16 @@
           "label": "Sessione 21",
           "sessionNumber": 21,
           "visible": true
+        },
+        {
+          "label": "Sessione 22",
+          "sessionNumber": 22,
+          "visible": true
+        },
+        {
+          "label": "Sessione 23",
+          "sessionNumber": 23,
+          "visible": true
         }
       ]
     },

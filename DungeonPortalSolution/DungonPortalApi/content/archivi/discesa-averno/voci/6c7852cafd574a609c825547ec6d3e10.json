@@ -1,5 +1,14 @@
 {
   "id": "6c7852cafd574a609c825547ec6d3e10",
   "titolo": "Piazzale",
-  "blocks": []
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Per legge, tutte le compravendite commerciali che non si svolgono presso un locale dotato di licenza e tassato devono avvenire nel Piazzale, il pi\u00F9 grande spazio civico e mercato pubblico cittadino. Ogni mattina, un flusso di venditori si riversa nella piazza per allestire le bancarelle ed esibire la merce trasportata sul posto da un piccolo esercito di portatori. Ogni sera, i venditori ricaricano le merci invendute sui carretti e pagano quote di affitto esorbitanti per usare i magazzini vicini."
+    },
+    {
+      "type": "paragraph",
+      "text": "Durante le ore del giorno, il Piazzale ospita un mercato vibrante e affollato dove chiromanti e artisti della truffa si danno da fare accanto a venditori che offrono a gran voce spezie, pesci, pellicce, profumi ed altre merci di lusso provenienti da ogni angolo del continente e oltre. Nonostante la calca, il Piazzale \u00E8 ben controllato e la Guardia tiene gli occhi aperti per scacciare gli eventuali borseggiatori. Ai musicisti di strada \u00E8 vietato esibirsi, pena un\u2019ingente multa e l\u2019allontanamento dal mercato, quindi il Piazzale si dimostra pi\u00F9 tranquillo dei caotici mercati della Citt\u00E0 Esterna. Gli intrattenitori pi\u00F9 silenziosi, come i burattinai e i prestigiatori, sono una presenza comune."
+    }
+  ]
 }

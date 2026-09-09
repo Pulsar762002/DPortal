@@ -1,0 +1,12 @@
+{
+  "id": "3ca9fb0fcacd47fa9314a06abea0b042",
+  "titolo": "Lady Seraphine Lirael Nodorovo",
+  "blocks": [
+    {
+      "type": "image",
+      "variant": "center",
+      "src": "/api/content/archivi/discesa-averno/immagini/bdd9e5bc-a144-4d5a-a644-ce95d29b5e42.png",
+      "alt": "Seraphine"
+    }
+  ]
+}

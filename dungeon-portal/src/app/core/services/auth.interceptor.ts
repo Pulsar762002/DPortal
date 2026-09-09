@@ -1,6 +1,13 @@
-import { HttpInterceptorFn } from '@angular/common/http';
+import { HttpErrorResponse, HttpInterceptorFn } from '@angular/common/http';
+import { inject } from '@angular/core';
+import { Router } from '@angular/router';
+import { catchError, throwError } from 'rxjs';
+import { AuthService } from './auth.service';
 
 export const authInterceptor: HttpInterceptorFn = (req, next) => {
+
+  const router = inject(Router);
+  const authService = inject(AuthService);
 
   // localStorage non esiste lato server (SSR/prerender): senza questa guardia
   // l'interceptor lancia e ogni richiesta HTTP fallisce durante il render server.
@@ -9,15 +16,21 @@ export const authInterceptor: HttpInterceptorFn = (req, next) => {
       ? null
       : localStorage.getItem('token');
 
-  if (token) {
-    const cloned = req.clone({
-      setHeaders: {
-        Authorization: `Bearer ${token}`
+  const cloned = token
+    ? req.clone({ setHeaders: { Authorization: `Bearer ${token}` } })
+    : req;
+
+  return next(cloned).pipe(
+    catchError((err: unknown) => {
+      // Token scaduto/non valido: senza questo, la pagina resta silenziosamente
+      // vuota finché l'utente non fa logout/login manuale per ottenere un token fresco.
+      // Esclude /auth/login: lì un 401 significa "credenziali errate", gestito dal
+      // componente di login stesso, non una sessione scaduta da ripulire.
+      const isLoginRequest = req.url.includes('/auth/login');
+      if (err instanceof HttpErrorResponse && err.status === 401 && !isLoginRequest && typeof window !== 'undefined') {
+        authService.logout(router.url);
       }
-    });
-
-    return next(cloned);
-  }
-
-  return next(req);
+      return throwError(() => err);
+    })
+  );
 };

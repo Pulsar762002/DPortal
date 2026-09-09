@@ -1,0 +1,12 @@
+{
+  "id": "0041f3e31b4c4063bbc435f78cdbaef3",
+  "titolo": "Tempio di Helm",
+  "blocks": [
+    {
+      "type": "image",
+      "variant": "center",
+      "src": "/api/content/archivi/discesa-averno/immagini/534bce1f-8e4e-4a2a-a3e6-1d01c39889ed.png",
+      "alt": "Tempio di Helm"
+    }
+  ]
+}

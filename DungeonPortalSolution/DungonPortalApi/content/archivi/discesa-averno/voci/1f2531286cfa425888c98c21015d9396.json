@@ -1,0 +1,28 @@
+{
+  "id": "1f2531286cfa425888c98c21015d9396",
+  "titolo": "Esterno",
+  "blocks": [
+    {
+      "type": "image",
+      "variant": "center",
+      "src": "/api/content/archivi/discesa-averno/immagini/cc162ad5-fb36-4682-9f17-bb69287364f3.png",
+      "alt": ""
+    },
+    {
+      "type": "spacer",
+      "variant": "medium"
+    },
+    {
+      "type": "paragraph",
+      "text": "La \u003Cstrong\u003ETaverna del Canto Elfico\u003C/strong\u003E si trova nella Citt\u00E0 Bassa di Baldur\u0027s Gate ed \u00E8 un punto di ritrovo ben noto per mercenari e avventurieri. Il locale \u00E8 gestito da Alan, un oste pratico e alla mano, pi\u00F9 interessato a mantenere l\u2019ordine e le coppe piene che alle storie dei suoi clienti."
+    },
+    {
+      "type": "spacer",
+      "variant": "small"
+    },
+    {
+      "type": "paragraph",
+      "text": "L\u2019ambiente \u00E8 caldo e rumoroso, saturo di odore di birra e cibo semplice, ma su tutto aleggia il canto di un\u2019elfa spettrale, che risuona incessante dalle travi del piano superiore. La voce non interrompe la vita della taverna, ma la accompagna come un ricordo costante, rendendo il luogo stranamente quieto per essere nel cuore della citt\u00E0."
+    }
+  ]
+}

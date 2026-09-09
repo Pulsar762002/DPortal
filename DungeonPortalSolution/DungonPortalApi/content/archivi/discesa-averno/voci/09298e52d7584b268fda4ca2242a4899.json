@@ -1,5 +1,98 @@
 {
   "id": "09298e52d7584b268fda4ca2242a4899",
   "titolo": "Apocalypto",
-  "blocks": []
+  "blocks": [
+    {
+      "type": "subtitle",
+      "text": "Capitolo III: La Presunta Vittoria dell\u0027Abisso"
+    },
+    {
+      "type": "spacer",
+      "variant": "medium"
+    },
+    {
+      "type": "paragraph",
+      "text": "Tra le numerose speculazioni formulate dagli studiosi planari nel corso dei secoli, nessuna \u00E8 tanto inquietante quanto quella che contempla una vittoria definitiva dell\u0027Abisso nella Guerra di Sangue. La maggior parte dei mortali, quando riflette su tale possibilit\u00E0, immagina semplicemente la sostituzione di un potere con un altro: i diavoli sconfitti, i demoni vittoriosi, un nuovo ordine imposto sulle rovine del precedente. Tale conclusione, tuttavia, rivela una profonda incomprensione della natura stessa dell\u0027Abisso."
+    },
+    {
+      "type": "spacer",
+      "variant": "small"
+    },
+    {
+      "type": "paragraph",
+      "text": "I Nove Inferi sono un impero. Per quanto crudele, spietato e fondato sulla sofferenza, esso possiede una struttura. Esistono leggi, gerarchie, catene di comando, citt\u00E0, fortezze e sistemi amministrativi capaci di governare un numero incalcolabile di anime. Persino coloro che vi sono condannati possono, almeno in teoria, comprendere le regole che determinano il proprio destino. L\u0027Abisso, al contrario, non possiede nulla di tutto ci\u00F2. Esso non \u00E8 uno stato, n\u00E9 una nazione, n\u00E9 un regno. L\u0027Abisso \u00E8 una ferita aperta nella realt\u00E0."
+    },
+    {
+      "type": "spacer",
+      "variant": "small"
+    },
+    {
+      "type": "paragraph",
+      "text": "\u00C8 quindi errato domandarsi come i Principi Demoniaci governerebbero i Nove Inferi dopo averli conquistati. Una domanda pi\u00F9 appropriata sarebbe chiedersi se esisterebbero ancora dei Nove Inferi da governare."
+    },
+    {
+      "type": "spacer",
+      "variant": "small"
+    },
+    {
+      "type": "paragraph",
+      "text": "La storia ci insegna che ogni conquista produce assimilazione. Quando un regno cade, il vincitore ne occupa le citt\u00E0, utilizza le sue strade e impiega i suoi funzionari. Ma i demoni non costruiscono. Non amministrano. Non preservano. Essi consumano. L\u00E0 dove un esercito infernale occuperebbe una fortezza nemica per trasformarla in una nuova base operativa, un\u0027orda demoniaca la ridurrebbe in macerie senza alcun vantaggio strategico. Non per follia, come molti credono, ma perch\u00E9 la distruzione costituisce la loro natura pi\u00F9 profonda."
+    },
+    {
+      "type": "spacer",
+      "variant": "small"
+    },
+    {
+      "type": "paragraph",
+      "text": "Per questa ragione ritengo che la caduta di Avernus rappresenterebbe soltanto il primo passo verso una catastrofe ben pi\u00F9 ampia. Una volta infranta la principale linea difensiva dei Nove Inferi, il conflitto cesserebbe di essere una guerra tra due potenze organizzate e diverrebbe un processo di contaminazione cosmica. Gli strati di Baator non verrebbero conquistati nell\u0027accezione tradizionale del termine; verrebbero progressivamente trasformati in estensioni dell\u0027Abisso stesso."
+    },
+    {
+      "type": "spacer",
+      "variant": "small"
+    },
+    {
+      "type": "paragraph",
+      "text": "Gli antichi cronisti utilizzavano il termine abyssificazione per descrivere tale fenomeno, ma nessuna parola mortale \u00E8 davvero adeguata. Immaginate una citt\u00E0 la cui architettura cambi forma ogni notte. Immaginate montagne che si contorcono come creature viventi, oceani che divorano le proprie rive e cieli nei quali le stelle appaiono e scompaiono senza seguire alcuna legge naturale. Ora estendete questa immagine a un intero piano d\u0027esistenza. Ci\u00F2 che emergerebbe non sarebbe pi\u00F9 Baator, bens\u00EC qualcosa di nuovo e infinitamente pi\u00F9 terribile."
+    },
+    {
+      "type": "spacer",
+      "variant": "small"
+    },
+    {
+      "type": "paragraph",
+      "text": "\u00C8 a questo punto che molti lettori potrebbero domandarsi perch\u00E9 gli d\u00E8i e le potenze dei piani superiori non intervengano. La risposta \u00E8 semplice: lo farebbero. Nessuna divinit\u00E0, per quanto distante dagli affari dei mortali, potrebbe ignorare un evento di tale portata. Tuttavia, chi considera gli d\u00E8i onnipotenti commette lo stesso errore di chi ritiene i demoni semplici bestie prive d\u0027intelletto. Le divinit\u00E0 sono potenti, ma la loro forza deriva dall\u0027esistenza stessa del multiverso e dalle idee che esso contiene. Se il caos dell\u0027Abisso iniziasse a corrodere i fondamenti della realt\u00E0, perfino gli immortali vedrebbero il proprio potere diminuire."
+    },
+    {
+      "type": "spacer",
+      "variant": "small"
+    },
+    {
+      "type": "paragraph",
+      "text": "In uno scenario del genere si assisterebbe probabilmente all\u0027evento pi\u00F9 straordinario della storia cosmica: la formazione di alleanze impossibili. Arcangeli combatterebbero accanto ad arcidiavoli. Divinit\u00E0 rivali dimenticherebbero antichi rancori. Perfino Asmodeus, Signore dei Nove Inferi e nemico dichiarato di innumerevoli potenze celestiali, potrebbe ritrovarsi a condividere il medesimo campo di battaglia con coloro che ha contrastato per ere. Non per amicizia, n\u00E9 per redenzione, ma per necessit\u00E0. Di fronte alla distruzione dell\u0027intero ordine cosmico, le differenze tra bene e male perderebbero gran parte del loro significato."
+    },
+    {
+      "type": "spacer",
+      "variant": "small"
+    },
+    {
+      "type": "paragraph",
+      "text": "Se il lettore ha trovato conforto nell\u0027idea che il male possa distruggere il male, temo di averlo deluso."
+    },
+    {
+      "type": "spacer",
+      "variant": "small"
+    },
+    {
+      "type": "paragraph",
+      "text": "La Guerra di Sangue non \u00E8 una tragedia perch\u00E9 continua."
+    },
+    {
+      "type": "spacer",
+      "variant": "small"
+    },
+    {
+      "type": "paragraph",
+      "text": "\u00C8 una tragedia perch\u00E9 non pu\u00F2 terminare."
+    }
+  ]
 }
