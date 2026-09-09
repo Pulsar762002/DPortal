@@ -1,0 +1,84 @@
+<div class="archivio-editor">
+
+  <div class="page-header">
+    <h1 class="page-title">Editor Archivi</h1>
+    <p class="page-intro">Gestisci cartelle e voci degli Archivi del Master</p>
+  </div>
+
+  <div class="editor-layout">
+
+    <!-- ===== SIDEBAR: CARTELLE / VOCI ===== -->
+    <nav class="sidebar">
+
+      <div class="nuova-riga">
+        <input
+            type="text"
+            placeholder="Nuova cartella…"
+            [(ngModel)]="nuovoNomeCartellaRadice"
+            (keydown.enter)="creaCartellaRadice()" />
+        <button (click)="creaCartellaRadice()" [disabled]="!nuovoNomeCartellaRadice.trim()">+</button>
+      </div>
+
+      <p class="sidebar-vuota" *ngIf="!indice.cartelle.length">Nessuna cartella ancora.</p>
+
+      <app-archivio-cartella-node
+          *ngFor="let cartella of indice.cartelle"
+          [cartella]="cartella"
+          [voceSelezionataId]="voceSelezionata?.id"
+          (apriVoce)="apriVoce($event.cartellaId, $event.voceId)"
+          (rinominaCartella)="rinominaCartella($event.cartella, $event.nome)"
+          (eliminaCartella)="chiediEliminaCartella($event)"
+          (creaSottocartella)="creaSottocartella($event.cartellaParentId, $event.nome)"
+          (creaVoce)="creaVoce($event.cartellaId, $event.titolo)"
+          (eliminaVoce)="chiediEliminaVoce($event.cartellaId, $event.voce)">
+      </app-archivio-cartella-node>
+
+    </nav>
+
+    <!-- ===== EDITOR VOCE ===== -->
+    <main class="main-content">
+
+      <p class="voce-vuota" *ngIf="!voceSelezionata">Seleziona o crea una voce per modificarla.</p>
+
+      <div class="voce-editor" *ngIf="voceSelezionata">
+
+        <div class="voce-editor-header">
+          <input
+              type="text"
+              class="voce-titolo-input"
+              [(ngModel)]="voceSelezionata.titolo"
+              placeholder="Titolo della voce" />
+          <button class="btn-salva" (click)="salvaVoce()" [disabled]="salvando">
+            {{ salvando ? 'Salvataggio…' : 'Salva' }}
+          </button>
+          <span class="messaggio" *ngIf="messaggio">{{ messaggio }}</span>
+        </div>
+
+        <app-story-block-form
+            [blocks]="voceSelezionata.blocks"
+            [uploadImmagine]="uploadImmagine">
+        </app-story-block-form>
+
+      </div>
+
+    </main>
+
+  </div>
+
+  <app-confirm-dialog
+      *ngIf="mostraConfermaEliminaCartella"
+      title="Elimina cartella"
+      message="Eliminare la cartella e tutte le voci contenute? L'operazione non è reversibile."
+      (confirmed)="confermaEliminaCartella()"
+      (closed)="mostraConfermaEliminaCartella = false">
+  </app-confirm-dialog>
+
+  <app-confirm-dialog
+      *ngIf="mostraConfermaEliminaVoce"
+      title="Elimina voce"
+      message="Eliminare questa voce? L'operazione non è reversibile."
+      (confirmed)="confermaEliminaVoce()"
+      (closed)="mostraConfermaEliminaVoce = false">
+  </app-confirm-dialog>
+
+</div>

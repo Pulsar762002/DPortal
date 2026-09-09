@@ -1,0 +1,12 @@
+<section class="personaggi-section">
+
+  <h2 class="section-title">
+    Personaggi principali della campagna
+  </h2>
+
+  <app-personaggio-card
+    *ngFor="let p of personaggi$ | async"
+    [p]="p">
+  </app-personaggio-card>
+
+</section>

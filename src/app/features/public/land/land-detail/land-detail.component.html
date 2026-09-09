@@ -1,0 +1,38 @@
+<div class="land-detail" *ngIf="land">
+
+  <div class="page-header">
+    <h1 class="page-title">{{ land.nome }}</h1>
+  </div>
+
+  <div class="land-block" *ngIf="land.lore">
+    <h2>Regole e ambientazione</h2>
+    <p>{{ land.lore }}</p>
+  </div>
+
+  <div class="land-block">
+    <h2>Mappa</h2>
+    <img *ngIf="land.mapImageUrl" [src]="land.mapImageUrl" alt="Mappa di {{ land.nome }}">
+    <p *ngIf="!land.mapImageUrl" class="placeholder">Mappa non ancora disponibile.</p>
+  </div>
+
+  <div class="land-block">
+    <h2>Master</h2>
+    <ul class="plain-list">
+      <li *ngFor="let m of land.masters">
+        &#64;{{ m.nickname }}
+        <span *ngIf="m.isPrincipale" class="badge">Principale</span>
+      </li>
+    </ul>
+  </div>
+
+  <div class="land-block">
+    <h2>Campagne</h2>
+    <ul class="plain-list">
+      <li *ngFor="let c of land.campagne">
+        <a [routerLink]="['/campagne', c.slug]">{{ c.nome }}</a>
+      </li>
+    </ul>
+    <p *ngIf="!land.campagne.length">Nessuna campagna ancora avviata in questa Land.</p>
+  </div>
+
+</div>

@@ -1,0 +1,60 @@
+<!--
+  Galleria degli stili. Usa la stessa struttura di dynamic-session
+  (session-layout.css + i componenti story-block), così gli esempi
+  riflettono esattamente gli stili reali delle sessioni.
+-->
+<div class="dynamic-session">
+
+    <div class="session-layout">
+
+        <!-- SIDEBAR -->
+        <aside class="session-sidebar">
+
+            <div class="sidebar-card">
+
+                <div class="sidebar-title-row">
+                    <h3>{{ session.title }}</h3>
+                </div>
+
+                <ul>
+                    <li *ngFor="let chapter of session.chapters">
+                        <a href="" (click)="$event.preventDefault()">{{ chapter.title }}</a>
+                    </li>
+                </ul>
+
+            </div>
+
+        </aside>
+
+        <!-- CONTENT -->
+        <main class="session-content">
+
+            <div class="content-card">
+
+                <section
+                        *ngFor="let chapter of session.chapters"
+                        [id]="chapter.id"
+                        class="chapter">
+
+                    <!-- TITLE -->
+                    <div class="chapter-title-row">
+                        <h2>{{ chapter.title }}</h2>
+                    </div>
+
+                    <!-- BLOCKS -->
+                    <div class="chapter-blocks">
+                        <app-story-blocks
+                                [blocks]="chapter.blocks || []"
+                                [fallbackImageAlt]="chapter.title">
+                        </app-story-blocks>
+                    </div>
+
+                </section>
+
+            </div>
+
+        </main>
+
+    </div>
+
+</div>

@@ -1,0 +1,31 @@
+<div class="cartella">
+
+  <button class="cartella-header" (click)="toggle()">
+    <span class="cartella-chevron">{{ aperta ? '▾' : '▸' }}</span>
+    <span class="cartella-nome">{{ cartella.nome }}</span>
+  </button>
+
+  <div class="cartella-body" *ngIf="aperta">
+
+    <app-archivio-cartella-view-node
+        *ngFor="let sotto of cartella.sottocartelle"
+        [cartella]="sotto"
+        [voceSelezionataId]="voceSelezionataId"
+        (apriVoce)="apriVoce.emit($event)">
+    </app-archivio-cartella-view-node>
+
+    <ul class="voci-lista">
+      <li *ngFor="let voce of cartella.voci">
+        <a
+            href=""
+            class="voce-link"
+            [class.attiva]="voceSelezionataId === voce.id"
+            (click)="$event.preventDefault(); apriVoce.emit(voce.id)">
+          {{ voce.titolo }}
+        </a>
+      </li>
+    </ul>
+
+  </div>
+
+</div>

@@ -1,0 +1,20 @@
+@import "../../../../shared/styles/session-layout.css";
+
+
+:host {
+    display: block;
+    width: 100%;
+}
+
+.dynamic-session {
+    width: 100%;
+    min-height: 100vh;
+
+    padding-top: 120px;
+
+    color: white;
+}
+
+/* Stili dei blocchi (paragraph-italic/emphasis, quote-author, ecc.) sono in
+   shared/story-blocks/story-blocks/story-blocks.component.css, perché quegli
+   elementi ora vivono nel template di quel componente, non in questo. */

@@ -1,0 +1,10 @@
+<aside class="note">
+
+    <div class="note__label">
+        <span class="note__mark">◈</span>
+        {{ block.title || 'Nota del Master' }}
+    </div>
+
+    <div class="note__text" [innerHTML]="textRender.render(block.text)"></div>
+
+</aside>

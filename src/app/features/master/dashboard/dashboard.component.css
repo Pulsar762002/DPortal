@@ -1,0 +1,238 @@
+.dashboard {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 1.5rem 1rem 4rem;
+  color: #e4e7f2;
+}
+
+.page-header {
+  background: #13151d;
+  border: 1px solid rgba(212, 175, 55, 0.2);
+  border-radius: 10px;
+  padding: 1.8rem 1.5rem 1.4rem;
+  margin-bottom: 1.8rem;
+  text-align: center;
+}
+
+.page-title {
+  margin: 0 0 0.4rem;
+  color: #d4af37;
+  text-shadow: 0 0 18px rgba(212, 175, 55, 0.25);
+}
+
+.page-intro {
+  margin: 0;
+  font-size: 0.85rem;
+  color: #9ca3af;
+}
+
+.campagna-card {
+  background: #13151d;
+  border: 1px solid rgba(212, 175, 55, 0.2);
+  border-radius: 10px;
+  padding: 1.2rem 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.campagna-card h2 {
+  margin: 0 0 0.8rem;
+  color: #d4af37;
+}
+
+.campagna-azioni {
+  display: flex;
+  gap: 1rem;
+}
+
+.campagna-azioni a {
+  background: rgba(212, 175, 55, 0.12);
+  border: 1px solid rgba(212, 175, 55, 0.3);
+  border-radius: 6px;
+  color: #d4af37;
+  padding: 0.4rem 0.9rem;
+  font-size: 0.85rem;
+  text-decoration: none;
+}
+
+.campagna-azioni a:hover {
+  background: rgba(212, 175, 55, 0.2);
+}
+
+.elimina-btn {
+  background: rgba(229, 115, 115, 0.12);
+  border: 1px solid rgba(229, 115, 115, 0.3);
+  border-radius: 6px;
+  color: #e57373;
+  padding: 0.4rem 0.9rem;
+  font-size: 0.85rem;
+  cursor: pointer;
+}
+
+.elimina-btn:hover {
+  background: rgba(229, 115, 115, 0.2);
+}
+
+.modifica-btn {
+  background: rgba(212, 175, 55, 0.12);
+  border: 1px solid rgba(212, 175, 55, 0.3);
+  border-radius: 6px;
+  color: #d4af37;
+  padding: 0.4rem 0.9rem;
+  font-size: 0.85rem;
+  cursor: pointer;
+}
+
+.modifica-btn:hover {
+  background: rgba(212, 175, 55, 0.2);
+}
+
+.modifica-form {
+  display: flex;
+  flex-direction: column;
+  gap: 0.9rem;
+}
+
+.campo {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+  font-size: 0.85rem;
+  color: #9ca3af;
+}
+
+.campo small {
+  font-weight: 400;
+  opacity: 0.8;
+}
+
+.campo input,
+.campo textarea {
+  padding: 8px 12px;
+  border-radius: 8px;
+  border: 1px solid rgba(212, 175, 55, 0.2);
+  background: rgba(255, 255, 255, 0.04);
+  color: #e4e7f2;
+  font-family: inherit;
+  resize: vertical;
+}
+
+.anteprima-testo {
+  background: rgba(255, 255, 255, 0.03);
+  border: 1px dashed rgba(212, 175, 55, 0.2);
+  border-radius: 8px;
+  padding: 0.8rem 1rem;
+  font-size: 0.85rem;
+  color: #c7cad6;
+}
+
+.anteprima-testo p {
+  margin: 0 0 0.6rem;
+}
+
+.anteprima-testo p:last-child {
+  margin-bottom: 0;
+}
+
+.anteprima-testo p.intro {
+  color: #e4e7f2;
+  font-weight: 500;
+}
+
+.anteprima-testo p.final {
+  font-style: italic;
+  color: #9ca3af;
+}
+
+.campo input[type="file"] {
+  border: 1px dashed rgba(212, 175, 55, 0.3);
+  background: rgba(255, 255, 255, 0.02);
+  padding: 10px 12px;
+}
+
+.caricamento {
+  margin: -0.4rem 0 0;
+  font-size: 0.85rem;
+  color: #d4af37;
+}
+
+.anteprima-immagine {
+  max-width: 220px;
+  max-height: 220px;
+  object-fit: cover;
+  border-radius: 8px;
+  border: 1px solid rgba(212, 175, 55, 0.2);
+}
+
+.modifica-azioni {
+  display: flex;
+  gap: 10px;
+}
+
+.modifica-azioni button {
+  padding: 8px 16px;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+.modifica-azioni button[type="submit"] {
+  background: #d4af37;
+  color: #0f1424;
+}
+
+.annulla-btn {
+  background: rgba(255, 255, 255, 0.06);
+  color: #e4e7f2;
+  border: 1px solid rgba(255, 255, 255, 0.12) !important;
+}
+
+.success {
+  color: #81c784;
+  margin-top: 10px;
+  font-size: 0.9rem;
+}
+
+.nuova-campagna {
+  margin-top: 2rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid rgba(212, 175, 55, 0.2);
+}
+
+.section-title {
+  margin: 0 0 0.9rem;
+  font-weight: 500;
+  color: #9ca3af;
+}
+
+.inline-form {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.inline-form input,
+.inline-form select {
+  padding: 8px 12px;
+  border-radius: 8px;
+  border: 1px solid rgba(212, 175, 55, 0.2);
+  background: rgba(255, 255, 255, 0.04);
+  color: #e4e7f2;
+}
+
+.inline-form button {
+  padding: 8px 16px;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+  background: #d4af37;
+  color: #0f1424;
+  font-weight: 600;
+}
+
+.error {
+  color: #e57373;
+  margin-top: 10px;
+  font-size: 0.9rem;
+}

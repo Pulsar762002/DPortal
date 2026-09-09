@@ -1,0 +1,23 @@
+<figure class="scene">
+
+    <img
+            class="scene__img"
+            [src]="block.src"
+            [alt]="block.alt || block.title || ''"
+    />
+
+    @if (block.title || block.subtitle) {
+        <figcaption class="scene__caption">
+
+            @if (block.title) {
+                <h2 class="scene__title">{{ block.title }}</h2>
+            }
+
+            @if (block.subtitle) {
+                <p class="scene__subtitle">{{ block.subtitle }}</p>
+            }
+
+        </figcaption>
+    }
+
+</figure>

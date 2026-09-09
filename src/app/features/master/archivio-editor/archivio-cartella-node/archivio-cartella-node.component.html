@@ -1,0 +1,65 @@
+<div class="cartella">
+
+  <div class="cartella-header">
+    <button class="cartella-chevron-btn" (click)="toggle()">
+      {{ aperta ? '▾' : '▸' }}
+    </button>
+    <input
+        #nomeCartellaInput
+        class="cartella-nome-input"
+        type="text"
+        [value]="cartella.nome"
+        title="Rinomina cartella"
+        (blur)="rinominaCartella.emit({ cartella, nome: nomeCartellaInput.value })"
+        (keydown.enter)="rinominaCartella.emit({ cartella, nome: nomeCartellaInput.value })" />
+    <button class="azione-elimina" title="Elimina cartella" (click)="eliminaCartella.emit(cartella)">✕</button>
+  </div>
+
+  <div class="cartella-body" *ngIf="aperta">
+
+    <app-archivio-cartella-node
+        *ngFor="let sotto of cartella.sottocartelle"
+        [cartella]="sotto"
+        [voceSelezionataId]="voceSelezionataId"
+        (apriVoce)="apriVoce.emit($event)"
+        (rinominaCartella)="rinominaCartella.emit($event)"
+        (eliminaCartella)="eliminaCartella.emit($event)"
+        (creaSottocartella)="creaSottocartella.emit($event)"
+        (creaVoce)="creaVoce.emit($event)"
+        (eliminaVoce)="eliminaVoce.emit($event)">
+    </app-archivio-cartella-node>
+
+    <ul class="voci-lista">
+      <li *ngFor="let voce of cartella.voci">
+        <a
+            href=""
+            class="voce-link"
+            [class.attiva]="voceSelezionataId === voce.id"
+            (click)="$event.preventDefault(); apriVoce.emit({ cartellaId: cartella.id, voceId: voce.id })">
+          {{ voce.titolo }}
+        </a>
+        <button class="azione-elimina" title="Elimina voce" (click)="eliminaVoce.emit({ cartellaId: cartella.id, voce })">✕</button>
+      </li>
+    </ul>
+
+    <div class="nuova-riga">
+      <input
+          type="text"
+          placeholder="Nuova sottocartella…"
+          [(ngModel)]="nuovoNomeSottocartella"
+          (keydown.enter)="onCreaSottocartella()" />
+      <button (click)="onCreaSottocartella()" [disabled]="!nuovoNomeSottocartella.trim()">+</button>
+    </div>
+
+    <div class="nuova-riga">
+      <input
+          type="text"
+          placeholder="Nuova voce…"
+          [(ngModel)]="nuovoTitoloVoce"
+          (keydown.enter)="onCreaVoce()" />
+      <button (click)="onCreaVoce()" [disabled]="!nuovoTitoloVoce.trim()">+</button>
+    </div>
+
+  </div>
+
+</div>
