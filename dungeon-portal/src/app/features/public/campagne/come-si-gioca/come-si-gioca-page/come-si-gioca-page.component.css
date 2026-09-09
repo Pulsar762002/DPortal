@@ -1,3 +1,10 @@
+.argomenti-vuoto {
+  color: #a0a4b8;
+  font-size: 0.95rem;
+  text-align: center;
+  padding: 2rem 0;
+}
+
 .come-si-gioca-container {
   max-width: 1200px;
   margin: 40px auto;

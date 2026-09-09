@@ -47,6 +47,7 @@ app.MapUserEndpoints();
 app.MapAdminEndpoints();
 app.MapArchivioEndpoints();
 app.MapSessioneEndpoints();
+app.MapComeSiGiocaEndpoints();
 app.MapLandEndpoints();
 app.MapCampagnaEndpoints();
 

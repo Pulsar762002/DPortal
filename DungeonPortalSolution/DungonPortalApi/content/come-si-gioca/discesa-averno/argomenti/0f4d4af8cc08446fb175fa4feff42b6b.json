@@ -1,0 +1,13 @@
+{
+  "id": "0f4d4af8cc08446fb175fa4feff42b6b",
+  "titolo": "Aspettative sui giocatori",
+  "immagine": "assets/not-available.svg",
+  "categoria": "29b9210b6dab4f888a7cba54f05af4b0",
+  "sommario": "Cosa ci si aspetta da ogni giocatore al tavolo.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Sostituisci questo testo con le aspettative sul gioco di ruolo, la puntualità, la preparazione e la partecipazione attiva alla storia."
+    }
+  ]
+}

@@ -5,9 +5,9 @@ import { Observable, map } from 'rxjs';
 
 import { ComeSiGiocaService } from '../../../../../shared/services/come-si-gioca.service';
 import {
-  ComeSiGiocaArgomento,
+  ComeSiGiocaArgomentoMeta,
   ComeSiGiocaCategoria,
-  ComeSiGiocaFile
+  ComeSiGiocaIndice
 } from '../../../../../core/models/come-si-gioca.model';
 
 @Component({
@@ -21,7 +21,7 @@ export class ComeSiGiocaPageComponent implements OnInit {
 
   slug!: string;
 
-  contenuto$!: Observable<ComeSiGiocaFile>;
+  indice$!: Observable<ComeSiGiocaIndice>;
 
   categoriaAttiva: string | null = null;
 
@@ -33,21 +33,21 @@ export class ComeSiGiocaPageComponent implements OnInit {
   ngOnInit(): void {
     this.slug = this.route.parent!.snapshot.paramMap.get('slug')!;
 
-    this.contenuto$ = this.comeSiGiocaService.getContenuto(this.slug).pipe(
-      map(file => {
-        if (!this.categoriaAttiva && file.categorie.length) {
-          this.categoriaAttiva = file.categorie[0].slug;
+    this.indice$ = this.comeSiGiocaService.getIndice(this.slug).pipe(
+      map(indice => {
+        if (!this.categoriaAttiva && indice.categorie.length) {
+          this.categoriaAttiva = indice.categorie[0].id;
         }
-        return file;
+        return indice;
       })
     );
   }
 
   selezionaCategoria(categoria: ComeSiGiocaCategoria): void {
-    this.categoriaAttiva = categoria.slug;
+    this.categoriaAttiva = categoria.id;
   }
 
-  argomentiVisibili(file: ComeSiGiocaFile): ComeSiGiocaArgomento[] {
-    return file.argomenti.filter(a => a.categoria === this.categoriaAttiva);
+  argomentiVisibili(indice: ComeSiGiocaIndice): ComeSiGiocaArgomentoMeta[] {
+    return indice.argomenti.filter(a => a.categoria === this.categoriaAttiva);
   }
 }

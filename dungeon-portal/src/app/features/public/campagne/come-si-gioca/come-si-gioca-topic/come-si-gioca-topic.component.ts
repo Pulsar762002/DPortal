@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { ActivatedRoute, RouterModule } from '@angular/router';
-import { Observable, map } from 'rxjs';
+import { Observable } from 'rxjs';
 
 import { ComeSiGiocaService } from '../../../../../shared/services/come-si-gioca.service';
 import { ComeSiGiocaArgomento } from '../../../../../core/models/come-si-gioca.model';
@@ -18,7 +18,7 @@ export class ComeSiGiocaTopicComponent implements OnInit {
 
   slug!: string;
 
-  argomento$!: Observable<ComeSiGiocaArgomento | undefined>;
+  argomento$!: Observable<ComeSiGiocaArgomento>;
 
   constructor(
     private route: ActivatedRoute,
@@ -27,10 +27,8 @@ export class ComeSiGiocaTopicComponent implements OnInit {
 
   ngOnInit(): void {
     this.slug = this.route.parent!.snapshot.paramMap.get('slug')!;
-    const topicSlug = this.route.snapshot.paramMap.get('topicSlug')!;
+    const argomentoId = this.route.snapshot.paramMap.get('argomentoId')!;
 
-    this.argomento$ = this.comeSiGiocaService.getContenuto(this.slug).pipe(
-      map(file => file.argomenti.find(a => a.slug === topicSlug))
-    );
+    this.argomento$ = this.comeSiGiocaService.getArgomento(this.slug, argomentoId);
   }
 }

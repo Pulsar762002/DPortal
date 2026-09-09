@@ -12,6 +12,7 @@
       <div class="campagna-azioni">
         <a [routerLink]="['/dashboard/campagne', campagna.slug, 'archivi']">Editor Archivi</a>
         <a [routerLink]="['/dashboard/campagne', campagna.slug, 'sessioni']">Editor Sessioni</a>
+        <a [routerLink]="['/dashboard/campagne', campagna.slug, 'come-si-gioca']">Editor Come si gioca</a>
         <button type="button" class="modifica-btn" (click)="apriModifica(campagna)">Modifica</button>
         <button type="button" class="elimina-btn" (click)="richiediEliminazione(campagna)">Elimina</button>
       </div>

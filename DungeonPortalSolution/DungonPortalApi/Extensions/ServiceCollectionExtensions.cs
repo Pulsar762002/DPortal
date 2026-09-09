@@ -64,6 +64,7 @@ public static class ServiceCollectionExtensions
         services.AddScoped<AvatarService>();
         services.AddScoped<ArchivioStorageService>();
         services.AddScoped<SessioneStorageService>();
+        services.AddScoped<ComeSiGiocaStorageService>();
         services.AddScoped<CampagnaOwnershipService>();
         services.AddScoped<CampagnaImmagineStorageService>();
 

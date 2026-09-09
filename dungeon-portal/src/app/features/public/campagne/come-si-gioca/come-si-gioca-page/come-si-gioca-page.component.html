@@ -1,4 +1,4 @@
-<div class="come-si-gioca-container" *ngIf="contenuto$ | async as contenuto">
+<div class="come-si-gioca-container" *ngIf="indice$ | async as indice">
 
   <div class="page-header">
     <h1 class="page-title">Come si gioca</h1>
@@ -6,12 +6,12 @@
   </div>
 
   <!-- TAB CATEGORIE -->
-  <nav class="categorie-tabs" *ngIf="contenuto.categorie.length > 1">
+  <nav class="categorie-tabs" *ngIf="indice.categorie.length > 1">
     <button
-        *ngFor="let categoria of contenuto.categorie"
+        *ngFor="let categoria of indice.categorie"
         type="button"
         class="tab-button"
-        [class.active]="categoria.slug === categoriaAttiva"
+        [class.active]="categoria.id === categoriaAttiva"
         (click)="selezionaCategoria(categoria)">
       {{ categoria.titolo }}
     </button>
@@ -20,9 +20,9 @@
   <!-- GRIGLIA ARGOMENTI -->
   <div class="argomenti-grid">
     <a
-        *ngFor="let argomento of argomentiVisibili(contenuto)"
+        *ngFor="let argomento of argomentiVisibili(indice)"
         class="argomento-card"
-        [routerLink]="['/campagne', slug, 'come-si-gioca', argomento.slug]">
+        [routerLink]="['/campagne', slug, 'come-si-gioca', argomento.id]">
 
       <div class="argomento-image">
         <img [src]="argomento.immagine" [alt]="argomento.titolo" loading="lazy">
@@ -35,5 +35,9 @@
 
     </a>
   </div>
+
+  <p class="argomenti-vuoto" *ngIf="!indice.categorie.length">
+    Contenuto non ancora disponibile per questa campagna.
+  </p>
 
 </div>

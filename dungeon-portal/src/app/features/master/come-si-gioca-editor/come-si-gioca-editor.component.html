@@ -1,0 +1,137 @@
+<div class="come-si-gioca-editor">
+
+  <div class="page-header">
+    <h1 class="page-title">Editor "Come si gioca"</h1>
+    <p class="page-intro">Gestisci categorie e argomenti della pagina "Come si gioca" della campagna</p>
+  </div>
+
+  <div class="editor-layout">
+
+    <!-- ===== SIDEBAR: CATEGORIE + ARGOMENTI ===== -->
+    <nav class="sidebar">
+
+      <div class="nuova-riga">
+        <input
+            type="text"
+            placeholder="Nuova categoria…"
+            [(ngModel)]="nuovoNomeCategoria"
+            (keydown.enter)="creaCategoria()" />
+        <button (click)="creaCategoria()" [disabled]="!nuovoNomeCategoria.trim()">+</button>
+      </div>
+
+      <p class="sidebar-vuota" *ngIf="!indice.categorie.length">Nessuna categoria ancora.</p>
+
+      <div class="categoria-blocco" *ngFor="let categoria of indice.categorie">
+
+        <div
+            class="categoria-riga"
+            [class.selezionata]="categoriaSelezionataId === categoria.id"
+            (click)="categoriaSelezionataId = categoria.id">
+
+          <input
+              type="text"
+              class="categoria-titolo-input"
+              [ngModel]="categoria.titolo"
+              (ngModelChange)="categoria.titolo = $event"
+              (blur)="rinominaCategoria(categoria, categoria.titolo)"
+              (click)="$event.stopPropagation()" />
+
+          <button class="categoria-elimina" (click)="chiediEliminaCategoria(categoria); $event.stopPropagation()" title="Elimina categoria">✕</button>
+
+        </div>
+
+        <ng-container *ngIf="categoriaSelezionataId === categoria.id">
+
+          <div
+              class="voce-argomento"
+              *ngFor="let argomento of argomentiDiCategoria(categoria.id)"
+              [class.selezionata]="argomentoSelezionato?.id === argomento.id"
+              (click)="apriArgomento(argomento.id)">
+
+            <span class="argomento-titolo-sidebar">{{ argomento.titolo }}</span>
+            <button class="voce-elimina" (click)="chiediEliminaArgomento(argomento); $event.stopPropagation()" title="Elimina argomento">✕</button>
+
+          </div>
+
+          <div class="nuova-riga nuova-riga-argomento">
+            <input
+                type="text"
+                placeholder="Nuovo argomento…"
+                [(ngModel)]="nuovoTitoloArgomento"
+                (keydown.enter)="creaArgomento(categoria.id)" />
+            <button (click)="creaArgomento(categoria.id)" [disabled]="!nuovoTitoloArgomento.trim()">+</button>
+          </div>
+
+        </ng-container>
+
+      </div>
+
+    </nav>
+
+    <!-- ===== EDITOR ARGOMENTO ===== -->
+    <main class="main-content">
+
+      <p class="argomento-vuoto" *ngIf="!argomentoSelezionato">Seleziona o crea un argomento per modificarlo.</p>
+
+      <div class="argomento-editor-contenuto" *ngIf="argomentoSelezionato as argomento">
+
+        <div class="argomento-editor-header">
+          <input
+              type="text"
+              class="argomento-titolo-input"
+              [(ngModel)]="argomento.titolo"
+              placeholder="Titolo dell'argomento" />
+
+          <select class="argomento-categoria-select" [(ngModel)]="argomento.categoria">
+            <option *ngFor="let categoria of indice.categorie" [value]="categoria.id">{{ categoria.titolo }}</option>
+          </select>
+
+          <button class="btn-salva" (click)="salvaArgomento()" [disabled]="salvando">
+            {{ salvando ? 'Salvataggio…' : 'Salva' }}
+          </button>
+          <span class="messaggio" *ngIf="messaggio">{{ messaggio }}</span>
+        </div>
+
+        <input
+            type="text"
+            class="argomento-sommario-input"
+            [(ngModel)]="argomento.sommario"
+            placeholder="Sommario (mostrato nella card, opzionale)" />
+
+        <div class="argomento-immagine-riga">
+          <label class="campo-immagine">
+            <span>Immagine di copertina (quadrata)</span>
+            <input type="file" accept="image/png,image/jpeg,image/gif,image/webp" (change)="caricaImmagineCopertina($event)" [disabled]="caricandoImmagine" />
+          </label>
+          <p class="caricamento" *ngIf="caricandoImmagine">Caricamento in corso...</p>
+          <img *ngIf="argomento.immagine" [src]="argomento.immagine" class="anteprima-immagine" [alt]="argomento.titolo" />
+        </div>
+
+        <app-story-block-form
+            [blocks]="argomento.blocks"
+            [uploadImmagine]="uploadImmagine">
+        </app-story-block-form>
+
+      </div>
+
+    </main>
+
+  </div>
+
+  <app-confirm-dialog
+      *ngIf="mostraConfermaEliminaCategoria"
+      title="Elimina categoria"
+      message="Eliminare questa categoria e tutti i suoi argomenti? L'operazione non è reversibile."
+      (confirmed)="confermaEliminaCategoria()"
+      (closed)="mostraConfermaEliminaCategoria = false">
+  </app-confirm-dialog>
+
+  <app-confirm-dialog
+      *ngIf="mostraConfermaEliminaArgomento"
+      title="Elimina argomento"
+      message="Eliminare questo argomento? L'operazione non è reversibile."
+      (confirmed)="confermaEliminaArgomento()"
+      (closed)="mostraConfermaEliminaArgomento = false">
+  </app-confirm-dialog>
+
+</div>

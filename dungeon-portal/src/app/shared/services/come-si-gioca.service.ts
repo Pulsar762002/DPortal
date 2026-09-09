@@ -1,50 +1,89 @@
 import { Injectable } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
-import { Observable, ReplaySubject } from 'rxjs';
-import { map, share, switchMap } from 'rxjs/operators';
+import { Observable } from 'rxjs';
 
-import { CampagnaService } from './campagna.service';
-import { ComeSiGiocaFile } from '../../core/models/come-si-gioca.model';
+import { environment } from '../../../environments/environment';
 
-function shareLatest<T>() {
-  return share<T>({
-    connector: () => new ReplaySubject<T>(1),
-    resetOnError: false,
-    resetOnComplete: true,
-    resetOnRefCountZero: true,
-  });
-}
+import {
+  ComeSiGiocaArgomento,
+  ComeSiGiocaCategoria,
+  ComeSiGiocaIndice
+} from '../../core/models/come-si-gioca.model';
 
-/** Campagne create prima del modello Land (es. discesa-averno) non hanno LandId/landSlug in DB
- * ma il loro contenuto vive comunque sotto assets/data/ikaros/... per convenzione storica
- * (stesso fallback usato dalle altre pagine hardcoded di discesa-averno). */
-const LEGACY_LAND_SLUG = 'ikaros';
+import { StoryBlock } from '../../core/models/story-block.model';
 
 /**
- * Carica il contenuto "Come si gioca" della campagna: risolve prima il
- * landSlug (es. "ikaros") dallo slug campagna via /api/campagne, poi
- * scarica assets/data/<landSlug>/campagne/<slug>/come-si-gioca.json.
- * Generico per qualunque campagna, non hardcoded come le altre pagine
- * di discesa-averno.
+ * Contenuto "Come si gioca" della campagna: letto/scritto dall'API
+ * (content/come-si-gioca/{campagna}/ sul server), non più da un JSON
+ * statico nel bundle Angular — stesso pattern di ArchivioService.
  */
 @Injectable({ providedIn: 'root' })
 export class ComeSiGiocaService {
 
-  constructor(
-    private http: HttpClient,
-    private campagnaService: CampagnaService
-  ) {}
+  private apiUrl = environment.apiUrl;
 
-  getContenuto(slug: string): Observable<ComeSiGiocaFile> {
-    return this.campagnaService.getAll().pipe(
-      map(campagne => campagne.find(c => c.slug === slug)),
-      switchMap(campagna => {
-        const landSlug = campagna?.landSlug || LEGACY_LAND_SLUG;
-        return this.http.get<ComeSiGiocaFile>(
-          `assets/data/${landSlug}/campagne/${slug}/come-si-gioca.json`
-        );
-      }),
-      shareLatest()
+  constructor(private http: HttpClient) {}
+
+  getIndice(campagna: string): Observable<ComeSiGiocaIndice> {
+    return this.http.get<ComeSiGiocaIndice>(`${this.apiUrl}/api/come-si-gioca/${campagna}`);
+  }
+
+  getArgomento(campagna: string, argomentoId: string): Observable<ComeSiGiocaArgomento> {
+    return this.http.get<ComeSiGiocaArgomento>(
+      `${this.apiUrl}/api/come-si-gioca/${campagna}/argomenti/${argomentoId}`
+    );
+  }
+
+  creaCategoria(campagna: string, titolo: string): Observable<ComeSiGiocaCategoria> {
+    return this.http.post<ComeSiGiocaCategoria>(
+      `${this.apiUrl}/api/come-si-gioca/${campagna}/categorie`,
+      { titolo }
+    );
+  }
+
+  rinominaCategoria(campagna: string, categoriaId: string, titolo: string): Observable<void> {
+    return this.http.put<void>(
+      `${this.apiUrl}/api/come-si-gioca/${campagna}/categorie/${categoriaId}`,
+      { titolo }
+    );
+  }
+
+  eliminaCategoria(campagna: string, categoriaId: string): Observable<void> {
+    return this.http.delete<void>(`${this.apiUrl}/api/come-si-gioca/${campagna}/categorie/${categoriaId}`);
+  }
+
+  creaArgomento(campagna: string, titolo: string, categoriaId: string): Observable<ComeSiGiocaArgomento> {
+    return this.http.post<ComeSiGiocaArgomento>(
+      `${this.apiUrl}/api/come-si-gioca/${campagna}/argomenti`,
+      { titolo, categoria: categoriaId }
+    );
+  }
+
+  aggiornaArgomento(
+    campagna: string,
+    argomentoId: string,
+    titolo: string,
+    categoriaId: string,
+    sommario: string | undefined,
+    immagine: string,
+    blocks: StoryBlock[]
+  ): Observable<void> {
+    return this.http.put<void>(
+      `${this.apiUrl}/api/come-si-gioca/${campagna}/argomenti/${argomentoId}`,
+      { titolo, categoria: categoriaId, sommario, immagine, blocks }
+    );
+  }
+
+  eliminaArgomento(campagna: string, argomentoId: string): Observable<void> {
+    return this.http.delete<void>(`${this.apiUrl}/api/come-si-gioca/${campagna}/argomenti/${argomentoId}`);
+  }
+
+  uploadImmagine(campagna: string, file: File): Observable<{ url: string }> {
+    const formData = new FormData();
+    formData.append('file', file);
+    return this.http.post<{ url: string }>(
+      `${this.apiUrl}/api/come-si-gioca/${campagna}/immagini`,
+      formData
     );
   }
 }

@@ -1,23 +1,31 @@
 import { StoryBlock } from './story-block.model';
 
+export interface ComeSiGiocaIndice {
+  categorie: ComeSiGiocaCategoria[];
+  argomenti: ComeSiGiocaArgomentoMeta[];
+}
+
 /** Una categoria di argomenti, mostrata come tab nella pagina "Come si gioca". */
 export interface ComeSiGiocaCategoria {
-  slug: string;
+  id: string;
   titolo: string;
 }
 
-/** Un argomento: una card con immagine quadrata + titolo, e una pagina di dettaglio in stile cronache. */
+/** Metadati di un argomento (per la card nella pagina lista): niente blocks. */
+export interface ComeSiGiocaArgomentoMeta {
+  id: string;
+  titolo: string;
+  immagine: string;
+  categoria: string;
+  sommario?: string;
+}
+
+/** Un argomento completo: una card con immagine quadrata + titolo, e una pagina di dettaglio in stile cronache. */
 export interface ComeSiGiocaArgomento {
-  slug: string;
+  id: string;
   titolo: string;
   immagine: string;
   categoria: string;
   sommario?: string;
   blocks: StoryBlock[];
-}
-
-/** Contenuto del file assets/data/<mondo>/campagne/<slug>/come-si-gioca.json */
-export interface ComeSiGiocaFile {
-  categorie: ComeSiGiocaCategoria[];
-  argomenti: ComeSiGiocaArgomento[];
 }

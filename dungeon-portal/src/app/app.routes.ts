@@ -98,6 +98,16 @@ export const routes: Routes = [
             .then(m => m.SessioneEditorComponent),
       },
       {
+        path: 'dashboard/campagne/:slug/come-si-gioca',
+        canActivate: [
+          authGuard,
+          roleGuard([ROLES.Master, ROLES.Admin])
+        ],
+        loadComponent: () =>
+          import('./features/master/come-si-gioca-editor/come-si-gioca-editor.component')
+            .then(m => m.ComeSiGiocaEditorComponent),
+      },
+      {
         path: 'campagne',
         canActivate: [authGuard],
         children: [
@@ -167,7 +177,7 @@ export const routes: Routes = [
                     .then(m => m.ComeSiGiocaPageComponent)
               },
               {
-                path: 'come-si-gioca/:topicSlug',
+                path: 'come-si-gioca/:argomentoId',
                 loadComponent: () =>
                   import('./features/public/campagne/come-si-gioca/come-si-gioca-topic/come-si-gioca-topic.component')
                     .then(m => m.ComeSiGiocaTopicComponent)
