@@ -11,9 +11,17 @@
                     {{ campaign?.title }}
                 </h1>
 
-                <a class="archivi-button" [routerLink]="['/campagne', slug, 'archivi']">
-                    Archivi
-                </a>
+                <div class="header-actions">
+
+                    <a class="archivi-button" [routerLink]="['/campagne', slug, 'come-si-gioca']">
+                        Come si gioca
+                    </a>
+
+                    <a class="archivi-button" [routerLink]="['/campagne', slug, 'archivi']">
+                        Archivi
+                    </a>
+
+                </div>
 
             </div>
 

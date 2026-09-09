@@ -1,0 +1,27 @@
+<div class="come-si-gioca-topic" *ngIf="argomento$ | async as argomento">
+
+  <a class="back-link" [routerLink]="['/campagne', slug, 'come-si-gioca']">
+    &larr; Come si gioca
+  </a>
+
+  <div class="content-card">
+
+    <header class="topic-header">
+      <div class="topic-image" *ngIf="argomento.immagine">
+        <img [src]="argomento.immagine" [alt]="argomento.titolo">
+      </div>
+      <h1>{{ argomento.titolo }}</h1>
+    </header>
+
+    <section class="chapter">
+      <div class="chapter-blocks">
+        <app-story-blocks
+            [blocks]="argomento.blocks || []"
+            [fallbackImageAlt]="argomento.titolo">
+        </app-story-blocks>
+      </div>
+    </section>
+
+  </div>
+
+</div>

@@ -53,6 +53,13 @@
   letter-spacing: 1px;
 }
 
+.header-actions {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
 .archivi-button {
   display: inline-flex;
   align-items: center;

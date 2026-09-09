@@ -159,6 +159,18 @@ export const routes: Routes = [
                 loadComponent: () =>
                   import('./features/public/campagne/discesa-averno/archivi/archivi-page/archivi-page.component')
                     .then(m => m.ArchiviPageComponent)
+              },
+              {
+                path: 'come-si-gioca',
+                loadComponent: () =>
+                  import('./features/public/campagne/come-si-gioca/come-si-gioca-page/come-si-gioca-page.component')
+                    .then(m => m.ComeSiGiocaPageComponent)
+              },
+              {
+                path: 'come-si-gioca/:topicSlug',
+                loadComponent: () =>
+                  import('./features/public/campagne/come-si-gioca/come-si-gioca-topic/come-si-gioca-topic.component')
+                    .then(m => m.ComeSiGiocaTopicComponent)
               }
             ]
           }

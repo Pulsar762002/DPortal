@@ -1,0 +1,39 @@
+<div class="come-si-gioca-container" *ngIf="contenuto$ | async as contenuto">
+
+  <div class="page-header">
+    <h1 class="page-title">Come si gioca</h1>
+    <p class="page-intro">Tutto quello che serve sapere prima di sedersi al tavolo.</p>
+  </div>
+
+  <!-- TAB CATEGORIE -->
+  <nav class="categorie-tabs" *ngIf="contenuto.categorie.length > 1">
+    <button
+        *ngFor="let categoria of contenuto.categorie"
+        type="button"
+        class="tab-button"
+        [class.active]="categoria.slug === categoriaAttiva"
+        (click)="selezionaCategoria(categoria)">
+      {{ categoria.titolo }}
+    </button>
+  </nav>
+
+  <!-- GRIGLIA ARGOMENTI -->
+  <div class="argomenti-grid">
+    <a
+        *ngFor="let argomento of argomentiVisibili(contenuto)"
+        class="argomento-card"
+        [routerLink]="['/campagne', slug, 'come-si-gioca', argomento.slug]">
+
+      <div class="argomento-image">
+        <img [src]="argomento.immagine" [alt]="argomento.titolo" loading="lazy">
+      </div>
+
+      <div class="argomento-info">
+        <span class="argomento-titolo">{{ argomento.titolo }}</span>
+        <span class="argomento-sommario" *ngIf="argomento.sommario">{{ argomento.sommario }}</span>
+      </div>
+
+    </a>
+  </div>
+
+</div>

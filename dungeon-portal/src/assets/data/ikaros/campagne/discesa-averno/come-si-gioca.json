@@ -1,0 +1,74 @@
+{
+  "categorie": [
+    { "slug": "regole", "titolo": "Regole del tavolo" },
+    { "slug": "tono", "titolo": "Tono e temi" },
+    { "slug": "sicurezza", "titolo": "Sicurezza al tavolo" }
+  ],
+  "argomenti": [
+    {
+      "slug": "regole-base",
+      "titolo": "Regole base",
+      "immagine": "assets/not-available.svg",
+      "categoria": "regole",
+      "sommario": "Sistema, dadi e come si gestiscono le prove.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Sostituisci questo testo con la descrizione del sistema di regole usato al tavolo: edizione, dadi, come si gestiscono le prove di abilità e i tiri salvezza."
+        }
+      ]
+    },
+    {
+      "slug": "creazione-personaggio",
+      "titolo": "Creazione del personaggio",
+      "immagine": "assets/not-available.svg",
+      "categoria": "regole",
+      "sommario": "Come costruire il proprio personaggio prima della prima sessione.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Sostituisci questo testo con le indicazioni per la creazione del personaggio: livello di partenza, fonti consentite, punti caratteristica o metodo dei dadi."
+        }
+      ]
+    },
+    {
+      "slug": "atmosfera",
+      "titolo": "Atmosfera della campagna",
+      "immagine": "assets/not-available.svg",
+      "categoria": "tono",
+      "sommario": "Il tono narrativo che guida Le Cronache dell'Averno.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Sostituisci questo testo con la descrizione del tono della campagna: quanto è dark, quanto spazio c'è per l'umorismo, il livello di violenza e di orrore descrittivo."
+        }
+      ]
+    },
+    {
+      "slug": "aspettative",
+      "titolo": "Aspettative sui giocatori",
+      "immagine": "assets/not-available.svg",
+      "categoria": "tono",
+      "sommario": "Cosa ci si aspetta da ogni giocatore al tavolo.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Sostituisci questo testo con le aspettative sul gioco di ruolo, la puntualità, la preparazione e la partecipazione attiva alla storia."
+        }
+      ]
+    },
+    {
+      "slug": "strumenti-sicurezza",
+      "titolo": "Strumenti di sicurezza",
+      "immagine": "assets/not-available.svg",
+      "categoria": "sicurezza",
+      "sommario": "Linee guida e X-Card per gestire temi delicati.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Sostituisci questo testo con gli strumenti di sicurezza usati al tavolo (es. X-Card, linee e veli) e come segnalare un disagio durante la sessione."
+        }
+      ]
+    }
+  ]
+}

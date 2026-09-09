@@ -1,0 +1,147 @@
+.come-si-gioca-container {
+  max-width: 1200px;
+  margin: 40px auto;
+  padding: 40px 50px;
+  border-radius: 28px;
+
+  background: linear-gradient(
+    rgba(15,20,35,0.85),
+    rgba(10,12,22,0.92)
+  );
+
+  backdrop-filter: blur(14px);
+
+  border: 1px solid rgba(230,195,111,0.15);
+
+  box-shadow:
+    0 40px 100px rgba(0,0,0,0.8),
+    inset 0 0 60px rgba(230,195,111,0.04);
+
+  color: #d0d4e0;
+}
+
+/* ===== HEADER ===== */
+
+.page-header {
+  margin-bottom: 30px;
+}
+
+.page-title {
+  font-size: 2rem;
+  color: #e6c36f;
+  letter-spacing: 1px;
+  margin-bottom: 10px;
+}
+
+.page-intro {
+  font-size: 1rem;
+  color: #cfd3e6;
+  max-width: 800px;
+}
+
+/* ===== TAB CATEGORIE ===== */
+
+.categorie-tabs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-bottom: 30px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid rgba(230,195,111,0.12);
+}
+
+.tab-button {
+  padding: 10px 22px;
+
+  border-radius: 999px;
+  border: 1px solid rgba(230,195,111,0.3);
+
+  background: rgba(230,195,111,0.05);
+  color: #d0d4e0;
+
+  font-size: 0.9rem;
+  font-weight: 600;
+  letter-spacing: 0.3px;
+  cursor: pointer;
+
+  transition: all 0.25s ease;
+}
+
+.tab-button:hover {
+  border-color: rgba(230,195,111,0.6);
+  color: #e6c36f;
+}
+
+.tab-button.active {
+  background: #e6c36f;
+  border-color: #e6c36f;
+  color: #0f1424;
+  box-shadow: 0 0 14px rgba(230,195,111,0.4);
+}
+
+/* ===== GRIGLIA ARGOMENTI ===== */
+
+.argomenti-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 1.5rem;
+}
+
+.argomento-card {
+  display: flex;
+  flex-direction: column;
+
+  background: rgba(19, 21, 29, 0.6);
+  border: 1px solid rgba(230,195,111,0.12);
+  border-radius: 14px;
+  overflow: hidden;
+
+  text-decoration: none;
+  color: inherit;
+
+  transition: border-color 0.2s, transform 0.2s;
+}
+
+.argomento-card:hover {
+  border-color: rgba(230,195,111,0.5);
+  transform: translateY(-3px);
+}
+
+.argomento-image {
+  position: relative;
+  aspect-ratio: 1 / 1;
+  overflow: hidden;
+  background: #0d0f14;
+}
+
+.argomento-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  transition: transform 0.3s ease;
+}
+
+.argomento-card:hover .argomento-image img {
+  transform: scale(1.05);
+}
+
+.argomento-info {
+  padding: 14px 16px 18px;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.argomento-titolo {
+  font-size: 1rem;
+  font-weight: 600;
+  color: #e6c36f;
+  line-height: 1.3;
+}
+
+.argomento-sommario {
+  font-size: 0.85rem;
+  color: #a0a4b8;
+  line-height: 1.4;
+}
