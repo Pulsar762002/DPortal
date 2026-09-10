@@ -1,0 +1,143 @@
+{
+  "id": "16e3fb3ca3734fa98248a3b28882da65",
+  "titolo": "L\u0027Avamposto e la sua Gestione",
+  "immagine": "/api/content/come-si-gioca/fabula-ultima/immagini/273ef720-01ee-4929-bfd2-3d6a1927c92f.png",
+  "categoria": "e8704ff96fde457d95be13c6feeb2dc7",
+  "sommario": null,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "L\u0027Avamposto sar\u00E0 la vostra nuova casa e, come tale, va curata. \nGrazie al Dispositivo Prototipale di Sostentamento Avanzato (DiPSA) sviluppato dalla Sezione Tecnomagica del Corpo Esploratori, riuscirete a costruire un edificio in grado di sostentare i vostri primi giorni nel Continente, il QG, il quale possiede diverse funzioni utili a muovere i primi passi nel mondo.\nDurante tutto il corso della Campagna, sar\u00E0 possibile raccogliere Materiali per migliorare l\u0027Avamposto, permettendo ai personaggi di iniziare Progetti di costruzione di edifici migliori e pi\u00F9 performanti. Per poterlo fare, per\u00F2, bisogna livellare l\u0027Avamposto, partendo dal livello 0."
+    },
+    {
+      "type": "subtitle",
+      "text": "AVAMPOSTO LV.0"
+    },
+    {
+      "type": "paragraph",
+      "text": "QG: Primo edificio che si costruisce. Al livello 0 contiene delle versioni base degli edifici sbloccabili successivamente e che, attualmente, consentono ai giocatori di utilizzare alcune meccaniche del gioco. Al suo interno \u00E8 possibile trovare:\n"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Banco da Lavoro Olografico: ci\u00F2 che consentir\u00E0 di costruire tutti gli edifici in maniera non convenzionale (ossia sfruttando la magia e la tecnologia insieme, senza la necessit\u00E0 di dover assoldare operai e riducendo drasticamente i tempi). Inoltre, sar\u00E0 possibile ricostruire, sostituire e creare eventuali armi e armature perse, distrutte o danneggiate (La Professione Artigiano conferisce uno sconto del 10% per la costruzione di edifici e il loro potenziamento dal lv1 in poi del QG in poi);",
+        "Provette dell\u2019Alchimista: una piccola postazione che anticipa la costruzione del laboratorio e sblocca le Missioni \u201CRaccolta Risorse: Alchimia\u201D per la produzione di Pozioni e la possibilit\u00E0 di spendere PI in Pozioni durante le Missioni.",
+        "Cucina da Campo: una piccola postazione utilizzata per far crescere piccoli ortaggi e cucinare adeguatamente la carne degli animali selvaggi e sblocca le Missioni \u201CRaccolta Risorse: Razioni\u201D e le Missioni \u201CEmergenza Razioni: Caccia\u201D. Inoltre, produce settimanalmente una quantit\u00E0 minima di Razioni, il necessario per affrontare molte missioni di difficolt\u00E0 Facile e alcune di difficolt\u00E0 Media. Produce 8 Razioni a settimana (La Professione Cuoco conferisce \u002B2 Razioni a settimana);",
+        "Dispensa: una piccola stanza adibita allo stoccaggio di Risorse e ne consente la conservazioni. Riduce la quantit\u00E0 di materiali persi durante la Resa in Missione e in Assedio",
+        " ",
+        "Sistema anti-Intrusione: un piccolo sistema di difesa che consente ai giocatori di difendersi dalle minacce esterne. Possiede una Resistenza minima, concedendo un basso livello di Difesa all\u2019avamposto. Fino a due giocatori possono assegnare i propri personaggi alla struttura per garantire un livello di Difesa maggiore e concedere bonus ai Personaggi impegnati attivamente durante gli Assedi. Conferisce al QG Resistenza 8 che si traduce in Difesa 1. Ogni personaggio assegnato conferisce Difesa \u002B1 (La Professione Soldato conferisce Difesa \u002B2);",
+        "Taverna: una piccola stanza comune in cui i personaggi possono riunirsi per smaltire lo stress dopo delle Missioni particolarmente impegnative. Permette di recuperare lentamente il Morale prima della costruzione di un Teatro (La Professione Artista conferisce un maggior recupero del Morale);",
+        "Sala Riunioni: una stanza solenne in cui i personaggi prendono parte ai Briefing delle Missioni del Supervisore o alle Spedizioni richieste da altri personaggi. Sblocca le Missioni \u201CRecuperare i Tesori\u201D, \u201CLiberare la Zona dal Cataclisma\u201D e \u201CEsplorare le Antiche Rovine\u201D. La Sala sar\u00E0 un elemento immutabile dell\u2019Avamposto in quanto la sua esistenza \u00E8 soltanto pratica e motivata dalla lore (La Professione Tesoriere conferisce un aumento del 10% alle ricompense in Zenit ricevute in ogni missione)."
+      ],
+      "variant": "bullet"
+    },
+    {
+      "type": "paragraph",
+      "text": "Qualunque amenit\u00E0 di cui potrebbero aver bisogno i personaggi (dormitori, stanze relax, etc) viene considerato come esistente in quanto \u0022inutile\u0022 in termini di meccaniche."
+    },
+    {
+      "type": "subtitle",
+      "text": "LIVELLARE L\u0027AVAMPOSTO"
+    },
+    {
+      "type": "paragraph",
+      "text": "Dopo ogni sessione, l\u2019avamposto riceve la somma di tutti i PX che hanno ricevuto i giocatori quella sera. Ad esempio, in un party da 4 personaggi, la somma dei PX ottenuti \u00E8 di 20 (senza contare eventuali Punti Fabula spesi). Questo totale verr\u00E0 considerato come PX Avamposto, e porter\u00E0 avanti la sua barra PX di 20 punti. Inoltre, \u00E8 possibile ottenere PX dalla costruzione di edifici e dal loro potenziamento. Ogni edificio costruito dona 100PX, mentre il potenziamento ne dona 50. Il cap al livello 1 per fare il 2 \u00E8 di 720 PX.\n"
+    },
+    {
+      "type": "subtitle",
+      "text": "Statistiche e abilit\u00E0 sbloccate dell\u2019avamposto Lv.0"
+    },
+    {
+      "type": "list",
+      "items": [
+        "HP: 100;",
+        "Resistenza (CA): 8 (Difesa \u002B1);",
+        "Dispensa: Riduce del 5% la quantit\u00E0 di Risorse perse dai giocatori a causa di una Resa durante Assedi e Missioni;",
+        "Cucina da Campo: Consente di avviare le Missioni \u201CCaccia\u201D senza spendere Razioni;",
+        "Sistema anti-Intrusione: \u00E8 possibile assegnare Personaggi alla Difesa fino a un \u002B2 alla Difesa dell\u2019Avamposto;",
+        "Provette dell\u2019Alchimista: Possibilit\u00E0 di caricare i PI prima della partenza e sblocca le Missioni di Raccolta Ingredienti. Sblocca le Ricette di Rimedi, Elisir e Tonici;",
+        "Taverna: \u00E8 possibile assegnare un personaggio qui per recuperare Morale. Produce 1 punto Morale a settimana per il personaggio assegnato."
+      ],
+      "variant": "bullet"
+    },
+    {
+      "type": "subtitle",
+      "text": "Statistiche e abilit\u00E0 sbloccate dell\u2019avamposto Lv.1"
+    },
+    {
+      "type": "paragraph",
+      "text": "Il QG al livello 1 sblocca la possibilit\u00E0 di creare nuovi edifici che migliorano le capacit\u00E0 di sopravvivenza del gruppo."
+    },
+    {
+      "type": "list",
+      "items": [
+        "HP: 150;",
+        "Resistenza: 8 (Difesa \u002B1);",
+        "Servizi Interni: Se l\u2019edificio scende al di sotto del 50% del totale dei suoi HP, i Servizi non danno i loro bonus;",
+        "Edifici Sbloccati: Stabilimento, Fattoria, Magazzino, Torre di Difesa.",
+        "Costo di Level UP: 140 Materiali, 80 Zenit, 3 giorni reali."
+      ],
+      "variant": "bullet"
+    },
+    {
+      "type": "subtitle",
+      "text": "STABILIMENTO (\u002B100PX)"
+    },
+    {
+      "type": "list",
+      "items": [
+        "HP: 100",
+        "Resistenza: 7",
+        "Abilit\u00E0 Lv.1: Aumenta del 5% (minimo 1) le ricompense in Materiali ottenute durante le Missioni;",
+        "Bonus Professione: Assegna un Artigiano all\u2019edificio per ricevere un ulteriore 5% di bonus alle ricompense ricevute durante le missioni \u201CRaccolta: Materiali\u201D",
+        "Costo di Costruzione: 200 Materiali, 500 Zenit, 4 giorni."
+      ],
+      "variant": "bullet"
+    },
+    {
+      "type": "subtitle",
+      "text": "FATTORIA (\u002B100PX)"
+    },
+    {
+      "type": "list",
+      "items": [
+        "HP: 100",
+        "Resistenza: 7",
+        "Abilit\u00E0 Lv.1: Una volta al mese, consente di scontare del 25% il costo di una Missione qualsiasi a difficolt\u00E0 Facile;",
+        "Bonus Professione: Assegna un Contadino all\u2019edificio per ricevere un ulteriore sconto del 10% al costo in Razioni delle missioni \u201CRaccolta: Provviste\u201D a difficolt\u00E0 Facile.",
+        "Costo di Costruzione: 180 Materiali, 520 Zenit, 2 giorni."
+      ],
+      "variant": "bullet"
+    },
+    {
+      "type": "subtitle",
+      "text": "MAGAZZINO (\u002B100PX)"
+    },
+    {
+      "type": "list",
+      "items": [
+        "HP: 100",
+        "Resistenza: 10 (\u002B3 Difesa)",
+        "Abilit\u00E0 Lv.1: Riduce del 5% la quantit\u00E0 di materiale perso a causa di una Resa durante gli Assedi e le Missioni. Inoltre, subire Resa durante un Assedio a difficolt\u00E0 Facile non causa perdita di Zenit;",
+        "Bonus Professione: Assegna un Cacciatore all\u2019edificio per ridurre la perdita di Razioni dopo aver subito una Resa in un Assedio a difficolt\u00E0 Facile del 15%.",
+        "Costo di Costruzione: 230 Materiali, 400 Zenit, 3 giorni."
+      ],
+      "variant": "bullet"
+    },
+    {
+      "type": "subtitle",
+      "text": "TORRE DI DIFESA (\u002B100PX)"
+    },
+    {
+      "type": "list",
+      "items": [
+        "HP: 200",
+        "Resistenza: 12 (\u002B5 Difesa)",
+        "Abilit\u00E0 Lv.1: Aumenta il bonus massimo di Difesa ottenibili dai personaggi assegnati alla Torre di \u002B1;",
+        "Bonus Professione: Assegna un Soldato all\u2019edificio per infliggere 10 danni ai nemici all\u2019inizio dii ogni turno di Assedio.",
+        "Costo di Costruzione: 300 Materiali, 800 Zenit, 6 giorni."
+      ],
+      "variant": "bullet"
+    }
+  ]
+}

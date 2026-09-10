@@ -1,0 +1,66 @@
+{
+  "categorie": [
+    {
+      "id": "e8704ff96fde457d95be13c6feeb2dc7",
+      "titolo": "HomeBrew"
+    }
+  ],
+  "argomenti": [
+    {
+      "id": "de6ee73cfb9d402a8fb82eb8a202795f",
+      "titolo": "Il Morale",
+      "immagine": "/api/content/come-si-gioca/fabula-ultima/immagini/f9f0406a-15a0-41e0-9a07-601b9d13d19a.png",
+      "categoria": "e8704ff96fde457d95be13c6feeb2dc7",
+      "sommario": null
+    },
+    {
+      "id": "9cd57d6a6d2849159b827479e382bbad",
+      "titolo": "Professioni",
+      "immagine": "/api/content/come-si-gioca/fabula-ultima/immagini/78e0cd1e-8919-4c01-be72-fbe4eedf071f.png",
+      "categoria": "e8704ff96fde457d95be13c6feeb2dc7",
+      "sommario": null
+    },
+    {
+      "id": "7d2587b7c4954e5587760f275939ef99",
+      "titolo": "Slot Equipaggiamento",
+      "immagine": "/api/content/come-si-gioca/fabula-ultima/immagini/d35f5028-9e06-4d3d-bb16-d64ada5aa609.png",
+      "categoria": "e8704ff96fde457d95be13c6feeb2dc7",
+      "sommario": null
+    },
+    {
+      "id": "2e1064e7256d4ab58497e5eb278b5625",
+      "titolo": "Missioni e Raccolta Risorse",
+      "immagine": "/api/content/come-si-gioca/fabula-ultima/immagini/e1b8cc25-c5eb-441f-8d48-278ac9afdfd8.png",
+      "categoria": "e8704ff96fde457d95be13c6feeb2dc7",
+      "sommario": null
+    },
+    {
+      "id": "16e3fb3ca3734fa98248a3b28882da65",
+      "titolo": "L\u0027Avamposto e la sua Gestione",
+      "immagine": "/api/content/come-si-gioca/fabula-ultima/immagini/273ef720-01ee-4929-bfd2-3d6a1927c92f.png",
+      "categoria": "e8704ff96fde457d95be13c6feeb2dc7",
+      "sommario": null
+    },
+    {
+      "id": "f8c3268cc13a4ff0905cc619a0d6bb66",
+      "titolo": "Resa: cosa significa?",
+      "immagine": "/api/content/come-si-gioca/fabula-ultima/immagini/b27a0cf5-bd45-4b24-a1ba-a6f2456582a0.jpg",
+      "categoria": "e8704ff96fde457d95be13c6feeb2dc7",
+      "sommario": null
+    },
+    {
+      "id": "16b75fcbf7bc4edb8d6f4c7fef9c3948",
+      "titolo": "Ricompense e Difficolt\u00E0",
+      "immagine": "/api/content/come-si-gioca/fabula-ultima/immagini/226cfe99-0ae1-4fe3-9a6f-5747ed90dae1.jpg",
+      "categoria": "e8704ff96fde457d95be13c6feeb2dc7",
+      "sommario": null
+    },
+    {
+      "id": "fe92d666dc3e4b6d9d0bed81c5f887a1",
+      "titolo": "La difesa dell\u0027Avamposto e il Rischio",
+      "immagine": "/api/content/come-si-gioca/fabula-ultima/immagini/5a692f13-3002-471d-a862-a79add2df805.jpg",
+      "categoria": "e8704ff96fde457d95be13c6feeb2dc7",
+      "sommario": null
+    }
+  ]
+}

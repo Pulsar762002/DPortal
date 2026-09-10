@@ -1,0 +1,69 @@
+{
+  "id": "f8c3268cc13a4ff0905cc619a0d6bb66",
+  "titolo": "Resa: cosa significa?",
+  "immagine": "/api/content/come-si-gioca/fabula-ultima/immagini/b27a0cf5-bd45-4b24-a1ba-a6f2456582a0.jpg",
+  "categoria": "e8704ff96fde457d95be13c6feeb2dc7",
+  "sommario": null,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "La Resa \u00E8 la conseguenza del raggiungimento degli 0 PF da parte di un Personaggio. In Fabula ultima, i personaggi non muoiono, poich\u00E9 i PF non rappresentano la salute del personaggio, ma le sue capacit\u00E0 e la sua volont\u00E0 di combattere. Una volta esaurita questa riserva, il personaggio si rifiuta di continuare a combattere e si dichiara sconfitto.\n"
+    },
+    {
+      "type": "paragraph",
+      "text": "Nel farlo, i giocatori subiranno delle conseguenze al loro personaggio, alcune di queste legate alle Risorse e allo Zenit.\n"
+    },
+    {
+      "type": "subtitle",
+      "text": "ASSEDIO"
+    },
+    {
+      "type": "paragraph",
+      "text": "Perdere un Assedio significa anche perdere delle risorse. Le creature vengono cacciate, ma a un costo alto. In base al Rischio aumenta la percentuale persa di Materiali e **HP degli edifici. \n"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Facile: 30% di danno agli edifici e perdita delle Risorse;",
+        "Media: 50% di danno agli edifici e perdita delle Risorse;",
+        "Difficile: 60% di danno agli edifici e perdita delle Risorse (Livelli 30\u002B);",
+        "Molto Difficile: 70% di danno agli edifici e perdita delle Risorse (livelli 40\u002B)."
+      ],
+      "variant": "bullet"
+    },
+    {
+      "type": "paragraph",
+      "text": "Il numero di Risorse perduto equivale al livello di Rischio x 50. Il numero di Zenit perduto equivale alla percentuale di danno subito dagli edifici."
+    },
+    {
+      "type": "paragraph",
+      "text": "A seguito di una Resa, i personaggi assegnati alla Difesa e gli Inattivi, subiranno delle Ferite Gravi. Per recuperare queste ferite, il personaggio deve effettuare una Scena di Recupero dalla durata di 7 giorni (irl). Durante questo periodo, i personaggi non possono essere assegnati alla Difesa, n\u00E9 partecipare come Inattivi a un Assedio (devono per forza essere Attivi). Nel caso in cui partecipino a una Missione o Assedio**, partono con il 25% di PV in meno rispetto al totale. Oggetti ed Edifici possono alleviare questa condizione."
+    },
+    {
+      "type": "subtitle",
+      "text": "MISSIONE"
+    },
+    {
+      "type": "paragraph",
+      "text": "Perdere durante una Missione significa fuggire dalla scena. I giocatori riescono comunque a recuperare delle Risorse ma torneranno a casa con meno di quanto preventivato."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Facile: 20% in meno; ",
+        "Media: 30% in meno;",
+        "Difficile: 50% in meno;",
+        "Molto Difficile: 60% in meno."
+      ],
+      "variant": "bullet"
+    },
+    {
+      "type": "subtitle",
+      "text": "PERICOLI"
+    },
+    {
+      "type": "paragraph",
+      "text": "Subire una Resa durante un combattimento causato dall\u2019uscita di un Pericolo durante il Tiro di Viaggio, causa semplicemente un aumento del Rischio di \u002B1."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "2e1064e7256d4ab58497e5eb278b5625",
+  "titolo": "Missioni e Raccolta Risorse",
+  "immagine": "/api/content/come-si-gioca/fabula-ultima/immagini/e1b8cc25-c5eb-441f-8d48-278ac9afdfd8.png",
+  "categoria": "e8704ff96fde457d95be13c6feeb2dc7",
+  "sommario": null,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Esistono diversi tipi di Missioni avviabili:\n"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Recuperare Tesori: tipo di missione definita \u0022secondaria\u0022 poich\u00E9 avviabili in Zone gi\u00E0 esplorate in precedenza per recuperare loot lasciato indietro. Le sessioni comprenderanno combat e rompicapi;",
+        "Liberare la Zona dal Cataclisma: la missione \u0022principale\u0022, il cui focus primario \u00E8 il combat. Si affronteranno nemici di ogni tipo e si prosegue nella scoperta del mondo e della sua lore;",
+        "Esplorare le Antiche Rovine: tipo di missione definita \u0022secondaria\u0022 che prevede l\u0027esplorazione di dungeon. Saranno sessioni multi-shot che si protraggono di settimana in settimana (massimo 4 sessioni);",
+        "Raccogliere Risorse: missione speciale atta alla raccolta delle risorse principali per sviluppare l\u0027avamposto, produrre pozioni e partecipare alle missioni."
+      ],
+      "variant": "bullet"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ogni missione pu\u00F2 essere affrontata in qualsiasi difficolt\u00E0, purch\u00E9 non sia inferiore alla difficolt\u00E0 della Zona che si vuole esplorare. Per farlo occorre spendere Razioni. Le Razioni vengono prodotte dal QG sin dal livello 0 e dalla Fattoria, entrambi potenziabili per ottenere pi\u00F9 Razioni. \nIl costo di ogni missione \u00E8 descritto nella sezione delle Ricompense."
+    }
+  ]
+}

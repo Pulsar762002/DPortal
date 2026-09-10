@@ -1,0 +1,49 @@
+{
+  "id": "7d2587b7c4954e5587760f275939ef99",
+  "titolo": "Slot Equipaggiamento",
+  "immagine": "/api/content/come-si-gioca/fabula-ultima/immagini/d35f5028-9e06-4d3d-bb16-d64ada5aa609.png",
+  "categoria": "e8704ff96fde457d95be13c6feeb2dc7",
+  "sommario": null,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Il regolamento di Fabula Ultima non predispone di regole riguardanti Slot Equipaggiamento per quanto riguarda pozioni e decotti vari, ma presume che tutto questo possa essere trasportato con tranquillit\u00E0 dai personaggi e recuperato sfruttando i Punti Inventario. \n"
+    },
+    {
+      "type": "paragraph",
+      "text": "Per ragioni di campagna, questa regola viene leggermente modificata: i personaggi disporranno di Slot Equipaggiamento dedicati a decotti e rimedi alchemici, cos\u00EC da donare un pizzico di tatticismo in pi\u00F9 e pianificazione durante la preparazione alle spedizioni. Gli slot saranno divisi in questo modo:\n"
+    },
+    {
+      "type": "list",
+      "items": [
+        "3 slot per pozioni",
+        "1 slot per bombe elementali"
+      ],
+      "variant": "bullet"
+    },
+    {
+      "type": "paragraph",
+      "text": "I personaggi scelgono, prima di partire per una spedizione, in che modo acquisire i loro PI spendendo i Materiali e gli Zenit necessari a ottenere gli intrugli desiderati. Gli slot possono essere occupati tutti dalla stessa pozione, da due pozioni diverse o da tre pozioni distinte. \n"
+    },
+    {
+      "type": "paragraph",
+      "text": "All\u2019avanzare dei livelli del QG, sar\u00E0 possibile scoprire nuovi materiali insieme alle ricette ad esso dedicate.\n"
+    },
+    {
+      "type": "subtitle",
+      "text": "RICARICARE I PUNTI INVENTARIO"
+    },
+    {
+      "type": "paragraph",
+      "text": "I giocatori possono Riposare durante le Missioni recandosi presso un Rifugio o una Colonia. Nel caso in cui in quella Zona non dovessero essere presenti nessuno dei due insediamenti, i personaggi possono spendere 4 PI per utilizzare una Tenda Magica. La tenda \u00E8 abbastanza grande da contenere tutti i giocatori, oppure \u00E8 possibile ruolarla come se il gruppo disponesse di diverse tende, senza, per\u00F2, cambiare il fatto che UN PERSONAGGIO debba spendere 4 PI per l\u0027oggetto. \n"
+    },
+    {
+      "type": "paragraph",
+      "text": "Una volta posizionato l\u0027accampamento di fortuna, i personaggi possono Riposare in maniera tranquilla (anche se non priva di rischi). Solitamente, un Riposo dura 6 ore, all\u0027interno delle quali i personaggi possono darsi a qualunque attivit\u00E0 li rilassi. Durante questo frangente \u00E8 possibile Ricaricare i Punti Inventario. \n"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ricaricare PI costa 10 Zenit per punto, a cui vanno aggiunti gli ingredienti delle Pozioni che si \u00E8 deciso di portare durante il viaggio. Ogni Pozione consuma 2 Ingredienti necessari alla sua realizzazione. Non \u00E8 necessario specificare la quantit\u00E0 di Ingredienti che un giocatore porta con s\u00E9. Lo spirito di Fabula Ultima rimane intatto, e si presuppone che il pesonaggio parta con la quantit\u00E0 necessaria a soddisfare i propri bisogni durante il viaggio. Per questo motivo, gli Ingredienti spesi verranno scalati anche se si trovano al sicuro in Avamposto."
+    }
+  ]
+}

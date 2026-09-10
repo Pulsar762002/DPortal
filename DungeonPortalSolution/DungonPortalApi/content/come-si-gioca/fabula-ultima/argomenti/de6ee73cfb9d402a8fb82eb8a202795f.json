@@ -1,0 +1,25 @@
+{
+  "id": "de6ee73cfb9d402a8fb82eb8a202795f",
+  "titolo": "Il Morale",
+  "immagine": "/api/content/come-si-gioca/fabula-ultima/immagini/f9f0406a-15a0-41e0-9a07-601b9d13d19a.png",
+  "categoria": "e8704ff96fde457d95be13c6feeb2dc7",
+  "sommario": null,
+  "blocks": [
+    {
+      "type": "subtitle",
+      "text": "PUNTEGGIO DEL MORALE"
+    },
+    {
+      "type": "paragraph",
+      "text": "Affrontare troppe missioni di livello Difficile o Molto Difficile e conseguire diverse Rese consecutive, abbassa il Morale del personaggio.\nCi sono tre livelli di Morale: Ottimo, Neutro e Pessimo.\nUn personaggio parte con un punteggio di Morale pari a 10. Aumentare il Fattore di Rischio di \u002B2 punti oltre la difficolt\u00E0 attuale giocata e subire due Rese consecutive, sono entrambi fattori che riducono il Morale di 1 punto. Quando si raggiunge un punteggio pari a 0, il Morale \u00E8 Neutro e si rischia di scendere. Non sar\u00E0 possibile partecipare a missioni di livello Molto Difficile. Quando il Morale scende da -1 in gi\u00F9, il Morale diventa Pessimo e non si potranno affrontare missioni di livello Difficile o Molto Difficile. \nUn gruppo che possiede anche solo un personaggio dal Morale Pessimo non pu\u00F2 affrontare missioni ad alto rischio.\nInoltre, se partecipa a missioni di livello Medio in cui il Fattore di Rischio sale di \u002B2 Punti, subisce una penalit\u00E0 di -1 al Punteggio di Morale. "
+    },
+    {
+      "type": "subtitle",
+      "text": "RISOLLEVARE IL MORALE"
+    },
+    {
+      "type": "paragraph",
+      "text": "Nel caso in cui il personaggio dovesse raggiungere un Punteggio Morale di -10, il gruppo dovr\u00E0 affrontare la questione e portare su il Morale del Personaggio. Chiunque si offra volontario (massimo 4 persone) dovranno \u0022affrontare\u0022 il demoralizzato nel riempimento di un Orologio a 6 spicchi. Il party che dovr\u00E0 rallegrare il personaggio dovr\u00E0 compiere una serie di tiri per riempire l\u0027orologio per vincere la sfida e alzare il Morale del compagno. Vincere la sfida porta immediatamente il Morale del personaggio \u0022sconfitto\u0022 a \u002B0. Se dovessero perdere, il Morale salir\u00E0 comunque di 5 punti, portando il punteggio a -5 e consentendogli di recuperare il Morale tramite lo svolgimento di attivit\u00E0 in avamposto. Un personaggio con un punteggio al Morale di -10 non potr\u00E0 alzarlo se non \u0022affrontando\u0022 i suoi compagni in questo modo. I compagni coinvolti in questo minigioco non possono avere un Morale inferiore a 0."
+    }
+  ]
+}

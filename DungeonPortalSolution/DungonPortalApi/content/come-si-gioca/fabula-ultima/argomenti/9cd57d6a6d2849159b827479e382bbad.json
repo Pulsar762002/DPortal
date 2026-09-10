@@ -1,0 +1,339 @@
+{
+  "id": "9cd57d6a6d2849159b827479e382bbad",
+  "titolo": "Professioni",
+  "immagine": "/api/content/come-si-gioca/fabula-ultima/immagini/78e0cd1e-8919-4c01-be72-fbe4eedf071f.png",
+  "categoria": "e8704ff96fde457d95be13c6feeb2dc7",
+  "sommario": null,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Durante la creazione del personaggio, i giocatori potranno scegliere una Professione da assegnare al loro alter ego. \nOgni professione consente di assegnare il proprio personaggio all\u2019edificio corrispondente per migliorarne le abilit\u00E0 passiva o per permettergli di funzionare.\nAd esempio, un personaggio con la professione di Fabbro assegnato ad una forgia ha la possibilit\u00E0 di creare armi, armature e gioielli basati su metalli a tutti i giocatori; un Sarto pu\u00F2 gestire la sartoria e creare abiti e altri oggetti simili incantati per proteggere i personaggi pi\u00F9 deboli; un Cuoco o un Soldato, invece, assegnati nei rispettivi edifici, migliorano l\u2019output e le abilit\u00E0 passive degli stessi, come la produzione di Razioni o il Punteggio Difesa dell\u2019avamposto."
+    },
+    {
+      "type": "subtitle",
+      "text": "AFFARISTA"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un personaggio che sceglie questa professione ottiene le seguenti abilit\u00E0 passive:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Quando il party in cui \u00E8 presente un personaggio con la professione Mercante ottiene delle ricompense (materiali, denaro, armi, etc.), il valore ricompense ricevute aumenta del 10%."
+      ],
+      "variant": "bullet"
+    },
+    {
+      "type": "list",
+      "items": [
+        "BONUS NASCOSTO."
+      ],
+      "variant": "bullet"
+    },
+    {
+      "type": "subtitle",
+      "text": "FABBRO"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un personaggio che sceglie questa professione ottiene le seguenti abilit\u00E0 passive:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Quando il party in cui \u00E8 presente un personaggio con la professione Fabbro ottiene delle ricompense per dei Progetti in sviluppo alla Forgia, ne ottiene il 10% in pi\u00F9."
+      ],
+      "variant": "bullet"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Quando termina un Progetto alla Forgia a cui \u00E8 assegnato, c\u2019\u00E8 una possibilit\u00E0 del 5% di recuperare il 25% di Zenit spesi."
+      ],
+      "variant": "bullet"
+    },
+    {
+      "type": "subtitle",
+      "text": "SARTO"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un personaggio che sceglie questa professione ottiene le seguenti abilit\u00E0 passive:\n"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Quando il party in cui \u00E8 presente un personaggio con la professione Sarto ottiene delle ricompense per dei Progetti in sviluppo alla Sartoria, ne ottiene il 10% in pi\u00F9."
+      ],
+      "variant": "bullet"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Quando termina un Progetto alla Sartoria a cui \u00E8 assegnato, c\u2019\u00E8 una possibilit\u00E0 del 5% di recuperare il 25% di Zenit spesi."
+      ],
+      "variant": "bullet"
+    },
+    {
+      "type": "subtitle",
+      "text": "CUOCO"
+    },
+    {
+      "type": "subtitle",
+      "text": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "Un personaggio che sceglie questa professione ottiene le seguenti abilit\u00E0 passive:\n"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Quando il party in cui \u00E8 presente un personaggio con la professione Cuoco ottiene ricompensa in Razioni o Provviste, ne ottiene il 10% in pi\u00F9.",
+        ""
+      ],
+      "variant": "bullet"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Quando \u00E8 assegnato alla Cucina da Campo, il party ottiene una possibilit\u00E0 del 5% di ottenere Provviste con qualit\u00E0 uniche dalle Missioni \u201CCaccia\u201D.",
+        ""
+      ],
+      "variant": "bullet"
+    },
+    {
+      "type": "subtitle",
+      "text": "CONTADINO"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un personaggio che sceglie questa professione ottiene le seguenti abilit\u00E0 passive:\n"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Quando il party in cui \u00E8 presente un personaggio con la professione Contadino subisce una Resa in qualunque Missione, ottiene comunque il 100% delle ricompense in Provviste e Razioni che altrimenti perderebbe.",
+        ""
+      ],
+      "variant": "bullet"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Quando \u00E8 assegnato a una Fattoria, c\u2019\u00E8 una possibilit\u00E0 del 5% che il costo di una qualsiasi missione a difficolt\u00E0 Facile costi 0.",
+        ""
+      ],
+      "variant": "bullet"
+    },
+    {
+      "type": "subtitle",
+      "text": "ARTIGIANO"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un personaggio che sceglie questa professione ottiene le seguenti abilit\u00E0 passive:\n"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Quando il party in cui \u00E8 presente un personaggio con la professione Artigiano ottiene ricompense, ha il 5% di possibilit\u00E0 di ottenere ricompense migliori (pi\u00F9 soldi, armi e armature di qualit\u00E0 migliori, etc)",
+        ""
+      ],
+      "variant": "bullet"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Quando \u00E8 assegnato allo Stabilimento, il costo e il tempo di costruzione degli edifici diminuisce del 5%.",
+        ""
+      ],
+      "variant": "bullet"
+    },
+    {
+      "type": "subtitle",
+      "text": "ALCHIMISTA"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un personaggio che sceglie questa professione ottiene le seguenti abilit\u00E0 passive: \n"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Quando il party in cui \u00E8 presente un personaggio con la professione Alchimista ha scelto l\u2019equipaggiamento da portare in Missione, i giocatori possono scegliere una Pozione tra quelle disponibili: c\u2019\u00E8 una possibilit\u00E0 del 5% che il costo in PI della Pozione venga dimezzato al primo utilizzo.",
+        ""
+      ],
+      "variant": "bullet"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Quando \u00E8 assegnato al Laboratorio, riduce del 5% il tempo necessario a sviluppare nuove Ricette.",
+        ""
+      ],
+      "variant": "bullet"
+    },
+    {
+      "type": "subtitle",
+      "text": "SOLDATO"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un personaggio che sceglie questa professione ottiene le seguenti abilit\u00E0 passive: \n"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Quando il party in cui \u00E8 presente un personaggio con la professione Soldato inizia un combattimento, vince automaticamente l\u2019iniziativa contro nemici non Cattivi.",
+        ""
+      ],
+      "variant": "bullet"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Quando \u00E8 assegnato alla Difesa, il bonus che conferisce \u00E8 di \u002B2 invece di \u002B1.",
+        ""
+      ],
+      "variant": "bullet"
+    },
+    {
+      "type": "subtitle",
+      "text": "CACCIATORE"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un personaggio che sceglie questa professione ottiene le seguenti abilit\u00E0 passive: \n"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Quando il party in cui \u00E8 presente un personaggio con la professione Cacciatore ottiene ricompense in una Missione: Caccia, ottiene una ricompensa aggiuntiva.",
+        ""
+      ],
+      "variant": "bullet"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Quando inizia un combattimento in cui \u00E8 presente un Cattivo di tipo Bestia, durante il suo primo turno, il Cacciatore pu\u00F2 superare tutte le Resistenze del boss.",
+        ""
+      ],
+      "variant": "bullet"
+    },
+    {
+      "type": "subtitle",
+      "text": "ESPLORATORE"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un personaggio che sceglie questa professione ottiene le seguenti abilit\u00E0 passive: \n"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Quando il party in cui \u00E8 presente un personaggio con la professione Esploratore riposa nelle Zone Selvagge, il costo in PI di una Tenda Magica viene ridotto di 1.",
+        ""
+      ],
+      "variant": "bullet"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Previene l\u2019aumento di 1 livello del Rischio dopo aver riposato nelle Zone Selvagge per la prima volta all\u2019interno di una sessione (o catena di sessioni).",
+        ""
+      ],
+      "variant": "bullet"
+    },
+    {
+      "type": "subtitle",
+      "text": "ACCADEMICO"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un personaggio che sceglie questa professione ottiene le seguenti abilit\u00E0 passive: \n"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Quando il party in cui \u00E8 presente un personaggio con la professione Accademico ottiene 1 Punto Fabula, ne ottiene 1 aggiuntivo.",
+        ""
+      ],
+      "variant": "bullet"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Quando viene assegnato alla Biblioteca, conferisce un bonus di 10 PM a tutti i personaggi se la collezione di Conoscenze \u00E8 aggiornata all\u2019ultima missione.",
+        ""
+      ],
+      "variant": "bullet"
+    },
+    {
+      "type": "subtitle",
+      "text": "SACERDOTE"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un personaggio che sceglie questa professione ottiene le seguenti abilit\u00E0 passive: \n"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Quando il party in cui \u00E8 presente un personaggio con la professione Sacerdote termina una Missione, il party riceve 1 Punto Fabula oltre le usuali ricompense. Per ottenere questo bonus, i personaggi devono aver costruito un Tempio all\u2019Avamposto.",
+        ""
+      ],
+      "variant": "bullet"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Un personaggio con questa professione pu\u00F2 invocare la sua fede negli d\u00E8i per giustificare l\u2019utilizzo dei suoi Punti Fabula.",
+        ""
+      ],
+      "variant": "bullet"
+    },
+    {
+      "type": "subtitle",
+      "text": "TESORIERE"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Quando il party in cui \u00E8 presente un personaggio con la professione Tesoriere ottiene delle ricompense in denaro, ne ottiene il 10% in pi\u00F9.",
+        ""
+      ],
+      "variant": "bullet"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Quando viene assegnato al QG, riduce del 5% il costo in Zenit dei potenziamenti degli edifici.",
+        ""
+      ],
+      "variant": "bullet"
+    },
+    {
+      "type": "subtitle",
+      "text": "GIULLARE"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Quando nel party in cui \u00E8 presente un personaggio con la professione Giullare vi \u00E8 un personaggio con un punteggio Morale al di sotto dello 0, quel personaggio viene considerato come se avesse Morale a 0 per quella sessione.",
+        ""
+      ],
+      "variant": "bullet"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Quando \u00E8 assegnato alla Taverna o al Teatro, i giocatori non possono perdere Morale se subiscono una Resa durante un Assedio.",
+        ""
+      ],
+      "variant": "bullet"
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "id": "fe92d666dc3e4b6d9d0bed81c5f887a1",
+  "titolo": "La difesa dell\u0027Avamposto e il Rischio",
+  "immagine": "/api/content/come-si-gioca/fabula-ultima/immagini/5a692f13-3002-471d-a862-a79add2df805.jpg",
+  "categoria": "e8704ff96fde457d95be13c6feeb2dc7",
+  "sommario": null,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "I vostri personaggi verranno inviati in un terrotorio impervio e pieno di pericoli. La difesa dell\u0027Avamposto \u00E8 fondamentale. Ma come funziona? L\u0027Avamposto viene difeso grazie a due meccaniche: La Resistenza e l\u0027Assedio."
+    },
+    {
+      "type": "paragraph",
+      "text": "La Resistenza \u00E8 un punteggio che posseggono tutti gli edifici costruiti all\u0027interno dell\u0027Avamposto. Il punteggio pi\u00F9 basso equivale a 7 e si traduce in 0 Difesa, e cos\u00EC a salire, fino ad un massimo di 16 e 9. La somma dei modificatori della Resistenza degli edifici, determina la Difesa dell\u0027Avamposto."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ogni settimana avverr\u00E0 un Test di Attacco, in cui il Master (io) tirer\u00E0 1d12\u002BRischio (spiegato in seguito), mentre i Giocatori si difenderanno tirando 1d12\u002BDifesa. I giocatori falliscono se il loro risultato risulta uguale o inferiore al risultato del Test. In questo caso, verr\u00E0 organizzata una sessione per difendere l\u0027Avamposto: l\u0027Assedio."
+    },
+    {
+      "type": "paragraph",
+      "text": "L\u0027Assedio consiste in una Scena di Conflitto in cui i giocatori devono impedire che i nemici riempiano degli Orologi (pag. 52 Manuale Base) di sezioni variabili definite dalla Difficolt\u00E0 (pi\u00F9 \u00E8 alta, meno sezioni saranno presenti). La Difficolt\u00E0 di un Assedio viene determinata dalla difficolt\u00E0 media delle Zone occupate ed esplorate dai giocatori. Questo definisce la Difficolt\u00E0 del Mondo. Durante il gameplay, i nemici giungeranno a ondate, e ogni token rappresenta un gruppo di 4 nemici. Dovranno superare una CD per le azioni obiettivo pari al valore pi\u00F9 alto di RES tra gli edifici presenti \u002B il valore di Difesa dell\u2019Avamposto. Ogni token ha un bonus per colpire extra stabilito dal numero di nemici che quel token rappresenta, influenzato dalla difficolt\u00E0."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ma cos\u0027\u00E8 il Rischio?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Il Fattore di Rischio (comunemente Rischio) modifica ampiamente le Zone che i personaggi visitano e combattono. Il Continente \u00E8 suddiviso in Zone Selvagge di livello di difficolt\u00E0 variabile. Le Zone immediatamente attorno all\u2019Avamposto verranno designate con la difficolt\u00E0 Facile, alcune pi\u00F9 distanti con la difficolt\u00E0 Media, mentre quelle tanto distanti con la difficolt\u00E0 Difficile. Le Zone di difficolt\u00E0 Molto Difficile sono locate all\u2019interno delle Zone di difficolt\u00E0 Difficile e verranno sbloccate per i personaggi livello 20."
+    },
+    {
+      "type": "paragraph",
+      "text": "Il Rischio \u00E8 un modo di indicare numericamente la difficolt\u00E0 variabile di quella Zona."
+    },
+    {
+      "type": "subtitle",
+      "text": "Rischio 0: LUOGO SICURO"
+    },
+    {
+      "type": "paragraph",
+      "text": "Nonostante sia definito 0, questo non significa che sar\u00E0 completamente priva di nemici. Questo livello \u00E8 ottenibile subito dopo aver sconfitto un grande boss nella Zona, permettendo al party di edificare l\u00EC. Il livello 0, come tutti i livelli, non \u00E8 permanente ed \u00E8 soggetto a fluttuazioni. Dovrete lavorare sodo per mantenerlo tale.\nIn una Zona di Rischio 0 ai giocatori \u00E8 consentito:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Effettuare una Scena di Riposo usando la Tenda senza aumentare il Rischio;",
+        "Edificare un Rifugio;",
+        "Potenziare un Rifugio in una Colonia. A questo livello le creature non sono abbastanza organizzate da porre una minaccia tale da poter assediare una Colonia;",
+        "Creare una Rotta Commerciale con la Colonia. Mantenere il livello di rischio pi\u00F9 basso possibile \u00E8 fondamentale per garantire un flusso costante di merci;",
+        "Potenziare una Colonia in un Villaggio. Esso diventer\u00E0 quasi completamente autonomo e non richieder\u00E0 molto intervento da parte dei giocatori, a meno che uno di voii non voglia decidere di diventarne Sindaco."
+      ],
+      "variant": "bullet"
+    },
+    {
+      "type": "subtitle",
+      "text": "Rischio 1-5: LUOGO COMPROMESSO \u2013 Difficolt\u00E0 Facile"
+    },
+    {
+      "type": "paragraph",
+      "text": "Dal livello 1 al 4, le missioni non sono per niente pericolose. Far partire una missione a difficolt\u00E0 Facile porta i giocatori in Zone con questo livello di Rischio. "
+    },
+    {
+      "type": "paragraph",
+      "text": "La maggior parte delle Missioni pu\u00F2 essere avviata a questa difficolt\u00E0, ma attenzione: la sola presenza dei personaggi \u201Cagita\u201D la fauna locale. Rimane comunque possibile aumentare il Rischio durante una Scena di Riposo effettuata tramite l\u0027utilizzo della Tenda.\nIn una Zona di Rischio 1-5 ai giocatori \u00E8 consentito:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Effettuare una Scena di Riposo usando la Tenda (o Rifugio). Se si dispiega la Tenda, c\u2019\u00E8 una possibilit\u00E0 del 50% di alzare il Rischio di 1 livello;",
+        "Scegliere la Resa a 0 PF. Se tutto il gruppo subisce la Resa, il Rischio aumenta di 1 livello;",
+        "Combattere le creature della Zona. Non \u00E8 possibile fare partire Missioni per eliminare Mostri Boss a questa difficolt\u00E0."
+      ],
+      "variant": "bullet"
+    },
+    {
+      "type": "subtitle",
+      "text": "Rischio 6-16: LUOGO TEMIBILE \u2013 Difficolt\u00E0 Media"
+    },
+    {
+      "type": "paragraph",
+      "text": "Dal livello 6 al 16 i giocatori sperimentano le vera essenza del gioco. Questa \u00E8 considerata la difficolt\u00E0 Standard del gioco. Una sessione che passa da Facile a Media cambia anche la morfologia del luogo e la fauna che la inabita, scombussolando l\u2019ecosistema e trasformando la Zona dandole la difficolt\u00E0 Media in maniera definitiva, a meno che i personaggi non facciano qualcosa per cambiare le cose. Una sessione che parte gi\u00E0 in una Zona a difficolt\u00E0 Media, non pu\u00F2 scendere a difficolt\u00E0 Facile, e il Rischio delle Zone a difficolt\u00E0 elevate pu\u00F2 scendere soltanto se viene sconfitto il Boss di quella Zona (portando quindi il Rischio a 0 e permettendo al gruppo di edificare un Rifugio)."
+    },
+    {
+      "type": "paragraph",
+      "text": "In una Zona di Rischio 6-16 ai giocatori \u00E8 consentito:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Effettuare una Scena di Riposo usando la Tenda (o Rifugio), ma ci\u00F2 aumenter\u00E0 il Rischio di 1 livello (non vale per il Rifugio);",
+        "Scegliere la Resa a 0 PF. Se tutto il gruppo subisce la Resa, il  Rischio aumenta di 1 livello;",
+        "Combattere le creature della Zona. \u00C8 possibile far partire delle Missioni Speciali per dare la caccia ai Mostri Boss della Zona."
+      ],
+      "variant": "bullet"
+    },
+    {
+      "type": "subtitle",
+      "text": "Rischio 17-25: LUOGO NEFANDO \u2013 Difficolt\u00E0 Difficile"
+    },
+    {
+      "type": "paragraph",
+      "text": "Difficile\nA questa difficolt\u00E0 le cose diventano serie. La probabilit\u00E0 di fallimento dei giocatori diventa pi\u00F9 alta, cos\u00EC come le ricompense acquisite in caso di successo. I mostri sono letali e le insidie si fanno sempre pi\u00F9 subdole. Bisogna pensare alle proprie mosse con attenzione. Una Zona di questo livello pu\u00F2 vederlo diminuito soltanto sconfiggendo il Mostro Boss della sua Zona."
+    },
+    {
+      "type": "paragraph",
+      "text": "In una Zona di Rischio 17-25 ai giocatori \u00E8 consentito:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Effettuare una Scena di Riposo all\u2019interno di un Rifugio. Vi \u00E8 una possibilit\u00E0 del 50% di far salire il Rischio di 2 Livelli. Non \u00E8 possibile dispiegare una Tenda nelle Zone Selvagge a questa difficolt\u00E0;",
+        "Scegliere la Resa a 0 PF. Se tutto il gruppo subisce la Resa, il Rischio aumenta di 2 livelli;",
+        "Combattere le creature della Zona. \u00C8 possibile far partire delle Missioni Speciali per dare la caccia ai Mostri Boss della Zona."
+      ],
+      "variant": "bullet"
+    },
+    {
+      "type": "subtitle",
+      "text": "Rischio 26-30: LUOGO INFERNALE \u2013 Difficolt\u00E0 Molto Difficile"
+    },
+    {
+      "type": "paragraph",
+      "text": "Giocare a questa difficolt\u00E0 significa avere pi\u00F9 probabilit\u00E0 di sconfitta che di vittoria, ma \u00E8 l\u2019unica difficolt\u00E0 in cui \u00E8 possibile ricevere materiali rari il 100% delle volte come ricompensa di fine sessione. I giocatori possono mandare in queste zone soltanto personaggi di livello 20\u002B e ben equipaggiati."
+    },
+    {
+      "type": "paragraph",
+      "text": "In una Zona di Rischio 26-30 ai giocatori \u00E8 consentito:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Effettuare una Scena di Riposo all\u2019interno di un Rifugio, Colonia o Villaggio. Il Rischio sale di 2 Livelli. Non \u00E8 possibile dispiegare una Tenda nelle Zone Selvagge a questa difficolt\u00E0;",
+        "Scegliere la Resa a 0 PF. Se tutto il gruppo subisce la Resa, il Rischio aumenta di 2 livelli;",
+        "Combattere le creature della Zona. \u00C8 possibile far partire delle Missioni Speciali per dare la caccia ai Mostri Boss della Zona."
+      ],
+      "variant": "bullet"
+    },
+    {
+      "type": "subtitle",
+      "text": "Ma cosa succede se si raggiunge il massimo livello di Rischio?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sorpresa \uD83D\uDE09 "
+    }
+  ]
+}

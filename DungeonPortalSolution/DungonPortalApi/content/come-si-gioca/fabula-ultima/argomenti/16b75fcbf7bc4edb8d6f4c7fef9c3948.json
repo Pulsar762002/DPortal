@@ -1,0 +1,85 @@
+{
+  "id": "16b75fcbf7bc4edb8d6f4c7fef9c3948",
+  "titolo": "Ricompense e Difficolt\u00E0",
+  "immagine": "/api/content/come-si-gioca/fabula-ultima/immagini/226cfe99-0ae1-4fe3-9a6f-5747ed90dae1.jpg",
+  "categoria": "e8704ff96fde457d95be13c6feeb2dc7",
+  "sommario": null,
+  "blocks": [
+    {
+      "type": "subtitle",
+      "text": "RECUPERARE TESORI"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le ricompense saranno Zenit, Manufatti dell\u2019Antica Civilt\u00E0 (Lore, oggetti, armature, potenziamenti, etc.) e Materiali. In piccolissima quantit\u00E0 anche Ingredienti."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Facile: spesa di 12 Razioni. Ricompense: 5 Ingredienti (Valore 50 Zenit), 300 Zenit, Manufatti (Valore 250 Zenit), 30 Materiali (Valore 150 Zenit). Budget totale 750 z",
+        "Media: spesa di 24 Razioni. Ricompense: 10 Ingredienti (Valore 100 Zenit), 850 Zenit, Manufatti (Valore 500 Zenit), 70 Materiali (Valore 350 Zenit). Budget totale 1800 z",
+        "Difficile: Spesa di 48 Razioni. Ricompense: 30 Ingredienti (Valore 300 Zenit), 1100 Zenit, Manufatti (Valore 550 Zenit), 80 Materiali (Valore 400 Zenit). Budget totale 2350 z",
+        "Molto Difficile: Spesa di 96 Razioni. Ricompense: 50 Ingredienti (Valore 500 Zenit), 1800 Zenit, Manufatti (Valore 750 Zenit), 100 Materiali (Valore 500 Zenit). Budget totale 3550 z "
+      ],
+      "variant": "bullet"
+    },
+    {
+      "type": "subtitle",
+      "text": "LIBERARE LA ZONA DAL CATACLISMA"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le ricompense saranno Materiali, Ingredienti e Manufatti. Zenit e Razioni in minima parte."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Facile: non \u00E8 possibile scegliere questa difficolt\u00E0",
+        "Media: spesa di 24 Razioni. Ricompense: 40 Razioni (Valore 400 Zenit), 80 Materiali (Valore 400 Zenit), 20 Ingredienti (Valore 200 Zenit), Manufatti (Valore 450 Zenit), 350 Zenit. Budget totale 1800 z",
+        "Difficile: spesa di 48 Razioni. Ricompense: 50 Razioni (Valore 500 Zenit), 120 Materiali (Valore 600 Zenit), 35 Ingredienti (Valore 350 Zenit), Manufatti (Valore 550 Zenit), 350 Zenit. Budget totale 2350 z",
+        "Molto Difficile: spesa di 96 Razioni: 80 Razioni (Valore 800 Zenit), 200 Materiali (Valore 1000 Zenit), 60 Ingredienti (Valore 600 Zenit), Manufatti (Valore 600 Zenit), 550 Zenit. Budget totale 3550 z"
+      ],
+      "variant": "bullet"
+    },
+    {
+      "type": "subtitle",
+      "text": "ESPLORARE LE ANTICHE ROVINE"
+    },
+    {
+      "type": "paragraph",
+      "text": "Questo tipo di Missione rappresenta il Dungeon Crawl per eccellenza in Fabula Ultima. I dungeon non saranno soltanto dei sotterranei misteriosi, ma anche antiche rovine, villaggi abbandonati e luoghi misteriosi. In questo caso, le ricompense non verranno elargite alla fine della sessione, ma dovranno essere trovate dai giocatori stessi all\u2019interno della mappa. Queste Missioni saranno considerate di Trama e perci\u00F2 avranno un costo in razioni modificato, oltre al valore totale delle Ricompense. Di seguito i valori."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Facile: spesa di 20 Razioni. Ricompense: Budget di 1200z. ",
+        "Media: spesa di 40 Razioni. Ricompense: Budget di 2000z. ",
+        "Difficile: spesa di 80 Razioni. Ricompense: Budget di 3200z.",
+        "Molto Difficile: spesa di 160 Razioni. Ricompense: Budget di 4000z."
+      ],
+      "variant": "bullet"
+    },
+    {
+      "type": "paragraph",
+      "text": "In tutte le difficolt\u00E0, sar\u00E0 possibile trovare diversi oggetti che rientreranno nel budget. Gli oggetti non trovati potranno essere recuperati in spedizioni dedicate (Recuperare Tesori)."
+    },
+    {
+      "type": "subtitle",
+      "text": "RACCOGLIERE RISORSE"
+    },
+    {
+      "type": "paragraph",
+      "text": "In questa modalit\u00E0, i giocatori sceglieranno che tipo di risorsa vogliono raccogliere. Il 50% del budget di ricompensa verr\u00E0 destinato alla risorsa scelta mentre il restante 50% verr\u00E0 diviso in parti uguali con le altre risorse non scelte.\nDi seguito i valori."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Facile: spesa di 10 Razioni. Ricompense: Budget di 800z, di cui 400 dedicati alla Risorsa scelta, mentre 200 e 200 alle risorse secondarie. ",
+        "Media: spesa di 20 Razioni. Ricompense: Budget di 1000z, di cui 500 dedicati alla Risorsa scelta, mentre 250 e 250 alle risorse secondarie.",
+        "Difficile: spesa di 40 Razioni. Ricompense: Budget di 1600z, di cui 800 dedicati alla Risorsa scelta, mentre 400 e 400 alle risorse secondarie.",
+        "Molto Difficile: spesa di 80 Razioni. Ricompense: Budget di 2400z, di cui 1200 dedicati alla Risorsa scelta, mentre 600 e 600 alle risorse secondarie."
+      ],
+      "variant": "bullet"
+    }
+  ]
+}
