@@ -1,6 +1,7 @@
 using System.Security.Claims;
 using DungeonPortal.Api.Data;
 using DungeonPortal.Api.Services;
+using Microsoft.EntityFrameworkCore;
 
 namespace DungeonPortal.Api.Endpoints;
 
@@ -8,6 +9,27 @@ public static class UserEndpoints
 {
     public static IEndpointRouteBuilder MapUserEndpoints(this IEndpointRouteBuilder app)
     {
+        app.MapGet("/api/users/masters", async (AppDbContext db) =>
+        {
+            var masters = await db.Users
+                .Where(u => u.Role == "MASTER" && u.IsActive)
+                .OrderBy(u => u.Nickname)
+                .Select(u => new
+                {
+                    u.Id,
+                    u.Nickname,
+                    u.AvatarUrl,
+                    Campagne = db.Campagne
+                        .Where(c => c.MasterUserId == u.Id)
+                        .OrderBy(c => c.Nome)
+                        .Select(c => new { c.Slug, c.Nome })
+                        .ToList()
+                })
+                .ToListAsync();
+
+            return Results.Ok(masters);
+        });
+
         app.MapPut("/api/users/profile", async (
                 HttpRequest request,
                 ClaimsPrincipal claims,

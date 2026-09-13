@@ -1,1 +1,28 @@
-<p>masters works!</p>
+<div class="masters-section">
+
+  <div class="master-card" *ngFor="let m of masters">
+
+    <div class="master-avatar">
+      <img [src]="getAvatarUrl(m)" [alt]="'Avatar di ' + m.nickname">
+    </div>
+
+    <h2 class="master-nickname">{{ m.nickname }}</h2>
+
+    <div class="master-campagne" *ngIf="m.campagne.length; else nessunaCampagna">
+      <a *ngFor="let c of m.campagne"
+         [routerLink]="['/campagne', c.slug]"
+         class="campagna-chip">
+        {{ c.nome }}
+      </a>
+    </div>
+    <ng-template #nessunaCampagna>
+      <p class="nessuna-campagna">Nessuna campagna attiva</p>
+    </ng-template>
+
+  </div>
+
+  <p class="masters-vuoto" *ngIf="!masters.length">
+    Nessun master registrato al momento.
+  </p>
+
+</div>
