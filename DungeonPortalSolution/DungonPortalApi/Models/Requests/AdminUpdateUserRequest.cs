@@ -9,3 +9,11 @@ public record AdminUpdateUserRequest(
 );
 
 public record UpdateUserStatusRequest(bool IsActive);
+
+public record AdminCreateUserRequest(
+    string Email,
+    string? Nickname,
+    string BirthDate,
+    string Role,
+    string Password
+);

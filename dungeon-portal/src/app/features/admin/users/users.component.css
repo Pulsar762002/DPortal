@@ -15,10 +15,34 @@
   box-shadow: 0 10px 40px rgba(0, 0, 0, 0.6);
 }
 
+.admin-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 30px;
+}
+
 .admin-title {
   font-size: 22px;
-  margin-bottom: 30px;
+  margin-bottom: 0;
   font-weight: 500;
+}
+
+.create-user {
+  padding: 8px 16px;
+  border-radius: 8px;
+  border: none;
+  background: var(--accent);
+  color: black;
+  font-size: 13px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: 0.2s ease;
+}
+
+.create-user:hover {
+  transform: translateY(-2px);
+  opacity: 0.9;
 }
 
 /* TABLE */

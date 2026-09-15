@@ -1,5 +1,6 @@
 using System.Security.Claims;
 using DungeonPortal.Api.Data;
+using DungeonPortal.Api.Models;
 using DungeonPortal.Api.Models.Requests;
 using Microsoft.EntityFrameworkCore;
 
@@ -28,6 +29,44 @@ public static class AdminEndpoints
                 .ToListAsync();
 
             return Results.Ok(users);
+        });
+
+        admin.MapPost("/users", async (
+            AdminCreateUserRequest request,
+            AppDbContext db) =>
+        {
+            if (string.IsNullOrWhiteSpace(request.Email) || string.IsNullOrWhiteSpace(request.Password))
+                return Results.BadRequest(new { message = "Email e password sono obbligatorie" });
+
+            var emailExists = await db.Users.AnyAsync(u => u.Email == request.Email);
+            if (emailExists)
+                return Results.BadRequest(new { message = "Email già utilizzata" });
+
+            if (!DateTime.TryParse(request.BirthDate, out var birthDate))
+                return Results.BadRequest(new { message = "Formato data non valido" });
+
+            var user = new User
+            {
+                Email = request.Email,
+                Nickname = request.Nickname ?? string.Empty,
+                PasswordHash = BCrypt.Net.BCrypt.HashPassword(request.Password),
+                BirthDate = birthDate.ToUniversalTime(),
+                Role = request.Role,
+                CreatedAt = DateTime.UtcNow,
+                IsActive = true
+            };
+
+            db.Users.Add(user);
+            await db.SaveChangesAsync();
+
+            return Results.Ok(new
+            {
+                user.Id,
+                user.Email,
+                user.Nickname,
+                user.Role,
+                user.IsActive
+            });
         });
 
         admin.MapPut("/users/{id:guid}/role", async (

@@ -1,7 +1,10 @@
 <div class="admin-wrapper">
   <div class="admin-card">
 
-    <h2 class="admin-title">Gestione Utenti</h2>
+    <div class="admin-header">
+      <h2 class="admin-title">Gestione Utenti</h2>
+      <button class="create-user" (click)="openCreate()">+ Nuovo Utente</button>
+    </div>
 
     <table class="users-table">
       <thead>
@@ -64,6 +67,11 @@
   (saved)="handleSave($event)"
   (closed)="showEditDialog = false">
 </app-edit-user-dialog>
+<app-create-user-dialog
+  *ngIf="showCreateDialog"
+  (created)="handleCreate($event)"
+  (closed)="showCreateDialog = false">
+</app-create-user-dialog>
 <app-confirm-dialog
   *ngIf="showDeleteConfirm"
   [title]="'Elimina Utente'"

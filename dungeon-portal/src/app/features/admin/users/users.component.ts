@@ -5,10 +5,11 @@ import { environment } from '../../../../environments/environment';
 import { ConfirmDialogComponent } from '../../../core/components/confirm-dialog/confirm-dialog.component';
 import {FormsModule} from '@angular/forms';
 import { EditUserDialogComponent } from '../edit-user-dialog/edit-user-dialog.component';
+import { CreateUserDialogComponent } from '../create-user-dialog/create-user-dialog.component';
 
 @Component({
   standalone: true,
-  imports: [CommonModule, ConfirmDialogComponent, FormsModule, EditUserDialogComponent],
+  imports: [CommonModule, ConfirmDialogComponent, FormsModule, EditUserDialogComponent, CreateUserDialogComponent],
   templateUrl: './users.component.html',
   styleUrls: ['./users.component.css']
 })
@@ -21,6 +22,7 @@ export class UsersComponent implements OnInit {
   pendingRole: string | null = null;
   showEditModal = false;
   showEditDialog = false;
+  showCreateDialog = false;
   showDeleteConfirm = false;
   selectedUser: any = null;
 
@@ -71,6 +73,30 @@ export class UsersComponent implements OnInit {
   openEdit(user: any) {
     this.selectedUser = user;
     this.showEditDialog = true;
+  }
+
+  openCreate() {
+    this.showCreateDialog = true;
+  }
+
+  handleCreate(newUser: any) {
+    this.http.post<any>(
+      `${this.apiUrl}/api/admin/users`,
+      newUser
+    ).subscribe({
+      next: created => {
+        this.users.push({
+          id: created.id,
+          email: created.email,
+          nickname: created.nickname,
+          role: created.role,
+          isActive: created.isActive
+        });
+        this.showCreateDialog = false;
+        this.cdr.detectChanges();
+      },
+      error: err => alert(err?.error?.message ?? 'Impossibile creare l\'utente')
+    });
   }
 
   handleSave(updatedData: any) {
