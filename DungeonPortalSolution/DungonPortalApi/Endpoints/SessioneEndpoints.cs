@@ -1,4 +1,6 @@
 using System.Security.Claims;
+using System.Text.Json;
+using System.Text.Json.Nodes;
 using DungeonPortal.Api.Models.Requests;
 using DungeonPortal.Api.Services;
 
@@ -10,6 +12,27 @@ public static class SessioneEndpoints
     private static bool IsValidSegment(string value) =>
         !string.IsNullOrWhiteSpace(value)
         && value.All(c => char.IsLetterOrDigit(c) || c is '-' or '_');
+
+    /// <summary>
+    /// I capitoli sono JSON opaco (struttura definita solo lato Angular) e
+    /// ciascuno può avere un proprio "videoId" oltre a quello di sessione:
+    /// va rimosso qui per chi non è autorizzato, non solo a livello di
+    /// SessioneContenuto.VideoId.
+    /// </summary>
+    private static JsonElement StripChapterVideoIds(JsonElement chapters)
+    {
+        var node = JsonNode.Parse(chapters.GetRawText());
+        if (node is JsonArray chapterArray)
+        {
+            foreach (var chapter in chapterArray)
+            {
+                if (chapter is JsonObject chapterObj)
+                    chapterObj.Remove("videoId");
+            }
+        }
+
+        return node is null ? chapters : JsonSerializer.SerializeToElement(node);
+    }
 
     public static IEndpointRouteBuilder MapSessioneEndpoints(this IEndpointRouteBuilder app)
     {
@@ -90,13 +113,24 @@ public static class SessioneEndpoints
         sessioni.MapGet("/{campagna}/{sessionNumber:int}", async (
             string campagna,
             int sessionNumber,
+            ClaimsPrincipal claims,
+            CampagnaOwnershipService ownership,
             SessioneStorageService storage) =>
         {
             if (!IsValidSegment(campagna))
                 return Results.BadRequest();
 
             var sessione = await storage.GetSessioneAsync(campagna, sessionNumber);
-            return sessione is null ? Results.NotFound() : Results.Ok(sessione);
+            if (sessione is null)
+                return Results.NotFound();
+
+            if (!await ownership.CanAccessVideoAsync(claims, campagna))
+            {
+                sessione.VideoId = null;
+                sessione.Chapters = StripChapterVideoIds(sessione.Chapters);
+            }
+
+            return Results.Ok(sessione);
         }).RequireAuthorization();
 
         sessioni.MapPut("/{campagna}/{sessionNumber:int}", async (

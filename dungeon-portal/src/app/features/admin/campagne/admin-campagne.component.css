@@ -1,0 +1,159 @@
+.admin-wrapper {
+  padding: 60px;
+  display: flex;
+  justify-content: center;
+}
+
+.admin-card {
+  width: 1100px;
+  background: rgba(18, 22, 30, 0.92);
+  backdrop-filter: blur(8px);
+  border: 1px solid var(--border-soft);
+  border-radius: 14px;
+  padding: 40px;
+  color: var(--text-main);
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.6);
+}
+
+.admin-title {
+  font-size: 22px;
+  margin-bottom: 30px;
+  font-weight: 500;
+}
+
+.section-title {
+  margin-top: 30px;
+  margin-bottom: 14px;
+  font-weight: 500;
+  color: var(--text-muted);
+}
+
+/* TABLE */
+
+.campagne-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.campagne-table th {
+  text-align: left;
+  font-weight: 500;
+  padding: 14px;
+  border-bottom: 1px solid var(--border-soft);
+  color: var(--text-muted);
+}
+
+.campagne-table td {
+  padding: 14px;
+  border-bottom: 1px solid rgba(255,255,255,0.05);
+}
+
+.campagne-table tr:hover {
+  background: rgba(255,255,255,0.03);
+}
+
+.campagne-table tr.selected {
+  background: rgba(212, 175, 55, 0.08);
+}
+
+.campagne-table button {
+  padding: 6px 12px;
+  border-radius: 8px;
+  border: none;
+  font-size: 12px;
+  cursor: pointer;
+  background: #1976d2;
+  color: white;
+}
+
+/* FORMS */
+
+.inline-form {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.inline-form select {
+  padding: 8px 12px;
+  border-radius: 8px;
+  border: 1px solid var(--border-soft);
+  background: rgba(255,255,255,0.04);
+  color: var(--text-main);
+}
+
+.inline-form button {
+  padding: 8px 16px;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+  background: #d4af37;
+  color: #0f1424;
+  font-weight: 600;
+}
+
+.error {
+  color: #e57373;
+  margin-top: 10px;
+  font-size: 0.9rem;
+}
+
+.hint {
+  margin-top: 20px;
+  font-size: 0.85rem;
+  color: var(--text-muted);
+}
+
+/* DETAIL */
+
+.campagna-detail {
+  margin-top: 20px;
+  padding-top: 20px;
+  border-top: 1px solid var(--border-soft);
+}
+
+.plain-list {
+  list-style: none;
+  margin: 0 0 10px;
+  padding: 0;
+}
+
+.plain-list li {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 6px 0;
+}
+
+.badge {
+  background: rgba(46, 125, 50, 0.15);
+  border: 1px solid rgba(46, 125, 50, 0.4);
+  border-radius: 999px;
+  padding: 0.1rem 0.6rem;
+  font-size: 0.75rem;
+  color: #66bb6a;
+}
+
+.badge.invitato {
+  background: rgba(212, 175, 55, 0.15);
+  border: 1px solid rgba(212, 175, 55, 0.3);
+  color: #d4af37;
+}
+
+.badge.master {
+  background: rgba(25, 118, 210, 0.15);
+  border: 1px solid rgba(25, 118, 210, 0.4);
+  color: #64b5f6;
+}
+
+.remove {
+  margin-left: auto;
+  padding: 4px 10px;
+  border-radius: 8px;
+  border: none;
+  font-size: 12px;
+  cursor: pointer;
+  background: #7a1f1f;
+  color: white;
+}

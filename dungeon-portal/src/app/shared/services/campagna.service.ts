@@ -4,6 +4,7 @@ import { Observable } from 'rxjs';
 
 import { environment } from '../../../environments/environment';
 import { Campagna } from '../../core/models/campagna.model';
+import { CampagnaPartecipante } from '../../core/models/campagna-partecipante.model';
 
 @Injectable({
   providedIn: 'root'
@@ -55,5 +56,17 @@ export class CampagnaService {
 
   elimina(slug: string): Observable<void> {
     return this.http.delete<void>(`${this.apiUrl}/api/campagne/${slug}`);
+  }
+
+  getPartecipanti(slug: string): Observable<CampagnaPartecipante[]> {
+    return this.http.get<CampagnaPartecipante[]>(`${this.apiUrl}/api/campagne/${slug}/partecipanti`);
+  }
+
+  aggiungiPartecipante(slug: string, userId: string, tipo: 'GIOCATORE' | 'INVITATO' | 'MASTER'): Observable<void> {
+    return this.http.post<void>(`${this.apiUrl}/api/campagne/${slug}/partecipanti`, { userId, tipo });
+  }
+
+  rimuoviPartecipante(slug: string, userId: string): Observable<void> {
+    return this.http.delete<void>(`${this.apiUrl}/api/campagne/${slug}/partecipanti/${userId}`);
   }
 }

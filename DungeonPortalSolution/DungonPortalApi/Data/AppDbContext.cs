@@ -13,6 +13,7 @@ public class AppDbContext : DbContext
     public DbSet<Land> Lands => Set<Land>();
     public DbSet<LandMaster> LandMasters => Set<LandMaster>();
     public DbSet<Campagna> Campagne => Set<Campagna>();
+    public DbSet<CampagnaPartecipante> CampagnePartecipanti => Set<CampagnaPartecipante>();
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
@@ -60,6 +61,22 @@ public class AppDbContext : DbContext
             .HasOne(lm => lm.User)
             .WithMany()
             .HasForeignKey(lm => lm.UserId)
+            .OnDelete(DeleteBehavior.Restrict);
+
+        modelBuilder.Entity<CampagnaPartecipante>()
+            .HasIndex(p => new { p.CampagnaId, p.UserId })
+            .IsUnique();
+
+        modelBuilder.Entity<CampagnaPartecipante>()
+            .HasOne(p => p.Campagna)
+            .WithMany()
+            .HasForeignKey(p => p.CampagnaId)
+            .OnDelete(DeleteBehavior.Cascade);
+
+        modelBuilder.Entity<CampagnaPartecipante>()
+            .HasOne(p => p.User)
+            .WithMany()
+            .HasForeignKey(p => p.UserId)
             .OnDelete(DeleteBehavior.Restrict);
     }
 }

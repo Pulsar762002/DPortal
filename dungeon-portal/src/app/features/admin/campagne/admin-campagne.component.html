@@ -1,0 +1,65 @@
+<div class="admin-wrapper">
+  <div class="admin-card">
+
+    <h2 class="admin-title">Giocatori e Invitati per Campagna</h2>
+
+    <table class="campagne-table">
+      <thead>
+      <tr>
+        <th>Slug</th>
+        <th>Nome</th>
+        <th>Master</th>
+        <th></th>
+      </tr>
+      </thead>
+      <tbody>
+      <tr *ngFor="let campagna of campagne" [class.selected]="campagna.slug === selectedSlug">
+        <td>{{ campagna.slug }}</td>
+        <td>{{ campagna.nome }}</td>
+        <td>&#64;{{ campagna.masterNickname }}</td>
+        <td>
+          <button (click)="selezionaCampagna(campagna.slug)">Gestisci partecipanti</button>
+        </td>
+      </tr>
+      </tbody>
+    </table>
+
+    <div class="campagna-detail" *ngIf="selectedSlug">
+
+      <h3 class="section-title">Partecipanti</h3>
+
+      <ul class="plain-list">
+        <li *ngFor="let p of partecipanti">
+          &#64;{{ p.nickname }}
+          <span class="badge" [ngClass]="p.tipo.toLowerCase()">
+            {{ p.tipo === 'INVITATO' ? 'Invitato' : (p.tipo === 'MASTER' ? 'Master' : 'Giocatore') }}
+          </span>
+          <button class="remove" (click)="rimuoviPartecipante(p.userId)">Rimuovi</button>
+        </li>
+        <li *ngIf="!partecipanti.length">Nessun giocatore o invitato ancora associato.</li>
+      </ul>
+
+      <h4 class="section-title">Aggiungi partecipante</h4>
+      <form class="inline-form" (ngSubmit)="aggiungiPartecipante()">
+        <select name="nuovoUserId" [(ngModel)]="nuovoUserId" required>
+          <option value="" disabled selected>Seleziona utente</option>
+          <option *ngFor="let u of users" [value]="u.id">{{ u.nickname || u.email }}</option>
+        </select>
+        <select name="nuovoTipo" [(ngModel)]="nuovoTipo">
+          <option value="GIOCATORE">Giocatore</option>
+          <option value="INVITATO">Invitato</option>
+          <option value="MASTER">Master</option>
+        </select>
+        <button type="submit">Aggiungi</button>
+      </form>
+      <p class="error" *ngIf="aggiungiError">{{ aggiungiError }}</p>
+
+      <p class="hint">
+        Solo il master della campagna, gli admin e le persone in questa lista possono guardare
+        i video delle sessioni di questa campagna.
+      </p>
+
+    </div>
+
+  </div>
+</div>

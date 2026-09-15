@@ -179,6 +179,87 @@ public static class CampagnaEndpoints
           // protetto dall'anti-forgery di default per gli upload non si applica.
           .DisableAntiforgery();
 
+        campagne.MapGet("/{slug}/partecipanti", async (
+            string slug,
+            ClaimsPrincipal claims,
+            AppDbContext db,
+            CampagnaOwnershipService ownership) =>
+        {
+            var campagna = await db.Campagne.FirstOrDefaultAsync(c => c.Slug == slug);
+            if (campagna is null)
+                return Results.NotFound();
+
+            if (!await ownership.CanWriteAsync(claims, slug))
+                return Results.Forbid();
+
+            var partecipanti = await db.CampagnePartecipanti
+                .Where(p => p.CampagnaId == campagna.Id)
+                .OrderBy(p => p.User!.Nickname)
+                .Select(p => new { p.UserId, Nickname = p.User!.Nickname, Email = p.User!.Email, p.Tipo })
+                .ToListAsync();
+
+            return Results.Ok(partecipanti);
+        }).RequireAuthorization(policy => policy.RequireRole("MASTER", "ADMIN"));
+
+        campagne.MapPost("/{slug}/partecipanti", async (
+            string slug,
+            AggiungiPartecipanteRequest request,
+            ClaimsPrincipal claims,
+            AppDbContext db,
+            CampagnaOwnershipService ownership) =>
+        {
+            if (request.Tipo != "GIOCATORE" && request.Tipo != "INVITATO" && request.Tipo != "MASTER")
+                return Results.BadRequest(new { message = "Tipo non valido: usare GIOCATORE, INVITATO o MASTER" });
+
+            var campagna = await db.Campagne.FirstOrDefaultAsync(c => c.Slug == slug);
+            if (campagna is null)
+                return Results.NotFound();
+
+            if (!await ownership.CanWriteAsync(claims, slug))
+                return Results.Forbid();
+
+            if (!await db.Users.AnyAsync(u => u.Id == request.UserId))
+                return Results.BadRequest(new { message = "Utente non trovato" });
+
+            if (await db.CampagnePartecipanti.AnyAsync(p => p.CampagnaId == campagna.Id && p.UserId == request.UserId))
+                return Results.BadRequest(new { message = "Utente già presente nella lista" });
+
+            db.CampagnePartecipanti.Add(new CampagnaPartecipante
+            {
+                CampagnaId = campagna.Id,
+                UserId = request.UserId,
+                Tipo = request.Tipo
+            });
+
+            await db.SaveChangesAsync();
+            return Results.Ok();
+        }).RequireAuthorization(policy => policy.RequireRole("MASTER", "ADMIN"));
+
+        campagne.MapDelete("/{slug}/partecipanti/{userId:guid}", async (
+            string slug,
+            Guid userId,
+            ClaimsPrincipal claims,
+            AppDbContext db,
+            CampagnaOwnershipService ownership) =>
+        {
+            var campagna = await db.Campagne.FirstOrDefaultAsync(c => c.Slug == slug);
+            if (campagna is null)
+                return Results.NotFound();
+
+            if (!await ownership.CanWriteAsync(claims, slug))
+                return Results.Forbid();
+
+            var partecipante = await db.CampagnePartecipanti
+                .FirstOrDefaultAsync(p => p.CampagnaId == campagna.Id && p.UserId == userId);
+            if (partecipante is null)
+                return Results.NotFound();
+
+            db.CampagnePartecipanti.Remove(partecipante);
+            await db.SaveChangesAsync();
+
+            return Results.NoContent();
+        }).RequireAuthorization(policy => policy.RequireRole("MASTER", "ADMIN"));
+
         campagne.MapDelete("/{slug}", async (
             string slug,
             ClaimsPrincipal claims,

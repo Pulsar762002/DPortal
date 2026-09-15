@@ -159,7 +159,7 @@ export class SessioneEditorComponent implements OnInit {
         this.campagnaSlug,
         this.sessioneSelezionata.id,
         this.sessioneSelezionata.title,
-        this.sessioneSelezionata.videoId,
+        this.sessioneSelezionata.videoId ?? undefined,
         this.sessioneSelezionata.chapters
     ).subscribe({
       next: () => {

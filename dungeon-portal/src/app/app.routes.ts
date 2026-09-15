@@ -227,6 +227,16 @@ export const routes: Routes = [
           import('./features/admin/land/admin-land.component')
             .then(m => m.AdminLandComponent),
       },
+      {
+        path: 'admin/campagne',
+        canActivate: [
+          authGuard,
+          roleGuard([ROLES.Admin])
+        ],
+        loadComponent: () =>
+          import('./features/admin/campagne/admin-campagne.component')
+            .then(m => m.AdminCampagneComponent),
+      },
 
     ]
   },

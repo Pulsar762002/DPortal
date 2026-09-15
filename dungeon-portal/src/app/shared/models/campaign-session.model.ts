@@ -3,7 +3,7 @@ import {StoryBlock} from "../../core/models/story-block.model";
 export interface CampaignSession {
     id: number;
     title: string;
-    videoId?: string;
+    videoId?: string | null;
 
     chapters: CampaignChapter[];
 }
@@ -11,7 +11,7 @@ export interface CampaignSession {
 export interface CampaignChapter {
     id: string;
     title: string;
-    videoId?: string;
+    videoId?: string | null;
 
     blocks: StoryBlock[];
 }
