@@ -4,11 +4,12 @@ import { FormsModule } from '@angular/forms';
 import { HttpClient } from '@angular/common/http';
 import { AuthService } from '../../../core/services/auth.service';
 import { environment } from '../../../../environments/environment';
+import { PersonaggiGestioneComponent } from '../../../shared/components/personaggi-gestione/personaggi-gestione.component';
 
 @Component({
   selector: 'app-profile',
   standalone: true,
-  imports: [CommonModule, FormsModule],
+  imports: [CommonModule, FormsModule, PersonaggiGestioneComponent],
   templateUrl: './profile.component.html',
   styleUrls: ['./profile.component.css']
 })

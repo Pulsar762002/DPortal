@@ -157,3 +157,9 @@
   background: #7a1f1f;
   color: white;
 }
+
+.personaggi-section {
+  margin-top: 30px;
+  padding-top: 20px;
+  border-top: 1px solid var(--border-soft);
+}

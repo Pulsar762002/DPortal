@@ -59,6 +59,15 @@
         i video delle sessioni di questa campagna.
       </p>
 
+      <div class="personaggi-section">
+        <app-personaggi-gestione [campagnaSlug]="selectedSlug" [utenti]="users"
+                                 (modificato)="caricaPartecipanti()"></app-personaggi-gestione>
+        <p class="hint">
+          Ogni giocatore può avere più personaggi, anche nella stessa campagna. Creando un personaggio
+          per un utente non ancora in lista, viene aggiunto automaticamente come Giocatore.
+        </p>
+      </div>
+
     </div>
 
   </div>

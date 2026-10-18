@@ -164,6 +164,54 @@ namespace Dungeon_Portal_Api.Migrations
                     b.ToTable("LandMasters");
                 });
 
+            modelBuilder.Entity("DungeonPortal.Api.Models.Personaggio", b =>
+                {
+                    b.Property<Guid>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("uuid");
+
+                    b.Property<string>("AvatarUrl")
+                        .HasMaxLength(255)
+                        .HasColumnType("character varying(255)");
+
+                    b.Property<Guid?>("CampagnaId")
+                        .HasColumnType("uuid");
+
+                    b.Property<string>("Classe")
+                        .HasMaxLength(50)
+                        .HasColumnType("character varying(50)");
+
+                    b.Property<DateTime>("CreatedAt")
+                        .HasColumnType("timestamp with time zone");
+
+                    b.Property<string>("Descrizione")
+                        .HasMaxLength(4000)
+                        .HasColumnType("character varying(4000)");
+
+                    b.Property<int?>("Livello")
+                        .HasColumnType("integer");
+
+                    b.Property<string>("Nome")
+                        .IsRequired()
+                        .HasMaxLength(100)
+                        .HasColumnType("character varying(100)");
+
+                    b.Property<string>("Razza")
+                        .HasMaxLength(50)
+                        .HasColumnType("character varying(50)");
+
+                    b.Property<Guid>("UserId")
+                        .HasColumnType("uuid");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("CampagnaId");
+
+                    b.HasIndex("UserId");
+
+                    b.ToTable("Personaggi");
+                });
+
             modelBuilder.Entity("DungeonPortal.Api.Models.User", b =>
                 {
                     b.Property<Guid>("Id")
@@ -263,6 +311,24 @@ namespace Dungeon_Portal_Api.Migrations
                         .IsRequired();
 
                     b.Navigation("Land");
+
+                    b.Navigation("User");
+                });
+
+            modelBuilder.Entity("DungeonPortal.Api.Models.Personaggio", b =>
+                {
+                    b.HasOne("DungeonPortal.Api.Models.Campagna", "Campagna")
+                        .WithMany()
+                        .HasForeignKey("CampagnaId")
+                        .OnDelete(DeleteBehavior.SetNull);
+
+                    b.HasOne("DungeonPortal.Api.Models.User", "User")
+                        .WithMany()
+                        .HasForeignKey("UserId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Campagna");
 
                     b.Navigation("User");
                 });

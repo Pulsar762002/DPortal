@@ -14,6 +14,7 @@ public class AppDbContext : DbContext
     public DbSet<LandMaster> LandMasters => Set<LandMaster>();
     public DbSet<Campagna> Campagne => Set<Campagna>();
     public DbSet<CampagnaPartecipante> CampagnePartecipanti => Set<CampagnaPartecipante>();
+    public DbSet<Personaggio> Personaggi => Set<Personaggio>();
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
@@ -78,5 +79,19 @@ public class AppDbContext : DbContext
             .WithMany()
             .HasForeignKey(p => p.UserId)
             .OnDelete(DeleteBehavior.Restrict);
+
+        modelBuilder.Entity<Personaggio>()
+            .HasOne(p => p.User)
+            .WithMany()
+            .HasForeignKey(p => p.UserId)
+            .OnDelete(DeleteBehavior.Cascade);
+
+        // Eliminando una campagna i PG restano all'utente, solo non assegnati.
+        modelBuilder.Entity<Personaggio>()
+            .HasOne(p => p.Campagna)
+            .WithMany()
+            .HasForeignKey(p => p.CampagnaId)
+            .IsRequired(false)
+            .OnDelete(DeleteBehavior.SetNull);
     }
 }

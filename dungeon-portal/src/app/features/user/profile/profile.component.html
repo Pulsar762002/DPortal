@@ -14,7 +14,7 @@
       <label>Email</label>
       <input type="text" [value]="user.email" disabled>
 
-      <label>Nickname</label>
+      <label>Nickname (alias giocatore)</label>
       <input type="text" [(ngModel)]="nickname">
 
       <label>Ruolo</label>
@@ -28,6 +28,10 @@
 
     </div>
 
+  </div>
+
+  <div class="personaggi-card">
+    <app-personaggi-gestione></app-personaggi-gestione>
   </div>
 
 </div>

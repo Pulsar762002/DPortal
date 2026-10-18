@@ -1,7 +1,19 @@
 .profile-wrapper {
   padding: 60px;
   display: flex;
-  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  gap: 30px;
+}
+
+.personaggi-card {
+  background: var(--bg-panel);
+  border: 1px solid var(--border-soft);
+  border-radius: 12px;
+  padding: 30px 40px;
+  width: 100%;
+  max-width: 900px;
+  box-sizing: border-box;
 }
 
 .profile-card {

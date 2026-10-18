@@ -7,6 +7,7 @@ import { environment } from '../../../../environments/environment';
 import { Campagna } from '../../../core/models/campagna.model';
 import { CampagnaPartecipante } from '../../../core/models/campagna-partecipante.model';
 import { CampagnaService } from '../../../shared/services/campagna.service';
+import { PersonaggiGestioneComponent } from '../../../shared/components/personaggi-gestione/personaggi-gestione.component';
 
 interface AdminUser {
   id: string;
@@ -18,7 +19,7 @@ interface AdminUser {
 @Component({
   selector: 'app-admin-campagne',
   standalone: true,
-  imports: [CommonModule, FormsModule],
+  imports: [CommonModule, FormsModule, PersonaggiGestioneComponent],
   templateUrl: './admin-campagne.component.html',
   styleUrl: './admin-campagne.component.css',
 })

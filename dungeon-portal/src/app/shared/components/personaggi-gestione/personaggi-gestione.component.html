@@ -1,0 +1,92 @@
+<div class="personaggi-gestione">
+
+  <div class="header">
+    <h3>{{ modalitaCampagna ? 'Personaggi della campagna' : 'I miei personaggi' }}</h3>
+    <button type="button" class="primary" (click)="nuovo()" *ngIf="!formAperto">+ Nuovo personaggio</button>
+  </div>
+
+  <div class="griglia">
+    <div class="pg-card" *ngFor="let p of personaggi">
+      <img [src]="personaggioService.avatarSrc(p)" class="pg-avatar" alt="">
+      <div class="pg-info">
+        <strong>{{ p.nome }}</strong>
+        <span class="pg-dettagli" *ngIf="p.razza || p.classe || p.livello != null">
+          {{ p.razza }} {{ p.classe }}<ng-container *ngIf="p.livello != null"> · liv. {{ p.livello }}</ng-container>
+        </span>
+        <span class="pg-giocatore" *ngIf="modalitaCampagna">&#64;{{ p.nickname }}</span>
+        <span class="pg-campagna" *ngIf="!modalitaCampagna">{{ p.campagnaNome || 'Nessuna campagna' }}</span>
+      </div>
+      <div class="pg-azioni">
+        <button type="button" (click)="modifica(p)">Modifica</button>
+        <button type="button" class="remove" (click)="elimina(p)">Elimina</button>
+      </div>
+    </div>
+
+    <p class="vuoto" *ngIf="!personaggi.length">Nessun personaggio.</p>
+  </div>
+
+  <form class="pg-form" *ngIf="formAperto" (ngSubmit)="salva()">
+    <h4>{{ inModifica ? 'Modifica ' + inModifica.nome : 'Nuovo personaggio' }}</h4>
+
+    <div class="form-body">
+      <div class="avatar-col">
+        <img [src]="avatarPreview || (inModifica ? personaggioService.avatarSrc(inModifica) : 'assets/data/ikaros/campagne/discesa-averno/default-avatar.png')"
+             class="pg-avatar large" alt="">
+        <input type="file" accept="image/*" (change)="onAvatarSelezionato($event)">
+      </div>
+
+      <div class="campi">
+        <label *ngIf="modalitaCampagna && !inModifica">
+          Giocatore
+          <select name="userId" [(ngModel)]="form.userId" required>
+            <option value="" disabled>Seleziona utente</option>
+            <option *ngFor="let u of utenti" [value]="u.id">{{ u.nickname || u.email }}</option>
+          </select>
+        </label>
+
+        <label>
+          Nome *
+          <input name="nome" [(ngModel)]="form.nome" maxlength="100" required>
+        </label>
+
+        <div class="riga">
+          <label>
+            Razza
+            <input name="razza" [(ngModel)]="form.razza" maxlength="50">
+          </label>
+          <label>
+            Classe
+            <input name="classe" [(ngModel)]="form.classe" maxlength="50">
+          </label>
+          <label class="livello">
+            Livello
+            <input name="livello" type="number" min="0" max="100" [(ngModel)]="form.livello">
+          </label>
+        </div>
+
+        <label *ngIf="!modalitaCampagna">
+          Campagna
+          <select name="campagnaSlug" [(ngModel)]="form.campagnaSlug">
+            <option value="">— Nessuna campagna —</option>
+            <option *ngFor="let c of opzioniCampagna" [value]="c.slug">{{ c.nome }}</option>
+          </select>
+        </label>
+
+        <label>
+          Descrizione / note
+          <textarea name="descrizione" rows="4" [(ngModel)]="form.descrizione" maxlength="4000"></textarea>
+        </label>
+      </div>
+    </div>
+
+    <p class="error" *ngIf="errore">{{ errore }}</p>
+
+    <div class="form-azioni">
+      <button type="submit" class="primary" [disabled]="isSaving">
+        {{ isSaving ? 'Salvataggio...' : 'Salva' }}
+      </button>
+      <button type="button" (click)="chiudiForm()" [disabled]="isSaving">Annulla</button>
+    </div>
+  </form>
+
+</div>

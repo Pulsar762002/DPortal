@@ -50,5 +50,6 @@ app.MapSessioneEndpoints();
 app.MapComeSiGiocaEndpoints();
 app.MapLandEndpoints();
 app.MapCampagnaEndpoints();
+app.MapPersonaggioEndpoints();
 
 app.Run();
