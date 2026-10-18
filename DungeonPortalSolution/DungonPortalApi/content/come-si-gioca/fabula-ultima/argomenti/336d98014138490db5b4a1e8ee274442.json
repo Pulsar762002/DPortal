@@ -1,0 +1,47 @@
+{
+  "id": "336d98014138490db5b4a1e8ee274442",
+  "titolo": "Nuova Meccanica: Tag Team",
+  "immagine": "/api/content/come-si-gioca/fabula-ultima/immagini/477bd1fc-894f-4b8c-a625-b14c8301ac78.png",
+  "categoria": "e8704ff96fde457d95be13c6feeb2dc7",
+  "sommario": null,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "In questa nuova modalit\u00E0, i giocatori potranno comporre un party da 5 a 8 personaggi. Solo se specificato, se i prenotati saranno superiori a 4, la sessione si avvier\u00E0 in modalit\u00E0 Tag Team (ovviamente la difficolt\u00E0 sar\u00E0 tarata di conseguenza).\n"
+    },
+    {
+      "type": "paragraph",
+      "text": "I giocatori facenti parte del Tag Team saranno considerati \u201Csemi passivi\u201D: i loro token non saranno presenti in mappa (per ragioni di comodit\u00E0) e potranno seguire il gruppo tramite un token apposito definito \u201CTag Token\u201D potendo, cos\u00EC, avere visione della scena; i personaggi del Tag Team potranno comunque partecipare attivamente alla sessione condividendo opinioni, considerazioni e ruolando assieme ai personaggi del \u201CTeam Principale\u201D. La differenza principale avviene durante le Scene di Conflitto (dedicate al combattimento), il cui funzionamento viene spiegato di seguito:\n"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Il Team Principale \u00E8 quello che innesca il combat, pertanto saranno loro a effettuare il tiro di Iniziativa;",
+        "Il Tag Team pu\u00F2 agire nella scena solo nei seguenti momenti: ",
+        ""
+      ],
+      "variant": "bullet"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un giocatore del Team Principale scende a 0PF: quel personaggio subisce la Resa e il  personaggio del Tag Team prende il suo posto; \n"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un giocatore del Team Principale entra in Crisi durante il primo round: un giocatore del Tag Team pu\u00F2 spendere 1 Punto Fabula per far s\u00EC che il suo personaggio subentri al posto del giocatore del Team Principale. In questo caso, il pg del Team 1 esce di scena e recupera un ammontare di PV e PM tali da raggiungere il valore di Crisi (la met\u00E0 dei PV e dei PM massimi). Successivamente a questa \u201Creazione\u201D, il personaggio dovr\u00E0 necessariamente agire dopo il turno del nemico;\n"
+    },
+    {
+      "type": "paragraph",
+      "text": "Durante i round dispari: il giocatore attivo pu\u00F2 decidere di cedere il suo posto a un giocatore del Tag Team, che lo sostituir\u00E0 soltanto fino al prossimo round (quello pari). Fare ci\u00F2 consente al personaggio di recuperare un ammontare di PV e PM tali da raggiungere il valore di Crisi, e recuperare fino a un massimo di 2 PI (se a 0). "
+    },
+    {
+      "type": "paragraph",
+      "text": "Le ricompense resteranno le stesse, mentre i PX verranno divisi secondo la regola originale di Fabula: 5px\u002Bla somma dei PF spesi diviso il numero di giocatori.\n",
+      "style": "italic"
+    },
+    {
+      "type": "paragraph",
+      "text": "La prima sessione della campagna \u00E8 eccezionalmente aperta a tutti, permettendo di superare il numero massimo del Tag Team. Essendo una sessione di introduzione, e nessuno ha accumulato sessioni di gioco, il Tag Team e il Team Principale verranno scelti randomicamente da me. Spoiler: s\u00EC ci sar\u00E0 un combat e s\u00EC, sar\u00E0 un nemico bello forte (giusto per partire belli carichi)."
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": "ef6c8f78c701488f9585f9091d330e62",
+  "titolo": "Punti Fabula: Cosa sono e come utilizzarli",
+  "immagine": "/api/content/come-si-gioca/fabula-ultima/immagini/1c0f848e-44f6-4269-b107-c55052c25536.png",
+  "categoria": "e8704ff96fde457d95be13c6feeb2dc7",
+  "sommario": null,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Il manuale principale descrive i punti fabula in questo modo:\n"
+    },
+    {
+      "type": "list",
+      "items": [
+        "*I Punti Fabula rappresentano la capacit\u00E0 dei Personaggi Giocanti di influenzare il fato, frutto della loro natura eroica e delle difficolt\u00E0 che affrontano.*"
+      ],
+      "variant": "bullet"
+    },
+    {
+      "type": "paragraph",
+      "text": "Utilizzare i Punti Fabula \u00E8 molto importante all\u0027esperienza del gioco. Vi aiutano a superare ostacoli e a salire di livello pi\u00F9 velocemente, ma anche a modificare la narrazione e riempire le \u0022zone grigie\u0022. \n"
+    },
+    {
+      "type": "paragraph",
+      "text": "Non abbiate paura di utilizzare i Punti Fabula per modificare la sessione. Il gioco \u00E8 stato sviluppato con questa idea in mente."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ovviamente vi sono delle regole e delle limitazioni a cosa potete modificare. Innanzitutto, esponete la vostra idea. Dopodich\u00E9 dovete aspettare il consenso del Master. Se un\u0027idea risulta \u0022too much\u0022 o diventerebbe l\u0027equivalente di un cheat code per superare gli ostacoli, ovviamente viene rifiutata. Questo concetto \u00E8 fondamentale da assimilare:* i Punti Fabula non equivalgono a Cheat.*"
+    },
+    {
+      "type": "paragraph",
+      "text": "Il manuale base vi d\u00E0 degli esempi sugli elementi della storia che \u00E8 possibile alterare. Cito."
+    },
+    {
+      "type": "paragraph",
+      "text": "\u0022I Giocatori possono spendere Punti Fabula per fare una dichiarazione legata alla storia:",
+      "style": "italic"
+    },
+    {
+      "type": "paragraph",
+      "text": "Per modificare o aggiungere un dettaglio a un personaggio, luogo o oggetto gi\u00E0 definito (come un personaggio, luogo o oggetto descritto o introdotto dal Game Master), occorre il permesso del Game Master.\nSe la modifica colpisce direttamente un altro PG, come ad esempio stabilire che c\u2019\u00E8 una taglia sulla sua testa, occorre il permesso del Giocatore corrispondente.\nNon si pu\u00F2 usare questa opzione per contraddire una dichiarazione fatta in precedenza da s\u00E9 stessi o un altro partecipante.\nNon si pu\u00F2 usare questa opzione per intervenire sulle meccaniche di gioco, per esempio ottenendo o modificando un\u2019Abilit\u00E0, alterando le Affinit\u00E0 di una creatura o infliggendo status a uno o pi\u00F9 nemici. Il GM potrebbe decidere che l\u2019elemento introdotto include un vantaggio meccanico, ma \u00E8 una sua scelta (non del Giocatore).\nEventuali nuovi PNG introdotti in questo modo vengono comunque controllati dal Game Master.\u0022"
+    },
+    {
+      "type": "subtitle",
+      "text": "Ottenere i Punti Fabula: modifiche Homebrew"
+    },
+    {
+      "type": "paragraph",
+      "text": "Data la natura pseudo survival della campagna, di ricerca e di scoperta di un continente inesplorato, ho pensato di ridurre il quantitativo di Punti Fabula ottenibili dai personaggi. Personalmente, considero la Resa un aspetto fondamentale della campagna e parte integrante del Gameplay. Se il gruppo si ritrova a esplorare delle Zone troppo rischiose, \u00E8 giusto che venga \u0022punito\u0022. Lo metto tra virgolette poich\u00E9 la Resa vi offre in cambio dei Punti Fabula, oltre che a considerare la valutazione del rischio come parte integrante del gioco. Di seguito le modifiche che verranno applicate alla campagna:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "I personaggi iniziano la campagna con 3 Punti Fabula. Questa regola rimane invariata per permettervi di utilizzarli e di fare pratica con essi fin dall\u0027inizio;",
+        " personaggi non ottengono pi\u00F9 PF all\u0027inizio di una sessione se ne posseggono 0. Questa regola l\u0027ho modificata per rendere i Punti Fabula una risorsa utile e potenzialmente farmabile. Come anticipato dalle Professioni, esisteranno degli effetti che vi consentiranno di ottenerne di pi\u00F9 se si raggiungono determinate condizioni;",
+        "La Resa fornisce 1 Punto Fabula ai personaggi solo ed esclusivamente se l\u0027intero gruppo ha scelto questa opzione, non importa come. La Fuga \u00E8 un\u0027opzione, se vi rendete conto di non poter vincere lo scontro, potete scegliere la Resa e fuggire dalla scena;",
+        "Qualunque PNG identificato come \u0022Cattivo\u0022 fornisce 1 Punto Fabula ad ogni personaggio del party. Regola invariata."
+      ],
+      "variant": "bullet"
+    }
+  ]
+}

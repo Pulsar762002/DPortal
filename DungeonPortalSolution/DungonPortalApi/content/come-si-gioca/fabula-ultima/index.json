@@ -61,6 +61,20 @@
       "immagine": "/api/content/come-si-gioca/fabula-ultima/immagini/5a692f13-3002-471d-a862-a79add2df805.jpg",
       "categoria": "e8704ff96fde457d95be13c6feeb2dc7",
       "sommario": null
+    },
+    {
+      "id": "336d98014138490db5b4a1e8ee274442",
+      "titolo": "Nuova Meccanica: Tag Team",
+      "immagine": "/api/content/come-si-gioca/fabula-ultima/immagini/477bd1fc-894f-4b8c-a625-b14c8301ac78.png",
+      "categoria": "e8704ff96fde457d95be13c6feeb2dc7",
+      "sommario": null
+    },
+    {
+      "id": "ef6c8f78c701488f9585f9091d330e62",
+      "titolo": "Punti Fabula: Cosa sono e come utilizzarli",
+      "immagine": "/api/content/come-si-gioca/fabula-ultima/immagini/1c0f848e-44f6-4269-b107-c55052c25536.png",
+      "categoria": "e8704ff96fde457d95be13c6feeb2dc7",
+      "sommario": null
     }
   ]
 }
