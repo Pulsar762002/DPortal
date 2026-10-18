@@ -47,3 +47,6 @@ docker-compose.yml_back
 
 # Build output frontend
 dungeon-portal/dist/
+
+# IDE (JetBrains): file modulo locali
+.idea/*.iml
