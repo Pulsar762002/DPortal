@@ -12,6 +12,8 @@ import { AuthService } from '../../../core/services/auth.service';
 import { CampagnaService } from '../../../shared/services/campagna.service';
 import { LandService } from '../../../shared/services/land.service';
 import { ConfirmDialogComponent } from '../../../core/components/confirm-dialog/confirm-dialog.component';
+import { PersonaggiGestioneComponent } from '../../../shared/components/personaggi-gestione/personaggi-gestione.component';
+import { PersonaggioService } from '../../../shared/services/personaggio.service';
 
 interface AdminUser {
   id: string;
@@ -23,7 +25,7 @@ interface AdminUser {
 @Component({
   selector: 'app-dashboard',
   standalone: true,
-  imports: [CommonModule, FormsModule, RouterModule, ConfirmDialogComponent],
+  imports: [CommonModule, FormsModule, RouterModule, ConfirmDialogComponent, PersonaggiGestioneComponent],
   templateUrl: './dashboard.component.html',
   styleUrl: './dashboard.component.css',
 })
@@ -53,11 +55,16 @@ export class DashboardComponent implements OnInit {
   modificaSalvataggio = false;
   caricandoImmagine = false;
 
+  /** Campagna con il pannello Personaggi aperto (uno alla volta). */
+  personaggiSlug: string | null = null;
+  utentiAssegnabili: { id: string; nickname: string }[] = [];
+
   private apiUrl = environment.apiUrl;
 
   constructor(
     private campagnaService: CampagnaService,
     private landService: LandService,
+    private personaggioService: PersonaggioService,
     private authService: AuthService,
     private http: HttpClient,
     private cdr: ChangeDetectorRef
@@ -69,6 +76,11 @@ export class DashboardComponent implements OnInit {
     this.loadCampagne();
     this.landService.getAll().subscribe(lands => {
       this.lands = lands;
+      this.cdr.detectChanges();
+    });
+
+    this.personaggioService.getUtentiAssegnabili().subscribe(utenti => {
+      this.utentiAssegnabili = utenti;
       this.cdr.detectChanges();
     });
 
@@ -117,6 +129,10 @@ export class DashboardComponent implements OnInit {
         this.cdr.detectChanges();
       }
     });
+  }
+
+  togglePersonaggi(campagna: Campagna): void {
+    this.personaggiSlug = this.personaggiSlug === campagna.slug ? null : campagna.slug;
   }
 
   apriModifica(campagna: Campagna): void {

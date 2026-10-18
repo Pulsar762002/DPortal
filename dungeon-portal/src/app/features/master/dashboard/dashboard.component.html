@@ -13,8 +13,19 @@
         <a [routerLink]="['/dashboard/campagne', campagna.slug, 'archivi']">Editor Archivi</a>
         <a [routerLink]="['/dashboard/campagne', campagna.slug, 'sessioni']">Editor Sessioni</a>
         <a [routerLink]="['/dashboard/campagne', campagna.slug, 'come-si-gioca']">Editor Come si gioca</a>
+        <button type="button" class="modifica-btn" (click)="togglePersonaggi(campagna)">
+          {{ personaggiSlug === campagna.slug ? 'Chiudi personaggi' : 'Personaggi' }}
+        </button>
         <button type="button" class="modifica-btn" (click)="apriModifica(campagna)">Modifica</button>
         <button type="button" class="elimina-btn" (click)="richiediEliminazione(campagna)">Elimina</button>
+      </div>
+
+      <div class="personaggi-panel" *ngIf="personaggiSlug === campagna.slug">
+        <app-personaggi-gestione [campagnaSlug]="campagna.slug" [utenti]="utentiAssegnabili"></app-personaggi-gestione>
+        <p class="hint">
+          Ogni giocatore può avere più personaggi, anche nella stessa campagna. Se crei un personaggio
+          per un utente non ancora partecipante, viene aggiunto automaticamente come Giocatore.
+        </p>
       </div>
     </ng-container>
 

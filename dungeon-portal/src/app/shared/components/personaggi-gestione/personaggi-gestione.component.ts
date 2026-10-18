@@ -8,7 +8,7 @@ import { PersonaggioService } from '../../services/personaggio.service';
 interface UtenteOpzione {
   id: string;
   nickname: string;
-  email: string;
+  email?: string;
 }
 
 /**

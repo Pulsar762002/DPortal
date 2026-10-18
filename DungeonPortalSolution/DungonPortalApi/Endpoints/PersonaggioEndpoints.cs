@@ -53,6 +53,19 @@ public static class PersonaggioEndpoints
             return Results.Ok(elenco);
         });
 
+        // Utenti a cui un master può assegnare un PG: solo id + nickname
+        // (l'elenco completo con email resta /api/admin/users, solo ADMIN).
+        personaggi.MapGet("/utenti", async (AppDbContext db) =>
+        {
+            var utenti = await db.Users
+                .Where(u => u.IsActive)
+                .OrderBy(u => u.Nickname)
+                .Select(u => new { u.Id, u.Nickname })
+                .ToListAsync();
+
+            return Results.Ok(utenti);
+        }).RequireAuthorization(policy => policy.RequireRole("MASTER", "ADMIN"));
+
         personaggi.MapPost("/", async (
             HttpRequest request,
             ClaimsPrincipal claims,

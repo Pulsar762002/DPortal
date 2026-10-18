@@ -236,3 +236,15 @@
   margin-top: 10px;
   font-size: 0.9rem;
 }
+
+.personaggi-panel {
+  margin-top: 20px;
+  padding-top: 20px;
+  border-top: 1px solid var(--border-soft);
+}
+
+.personaggi-panel .hint {
+  margin-top: 16px;
+  font-size: 0.85rem;
+  color: var(--text-muted);
+}

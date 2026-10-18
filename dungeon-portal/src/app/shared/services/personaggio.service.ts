@@ -23,6 +23,11 @@ export class PersonaggioService {
     return this.http.get<{ slug: string; nome: string }[]>(`${this.apiUrl}/api/personaggi/miei/campagne`);
   }
 
+  /** Solo MASTER/ADMIN: utenti (id + nickname) a cui assegnare un personaggio. */
+  getUtentiAssegnabili(): Observable<{ id: string; nickname: string }[]> {
+    return this.http.get<{ id: string; nickname: string }[]>(`${this.apiUrl}/api/personaggi/utenti`);
+  }
+
   getByCampagna(slug: string): Observable<Personaggio[]> {
     return this.http.get<Personaggio[]>(`${this.apiUrl}/api/campagne/${slug}/personaggi`);
   }
